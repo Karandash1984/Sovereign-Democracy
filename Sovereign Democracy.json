@@ -2,8 +2,8 @@
   "info": {
     "name": "Sovereign Democracy",
     "description": "Russia mod",
-    "author": "Karandash",
-    "version": "1.1",
+    "author": "Karandash/PAKMAN",
+    "version": "1.2",
     "fileVersion": 2,
     "build": 3508
   },
@@ -64074,7 +64074,7 @@
       "playable": 0,
       "nation": 7,
       "time": {
-        "start": 1993,
+        "start": 1994,
         "end": 1998
       },
       "colorData": {
@@ -64098,7 +64098,7 @@
       "regions": [],
       "rules": [],
       "predecessor": 0,
-      "size": 3,
+      "size": 2,
       "id": 2
     },
     {
@@ -64530,12 +64530,12 @@
       "nation": 7,
       "time": {
         "start": 1993,
-        "end": 2019
+        "end": 2008
       },
       "colorData": {
-        "r": 34,
-        "g": 139,
-        "b": 34,
+        "r": 243,
+        "g": 195,
+        "b": 0,
         "a": 255
       },
       "ideologies": [
@@ -64553,7 +64553,7 @@
       "regions": [],
       "rules": [],
       "predecessor": 0,
-      "size": 2,
+      "size": 1,
       "id": 15
     },
     {
@@ -64603,9 +64603,9 @@
         "end": 0
       },
       "colorData": {
-        "r": 255,
-        "g": 215,
-        "b": 0,
+        "r": 0,
+        "g": 118,
+        "b": 221,
         "a": 255
       },
       "ideologies": [
@@ -64669,7 +64669,7 @@
       "playable": 0,
       "nation": 7,
       "time": {
-        "start": 2004,
+        "start": 2003,
         "end": 0
       },
       "colorData": {
@@ -64699,8 +64699,8 @@
 {
       "nameOriginal": "Коммунистическая партия Российской Федерации",
       "acronymOriginal": "КПРФ",
-      "nameInternational": "Communist Party",
-      "acronymInternational": "CPR",
+      "nameInternational": "Communist Party of the Russian Federation",
+      "acronymInternational": "CPRF",
       "playable": 0,
       "nation": 7,
       "time": {
@@ -64715,12 +64715,12 @@
       },
       "ideologies": [
         {
-          "id": 14,
+          "id": 10,
           "value": 80
         },
         {
           "id": 8,
-          "value": 90
+          "value": 70
         }
       ],
       "factions": [],
@@ -64750,11 +64750,11 @@
       },
       "ideologies": [
         {
-          "id": 8,
+          "id": 14,
           "value": 70
         },
         {
-          "id": 10,
+          "id": 8,
           "value": 60
         }
       ],
@@ -64871,7 +64871,7 @@
       "size": 1,
       "id": 24
     },
-    {
+{
       "nameOriginal": "Партия российского единства и согласия",
       "acronymOriginal": "ПРЕС",
       "nameInternational": "Party of Russian Unity and Accord",
@@ -64886,7 +64886,7 @@
         "r": 0,
         "g": 65,
         "b": 255,
-        "a": 255
+        "a": 250
       },
       "ideologies": [
         {
@@ -64906,7 +64906,7 @@
       "size": 1,
       "id": 25
     },
-    {
+{
       "nameOriginal": "Союз горожан",
       "acronymOriginal": "СГ",
       "nameInternational": "Union of Townspeople",
@@ -64941,7 +64941,7 @@
       "size": 2,
       "id": 26
     },
-    {
+{
       "nameOriginal": "Народная партия России",
       "acronymOriginal": "НПР",
       "nameInternational": "People's party of Russia",
@@ -64976,7 +64976,7 @@
       "size": 2,
       "id": 27
     },
-    {
+{
       "nameOriginal": "Социал-демократическая партия России",
       "acronymOriginal": "СДПР",
       "nameInternational": "Social Democratic Party of Russia",
@@ -65010,6 +65010,511 @@
       "predecessor": 0,
       "size": 2,
       "id": 28
+    },
+{
+      "nameOriginal": "Российское движение демократических реформ",
+      "acronymOriginal": "РДДР",
+      "nameInternational": "Russian Democratic Reform Movement",
+      "acronymInternational": "RDRM",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1992,
+        "end": 1995
+      },
+      "colorData": {
+        "r": 147,
+        "g": 109,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 2,
+          "value": 50
+        },
+        {
+          "id": 11,
+          "value": 80
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 29
+    },
+{
+      "nameOriginal": "Будующие России - Новые имена",
+      "acronymOriginal": "БРНИ",
+      "nameInternational": "Future of Russia - New Names",
+      "acronymInternational": "FRNN",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1993,
+        "end": 1994
+      },
+      "colorData": {
+        "r": 60,
+        "g": 0,
+        "b": 147,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 4,
+          "value": 90
+        },
+        {
+          "id": 10,
+          "value": 40
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 1,
+      "id": 30
+    },
+{
+      "nameOriginal": "Женщины России",
+      "acronymOriginal": "ЖР",
+      "nameInternational": "Women of Russia",
+      "acronymInternational": "ZhR",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1993,
+        "end": 1996
+      },
+      "colorData": {
+        "r": 147,
+        "g": 0,
+        "b": 102,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 4,
+          "value": 90
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 31
+    },
+{
+      "nameOriginal": "Гражданский союз",
+      "acronymOriginal": "ГС",
+      "nameInternational": "Civil Union",
+      "acronymInternational": "CU",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1992,
+        "end": 1994
+      },
+      "colorData": {
+        "r": 4,
+        "g": 205,
+        "b": 255,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 7,
+          "value": 90
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 32
+    },
+{
+      "nameOriginal": "Достоинство и милосердие",
+      "acronymOriginal": "ДМ",
+      "nameInternational": "Dignity and Charity",
+      "acronymInternational": "DC",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1993,
+        "end": 1994
+      },
+      "colorData": {
+        "r": 218,
+        "g": 5,
+        "b": 38,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 10,
+          "value": 90
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 33
+    },
+{
+      "nameOriginal": "Демократическая партия России",
+      "acronymOriginal": "ДПР",
+      "nameInternational": "Democratic Party of Russia",
+      "acronymInternational": "DPR",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1990,
+        "end": 2007
+      },
+      "colorData": {
+        "r": 0,
+        "g": 45,
+        "b": 171,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 11,
+          "value": 90
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 34
+    },
+{
+      "nameOriginal": "Российская экологическая партия «Зелёные»",
+      "acronymOriginal": "Зелёные",
+      "nameInternational": "Russian Ecological Party «The Greens»",
+      "acronymInternational": "«The Greens»",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1992,
+        "end": 0
+      },
+      "colorData": {
+        "r": 0,
+        "g": 136,
+        "b": 44,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 4,
+          "value": 60
+        },
+        {
+          "id": 9,
+          "value": 60
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 35
+    },
+{
+      "nameOriginal": "Российский общенародный союз",
+      "acronymOriginal": "РОС",
+      "nameInternational": "Russian All-People's Union",
+      "acronymInternational": "ROS",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1991,
+        "end": 0
+      },
+      "colorData": {
+        "r": 227,
+        "g": 158,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 10,
+          "value": 70
+        },
+        {
+          "id": 13,
+          "value": 60
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 36
+    },
+{
+      "nameOriginal": "Национально-республиканская партия России",
+      "acronymOriginal": "НРПР",
+      "nameInternational": "National Republican Party of Russia",
+      "acronymInternational": "NRPR",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1991,
+        "end": 1998
+      },
+      "colorData": {
+        "r": 183,
+        "g": 133,
+        "b": 17,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 2,
+          "value": 70
+        },
+        {
+          "id": 13,
+          "value": 90
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 37
+    },
+{
+      "nameOriginal": "Республиканская партия России - Партия Народной Свободы",
+      "acronymOriginal": "РПР-ПАРНАС",
+      "nameInternational": "Republican Party of Russia - Party of People's Freedom",
+      "acronymInternational": "RPR-PPF",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1991,
+        "end": 2023
+      },
+      "colorData": {
+        "r": 117,
+        "g": 6,
+        "b": 6,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 1,
+          "value": 50
+        },
+        {
+          "id": 6,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 38
+    },
+{
+      "nameOriginal": "Конституционно-демократическая партия - Партия народной свободы",
+      "acronymOriginal": "КДС-ПНС",
+      "nameInternational": "Constitutional Democratic Party - Party of People's Freedom",
+      "acronymInternational": "CDP-PPF",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1990,
+        "end": 1994
+      },
+      "colorData": {
+        "r": 183,
+        "g": 109,
+        "b": 17,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 1,
+          "value": 80
+        },
+        {
+          "id": 5,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 39
+    },
+{
+      "nameOriginal": "Российское христианское державное движение",
+      "acronymOriginal": "РХДД",
+      "nameInternational": "Russian Christian Power Movement",
+      "acronymInternational": "RCPM",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1990,
+        "end": 1994
+      },
+      "colorData": {
+        "r": 6,
+        "g": 58,
+        "b": 117,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 2,
+          "value": 80
+        },
+        {
+          "id": 5,
+          "value": 60
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 40
+    },
+{
+      "nameOriginal": "Российское христианская демократическая партия",
+      "acronymOriginal": "РХДП",
+      "nameInternational": "Russian Christian Democratic Party",
+      "acronymInternational": "RCDM",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1990,
+        "end": 1994
+      },
+      "colorData": {
+        "r": 0,
+        "g": 76,
+        "b": 109,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 2,
+          "value": 60
+        },
+        {
+          "id": 4,
+          "value": 60
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 41
+    },
+{
+      "nameOriginal": "Трудовая Россия",
+      "acronymOriginal": "ТР",
+      "nameInternational": "Labour Russia",
+      "acronymInternational": "LR",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1992,
+        "end": 2004
+      },
+      "colorData": {
+        "r": 166,
+        "g": 0,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 14,
+          "value": 100
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 42
+    },
+{
+      "nameOriginal": "Российская коммунистическая рабочая партия",
+      "acronymOriginal": "РКРП",
+      "nameInternational": "Russian Communist Workers' Party",
+      "acronymInternational": "RCWP",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1991,
+        "end": 2007
+      },
+      "colorData": {
+        "r": 109,
+        "g": 0,
+        "b": 0,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 14,
+          "value": 100
+        },
+        {
+          "id": 8,
+          "value": 80
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 43
     }
   ],
   "people": [
