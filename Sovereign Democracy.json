@@ -64069,8 +64069,8 @@
     {
       "nameOriginal": "Партия Любителей Пива",
       "acronymOriginal": "ПЛП",
-      "nameInternational": "PLP", 
-      "acronymInternational": "PLP",
+      "nameInternational": "Party of Beer Lovers", 
+      "acronymInternational": "PBL",
       "playable": 0,
       "nation": 7,
       "time": {
@@ -64218,9 +64218,9 @@
         "end": 2000
       },
       "colorData": {
-        "r": 255,
-        "g": 87,
-        "b": 34,
+        "r": 114,
+        "g": 127,
+        "b": 174,
         "a": 255
       },
       "ideologies": [
@@ -64837,15 +64837,15 @@
       "id": 23
     },
 {
-      "nameOriginal": "Выбор России",
-      "acronymOriginal": "ВР",
-      "nameInternational": "Choice of Russia",
-      "acronymInternational": "CR",
+      "nameOriginal": "Демократический Выбор России",
+      "acronymOriginal": "ДВР",
+      "nameInternational": "Democratic Choice of Russia",
+      "acronymInternational": "DCR",
       "playable": 0,
       "nation": 7,
       "time": {
-        "start": 1993,
-        "end": 1994
+        "start": 1992,
+        "end": 2001
       },
       "colorData": {
         "r": 0,
@@ -65294,12 +65294,8 @@
       },
       "ideologies": [
         {
-          "id": 2,
-          "value": 70
-        },
-        {
           "id": 13,
-          "value": 90
+          "value": 100
         }
       ],
       "factions": [],
@@ -65389,7 +65385,7 @@
       "nation": 7,
       "time": {
         "start": 1990,
-        "end": 1994
+        "end": 1996
       },
       "colorData": {
         "r": 6,
@@ -65424,7 +65420,7 @@
       "nation": 7,
       "time": {
         "start": 1990,
-        "end": 1994
+        "end": 1996
       },
       "colorData": {
         "r": 0,
@@ -65515,6 +65511,837 @@
       "predecessor": 0,
       "size": 3,
       "id": 43
+    },
+{
+      "nameOriginal": "Конгресс русских общин",
+      "acronymOriginal": "КРО",
+      "nameInternational": "Congress of Russian Communities",
+      "acronymInternational": "CRC",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1994,
+        "end": 2002
+      },
+      "colorData": {
+        "r": 50,
+        "g": 55,
+        "b": 111,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 5,
+          "value": 60
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 44
+    },
+{
+      "nameOriginal": "Партия самоуправления трудящихся",
+      "acronymOriginal": "ПСТ",
+      "nameInternational": "Party of Workers' Self-Government",
+      "acronymInternational": "PST",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1995,
+        "end": 2006
+      },
+      "colorData": {
+        "r": 241,
+        "g": 66,
+        "b": 66,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 10,
+          "value": 80
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 45
+    },
+{
+      "nameOriginal": "Социал-патриотическое движение «Держава»",
+      "acronymOriginal": "Держава",
+      "nameInternational": "Social Patriotic Movement «Derzhava»",
+      "acronymInternational": "Derzhava",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1995,
+        "end": 1998
+      },
+      "colorData": {
+        "r": 182,
+        "g": 144,
+        "b": 92,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 2,
+          "value": 70
+        },
+        {
+          "id": 13,
+          "value": 60
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 46
+    },
+{
+      "nameOriginal": "Вперед, Россия!",
+      "acronymOriginal": "ВР",
+      "nameInternational": "Forward, Russia!",
+      "acronymInternational": "FR",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1995,
+        "end": 2002
+      },
+      "colorData": {
+        "r": 92,
+        "g": 146,
+        "b": 182,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 1,
+          "value": 70
+        },
+        {
+          "id": 4,
+          "value": 60
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 47
+    },
+{
+      "nameOriginal": "Профсоюзы - Промышленники России - Союз труда",
+      "acronymOriginal": "Союз труда",
+      "nameInternational": "Trade Unions and Industrialists - Union of Labour",
+      "acronymInternational": "Union of Labour",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1995,
+        "end": 1996
+      },
+      "colorData": {
+        "r": 181,
+        "g": 33,
+        "b": 33,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 8,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 48
+    },
+{
+      "nameOriginal": "Преображение Отечества",
+      "acronymOriginal": "ПО",
+      "nameInternational": "Transformation of the Fatherland",
+      "acronymInternational": "TF",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1995,
+        "end": 1996
+      },
+      "colorData": {
+        "r": 60,
+        "g": 192,
+        "b": 78,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 12,
+          "value": 70
+        },
+        {
+          "id": 4,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 49
+    },
+{
+      "nameOriginal": "Блок «89 Регионов»",
+      "acronymOriginal": "89",
+      "nameInternational": "«89 Regions» Bloc",
+      "acronymInternational": "89",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1995,
+        "end": 1996
+      },
+      "colorData": {
+        "r": 90,
+        "g": 102,
+        "b": 92,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 12,
+          "value": 100
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 50
+    },
+{
+      "nameOriginal": "Социально-политическое движение «Дума 96»",
+      "acronymOriginal": "Дума 96",
+      "nameInternational": "Social Political Movement «Duma 96»",
+      "acronymInternational": "Duma 96",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1995,
+        "end": 1996
+      },
+      "colorData": {
+        "r": 96,
+        "g": 96,
+        "b": 96,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 4,
+          "value": 100
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 51
+    },
+{
+      "nameOriginal": "Дело Петра Первого",
+      "acronymOriginal": "Дело Петра I",
+      "nameInternational": "Cause of Peter the First",
+      "acronymInternational": "Peter the First",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1995,
+        "end": 1996
+      },
+      "colorData": {
+        "r": 0,
+        "g": 2,
+        "b": 53,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 2,
+          "value": 100
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 52
+    },
+{
+      "nameOriginal": "Блок Джуны",
+      "acronymOriginal": "Джуна",
+      "nameInternational": "Djuna's Block",
+      "acronymInternational": "Djuna",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1995,
+        "end": 1996
+      },
+      "colorData": {
+        "r": 255,
+        "g": 0,
+        "b": 146,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 4,
+          "value": 100
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 53
+    },
+{
+      "nameOriginal": "Российская партия социальной демократии",
+      "acronymOriginal": "РПСД",
+      "nameInternational": "Russian Party of Social Democracy",
+      "acronymInternational": "RPSD",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1994,
+        "end": 2001
+      },
+      "colorData": {
+        "r": 143,
+        "g": 0,
+        "b": 82,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 4,
+          "value": 60
+        },
+        {
+          "id": 10,
+          "value": 60
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 54
+    },
+{
+      "nameOriginal": "Крестьянская партия России",
+      "acronymOriginal": "КПР",
+      "nameInternational": "Peasant Party of Russia",
+      "acronymInternational": "PPR",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1990,
+        "end": 1998
+      },
+      "colorData": {
+        "r": 21,
+        "g": 123,
+        "b": 76,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 1,
+          "value": 70
+        },
+        {
+          "id": 11,
+          "value": 60
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 55
+    },
+{
+      "nameOriginal": "Социал Демократы",
+      "acronymOriginal": "СДы",
+      "nameInternational": "Social Democrats",
+      "acronymInternational": "SDs",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1991,
+        "end": 1996
+      },
+      "colorData": {
+        "r": 235,
+        "g": 56,
+        "b": 83,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 7,
+          "value": 50
+        },
+        {
+          "id": 10,
+          "value": 80
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 56
+    },
+{
+      "nameOriginal": "Социал-демократическая партия Российской Федерации",
+      "acronymOriginal": "СДПРФ",
+      "nameInternational": "Social Democratic Party of the Russian Federation",
+      "acronymInternational": "SDPRF",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1990,
+        "end": 2002
+      },
+      "colorData": {
+        "r": 202,
+        "g": 59,
+        "b": 88,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 6,
+          "value": 50
+        },
+        {
+          "id": 10,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 57
+    },
+{
+      "nameOriginal": "Блок Ивана Рыбкина",
+      "acronymOriginal": "Иван Рыбкин",
+      "nameInternational": "Ivan Rybkin Bloc",
+      "acronymInternational": "Ivan Rybkin",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1995,
+        "end": 1996
+      },
+      "colorData": {
+        "r": 255,
+        "g": 42,
+        "b": 42,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 1,
+          "value": 60
+        },
+        {
+          "id": 10,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 58
+    },
+{
+      "nameOriginal": "Блок «За Родину!»",
+      "acronymOriginal": "За Родину!",
+      "nameInternational": "«For the Fatherland!» Bloc",
+      "acronymInternational": "For the Fatherland!",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1995,
+        "end": 1996
+      },
+      "colorData": {
+        "r": 200,
+        "g": 181,
+        "b": 56,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 2,
+          "value": 100
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 59
+    },
+{
+      "nameOriginal": "Моя Родина",
+      "acronymOriginal": "МР",
+      "nameInternational": "My Fatherland",
+      "acronymInternational": "MF",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1995,
+        "end": 1996
+      },
+      "colorData": {
+        "r": 212,
+        "g": 124,
+        "b": 217,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 10,
+          "value": 100
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 60
+    },
+{
+      "nameOriginal": "Партия экономической свободы",
+      "acronymOriginal": "ПЭС",
+      "nameInternational": "Party of Economic Freedom",
+      "acronymInternational": "PEF",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1992,
+        "end": 2003
+      },
+      "colorData": {
+        "r": 124,
+        "g": 185,
+        "b": 217,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 3,
+          "value": 60
+        },
+        {
+          "id": 1,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 61
+    },
+{
+      "nameOriginal": "Общее дело",
+      "acronymOriginal": "ОД",
+      "nameInternational": "Common Cause",
+      "acronymInternational": "CC",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1995,
+        "end": 1996
+      },
+      "colorData": {
+        "r": 244,
+        "g": 203,
+        "b": 88,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 3,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 62
+    },
+{
+      "nameOriginal": "Блок Независимых",
+      "acronymOriginal": "Независимые",
+      "nameInternational": "Bloc of Independents",
+      "acronymInternational": "Independents",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1995,
+        "end": 1996
+      },
+      "colorData": {
+        "r": 245,
+        "g": 149,
+        "b": 88,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 12,
+          "value": 60
+        },
+        {
+          "id": 6,
+          "value": 60
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 63
+    },
+{
+      "nameOriginal": "Консервативная партия России",
+      "acronymOriginal": "КПР",
+      "nameInternational": "Conservative Party of Russia",
+      "acronymInternational": "CPR",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1990,
+        "end": 2005
+      },
+      "colorData": {
+        "r": 185,
+        "g": 201,
+        "b": 255,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 1,
+          "value": 60
+        },
+        {
+          "id": 4,
+          "value": 60
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 64
+    },
+{
+      "nameOriginal": "Европейская либерально-демократическая партия",
+      "acronymOriginal": "ЕЛДП",
+      "nameInternational": "European Liberal Democratic Party",
+      "acronymInternational": "ELDP",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1992,
+        "end": 2000
+      },
+      "colorData": {
+        "r": 180,
+        "g": 134,
+        "b": 255,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 7,
+          "value": 60
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 65
+    },
+{
+      "nameOriginal": "Федерально-демократическое движение",
+      "acronymOriginal": "ФДД",
+      "nameInternational": "Federal Democratic Movement",
+      "acronymInternational": "FDM",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1992,
+        "end": 2000
+      },
+      "colorData": {
+        "r": 142,
+        "g": 201,
+        "b": 201,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 12,
+          "value": 70
+        },
+        {
+          "id": 7,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 66
+    },
+{
+      "nameOriginal": "Движение «Стабильная Россия»",
+      "acronymOriginal": "Стабильная Россия",
+      "nameInternational": "«Stable Russia» Movement",
+      "acronymInternational": "Stable Russia",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1995,
+        "end": 1996
+      },
+      "colorData": {
+        "r": 163,
+        "g": 168,
+        "b": 94,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 4,
+          "value": 70
+        },
+        {
+          "id": 6,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 67
+    },
+{
+      "nameOriginal": "Фронт Национального Спасения",
+      "acronymOriginal": "ФНС",
+      "nameInternational": "National Salvation Front",
+      "acronymInternational": "NSF",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1995,
+        "end": 1996
+      },
+      "colorData": {
+        "r": 99,
+        "g": 88,
+        "b": 35,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 13,
+          "value": 60
+        },
+        {
+          "id": 14,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 68
     }
   ],
   "people": [
