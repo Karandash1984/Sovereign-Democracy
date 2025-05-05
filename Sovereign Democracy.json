@@ -9,9 +9,6 @@
   },
   "years": [
     1992,
-    2000,
-    2010,
-    2020,
 	2025
   ],
   "yearReference": 2025,
@@ -65047,7 +65044,7 @@
       "id": 29
     },
 {
-      "nameOriginal": "Будующие России - Новые имена",
+      "nameOriginal": "Будущее России - Новые имена",
       "acronymOriginal": "БРНИ",
       "nameInternational": "Future of Russia - New Names",
       "acronymInternational": "FRNN",
@@ -66012,8 +66009,8 @@
 {
       "nameOriginal": "Блок «За Родину!»",
       "acronymOriginal": "За Родину!",
-      "nameInternational": "«For the Fatherland!» Bloc",
-      "acronymInternational": "For the Fatherland!",
+      "nameInternational": "«For the Motherland!» Bloc",
+      "acronymInternational": "For the Motherland!",
       "playable": 0,
       "nation": 7,
       "time": {
@@ -66043,8 +66040,8 @@
 {
       "nameOriginal": "Моя Родина",
       "acronymOriginal": "МР",
-      "nameInternational": "My Fatherland",
-      "acronymInternational": "MF",
+      "nameInternational": "My Motherland",
+      "acronymInternational": "MM",
       "playable": 0,
       "nation": 7,
       "time": {
