@@ -1,0 +1,5394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <System>
+    <Absences>Absences</Absences>
+    <Absent>Absent</Absent>
+    <Absolve>Absolve</Absolve>
+    <Abstain>Abstain</Abstain>
+    <Accept>Accept</Accept>
+    <Achievements>Achievements</Achievements>
+    <Acronym>Acronym</Acronym>
+    <Action>Action</Action>
+    <Actions>Actions</Actions>
+    <Active>Active</Active>
+    <Activism>Activism</Activism>
+    <Activist>Activist</Activist>
+    <Activists>Activists</Activists>
+    <Activity>Activity</Activity>
+    <Activities>Activities</Activities>
+    <Admin>Admin</Admin>
+    <Add>Add</Add>
+    <Adults>Adults</Adults>
+    <Advanced>Advanced</Advanced>
+    <Age>Age</Age>
+    <Agreement>Agreement</Agreement>
+    <Agreements>Agreements</Agreements>
+    <AI>AI</AI>
+    <All>All</All>
+    <Alliance>Alliance</Alliance>
+    <Ally>Ally</Ally>
+    <Allies>Allies</Allies>
+    <Alphabet>Alphabet</Alphabet>
+    <Amendment>Amendment</Amendment>
+    <Amount>Amount</Amount>
+    <Annexation>Annexation</Annexation>
+    <Antialiasing>Anti-Aliasing</Antialiasing>
+    <Appearance>Appearance</Appearance>
+    <Approval>Approval</Approval>
+    <Approve>Approve</Approve>
+    <Approved>Approved</Approved>
+    <Archive>Archive</Archive>
+    <Area>Area</Area>
+    <Article>Article</Article>
+    <Articles>Articles</Articles>
+    <Assembly>Assembly</Assembly>
+    <Associations>Associations</Associations>
+    <Attack>Attack</Attack>
+    <Attention>Attention</Attention>
+    <Attributes>Attributes</Attributes>
+    <Audience>Audience</Audience>
+    <Audio>Audio</Audio>
+    <Autofill>Autofill</Autofill>
+    <Available>Available</Available>
+    <Average>Average</Average>
+    <Back>Back</Back>
+    <Backer>Backer</Backer>
+    <Backward>Backward</Backward>
+    <Balance>Balance</Balance>
+    <Bank>Bank</Bank>
+    <Banks>Banks</Banks>
+    <Battle>Battle</Battle>
+    <Battles>Battles</Battles>
+    <Benchmark>Benchmark</Benchmark>
+    <Better>Better</Better>
+    <Bipolar>Bipolar</Bipolar>
+    <Bill>Bill</Bill>
+    <Bills>Bills</Bills>
+    <Births>Births</Births>
+    <Black>Black Money</Black>
+    <Body>Body</Body>
+    <Bonds>Bonds</Bonds>
+    <Bonus>Bonus</Bonus>
+    <Borders>Borders</Borders>
+    <Born>Born</Born>
+    <Borrower>Borrower</Borrower>
+    <Break>Break</Break>
+    <Budget>Budget</Budget>
+    <Build>Build</Build>
+    <Building>Building</Building>
+    <Buildings>Buildings</Buildings>
+    <Busy>Busy</Busy>
+    <Buy>Buy</Buy>
+    <Calendar>Calendar</Calendar>
+    <Campaign>Campaign</Campaign>
+    <Cancel>Cancel</Cancel>
+    <Candidate>Candidate</Candidate>
+    <Candidates>Candidates</Candidates>
+    <Cantons>Cantons</Cantons>
+    <Challenge>Challenge</Challenge>
+    <Challenges>Challenges</Challenges>
+    <Chance>Chance</Chance>
+    <Chancellor>Chancellor</Chancellor>
+    <Change>Change</Change>
+    <Changes>Changes</Changes>
+    <Charm>Charm</Charm>
+    <Capital>Capital</Capital>
+    <Category>Category</Category>
+    <Categories>Categories</Categories>
+    <Chat>Chat</Chat>
+    <Choice>Choice</Choice>
+    <Children>Children</Children>
+    <City>City</City>
+    <Cities>Cities</Cities>
+    <Citizen>Citizen</Citizen>
+    <Citizens>Citizens</Citizens>
+    <Citizenship>Citizenship</Citizenship>
+    <Clock>Clock</Clock>
+    <Close>Close</Close>
+    <Cloths>Clothes</Cloths>
+    <Coalition>Coalition</Coalition>
+    <Coalitions>Coalitions</Coalitions>
+    <Color>Color</Color>
+    <Comma>Comma</Comma>
+    <Commas>Commas</Commas>
+    <Committee>Committee</Committee>
+    <Committees>Committees</Committees>
+    <Commemorate>Commemorate</Commemorate>
+    <Community>Community</Community>
+    <Competence>Competence</Competence>
+    <Competences>Competences</Competences>
+    <Companies>Companies</Companies>
+    <Company>Company</Company>
+    <Compare>Compare</Compare>
+    <Complete>Complete</Complete>
+    <Concept>Concept</Concept>
+    <Condition>Condition</Condition>
+    <Conditions>Conditions</Conditions>
+    <Confidence>Confidence</Confidence>
+    <Confirm>Confirm</Confirm>
+    <Congress>Congress</Congress>
+    <Constitution>Constitution</Constitution>
+    <Constitutional>Constitutional</Constitutional>
+    <Constituencies>Constituencies</Constituencies>
+    <Content>Content</Content>
+    <Continue>Continue</Continue>
+    <Contributor>Constributor</Contributor>
+    <Contribution>Contribution</Contribution>
+    <Controls>Controls</Controls>
+    <Cooldown>Cooldown</Cooldown>
+    <Cooperation>Cooperation</Cooperation>
+    <Convicted>Convicted</Convicted>
+    <CopyToClipboard>Copy to clipboard</CopyToClipboard>
+    <Corporations>Corporations</Corporations>
+    <Corruption>Corruption</Corruption>
+    <Cost>Cost</Cost>
+    <Councilor>Councilor</Councilor>
+    <Councilors>Councilors</Councilors>
+    <Country>Country</Country>
+    <Countries>Countries</Countries>
+    <County>County</County>
+    <Counties>Counties</Counties>
+    <Coup>Coup</Coup>
+    <Coverage>Coverage</Coverage>
+    <Create>Create</Create>
+    <Created>Created</Created>
+    <Credits>Credits</Credits>
+    <Culture>Culture</Culture>
+    <Cunning>Cunning</Cunning>
+    <Cursor>Cursor</Cursor>
+    <Custom>Custom</Custom>
+    <CustomParty>Custom party</CustomParty>
+    <CustomPartyAcronym>CP</CustomPartyAcronym>
+    <CustomParties>Custom parties</CustomParties>
+    <CustomPeople>Custom people</CustomPeople>
+    <Currency>Currency</Currency>
+    <Currencies>Currencies</Currencies>
+    <Daily>Daily</Daily>
+    <Damage>Damage</Damage>
+    <Date>Date</Date>
+    <Deadline>Deadline</Deadline>
+    <Death>Death</Death>
+    <Deaths>Deaths</Deaths>
+    <Debate>Debate</Debate>
+    <Debug>Debug</Debug>
+    <Debt>Debt</Debt>
+    <DebtToGDP>Debt to GDP</DebtToGDP>
+    <Decline>Decline</Decline>
+    <Decrease>Decrease</Decrease>
+    <Defence>Defence</Defence>
+    <Default>Default</Default>
+    <Delete>Delete</Delete>
+    <Department>Department</Department>
+    <Departments>Departments</Departments>
+    <Demand>Demand</Demand>
+    <Density>Density</Density>
+    <Deputy>Deputy</Deputy>
+    <Deputies>Deputies</Deputies>
+    <DeEscalation>De-escalation</DeEscalation>
+    <Description>Description</Description>
+    <Destabilize>Destabilize</Destabilize>
+    <Developer>Developer</Developer>
+    <Detail>Detail</Detail>
+    <Details>Details</Details>
+    <Deteriorate>Deteriorate</Deteriorate>
+    <Dictator>Dictator</Dictator>
+    <Difficulty>Difficulty</Difficulty>
+    <Discover>Discover</Discover>
+    <Dismantle>Dismantle</Dismantle>
+    <Dispute>Dispute</Dispute>
+    <Disputes>Disputes</Disputes>
+    <District>District</District>
+    <Districts>Districts</Districts>
+    <Donate>Donate</Donate>
+    <Donation>Donation</Donation>
+    <Donations>Donations</Donations>
+    <Down>Down</Down>
+    <Draft>Draft</Draft>
+    <Duplicate>Duplicate</Duplicate>
+    <Duration>Duration</Duration>
+    <Earnings>Earnings</Earnings>
+    <Editor>Editor</Editor>
+    <Effect>Effect</Effect>
+    <Effects>Effects</Effects>
+    <Election>Election</Election>
+    <Electorate>Electorate</Electorate>
+    <Electors>Electors</Electors>
+    <Elements>Elements</Elements>
+    <Eloquence>Eloquence</Eloquence>
+    <Encyclopedia>Encyclopedia</Encyclopedia>
+    <End>End</End>
+    <EndTurn>End Turn</EndTurn>
+    <Energy>Energy</Energy>
+    <EnterText>Enter text ...</EnterText>
+    <Email>Email</Email>
+    <Employees>Employees</Employees>
+    <Escalation>Escalation</Escalation>
+    <EstimatedDuration>Estimated duration</EstimatedDuration>
+    <Expansion>Expansion</Expansion>
+    <Extinguish>Extinguish</Extinguish>
+    <Event>Event</Event>
+    <Events>Events</Events>
+    <Evidence>Evidence</Evidence>
+    <Exit>Exit</Exit>
+    <Expected>Expected</Expected>
+    <Expenses>Expenses</Expenses>
+    <Experience>Experience</Experience>
+    <Export>Export</Export>
+    <Eyes>Eyes</Eyes>
+    <Factions>Factions</Factions>
+    <Failed>Failed</Failed>
+    <Failure>Failure</Failure>
+    <Fast>Fast</Fast>
+    <Favourite>Favourite</Favourite>
+    <Federal>Federal</Federal>
+    <Fee>Fee</Fee>
+    <Feedback>Feedback</Feedback>
+    <Filibustering>Filibustering</Filibustering>
+    <Filter>Filter</Filter>
+    <Filters>Filters</Filters>
+    <Fine>Fine</Fine>
+    <Fire>Fire</Fire>
+    <Fired>Fired</Fired>
+    <Fix>Fix</Fix>
+    <Flags>Flags</Flags>
+    <Focus>Focus</Focus>
+    <Followers>Followers</Followers>
+    <Food>Food</Food>
+    <Forecast>Forecast</Forecast>
+    <Form>Form</Form>
+    <Formation>Formation</Formation>
+    <Former>Former</Former>
+    <FormerLaw>Former law</FormerLaw>
+    <FormerLaws>Former laws</FormerLaws>
+    <FormerMembers>Former members</FormerMembers>
+    <Forward>Forward</Forward>
+    <Founded>Founded</Founded>
+    <Free>Free</Free>
+    <Freewill>Freewill</Freewill>
+    <Friendly>Friendly</Friendly>
+    <Front>Front</Front>
+    <Frontrunner>Frontrunner</Frontrunner>
+    <Frontrunners>Frontrunners</Frontrunners>
+    <Fullscreen>Fullscreen</Fullscreen>
+    <Fundraise>Fundraise</Fundraise>
+    <Gap>Gap</Gap>
+    <Gameplay>Gameplay</Gameplay>
+    <General>General</General>
+    <GDP>GDP</GDP>
+    <GDPCapita>GDP per capita</GDPCapita>
+    <Goal>Goal</Goal>
+    <Goals>Goals</Goals>
+    <Government>Government</Government>
+    <Governor>Governor</Governor>
+    <Governors>Governors</Governors>
+    <GreatPower>Great power</GreatPower>
+    <Growth>Growth</Growth>
+    <Group>Group</Group>
+    <Groups>Groups</Groups>
+    <Hair>Hair</Hair>
+    <Happiness>Happiness</Happiness>
+    <Headquarter>Headquarter</Headquarter>
+    <HeadOfGovernment>Head of government</HeadOfGovernment>
+    <HeadOfState>Head of state</HeadOfState>
+    <High>High</High>
+    <HighestCourt>Highest court</HighestCourt>
+    <Highscore>Highscore</Highscore>
+    <Hints>Hints</Hints>
+    <Hire>Hire</Hire>
+    <History>History</History>
+    <Host>Host</Host>
+    <Hostile>Hostile</Hostile>
+    <House>House</House>
+    <Ideology>Ideology</Ideology>
+    <Ideologies>Ideologies</Ideologies>
+    <Income>Income</Income>
+    <Increase>Increase</Increase>
+    <Index>Index</Index>
+    <InForce>In force</InForce>
+    <InProgress>In progress</InProgress>
+    <Influence>Influence</Influence>
+    <Infrastructure>Infrastructure</Infrastructure>
+    <International>International</International>
+    <Interview>Interview</Interview>
+    <Interviews>Interviews</Interviews>
+    <Institution>Institution</Institution>
+    <Institutions>Institutions</Institutions>
+    <Invasion>Invasion</Invasion>
+    <Invite>Invite</Invite>
+    <Implementation>Implementation</Implementation>
+    <Implementing>Implementing</Implementing>
+    <Import>Import</Import>
+    <Imprisonment>Imprisonment</Imprisonment>
+    <Improve>Improve</Improve>
+    <Independent>Independent</Independent>
+    <IPAddress>Ip address</IPAddress>
+    <Issue>Issue</Issue>
+    <Issues>Issues</Issues>
+    <Job>Job</Job>
+    <Jobs>Jobs</Jobs>
+    <Join>Join</Join>
+    <JoinCode>Join code</JoinCode>
+    <JoinDate>Join date</JoinDate>
+    <Judge>Judge</Judge>
+    <Judges>Judges</Judges>
+    <Keep>Keep</Keep>
+    <Keyboard>Keyboard</Keyboard>
+    <King>King</King>
+    <Knowledge>Knowledge</Knowledge>
+    <Label>Label</Label>
+    <Language>Language</Language>
+    <Last>Last</Last>
+    <LastElection>Last election</LastElection>
+    <Later>Later</Later>
+    <LatestSurvey>Latest survey</LatestSurvey>
+    <Lawgiverspedia>Lawgiverspedia</Lawgiverspedia>
+    <Lawmaker>Lawmaker</Lawmaker>
+    <Lawmakers>Lawmakers</Lawmakers>
+    <Law>Law</Law>
+    <Laws>Laws</Laws>
+    <LawsApproved>Laws approved</LawsApproved>
+    <LawsRejected>Laws rejected</LawsRejected>
+    <Leader>Leader</Leader>
+    <Leaning>Leaning</Leaning>
+    <Legislature>Legislature</Legislature>
+    <Level>Level</Level>
+    <Listeners>Listeners</Listeners>
+    <Loan>Loan</Loan>
+    <Loans>Loans</Loans>
+    <Location>Location</Location>
+    <Lord>Lord</Lord>
+    <Lords>Lords</Lords>
+    <Loyalty>Loyalty</Loyalty>
+    <Low>Low</Low>
+    <Main>Main</Main>
+    <Major>Major</Major>
+    <Majority>Majority</Majority>
+    <Maintain>Maintain</Maintain>
+    <Man>Man</Man>
+    <ManPower>Manpower</ManPower>
+    <Map>Map</Map>
+    <Maps>Maps</Maps>
+    <Margin>Margin</Margin>
+    <MarginOfError>Margin of error</MarginOfError>
+    <Master>Master</Master>
+    <Materials>Materials</Materials>
+    <Mature>Mature</Mature>
+    <Max>Max</Max>
+    <Maximum>Maximum</Maximum>
+    <Mayor>Mayor</Mayor>
+    <Mayors>Mayors</Mayors>
+    <Measure>Measure</Measure>
+    <Measures>Measures</Measures>
+    <Media>Media</Media>
+    <Medium>Medium</Medium>
+    <Member>Member</Member>
+    <Members>Members</Members>
+    <Membership>Membership</Membership>
+    <Men>Men</Men>
+    <Menu>Menu</Menu>
+    <Messages>Messages</Messages>
+    <Metropolis>Metropolis</Metropolis>
+    <Migration>Migration</Migration>
+    <Military>Military</Military>
+    <Minor>Minor</Minor>
+    <MinorPower>Minor power</MinorPower>
+    <Min>Min</Min>
+    <Minimum>Minimum</Minimum>
+    <Minister>Minister</Minister>
+    <Ministers>Ministers</Ministers>
+    <Minutes>Minutes</Minutes>
+    <Missed>Missed</Missed>
+    <Mission>Mission</Mission>
+    <Missions>Missions</Missions>
+    <Moderate>Moderate</Moderate>
+    <Mods>Mods</Mods>
+    <Monarch>Monarch</Monarch>
+    <Money>Money</Money>
+    <Morality>Morality</Morality>
+    <Move>Move</Move>
+    <Movement>Movement</Movement>
+    <Movements>Movements</Movements>
+    <Multiplayer>Multiplayer</Multiplayer>
+    <Multipolar>Multipolar</Multipolar>
+    <Municipal>Municipal</Municipal>
+    <Music>Music</Music>
+    <Name>Name</Name>
+    <Nation>Nation</Nation>
+    <National>National</National>
+    <Nations>Nations</Nations>
+    <Natural>Natural</Natural>
+    <Negative>Negative</Negative>
+    <Neutral>Neutral</Neutral>
+    <NewWorld>New World</NewWorld>
+    <New>New</New>
+    <News>News</News>
+    <Newspaper>Newspaper</Newspaper>
+    <Next>Next</Next>
+    <NextElection>Next election</NextElection>
+    <NextSurvey>Next survey</NextSurvey>
+    <No>No</No>
+    <None>None</None>
+    <Normal>Normal</Normal>
+    <NotElected>Not elected</NotElected>
+    <NotFound>Not found</NotFound>
+    <NotTransparent>Not transparent</NotTransparent>
+    <Notes>Notes</Notes>
+    <Notifications>Notifications</Notifications>
+    <Number>Number</Number>
+    <NumberShort>No.</NumberShort>
+    <Oblast>Oblast</Oblast>
+    <Oblasts>Oblasts</Oblasts>
+    <Occupation>Occupation</Occupation>
+    <Off>Off</Off>
+    <Offer>Offer</Offer>
+    <Official>Official</Official>
+    <Ok>Ok</Ok>
+    <Old>Old</Old>
+    <On>On</On>
+    <Ongoing>Ongoing</Ongoing>
+    <Open>Open</Open>
+    <OpenVote>Open vote</OpenVote>
+    <Operating>Operating</Operating>
+    <Opposition>Opposition</Opposition>
+    <Option>Option</Option>
+    <Options>Options</Options>
+    <Optional>Optional</Optional>
+    <Ordinary>Ordinary</Ordinary>
+    <Origin>Origin</Origin>
+    <Organization>Organization</Organization>
+    <Organizations>Organizations</Organizations>
+    <OutOfForce>Out of force</OutOfForce>
+    <Outreach>Outreach</Outreach>
+    <Parameter>Parameter</Parameter>
+    <Parameters>Parameters</Parameters>
+    <Parliament>Parliament</Parliament>
+    <Participants>Participants</Participants>
+    <Participate>Participate</Participate>
+    <Party>Party</Party>
+    <Parties>Parties</Parties>
+    <Pause>Pause</Pause>
+    <Password>Password</Password>
+    <Peace>Peace</Peace>
+    <People>People</People>
+    <Period>Period</Period>
+    <Person>Person</Person>
+    <Percentage>Percentage</Percentage>
+    <Performance>Performance</Performance>
+    <Player>Player</Player>
+    <Players>Players</Players>
+    <Points>Points</Points>
+    <Politician>Politician</Politician>
+    <Poll>Poll</Poll>
+    <Polls>Polls</Polls>
+    <Popularity>Popularity</Popularity>
+    <Population>Population</Population>
+    <Portraits>Portraits</Portraits>
+    <Position>Position</Position>
+    <Positive>Positive</Positive>
+    <Power>Power</Power>
+    <President>President</President>
+    <Presence>Presence</Presence>
+    <Present>Present</Present>
+    <Preset>Preset</Preset>
+    <Prevention>Prevention</Prevention>
+    <Previous>Previous</Previous>
+    <Price>Price</Price>
+    <PrimeMinister>Prime Minister</PrimeMinister>
+    <Primaries>Primaries</Primaries>
+    <Prince>Prince</Prince>
+    <Princess>Princess</Princess>
+    <Priority>Priority</Priority>
+    <Prison>Prison</Prison>
+    <Privacy>Privacy</Privacy>
+    <Private>Private</Private>
+    <Probability>Probability</Probability>
+    <Production>Production</Production>
+    <Products>Products</Products>
+    <Progress>Progress</Progress>
+    <Promise>Promise</Promise>
+    <Promises>Promises</Promises>
+    <Proposal>Proposal</Proposal>
+    <Propose>Propose</Propose>
+    <Protest>Protest</Protest>
+    <Quality>Quality</Quality>
+    <Quarter>Quarter</Quarter>
+    <Queen>Queen</Queen>
+    <Question>Question</Question>
+    <Quit>Quit</Quit>
+    <Radio>Radio</Radio>
+    <Random>Random</Random>
+    <Rank>Rank</Rank>
+    <Rate>Rate</Rate>
+    <Read>Read</Read>
+    <Readers>Readers</Readers>
+    <Realistic>Realistic</Realistic>
+    <Reason>Reason</Reason>
+    <Recognition>Recognition</Recognition>
+    <Recruit>Recruit</Recruit>
+    <Redo>Redo</Redo>
+    <Reduce>Reduce</Reduce>
+    <Referendum>Referendum</Referendum>
+    <RegionalPower>Regional power</RegionalPower>
+    <Reject>Reject</Reject>
+    <Rejected>Rejected</Rejected>
+    <Region>Region</Region>
+    <Regional>Regional</Regional>
+    <Regions>Regions</Regions>
+    <Relations>Relations</Relations>
+    <RelativeMajority>Relative majority</RelativeMajority>
+    <Remove>Remove</Remove>
+    <Removing>Removing</Removing>
+    <Repeat>Repeat</Repeat>
+    <Representative>Representative</Representative>
+    <Representatives>Representatives</Representatives>
+    <Required>Required</Required>
+    <Requirements>Requirements</Requirements>
+    <Reputation>Reputation</Reputation>
+    <Rescheduled>Rescheduled</Rescheduled>
+    <Research>Research</Research>
+    <Researches>Researches</Researches>
+    <Reserve>Reserve</Reserve>
+    <Reserves>Reserves</Reserves>
+    <Reset>Reset</Reset>
+    <Resign>Resign</Resign>
+    <Resignation>Resignation</Resignation>
+    <Resolution>Resolution</Resolution>
+    <Resources>Resources</Resources>
+    <Responsible>Responsible</Responsible>
+    <Result>Result</Result>
+    <Resume>Resume</Resume>
+    <Retire>Retire</Retire>
+    <Revolution>Revolution</Revolution>
+    <Reward>Reward</Reward>
+    <Round>Round</Round>
+    <Rules>Rules</Rules>
+    <Runoff>Runoff</Runoff>
+    <Sales>Sales</Sales>
+    <Salary>Salary</Salary>
+    <Same>Same</Same>
+    <Sample>Sample</Sample>
+    <Sandbox>Sandbox</Sandbox>
+    <Save>Save</Save>
+    <Scandal>Scandal</Scandal>
+    <Scandals>Scandals</Scandals>
+    <Scenario>Scenario</Scenario>
+    <Scenarios>Scenarios</Scenarios>
+    <Science>Science</Science>
+    <Search>Search</Search>
+    <Sea>Sea</Sea>
+    <Seats>Seats</Seats>
+    <SecretVote>Secret vote</SecretVote>
+    <Secretaries>Secretaries</Secretaries>
+    <Secretary>Secretary</Secretary>
+    <Sections>Sections</Sections>
+    <Select>Select</Select>
+    <Selection>Selection</Selection>
+    <SelectLanguage>Select language</SelectLanguage>
+    <Senate>Senate</Senate>
+    <Senator>Senator</Senator>
+    <Senators>Senators</Senators>
+    <Send>Send</Send>
+    <Sentence>Sentence</Sentence>
+    <Sentences>Sentences</Sentences>
+    <Server>Server</Server>
+    <Servers>Servers</Servers>
+    <Settings>Settings</Settings>
+    <Simple>Simple</Simple>
+    <Singleplayer>Singleplayer</Singleplayer>
+    <Size>Size</Size>
+    <Share>Share</Share>
+    <Shop>Shop</Shop>
+    <Slow>Slow</Slow>
+    <SocialNetwork>Social Network</SocialNetwork>
+    <SocialPyramid>Social pyramid</SocialPyramid>
+    <Sound>Sound</Sound>
+    <Speaker>Speaker</Speaker>
+    <Spectator>Spectator</Spectator>
+    <Speed>Speed</Speed>
+    <Standard>Standard</Standard>
+    <Stability>Stability</Stability>
+    <Start>Start</Start>
+    <State>State</State>
+    <Statement>Statement</Statement>
+    <Statements>Statements</Statements>
+    <States>States</States>
+    <Statistics>Statistics</Statistics>
+    <Status>Status</Status>
+    <Stabilize>Stabilize</Stabilize>
+    <Steal>Steal</Steal>
+    <Stenographer>Stenographer</Stenographer>
+    <Strength>Strength</Strength>
+    <Strong>Strong</Strong>
+    <Strongest>Strongest</Strongest>
+    <Students>Students</Students>
+    <Success>Success</Success>
+    <Successor>Successor</Successor>
+    <Suffrage>Suffrage</Suffrage>
+    <Superpower>Superpower</Superpower>
+    <Support>Support</Support>
+    <SupremeCourt>Supreme court</SupremeCourt>
+    <Supress>Suppress</Supress>
+    <Surgery>Surgery</Surgery>
+    <Suspend>Suspend</Suspend>
+    <Suspended>Suspended</Suspended>
+    <System>System</System>
+    <Take>Take</Take>
+    <Target>Target</Target>
+    <Tax>Tax</Tax>
+    <Taxes>Taxes</Taxes>
+    <TaxHaven>Tax haven</TaxHaven>
+    <Technology>Technology</Technology>
+    <Television>Television</Television>
+    <Tension>Tension</Tension>
+    <Terms>Mandates</Terms>
+    <Territory>Territory</Territory>
+    <Threshold>Threshold</Threshold>
+    <Thought>Thought</Thought>
+    <Thoughts>Thoughts</Thoughts>
+    <Time>Time</Time>
+    <Timeline>Timeline</Timeline>
+    <Timeout>Timeout</Timeout>
+    <Timer>Timer</Timer>
+    <Title>Title</Title>
+    <Total>Total</Total>
+    <TotalCost>Total cost</TotalCost>
+    <Town>Town</Town>
+    <Townhall>Townhall</Townhall>
+    <Trade>Trade</Trade>
+    <Traits>Traits</Traits>
+    <Transparent>Transparent</Transparent>
+    <Treaty>Treaty</Treaty>
+    <Treaties>Treaties</Treaties>
+    <Troop>Troop</Troop>
+    <Troops>Troops</Troops>
+    <Turn>Turn</Turn>
+    <Turnout>Turnout</Turnout>
+    <Tutorial>Tutorial</Tutorial>
+    <Type>Type</Type>
+    <UIScale>UI Scale</UIScale>
+    <Ultra>Ultra</Ultra>
+    <Undo>Undo</Undo>
+    <Unfriendly>Unfriendly</Unfriendly>
+    <Unknown>Unknown</Unknown>
+    <Unipolar>Unipolar</Unipolar>
+    <Unit>Unit</Unit>
+    <Units>Units</Units>
+    <University>University</University>
+    <Universities>Universities</Universities>
+    <Unlock>Unlock</Unlock>
+    <Unofficial>Unofficial</Unofficial>
+    <Unrepresented>Unrepresented</Unrepresented>
+    <Up>Up</Up>
+    <Update>Update</Update>
+    <Upload>Upload</Upload>
+    <Upgrade>Upgrade</Upgrade>
+    <Vacant>Vacant</Vacant>
+    <Value>Value</Value>
+    <Values>Values</Values>
+    <Version>Version</Version>
+    <Veto>Veto</Veto>
+    <Vibration>Vibration</Vibration>
+    <Victory>Victory</Victory>
+    <VicePresident>Vice President</VicePresident>
+    <ViceSpeaker>Vice Speaker</ViceSpeaker>
+    <Video>Video</Video>
+    <View>View</View>
+    <Visit>Visit</Visit>
+    <Volume>Volume</Volume>
+    <Vote>Vote</Vote>
+    <Votes>Votes</Votes>
+    <Voters>Voters</Voters>
+    <VotesLeft>Votes left</VotesLeft>
+    <VotesMargin>Votes margin</VotesMargin>
+    <VSync>V-Sync</VSync>
+    <Wait>Wait</Wait>
+    <Waiting>Waiting</Waiting>
+    <War>War</War>
+    <Watchers>Watchers</Watchers>
+    <Weakest>Weakest</Weakest>
+    <Wealth>Wealth</Wealth>
+    <Weapons>Weapons</Weapons>
+    <WebSurfers>Web surfers</WebSurfers>
+    <Week>Week</Week>
+    <WeeklyCost>Weekly cost</WeeklyCost>
+    <Weeks>Weeks</Weeks>
+    <Winner>Winner</Winner>
+    <Withdraw>Withdraw</Withdraw>
+    <Woman>Woman</Woman>
+    <Women>Women</Women>
+    <World>World</World>
+    <Worlds>Worlds</Worlds>
+    <Worse>Worse</Worse>
+    <Writing>Writing</Writing>
+    <Yearbook>Yearbook</Yearbook>
+    <YearlyCost>Yearly cost</YearlyCost>
+    <Year>Year</Year>
+    <Years>Years</Years>
+    <Yes>Yes</Yes>
+    <Yield>Yield</Yield>
+    <Young>Young</Young>
+    <Zoom>Zoom</Zoom>
+  </System>
+  <Extra>
+    <Info>All game mechanics and content, including countries, parties, events, laws effects and behaviors, is purely fictional and simply designed to fit with the gameplay.</Info>
+    <Info2>Therefore, this game does NOT in any way represent reality.</Info2>
+    <Rate>Rate this game</Rate>
+    <Review>If you are having a good time with our political simulation game, please consider to leave a review on the store. Doing so, could potentially raise the popularity of such games and help us to work on more updates, new mechanics, countries and content. Thank you for your time!!</Review>
+    <Thanks>Thanks to all friends out there for supporting development and making this political simulation game possible !!</Thanks>
+    <Unlock>Get the full edition to support development and upcoming updates. </Unlock>
+    <Break>You've been playing for over 2 hours!</Break>
+    <Break2>Taking a short break can help you recharge and feel more refreshed!</Break2>
+    <Welcome>WELCOME TO LAWGIVERS II</Welcome>
+    <Welcome2>Thank you for your support! The game will receive frequent updates throughout 2025. Got a feature request? Join our community on Discord and share your ideas with us!</Welcome2>
+    <Warning>*Higher quality may drain the battery faster</Warning>
+  </Extra>
+  <Achievements>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Sadist</string>
+        <string>Lower happiness to -10</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Lawmaker</string>
+        <string>Approve 100 laws</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Scientist</string>
+        <string>Complete all researches</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Longplayer</string>
+        <string>Play 10000 turns</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Populist</string>
+        <string>Fail to complete 3 missions</string>
+      </text>
+    </Item>
+  </Achievements>
+  <Banks>
+    <string />
+  </Banks>
+  <Buildings>
+    <string />
+    <string>Military Base</string>
+    <string>Research Lab</string>
+    <string>Power plant</string>
+    <string>Farm</string>
+    <string>Factory</string>
+    <string>Mine</string>
+  </Buildings>
+  <Categories>
+    <string />
+    <string>Students</string>
+    <string>Retirees</string>
+    <string>Entrepreneurs</string>
+    <string>Employees</string>
+    <string>Parents</string>
+    <string>Singles</string>
+    <string>Non-religious</string>
+    <string>Religious</string>
+    <string>Lower class</string>
+    <string>Middle class</string>
+    <string>Upper class</string>
+  </Categories>
+  <Cities>
+    <string />
+    <string>New York</string>
+    <string>Chicago</string>
+    <string>Dallas</string>
+    <string>Houston</string>
+    <string>San Antonio</string>
+    <string>Phoenix</string>
+    <string>Los Angeles</string>
+    <string>San Diego</string>
+    <string>San Jose</string>
+    <string>Philadelphia</string>
+    <string>Washington</string>
+    <string>London</string>
+    <string>Berlin</string>
+    <string>Paris</string>
+    <string>Rome</string>
+    <string>Madrid</string>
+    <string>Warsaw</string>
+    <string>Bern</string>
+    <string>Vienna</string>
+    <string>Lisbon</string>
+    <string>Dublin</string>
+    <string>Moscow</string>
+    <string>Ankara</string>
+    <string>Tel Aviv</string>
+    <string>Ottawa</string>
+    <string>Canberra</string>
+    <string>Mexico City</string>
+    <string>Stockholm</string>
+    <string>Oslo</string>
+    <string>Helsinki</string>
+    <string>Beijing</string>
+    <string>Tokyo</string>
+    <string>Seoul</string>
+    <string>Athens</string>
+    <string>Budapest</string>
+    <string>Bucharest</string>
+    <string>Belgrade</string>
+    <string>Zagreb</string>
+    <string>Ljubljana</string>
+    <string>Bratislava</string>
+    <string>Kiev</string>
+    <string>Tehran</string>
+    <string>Munich</string>
+    <string>Hamburg</string>
+    <string>Cologne</string>
+    <string>Istanbul</string>
+    <string>Milan</string>
+    <string>Barcelona</string>
+    <string>Bangkok</string>
+    <string>Brasilia</string>
+    <string>Manchester</string>
+    <string>Edinburgh</string>
+    <string>Birmingham</string>
+    <string>Sevillia</string>
+    <string>Bilbao</string>
+    <string>Marseille</string>
+    <string>Lyon</string>
+    <string>Toulouse</string>
+    <string>Prague</string>
+    <string>Cairo</string>
+    <string>Saint Petersburg</string>
+    <string>Rabat</string>
+    <string>Riyadh</string>
+    <string>Seattle</string>
+    <string>Miami</string>
+    <string>Vancouver</string>
+    <string>Buenos Aires</string>
+    <string>Salt Lake City</string>
+    <string>Boston</string>
+    <string>Minsk</string>
+    <string>Lima</string>
+    <string>Santiago de Cile</string>
+    <string>Tbilisi</string>
+    <string>New Delhi</string>
+    <string>Chongqing</string>
+    <string>Kuala Lumpur</string>
+    <string>Jakarta</string>
+    <string>Sydney</string>
+    <string>Melbourne</string>
+    <string>Wellington</string>
+    <string>Quito</string>
+    <string>Bogotà</string>
+    <string>Caracas</string>
+    <string>Cape Town</string>
+    <string>Copenhagen</string>
+    <string>Volgograd</string>
+    <string>Naples</string>
+    <string>Florence</string>
+    <string>Brussel</string>
+    <string>Luxemburg</string>
+  </Cities>
+  <Companies>
+    <string />
+  </Companies>
+  <Competences>
+    <string />
+    <string>Foreign relations</string>
+    <string>Trade</string>
+    <string>Finance</string>
+    <string>Treasury</string>
+    <string>Environment</string>
+    <string>Agriculture</string>
+    <string>Defence</string>
+    <string>Welfare</string>
+    <string>Work</string>
+    <string>Education</string>
+    <string>Energy</string>
+    <string>Technology</string>
+    <string>Transport</string>
+    <string>Infrastructure</string>
+    <string>Justice</string>
+    <string>Equality</string>
+    <string>Sports</string>
+    <string>Culture</string>
+    <string>Entertainment</string>
+    <string>Constitutional affairs</string>
+    <string>Interior</string>
+    <string>Health</string>
+  </Competences>
+  <Culture>
+    <string />
+    <string>Italian</string>
+    <string>American</string>
+    <string>German</string>
+    <string>French</string>
+    <string>Spanish</string>
+    <string>English</string>
+    <string>Austrian</string>
+    <string>Russian</string>
+    <string>Swiss</string>
+    <string>Turkish</string>
+    <string>Canadian</string>
+    <string>Polish</string>
+    <string>Brazilian</string>
+    <string>Australian</string>
+    <string>Portuguese</string>
+    <string>Dutch</string>
+    <string>Chinese</string>
+    <string>Japanese</string>
+    <string>South Korean</string>
+    <string>Swedish</string>
+    <string>Belgian</string>
+    <string>Hindu</string>
+    <string>Thai</string>
+    <string>Mexican</string>
+    <string>Argentinian</string>
+    <string>Indonesian</string>
+    <string>Malaysian</string>
+    <string>Singaporean</string>
+    <string>Arab</string>
+    <string>Greek</string>
+  </Culture>
+  <Currencies>
+    <string />
+    <string>Euro</string>
+    <string>United States Dollar</string>
+    <string>Pound</string>
+    <string>Japanese Yen</string>
+    <string>Australian Dollar</string>
+    <string>Canadian Dollar</string>
+    <string>Swiss Franc</string>
+    <string>Russian Ruble</string>
+    <string>Swedish Krona</string>
+    <string>Norwegian Krona</string>
+    <string>Turkish Lira</string>
+    <string>Brazilian Real</string>
+    <string>South Korean Won</string>
+    <string>Polish Zloty</string>
+    <string>Chinese Yuan</string>
+    <string>Thai Baht</string>
+    <string>Italian Lira</string>
+    <string>Deutsche Mark</string>
+    <string>French Franc</string>
+    <string>Austrian Schilling</string>
+    <string>Singapore Dollar</string>
+    <string>Hong Kong Dollar</string>
+    <string>Indian Rupee</string>
+    <string>New Zealand Dollar</string>
+    <string>Mexican Peso</string>
+    <string>Saudi Riyal</string>
+    <string>UAE Dirham</string>
+    <string>Malaysian Ringgit</string>
+    <string>Indonesian Rupiah</string>
+    <string>South African Rand</string>
+    <string>Philippine Peso</string>
+    <string>Vietnamese Dong</string>
+    <string>Egyptian Pound</string>
+    <string>Argentine Peso</string>
+    <string>Czech Koruna</string>
+    <string>Ukrainian Hryvnia</string>
+    <string>Romanian Leu</string>
+    <string>Spanish Peso</string>
+  </Currencies>
+  <Events>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Subprime Mortgage Crisis</string>
+        <string>High-risk loans are defaulting at unprecedented rates, due to banks' misguided trust in the perpetual rise of property values.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Great Recession</string>
+        <string>Housing market collapse and financial crisis lead to reduced business activity and high unemployment.</string>
+        <string>Economic stimulus</string>
+        <string>Austerity measures</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Inflation Surge</string>
+        <string>A severe inflation crisis has emerged, characterized by skyrocketing prices and the erosion of purchasing power, leading to widespread economic instability and challenges in managing public funds for essential services.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Covid 19</string>
+        <string>A coronavirus pandemic triggered global health emergencies, economic disruptions, and a surge in public spending for healthcare and economic support, challenging nations to swiftly adapt and respond.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Train crash</string>
+        <string>A devastating train crash occurred due to a signal failure, resulting in significant casualties and raising urgent questions about the safety and maintenance of the rail infrastructure.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Abuse of power</string>
+        <string>A hidden faction within a powerful institution secretly diverted resources and influenced decisions for their benefit, undermining transparency and eroding public trust.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Tech Downturn</string>
+        <string>The technology sector, once a cornerstone of economic stability, faces a significant downturn, with reduced investments and layoffs affecting market confidence and contributing to broader economic uncertainties.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Wildfires</string>
+        <string>Escalating wildfires, fueled by extreme weather conditions and dry landscapes, have wreaked havoc across vast areas, destroying homes and natural habitats, and prompting widespread evacuations and emergency responses.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Community Revitalization</string>
+        <string>A transparent and efficient allocation of public funds has successfully revitalized a local community, resulting in the renovation of public parks, the improvement of local schools, and the strengthening of emergency services.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Infrastructure Corruption</string>
+        <string>A recent audit has revealed significant mismanagement of public funds allocated for municipal infrastructure projects, leading to incomplete or substandard roads, bridges, and utilities.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Educational Fraud</string>
+        <string>Investigations have unveiled a fraudulent contracting process within the education sector, leading to the misallocation of funds designated for school infrastructure and materials.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Housing Scandal</string>
+        <string>A scandal has come to light involving kickbacks in the construction of public housing, where officials received illegal payments in exchange for awarding contracts to certain developers.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Energy Shortfall</string>
+        <string>An energy shortfall has impacted the economy significantly, with frequent power outages and high energy costs hindering industrial productivity and contributing to a slowdown in economic growth.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Unemployment Crisis</string>
+        <string>A sharp rise in unemployment rates has led to economic and social challenges, with a lack of job opportunities causing decreased consumer spending and increased reliance on public welfare systems.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Revolution</string>
+        <string>A revolution is underway, rapidly reshaping our society by overthrowing old authorities and ushering in a new order led by the aspirations of change-makers.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Coupt attempt</string>
+        <string>A coup attempt is underway, marked by efforts from military or political factions to unseat the current government or leader, seeking to rapidly overturn the existing authority and assume control.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Tourism Revival</string>
+        <string>The rejuvenation of the tourism sector, driven by effective marketing and improved travel facilities, has brought an influx of visitors, significantly benefiting local businesses and the overall economy.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Export Expansion</string>
+        <string>Diversification and enhancement of export goods have opened new international markets, driving economic growth and creating a surplus in trade balances, stabilizing the national economy.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Drought Conditions</string>
+        <string>Prolonged droughts have devastated agricultural outputs, leading to water shortages and significant economic losses in farming communities, with ripple effects on food supply chains and increased prices.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Flood Disasters</string>
+        <string>Intense and unexpected flooding has overwhelmed cities and rural areas, damaging properties and businesses, disrupting transportation and commerce, and requiring substantial emergency response and rehabilitation funds.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Hurricane Devastation</string>
+        <string>Frequent and severe hurricanes have caused massive destruction to infrastructure and homes, resulting in costly repairs and recovery efforts that strain local economies and government budgets.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Bridge Collapse</string>
+        <string>A major bridge collapse due to structural failure has disrupted critical transportation routes, causing long-term impacts on trade and daily commuting, and necessitating costly and time-consuming repairs.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Mining Accident</string>
+        <string>A severe accident in a mining operation has resulted in multiple fatalities and significant environmental damage, sparking investigations and calls for industry reform, while impacting the local economy and workforce stability.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Chemical Spill</string>
+        <string>An industrial chemical spill has contaminated local water sources and ecosystems, leading to health crises, legal consequences for the responsible companies, and extensive cleanup operations, draining local economies.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Airline Disaster</string>
+        <string>A catastrophic airline crash has resulted in significant loss of life and raised serious concerns over air safety regulations, leading to grounded fleets and a decrease in passenger trust, impacting the aviation industry economically.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Bank Heist</string>
+        <string>A daring bank robbery has shaken the financial community, resulting in substantial monetary losses and heightened security measures across the banking sector, impacting customer confidence and operational costs.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Drug Trafficking Surge</string>
+        <string>An increase in drug trafficking activities has strained law enforcement resources, contributed to community unrest, and increased public health challenges, with costly socio-economic repercussions.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Vandalism Wave</string>
+        <string>A wave of vandalism targeting public and private properties has led to significant repair costs, increased insurance premiums, and heightened community anxiety, affecting local business operations and tourism.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Archaeological Find</string>
+        <string>The uncovering of an ancient city has provided valuable insights into human history and culture, attracting international attention, boosting local tourism, and fostering global academic collaborations.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Astronomical Discovery</string>
+        <string>Astronomers have discovered a potentially habitable exoplanet, sparking widespread interest in space exploration and the possibilities of extraterrestrial life, and fueling investments in space technology.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Deep Sea Exploration</string>
+        <string>An expedition to the deep sea has revealed unknown species and mineral deposits, offering exciting opportunities for biological research and the potential extraction of valuable resources.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Artistic Innovation</string>
+        <string>An artist debuts a revolutionary new style that influences the art world and sparks a new movement, impacting the way art is conceptualized and created globally.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Culinary Spotlight</string>
+        <string>A traditional meal from an underappreciated culinary culture gains fame after being showcased on a widely watched international cooking show, sparking global curiosity and appreciation for the food of that area.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Therapeutic Breakthrough</string>
+        <string>A new drug is approved after showing unprecedented success in treating a chronic illness, offering hope to millions of patients and opening new avenues for therapy.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Chronic Disease Increase</string>
+        <string>Lifestyle changes and environmental factors contribute to a dramatic rise in chronic diseases such as diabetes and heart disease, straining healthcare systems and reducing life expectancy.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>AI Advancements</string>
+        <string>Breakthroughs in artificial intelligence lead to the development of AI systems that improve efficiency in healthcare diagnostics, traffic management, and personalized education, enhancing quality of life and productivity.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Industrial Pollution</string>
+        <string>The rapid industrial growth of the 1970s often came at the expense of the environment, with significant pollution events like chemical spills and smog episodes in major cities highlighting the dark side of industrial progress.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Athletic Legend</string>
+        <string>An athlete achieves unprecedented success in their sport, breaking records and inspiring others through their dedication, skill, and sportsmanship.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Urban Development Visionary</string>
+        <string>An architect or urban planner designs and implements innovative urban projects that enhance the quality of life, sustainability, and functionality of urban spaces.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Technological Pioneer</string>
+        <string>An innovator develops a new technology or platform that drastically changes the way people live, work, or communicate, setting new standards and creating new industries.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Fall of Berlin Wall</string>
+        <string>Marking the end of a divided Germany, it symbolizes the collapse of communism in Eastern Europe and the reunification of East and West Germany.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Introduction of the euro</string>
+        <string>Several European countries adopt a common currency to strengthen economic integration and simplify trade.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Tangentopoli scandal</string>
+        <string>A major political corruption scandal exposing widespread bribery and leading to the collapse of established parties.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>9/11 Attacks</string>
+        <string>A coordinated act of terrorism involving hijacked planes targeting key landmarks, causing massive destruction and global repercussions.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>City Bombings</string>
+        <string>A series of coordinated bombings have struck a major metropolitan area, causing civilian casualties and widespread panic. Authorities respond with heightened security measures, while public morale and social stability are affected.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Chernobyl disaster</string>
+        <string>A reactor explosion at the Chernobyl Nuclear Power Plant is releasing radioactive material into the environment.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Yellow west protest</string>
+        <string>Protesters in yellow vests are demonstrating across France, demanding economic reforms and lower fuel taxes, leading to widespread public gatherings and government responses.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Refugee Crisis</string>
+        <string>A mass migration of people seeking safety and better lives, posing humanitarian and political challenges.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Default</string>
+        <string>Your country experienced a systemic economic collapse and failed to meet its debt obligations, triggering severe financial instability, currency devaluation, and loss of investor confidence.</string>
+      </text>
+    </Item>
+  </Events>
+  <EventsGroups>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Crime</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Natural phenomena</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Disease</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Incident</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Economy</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Discovery</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Technology</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Institutions</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Achievements</string>
+      </text>
+    </Item>
+  </EventsGroups>
+  <Encyclopedia>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>What is Lawgivers II?</string>
+        <string>Lawgivers II is a political sandbox game that features multiple ways to run for elections, approve/reject bills and govern your country. \n\nEvery nation and culture across the globe has it's own point of view, history and way to rule. \n\nPlayers are invited to explore different systems and enjoy the heritage of our amazing world.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Does the game represent reality?</string>
+        <string>No. Even if the game has a world map featuring most nations, the content, behaviours and effects are purely fictional and only for entertainment purpose.\n\nTherefore this game does not in any way represent reality nor wants to suggest the correct way to rule a country. Politician names, parties, and more values are deliberately randomized.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Why early access?</string>
+        <string>As a solo developer, creating this game is a monumental task. The game involves intricate mechanics, multiple statistics, and the AI must perfectly complement the gameplay. Therefore, the game will remain in early access for an extended period to ensure a polished and satisfying political sandbox experience for everyone.\n\nThank you for joining me on this adventure :)\n\n- Damian</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>How to play?</string>
+        <string>The players are in control of a chosen person which can candidate for election, take control of a party and eventually become the president/ruler of a nation.\n\nCurrently the player starts as secretary of the party.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>What is the goal of the game?</string>
+        <string>Lawgivers II is a sandbox game that allows players to experiment and test their policies throughout recent history in order to survive politically.\n\nHowever, there are three specific ways to achieve victory within the game: By pursuing personal gains, party influence or national prestige.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Citizen's attention</string>
+        <string>During or after major events and elections, citizens tend to pay more attention to current events and political actions. This can be an opportune time to take action, as your efforts may be more likely to be noticed and have an impact.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Citizen's priorities</string>
+        <string>The priorities of a population can vary significantly and may shift after significant events or with the emergence of new generations. It's important to recognize that these changes may influence the needs and interests of your audience, and to adapt your strategies accordingly to effectively reach and engage with them.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Close windows</string>
+        <string>To close all open windows, simply press and hold the close button on the last window that was opened for 2 seconds. This action will automatically close all open windows.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Tooltips</string>
+        <string>To display tooltips, press and keep holding on an interface element.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Is the game moddable?</string>
+        <string>Everything from nations, parties, laws to events is editable. You can also import politicians and customize their appearance. Join our community on discord to learn more about modding.\n\nMods are only available on PC.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>How to write a new bill?</string>
+        <string>Open a week on calendar and select "Write a new bill" $i6.0 button to create a new bill. Choose the articles $i6.3 to add and check out the changes it will produce once in force.\n\nAfter that, choose a member of the party to write this law and confirm to plan it.\n\nOnce the writing time passed, the law has been written and can be proposed to a committee $i6.14.\n\nExperienced $i10.5 lawmakers will write a bill faster.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>How to approve a bill?</string>
+        <string>Once a law is written, it can be proposed to the competent committee by a lawmaker $i6.14. Be sure to have at least a lawmaker in the required committee.\n\nLawmakers can vote to approve, abstain or reject a law.\n\nIf the committee approves, the bill goes forward to the plenary of the parliament/congress $i6.19 for the final vote.\n\nIf the parliament/congress approves as well, the president or monarch has to sign the bill $i6.18. If the bill has been signed, it will enter force within an implementation time $i1.0.\n\nExperienced governments will implement or remove laws faster.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Parliament</string>
+        <string>A parliament/congress $i4.4 is a legislative body of a nation where laws are debated, passed or rejected. It is composed of elected or nominated representatives and plays the pivotal role in shaping policies, scrutinizing the government, and controlling finances. The structure and powers are defined with constitutional laws $i6.12 and vary across different countries.\n\nIn the modern world, a parliament can be either unicameral or bicameral. The lower chamber is called lower house, and the higher chamber is called the upper house.\n\nEach chamber elects a speaker of the house who regulates speaking time and bill discussions. In some countries, like USA, the vice president is the speaker of the upper house as well.\n\nCompetencies are distributed among committees to deliberate on significant matters.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>How to get more support from voters?</string>
+        <string>To attract more voters, release statements $i9.3 with your politicians, run electoral campaigns $i4.32, write and propose popular bills $i6.0, participate to debates $i4.14, and once you are in the government, implement measures $i4.20 that garner public approval.\n\nMake use of polls $i4.5 to gain insights into the needs and desires of citizens.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Committees</string>
+        <string>A committee $i4.11 is a group of individuals appointed by the parliament $i4.4 to preliminarly evaluate the bills before they continue their legislative process.\n\n</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Government</string>
+        <string>The government $i4.3 is the executive branch of the nation and it's role is to establish and enforce laws, provide public services, and protect the rights and well-being of its citizens.\n\nThe government is comprised of various departments, each headed by a secretary or minister, responsible for overseeing specific areas of governance and administration.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Lawmakers</string>
+        <string>A lawmaker (also called legislator) $i10.2 is an elected representative, who has the authority to create, amend, and repeal laws in a legislative body, such as the parliament/congress.\n\nLawmakers engage in both legislative and investigative committees of the lower and upper house.\n\nMembers of the lower house are commonly referred to as deputies, while those of the upper house are known as senators.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Speaker</string>
+        <string>The speaker $i4.10 is the presiding officer of a legislative body's, responsible for managing debates, maintaining order, and representing the parliament.\n\nUtilize the speaker's capabilities $i4.23 to either pre or postpone events on the calendar.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>How to remove a bill?</string>
+        <string>To remove an existing law, you need to have a lawmaker in the required committe and propose the removal $i6.2.\n\nIf the committee approves the removal, the law goes forward to the plenary for the final vote $i6.21. If the parliament/congress approves it too, the president/monarch will have the final signature $i6.22. When it's signed, the law is removed after the removal time has passed $i1.0.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>How does election work?</string>
+        <string>Every nation in the game has a different election system $i4.0. The election rules can be adjusted as well during game with constitutional bills $i6.12.\n\nWhen a new election campaign starts you need to choose a few candidates for the constituencies. Choose members with the best stats carefully to increase your chances of winning elections.\n\nIf you need, make use of the autofill button to fill the remaining seats and complete the process faster.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>I've found a bug, what should I do?</string>
+        <string>Lawgivers II is a sandbox game. Therefore it's more prone to errors than linear game designs, as the ingame rules can be changed too. But that's the fun, isn't it?\n\nAny help is appreciated by reporting bugs with the game feedback option (pause menu) or directly on our #discord.discord in feedback-bugs channel.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>May Lawivers II be used for education?</string>
+        <string>Absolutely not, the game is innacurate and does not represent reality.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Elections</string>
+        <string>An election $i4.0 is a formal process where people vote to choose leaders or make decisions on specific issues. It's a fundamental part of democracy, allowing citizens to have a say in governance.\n\nElections often involve campaigns, during which candidates or groups promote their ideas, values, and plans for the future. This communication helps voters make informed decisions.\n\nElections can be held at various levels, from local community decisions to national leadership choices. They are a vital way for people to participate in shaping the policies and direction of their society.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Constituencies</string>
+        <string>Constituencies $i6.13 are used to divide a country, into smaller, manageable units for the purpose of representation. Each constituency typically elects one or more representatives, depending on the electoral system in place.\n\nConstituencies can be edited ingame and included with a new constitutional law to regulation election.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Money</string>
+        <string>Money $i9.4 is utilized by parties to plan activities on the game calendar, hire new members, conduct polls, release statements, writing bills, etc.\n\nTo obtain additional funds, parties may choose to take out a loan or organize fundraising campaigns $i4.32.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Black money</string>
+        <string>Black money $i9.5 refers to unofficial funds used by parties to engage in unethical activities, such as buying votes for a bill in parliament or intimidating other politicians.\n\nObtain more black funds by stealing from the national budget, but be aware that this operation might lead to a scandal $i4.28.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Happiness</string>
+        <string>Happiness $i6.4 ensures for the country the  nation's stability, preventing protests $i4.13, and maintaining effective governance.\n\nFulfilling citizens' demands and providing essential resources and services are key steps toward fostering greater happiness within the population.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>How to form a coalition?</string>
+        <string>In parliamentary systems, winning an election may not guarantee a majority to form a government. To address this situation, you can propose a coalition $i4.24, and allocate ministerial positions or secretaries to other parties in order to secure their support.\n\nYour government will need to pass a vote of confidence in parliament to become operational $i4.23.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Science</string>
+        <string>Science $i4.6 is used to complete research and unlock new laws, buildings, etc.\n\nWhen there are no more research left to perform, science will generate additional income $i6.7 to country's budget.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>GDP</string>
+        <string>Gross Domestic Product (GDP) $i6.8 is a key economic indicator that measures the total value of goods and services produced within a country. It is used to evaluate and compare economic performance.\n\nGDP is affecting resource production $i6.36 in the country.\n\nGDP per capita $i6.37 is the average value of goods and service produced per person in the country.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Polls</string>
+        <string>Polls $i4.5 are surveys designed to gather opinions or feedback on specific topics by asking individuals a set of predetermined questions.\n\nUtilize polls to understand citizens' election preferences and prioritize their concerns effectively.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Measures</string>
+        <string>Swiftly enacted by ministers or secretaries $i4.20, these measures aim to adjust parameters within the country, all while adhering to budgetary constraints.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Buildings</string>
+        <string>Smilar to laws, buildings $i6.20 are changing parameters in your country.\n\nEach government has the authority to construct $i4.8 or dismantle $i4.27 a predetermined number of buildings.\n\nBuildings might get destroyed during a missile attack $i4.18 or military aggression $i5.7.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Categories</string>
+        <string>Each country's population is segmented into various categories $i13.0, such as students, entrepreneurs, and others.\n\nEfforts to attract these specific voter segments can lead to increased support during elections $i4.0 and fundraises $i4.26.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Laws</string>
+        <string>When a bill becomes law it will alter various national parameters such as happiness $i6.4 and GDP $i6.8. Tax-related laws generate revenue $i6.7, while other laws are likely to incur costs $i6.10 to the national budget.\n\nLaws are categorized as either ordinary $i6.0 or constitutional $i6.12. Constitutional laws alter significant functions within a country and usually necessitate a larger parliamentary majority for approval.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Treaties</string>
+        <string>A treaty $i6.17 is a specialized law designed to regulate relations between nations.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>How is the game saved?</string>
+        <string>The game is only saved at the end of each turn $i1.0.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Currency</string>
+        <string>Every country has it's own currency $i5.2.\n\nEvents $i4.7 and conditions in country may trigger inflation which will raise the praises of actions ingame.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Events</string>
+        <string>Events $i5.8 are influencing parameters $i4.35 in the country. There can be positive $i4.30 and negative $i4.7 events.\n\nSome laws and measures might reduce the impact and frequency of events.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Supreme court</string>
+        <string>The Supreme Court is convened to increase, maintain, reduce, or absolve the sentence $i4.31 for scandals $i4.28.\n\nIf judged guilty, the person either pays a fine or goes to prison $i8.3.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Scandal</string>
+        <string>A scandal $i4.28 may occur if too many immoral activities have been committed.\n\nIf there is sufficient evidence, the Supreme Court will rule on the case and issue a sentence to punish those involved in the scandal.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Actions</string>
+        <string>Actions $i9.9 are consumed when planning an event on the calendar, performing a special action with your party, or carrying out a special action with a person.\n\nAction points are earned every turn according to game rules.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Parameters</string>
+        <string>Parameters $i4.35 significantly impact key variables in your country, such as happiness $i6.4, stability $i5.9, and GDP $i6.8. Changes in laws, government policies, or events can alter these parameters.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Stability</string>
+        <string>Low stability $i5.9 increases the likelihood of protests $i4.13 and, if prolonged, heightens the risk of revolution $i4.7.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Filibustering</string>
+        <string>A political tactic where lawmakers delay or block legislative action, often by making prolonged speeches, to prevent a vote from taking place.\n\nLawmakers participating in Filibustering will loose a lot of energy.</string>
+      </text>
+    </Item>
+  </Encyclopedia>
+  <Ideologies>
+    <Item>
+      <text>
+        <string />
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Fiscal conservatism</string>
+        <string>An economic philosophy that advocates for minimized government spending, low tax rates, and reduced government debt.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Social conservatism</string>
+        <string>An ideological stance favoring traditional values and norms, often emphasizing religion, morality, and the family structure.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Libertarianism</string>
+        <string>Advocates for minimal government intervention in personal and economic liberties, endorsing free-market capitalism and individual rights.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Centrism</string>
+        <string>Advocates for a balanced mix of social and fiscal policies from both left and right wing ideologies, seeking middle-ground solutions.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Right-wing populism</string>
+        <string>Champions the rights and power of the common people against a perceived corrupt elite, typically with a right-wing nationalist orientation.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Modern liberalism</string>
+        <string>Advocates for social justice, civil rights, and economic intervention, emphasizing government's role in alleviating social inequities.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Social liberalism</string>
+        <string>Advocates for government intervention to ensure social justice, civil rights, and individual freedom, alongside a regulated free-market system.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Left-wing populism</string>
+        <string>Favors socioeconomic equality, advocating for the rights of the common people against perceived elites.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Environmentalism</string>
+        <string>Advocates for the protection of the environment through sustainable practices, focusing on issues like climate change and biodiversity.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Social democracy</string>
+        <string>Champions social justice within the framework of a capitalist economy, supporting welfare state provisions and a mixed economy.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Neoliberalism</string>
+        <string>Advocates for liberalization of economic policies, promoting free-market systems, privatization, deregulation, and enhanced role of the private sector.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Regionalism</string>
+        <string>Advocates for the political or economic interests of a particular region, often in the context of decentralization or devolution.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Nationalism</string>
+        <string>Favors the interests of a particular nation (or the belief that a nation should act independently), often emphasizing shared culture, language, or ethnicity.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Collectivism</string>
+        <string>Prioritizes the needs, goals, and well-being of the group or society over individual interests, emphasizing cooperation, shared responsibility, and communal decision-making.</string>
+      </text>
+    </Item>
+  </Ideologies>
+  <Institutions>
+    <string />
+    <string>Presidency</string>
+    <string>Government</string>
+    <string>Lower House</string>
+    <string>Upper House</string>
+    <string>Supreme Court</string>
+    <string>Debate Hall</string>
+    <string>Monarchy</string>
+  </Institutions>
+  <Jobs>
+    <string />
+    <string>Unemployed</string>
+    <string>Lawyer</string>
+    <string>Chef</string>
+    <string>Soldier</string>
+    <string>Bus Driver</string>
+    <string>Astronaut</string>
+    <string>Doctor</string>
+    <string>Banker</string>
+    <string>Investor</string>
+    <string>Electrician</string>
+    <string>Builder</string>
+    <string>Athlete</string>
+    <string>Comedian</string>
+    <string>Politician</string>
+    <string>Scientist</string>
+    <string>Engineer</string>
+    <string>Judge</string>
+    <string>Nurse</string>
+    <string>Salesperson</string>
+    <string>Waiter</string>
+    <string>Electrical Engineer</string>
+    <string>Mechanical Engineer</string>
+    <string>Computer Scientist</string>
+    <string>Journalist</string>
+    <string>Businessperson</string>
+    <string>Police officer</string>
+    <string>Baker</string>
+    <string>Professor</string>
+    <string>Software Developer</string>
+    <string>Actor</string>
+    <string>Social worker</string>
+    <string>Student</string>
+    <string>Researcher</string>
+    <string>Royal Family Member</string>
+    <string>Architect</string>
+    <string>Pharmacist</string>
+    <string>Marketing Manager</string>
+    <string>Veterinarian</string>
+    <string>Librarian</string>
+    <string>Financial Analyst</string>
+    <string>Pilot</string>
+    <string>Physical Therapist</string>
+    <string>Real Estate Agent</string>
+    <string>Photographer</string>
+    <string>Biomedical Engineer</string>
+    <string>Firefighter</string>
+    <string>Interpreter</string>
+    <string>Fashion Designer</string>
+    <string>Geologist</string>
+    <string>Musician</string>
+    <string>Zoologist</string>
+    <string>Tour Guide</string>
+    <string>Meteorologist</string>
+    <string>Truck Driver</string>
+    <string>Farmer</string>
+    <string>Archeologist</string>
+    <string>Historian</string>
+    <string>Accountant</string>
+    <string>Plumber</string>
+    <string>Carpenter</string>
+    <string>Mechanic</string>
+    <string>Writer</string>
+    <string>Entrepreneur</string>
+    <string>Astronomer</string>
+    <string>School Teacher</string>
+    <string>Trainer</string>
+    <string>Security Guard</string>
+  </Jobs>
+  <Laws>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Lower House</string>
+        <string>It's the primary legislative body, often directly elected by the public, and typically responsible for drafting and approving laws.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Agricultural subsidies</string>
+        <string>Despite being the world's food providers, many farmers struggle financially. Implementing subsidies can stimulate production and ensure their sustainability.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Sales Tax</string>
+        <string>Sales tax is a tax added to the cost of goods and services at the point of sale. It's a percentage of the purchase price and collected by the seller for the government.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Government</string>
+        <string>The government is the organized group that sets policies, makes laws, and administers affairs for a community or state.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Nation</string>
+        <string>Regulation of the fundamental features and traits of the nation.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Upper house</string>
+        <string>In a bicameral parliament is the senior legislative body, responsible for reviewing laws and scrutinizing government actions.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Presidency</string>
+        <string>Regulation of the election and requirements to become the president of the nation.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Robbery penalties</string>
+        <string>It's a crime where and individual or group is stealing something valuable by force.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Primary education</string>
+        <string>The initial stage of formal schooling, equipping children with foundational knowledge and skills for further learning.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Trade agreement</string>
+        <string>Facilitates the exchange of goods and services between countries by reducing tariffs and other barriers.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Public house program</string>
+        <string>Established to provide decent homes for eligible low-income families, the elderly, or persons with disabilities.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Secondary education</string>
+        <string>Secondary education is the level of education that comes after primary education and prepares students for higher education or work.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>National holidays</string>
+        <string>Designates official public holidays, regulating time off and compensation for workers during these days</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Retirement plan</string>
+        <string>Government program that offer financial benefits to eligible individuals once they reach a certain age or meet specific criteria.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Working regulation</string>
+        <string>Sets employment terms like hours, wages, and safety, protecting worker rights and ensuring a fair work environment.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Natural parks</string>
+        <string>The Natural Parks law protects natural areas and regulates activities for conservation and public access.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Banking system</string>
+        <string>Is a network of financial institutions that provides various services, such as depositing, borrowing, and investing money, and plays a crucial role in the economy.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Police regulation</string>
+        <string>Rules and guidelines concerning the organization, powers, and duties of the police force.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Fundamental rights</string>
+        <string>Essential human rights protected by a country's constitution, such as the right to life, freedom of speech, and privacy, ensuring equality and dignity for all.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Income tax</string>
+        <string>A tax imposed on income or profits of individual citizens.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Mutual defence agreement</string>
+        <string>A mutual defense treaty is an agreement between countries to support each other militarily if one is attacked.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Landlords and tenant rights</string>
+        <string>Landlords have the right to receive rent and maintain the property, while tenants have the right to a habitable living space, privacy, and a fair lease agreement.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Border security and immigration</string>
+        <string>Governs immigration and determines who can enter, reside, and work in the country.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Corporate tax</string>
+        <string>A direct tax on the income of corporations and companies usually applied on national level.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Wealth tax</string>
+        <string>Imposed on individual net wealth and the value of their total owned assets minus liabilities.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Armament Production</string>
+        <string>Designed to significantly increase the nation's manufacturing capabilities for defense equipment and weaponry through government funding, incentives, and regulatory support.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Martial law</string>
+        <string>A temporary state of control where military authorities take over the governance of a country, usually in response to a crisis such as widespread civil unrest, natural disasters, or threats to national security.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Military service</string>
+        <string>Joining the armed forces involves training, disciplined service, and roles like combat, support, or humanitarian missions to defend the country.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Driving license</string>
+        <string>Each citizen needs to have a drive permit to circulate on roads.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Economic stimulus</string>
+        <string>Designed to boost economic activity, typically through government spending, tax cuts, or financial incentives, to counteract economic downturns and promote growth</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Tourism regulation</string>
+        <string>Regulate the movements of people to visit the country.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Animal rights</string>
+        <string>The belief in ethical treatment and protection of animals, acknowledging their capacity to suffer and promoting their welfare.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Cultural subsidies</string>
+        <string>Promote cultural interest in local traditions, music, food and art.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Bill approval process</string>
+        <string>Regulation of the process and majority required to pass a bill.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Food regulation</string>
+        <string>Provides essential information for customers, food safety and process control.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Firearms regulation</string>
+        <string>Regulate the manufacture, sale, possession and use of firearms by citizens.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Family planning policies</string>
+        <string>Measures concerning parental leave, child benefits and daily care.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Inheritance tax</string>
+        <string>Government levy on assets left to heirs after someone's death. The tax amount depends on the total value of the estate.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Public health care</string>
+        <string>Healthcare services provided and funded by the government to ensure equal access to healthcare for all citizens.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Governor</string>
+        <string>Regulation of the election and requirements to become the governor of this state/region.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Mayor</string>
+        <string>Regulation of the election and requirements to become the mayor of this city.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>World Trade Organization</string>
+        <string>Promotes international trade by negotiating agreements, resolving disputes, and monitoring policies between its member countries.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Party funding</string>
+        <string>A way for political parties to raise money for campaigns and management.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>World games</string>
+        <string>A global multi-sport event held every four years, showcasing elite athletic competition.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Shops regulation</string>
+        <string>Govern the operational aspects of retail businesses, including opening hours, employee working conditions, and consumer protection standards.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Tertiary education</string>
+        <string>Education beyond secondary schooling, providing specialized knowledge and skills for advanced careers and personal development.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Research cooperation</string>
+        <string>Collaborate with countries on scientific research, sharing resources and protecting intellectual property.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Space agency</string>
+        <string>An organization that manages and conducts activities related to space exploration and research.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Corporate regulation</string>
+        <string>Govern the activities of businesses to ensure compliance with legal, ethical, and economic standards, protecting public interests and promoting fair competition</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Industrial subsidies</string>
+        <string>Financial support from the government to specific industries to lower production costs, encourage growth, and increase competitiveness.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Solidarity fund</string>
+        <string>Provide financial assistance to individuals or communities in need, funded by collective contributions.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Murder penalties</string>
+        <string>Defines punishments for murder, including imprisonment or execution.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Property tax</string>
+        <string>A recurring fee levied by the government on real estate and other properties owned by individuals or entities, based on the assessed value of the property.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Vehicle tax</string>
+        <string>A government levy on motor vehicle ownership or use.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Public transport</string>
+        <string>An inclusive network of buses, trains, and other shared modes facilitating efficient urban and rural mobility, curbing congestion, and advancing sustainability goals.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Intellectual property</string>
+        <string>legal rights granted to creators and inventors to protect their inventions, literary and artistic works, designs, symbols, and other creations from unauthorized use or reproduction.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Privacy rights</string>
+        <string>Protect individuals' control over their personal information, ensuring it is collected, used, and shared in ways that respect their autonomy, dignity, and consent.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Gambling regulation</string>
+        <string>Governs the operation, licensing, and oversight of gambling activities to ensure fairness and prevent fraud or exploitation.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Marriage law</string>
+        <string>Regulates the legal requirements for marriage, spousal rights and duties, and divorce procedures, including property division, alimony, and child custody.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Capital gains tax</string>
+        <string>Tax on the profit made from selling assets or investments, such as stocks, real estate, or businesses, that have increased in value since they were purchased.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Sin taxes</string>
+        <string>Imposed on goods or activities considered harmful to society, such as tobacco and alcohol, to discourage their use and generate public revenue.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Gift tax</string>
+        <string>A tax applied to the transfer of property or money from one person to another.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Hunting regulation</string>
+        <string>Rules that oversee hunting practices, including season timing, permissible species, methods, licensing, and safety measures.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Fishing regulation</string>
+        <string>Set by authorities to manage fish populations and protect ecosystems, including limits on seasons, quotas, gear, and species.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Waste management</string>
+        <string>Regulates the disposal, treatment, and reduction of waste to protect health and the environment.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Media broadcasting</string>
+        <string>Legal regulations and rules governing the distribution and transmission of content through various forms of media, such as television, radio, and online platforms.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Energy policy</string>
+        <string>Establish guidelines for managing various aspects of energy production, distribution, and consumption to achieve specific societal and economic objectives.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Supreme court</string>
+        <string>The highest judicial authority, where justices interpret the Constitution and establish legal precedents that shape the nation's laws.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Basic income</string>
+        <string>A program that provides regular cash payments to all citizens or residents, regardless of their income or employment status, to help cover essential living expenses.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Drug policy</string>
+        <string>Legal framework that controls the approval, distribution, and use of medications, including enforcing bans on certain substances to ensure public safety</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Weather monitoring</string>
+        <string>The process of tracking atmospheric conditions to forecast weather changes and trends using various instruments and technologies.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Citizenship and passport</string>
+        <string>Outlines the criteria for obtaining citizenship, the process for applying for and renewing passports, and the rights and responsibilities associated with citizenship.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Bailout</string>
+        <string>Financial assistance provided to prevent the collapse of a struggling company or institution, often deemed too important to fail.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Building regulation</string>
+        <string>Standards for construction, design, and safety of structures to ensure they meet health, safety, and environmental requirements.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Church tax</string>
+        <string>Government deducts a portion of individuals' income tax and allocates it to their registered church for funding religious activities and operations.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Pet ownership regulation</string>
+        <string>Rules for pet ownership, including vaccination, registration, and care standards, to ensure animal welfare and public safety.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Sports leagues</string>
+        <string>Regulate the organization, governance, and operation of professional and amateur sports leagues.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>National lottery</string>
+        <string>Governs the operation and fund distribution of the national lottery, ensuring fairness and transparency.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Public events regulation</string>
+        <string>Sets rules for organizing and managing public gatherings to ensure safety, security, and compliance with laws.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Postal service</string>
+        <string>Facilitate the collection, transportation, and delivery of mail and packages to recipients across local, national, and international destinations.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Referendum</string>
+        <string>Allows citizens to vote directly on a specific issue or policy, enabling them to approve or reject proposed laws or constitutional changes.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Public libraries</string>
+        <string>Standards for managing libraries, providing access to resources, and ensuring they fulfill the educational and cultural needs of the community.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Retirement homes</string>
+        <string>Regulates the operation and care standards of facilities for elderly residents.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Prison regulation</string>
+        <string>Governs the management, rights, and treatment of inmates, as well as the operation of correctional facilities to ensure security, order, and compliance with legal standards.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Territory development</string>
+        <string>Is the targeted improvement of specific areas for overall progress and sustainability.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Press regulation</string>
+        <string>Governs the conduct, content, and operations of media outlets to ensure accuracy, fairness, and accountability while balancing freedom of speech and public interest.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Smart city regulation</string>
+        <string>Sets guidelines for using technology and data in urban areas to improve services and safeguard citizens' rights.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Veterans support</string>
+        <string>Provides benefits, services, and protections for military veterans and their families.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Light pollution measures</string>
+        <string>Measure to reduce excessive nighttime lighting through shielded fixtures, timers, and public awareness to protect dark skies.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Fuel tax</string>
+        <string>A levy on fuel sales to fund public projects or reduce fuel use.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Monetary Union</string>
+        <string>Agreement between two or more countries to share a common currency and coordinate monetary policy to facilitate economic integration and stability.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Traffic rules</string>
+        <string>Regulates the movement and behavior of vehicles, pedestrians, and road users to ensure safety and order on roads.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Utilities regulations</string>
+        <string>Governs public utilities to ensure fair pricing, access, and service under government oversight.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Administrative divisions</string>
+        <string>Regulates the relationship between the central government and local subdivisions.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Marine conservation</string>
+        <string>Protects ocean ecosystems and species through regulations and sustainable practices</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Tax collection agency</string>
+        <string>Authority that collects taxes from individuals and businesses.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Monarchy</string>
+        <string>A form of government where a single individual, usually a king or queen, holds supreme power and authority over the state.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Manufacturing regulation</string>
+        <string>Oversee product safety, environmental impact, quality control, and labor practices, ensuring responsible and safe production.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Central bank</string>
+        <string>Primary financial authority, overseeing money supply, monetary policy, and often the issuance of currency.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Civil protection</string>
+        <string>Governs emergency management, focusing on preparedness, response, and recovery to ensure public safety during crises.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Public administration</string>
+        <string>Regulates the organization and operation of government agencies to ensure accountability and efficiency.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Parties regulation</string>
+        <string>Legal frameworks that govern the formation, activities, and regulation of political parties.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Fundamental duties</string>
+        <string>Citizens' constitutional duties to uphold national integrity, harmony, and heritage.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Stock Exchange</string>
+        <string>Governs the issuance, trading, and disclosure of securities to protect investors and ensure fair market practices.</string>
+      </text>
+    </Item>
+  </Laws>
+  <LawArticles>
+    <string />
+    <string>Parliament seats</string>
+    <string>Election system</string>
+    <string>Election frequency</string>
+    <string>Election threshold</string>
+    <string>Extra bureaucracy control</string>
+    <string>Goods and Services</string>
+    <string>Form of government</string>
+    <string>Presidential election</string>
+    <string>Building</string>
+    <string>Flag</string>
+    <string>Election frequency</string>
+    <string>Head of government</string>
+    <string>Currency</string>
+    <string>Code</string>
+    <string>Capital</string>
+    <string>Limit subsidies to new farms</string>
+    <string>Legislation type</string>
+    <string>Electors</string>
+    <string>Eligible age</string>
+    <string>Voters age</string>
+    <string>Parliament shape</string>
+    <string>Committees seats</string>
+    <string>Food</string>
+    <string>Income bracket</string>
+    <string>Groceries</string>
+    <string>Defence coordination</string>
+    <string>Committee</string>
+    <string>Constituencies</string>
+    <string>Government shape</string>
+    <string>Vice-President</string>
+    <string>Requirements</string>
+    <string>Unarmed robbery</string>
+    <string>Armed robbery</string>
+    <string>Hate speech regulation</string>
+    <string>Protection of sources</string>
+    <string>Fire safety</string>
+    <string>Tax rate</string>
+    <string>Confidence</string>
+    <string>Term limit</string>
+    <string>Service</string>
+    <string>Military exercises</string>
+    <string>Base annual salary</string>
+    <string>Government member name</string>
+    <string>Stay permit</string>
+    <string>Visa Requirement</string>
+    <string>Form of nation</string>
+    <string>Name</string>
+    <string>Ordinary laws</string>
+    <string>Constitutional laws</string>
+    <string>Travel insurance</string>
+    <string>Driving age</string>
+    <string>Extended exam</string>
+    <string>Environment education</string>
+    <string>Religion subject</string>
+    <string>Additional physical activities</string>
+    <string>Sex education</string>
+    <string>First aid course</string>
+    <string>International exhibitions</string>
+    <string>Minorities protection</string>
+    <string>Free museums</string>
+    <string>Men retirement age</string>
+    <string>Women retirement age</string>
+    <string>Minimum age</string>
+    <string>Involuntary manslaughter</string>
+    <string>Voluntary manslaughter</string>
+    <string>Competences</string>
+    <string>Preferences</string>
+    <string>Funding</string>
+    <string>Sports competitions</string>
+    <string>Educational trips</string>
+    <string>Study aboard plans</string>
+    <string>Scolarships</string>
+    <string>Field trips</string>
+    <string>Ownership tax</string>
+    <string>Transfer tax</string>
+    <string>Universal health coverage</string>
+    <string>Non-urgent care fees</string>
+    <string>Helicopter rescue</string>
+    <string>Homeless shelters</string>
+    <string>High Tech farming</string>
+    <string>GMO Ban</string>
+    <string>Day care</string>
+    <string>Maternal leave</string>
+    <string>Paternal leave</string>
+    <string>Child benefits</string>
+    <string>Population planning</string>
+    <string>Abstain</string>
+    <string>Postal voting</string>
+    <string>Entrance fees</string>
+    <string>Wildlife and habitats research</string>
+    <string>Endangered species protection</string>
+    <string>Capital requirements</string>
+    <string>Consumer protection</string>
+    <string>Tax exemption for green vehicles</string>
+    <string>Training program</string>
+    <string>Free public transport</string>
+    <string>Barrier-free design</string>
+    <string>Maintenance costs</string>
+    <string>Laboratories sharing</string>
+    <string>Opening times</string>
+    <string>Weapon</string>
+    <string>Banking secrecy</string>
+    <string>Mandatory training course</string>
+    <string>Ban assault weapons</string>
+    <string>Background checks</string>
+    <string>Daylight saving time</string>
+    <string>Distribution</string>
+    <string>Asylum policy</string>
+    <string>Autonomy</string>
+    <string>Transparency taxes distribution</string>
+    <string>Late payment penalties</string>
+    <string>Loss of passport privilege</string>
+    <string>Denial of government benefits</string>
+    <string>Sugary drink tax</string>
+    <string>Labeling Requirements</string>
+    <string>Traceability and Recall Procedures</string>
+    <string>Ban animal testing</string>
+    <string>Regulate animal entertainment</string>
+    <string>Microchipping and registration</string>
+    <string>Prohibit ownership of exotic pets</string>
+    <string>Fishing license</string>
+    <string>Protected areas</string>
+    <string>National week</string>
+    <string>Minimum annual leave</string>
+    <string>Workplace privacy</string>
+    <string>Safety rules</string>
+    <string>Election classes</string>
+    <string>Speaker election</string>
+    <string>Body cams</string>
+    <string>Satellite monitoring</string>
+    <string>Constituency seats</string>
+    <string>Allow nuclear energy</string>
+    <string>Participating in protests is prohibited</string>
+    <string>Election debate</string>
+    <string>Tax rate</string>
+    <string>Member name</string>
+    <string>Immigration severity level</string>
+    <string>Minimum wage</string>
+    <string>Employment agencies</string>
+    <string>Employment protection</string>
+    <string>Sustainable batteries production</string>
+    <string>Energy efficiency labels</string>
+    <string>Interest rates</string>
+    <string>Rental contribution</string>
+    <string>Economic support</string>
+    <string>Hunting license</string>
+    <string>Hunting seasons</string>
+    <string>Football league</string>
+    <string>Basketball league</string>
+    <string>Tennis league</string>
+    <string>Tax rate</string>
+    <string>Product</string>
+    <string>Censorship</string>
+    <string>Mathematical olympiad</string>
+    <string>Promote healthy habits</string>
+    <string>Satellite broadband</string>
+    <string>Allow money laundering</string>
+    <string>Nighttime curefew</string>
+    <string>Cloud seeding</string>
+    <string>Judges number</string>
+    <string>Eligible age</string>
+    <string>Political education</string>
+    <string>Investigations prohibited</string>
+    <string>Free access public information and records</string>
+    <string>Promote public free wifi</string>
+    <string>Prenuptial agreement</string>
+    <string>Fundraise</string>
+    <string>Bicameral vote</string>
+    <string>Smoking ban</string>
+    <string>Driving alcohol limit</string>
+    <string>Surcharge on luxury cars</string>
+    <string>Car ownership permit</string>
+    <string>Wireless warning system</string>
+    <string>E-government</string>
+    <string>Naturalization period</string>
+    <string>Language proficiency requirement</string>
+    <string>Nighttime light reduction</string>
+    <string>Mandatory LED street lights</string>
+    <string>Copyright laws</string>
+    <string>Trademark duration</string>
+    <string>Urban speed limit</string>
+    <string>Seat belt requirement</string>
+    <string>Energy efficiency</string>
+    <string>Rehabilitation and education</string>
+    <string>Health and medical care</string>
+    <string>Consent requirement</string>
+    <string>Right to be forgotten</string>
+    <string>Tax rate</string>
+    <string>Fireworks prohibition</string>
+    <string>Allow street performers</string>
+    <string>Antitrust policy</string>
+    <string>Diversity and inclusion program</string>
+    <string>Take action against draft evaders</string>
+    <string>Education and awareness campaign</string>
+    <string>President may dissolve parliaments</string>
+    <string>Alcohol tax</string>
+    <string>Tobacco tax</string>
+    <string>Plastic bag tax</string>
+    <string>Bachelor tax</string>
+    <string>Tax rate</string>
+    <string>Tax rate</string>
+    <string>Spatial planning</string>
+    <string>Immunity</string>
+    <string>Powers</string>
+    <string>Freedom of speech</string>
+    <string>Right to fair legal process</string>
+    <string>Freedom of religion</string>
+    <string>Right to education</string>
+    <string>Nomination system</string>
+    <string>Tourism promotion</string>
+    <string>Allow driverless vehicles</string>
+    <string>Smart traffic lights</string>
+    <string>Centralized data monitor</string>
+    <string>Defend the nation</string>
+    <string>Obey the law</string>
+    <string>Pay taxes</string>
+    <string>Startup fund</string>
+    <string>Hiring  incentive</string>
+    <string>Inflation containment</string>
+    <string>Annual military parade</string>
+    <string>Secondary level administration</string>
+    <string>Monopoly prevention</string>
+    <string>Low-income utility rate ceiling</string>
+    <string>Energy shortage prevention</string>
+    <string>Prohibit the formation of new parties</string>
+    <string>Allow filibustering</string>
+    <string>Allow dual citizenship</string>
+    <string>Lobby transparency register</string>
+    <string>Family support</string>
+    <string>Reintegration program</string>
+    <string>Whistleblower protection</string>
+    <string>Cyber security force</string>
+    <string>Tourist tax</string>
+    <string>Supervision authority</string>
+  </LawArticles>
+  <LawCommas>
+    <string />
+    <string>3 years</string>
+    <string>1 year</string>
+    <string>Majoritarian</string>
+    <string>Proportional (Nation)</string>
+    <string>Proportional (Region)</string>
+    <string>2 years</string>
+    <string>Presidential republic</string>
+    <string>Semi-presidential republic</string>
+    <string>Parliamentary republic</string>
+    <string>Constitutional monarchy</string>
+    <string>President elected directly by citizens</string>
+    <string>President elected directly by citizens with runoff</string>
+    <string>President elected by citizens trough big electors</string>
+    <string>President chosen by the parliament</string>
+    <string>4 years</string>
+    <string>President is as well head of government</string>
+    <string>Prime Minister chosen by parliament</string>
+    <string>Chancellor chosen by parliament</string>
+    <string>Unicameral</string>
+    <string>Bicameral</string>
+    <string>Semicircle</string>
+    <string>FaceToFace</string>
+    <string>Only indoor public spaces</string>
+    <string>Indoor and outdoor public spaces</string>
+    <string>0.05%</string>
+    <string>Zero</string>
+    <string>5 years</string>
+    <string>10 years</string>
+    <string>Elected with President</string>
+    <string>Natural-born citizen of the country</string>
+    <string>Circular</string>
+    <string>Elliptical</string>
+    <string>2 - 5 years</string>
+    <string>3 - 6 years</string>
+    <string>5 - 30 years</string>
+    <string>10 years to lifetime</string>
+    <string>Requires an absolute majority confidence vote</string>
+    <string>1 term</string>
+    <string>2 terms</string>
+    <string>3 terms</string>
+    <string>Directorial republic</string>
+    <string>Men</string>
+    <string>Women</string>
+    <string>Secretary</string>
+    <string>Minister</string>
+    <string>1 Month</string>
+    <string>3 Months</string>
+    <string>Unitary state</string>
+    <string>Federation</string>
+    <string>50% votes + 1</string>
+    <string>2/3 votes</string>
+    <string>Relative majority votes</string>
+    <string>3/4 votes</string>
+    <string>5 years</string>
+    <string>5 years</string>
+    <string>10 years</string>
+    <string>15 years</string>
+    <string>Lifetime senctence</string>
+    <string>Open only during day</string>
+    <string>Open 24 hours</string>
+    <string>Appointment by an independent commission</string>
+    <string>One-child policy</string>
+    <string>Two-children policy</string>
+    <string>Compulsory for everyone</string>
+    <string>Compulsory for men, volountary for women</string>
+    <string>Volountary</string>
+    <string>Counts as not participating</string>
+    <string>Counts as contrary vote</string>
+    <string>All active parties</string>
+    <string>Only parties with lawmakers</string>
+    <string>Limit to fines</string>
+    <string>Fines and in worse cases imprisonment</string>
+    <string>6 years</string>
+    <string>7 years</string>
+    <string>8 years</string>
+    <string>No annual leave</string>
+    <string>10 days</string>
+    <string>20 days</string>
+    <string>30 days</string>
+    <string>Prohibit employee surveillance</string>
+    <string>Allow employee monitoring</string>
+    <string>State delegation</string>
+    <string>Two classes</string>
+    <string>Three classes</string>
+    <string>Plenary election</string>
+    <string>Speaker is vice president</string>
+    <string>Ordinary</string>
+    <string>Extensive</string>
+    <string>Appointment</string>
+    <string>Member of the Parliament</string>
+    <string>Representative</string>
+    <string>Deputy</string>
+    <string>Senator</string>
+    <string>State representative</string>
+    <string>Lord</string>
+    <string>Unitary state with devolution</string>
+    <string>Low</string>
+    <string>Moderate</string>
+    <string>High</string>
+    <string>First past the post</string>
+    <string>Flexible</string>
+    <string>Stable</string>
+    <string>Comprehensive</string>
+    <string>Minimal</string>
+    <string>Moderate</string>
+    <string>Severe</string>
+    <string>Prime Minister chosen by president</string>
+    <string>All laws</string>
+    <string>Only constitutional laws</string>
+    <string>Strict</string>
+    <string>Permissive</string>
+    <string>10 years</string>
+    <string>20 years</string>
+    <string>Normal</string>
+    <string>Slow</string>
+    <string>Low</string>
+    <string>High</string>
+    <string>Moderate</string>
+    <string>High</string>
+    <string>Majoritarian with runoff</string>
+    <string>Requires a relative majority confidence vote</string>
+    <string>Grant pardon</string>
+    <string>Half majoritarian, half proportional</string>
+    <string>Elective</string>
+    <string>Non elective</string>
+  </LawCommas>
+  <Media>
+    <string />
+    <string>Wired News Network</string>
+    <string>Wolf News</string>
+    <string>The Grand York Tribune</string>
+    <string>The Wall Street Times</string>
+    <string>Deutsche Zeitung</string>
+    <string>Erster Kanal</string>
+    <string>The Shield</string>
+    <string>Channel One</string>
+    <string>The Voix</string>
+    <string>France Première</string>
+    <string>El Sol de España</string>
+    <string>TV Ibérica</string>
+    <string>Moscow News</string>
+    <string>Süden FM</string>
+    <string>Radio Lumière</string>
+    <string>Onda Viva</string>
+    <string>Canal Català</string>
+    <string>Rete Italia</string>
+    <string>Highland Sound</string>
+    <string>Costa Caliente FM</string>
+    <string>East Coast Wave</string>
+    <string>West Coast FM</string>
+    <string>Mid West Radio</string>
+    <string>BritSound FM</string>
+    <string>ConnectSphere</string>
+    <string>Polska Vision</string>
+    <string>Canada Today</string>
+    <string>Anatolia 1</string>
+  </Media>
+  <Messages />
+  <Missions>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Add law</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Remove law</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Promise to raise</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Promise to reduce</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Promise to lower taxes</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Promise to end the war</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Reform law</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Promise to support region/state</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Promise to mitigate the consequences</string>
+      </text>
+    </Item>
+  </Missions>
+  <Nations>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Italy</string>
+        <string>Palazzo del Quirinale</string>
+        <string>Palazzo Chigi</string>
+        <string>Palazzo Montecitorio</string>
+        <string>Palazzo Madama</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Spain</string>
+        <string>Palacio de la Zarzuela</string>
+        <string>Palacio de la Moncloa</string>
+        <string>Palacio de las Cortes</string>
+        <string>Senado</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>France</string>
+        <string>Palais de l'Élysée</string>
+        <string>Hôtel Matignon</string>
+        <string>Assemblée nationale</string>
+        <string>Senate</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>United Kingdom</string>
+        <string>Buckingham Palace</string>
+        <string>Palace of Westminster</string>
+        <string>House of Commons</string>
+        <string>House of Lords</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>United States</string>
+        <string>White House</string>
+        <string>Capitol</string>
+        <string>House of Representatives</string>
+        <string>Senate</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Germany</string>
+        <string>Bellevue Palace</string>
+        <string>Bundeskanzleramt</string>
+        <string>Bundestag</string>
+        <string>Bundesrat</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Russia</string>
+        <string>Kremlin</string>
+        <string>House of the Government</string>
+        <string>State Duma</string>
+        <string>Federal council</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Canada</string>
+        <string>Rideau Hall</string>
+        <string>24 Sussex Drive</string>
+        <string>House of Commons</string>
+        <string>Senate</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Portugal</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Switzerland</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Australia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Ireland</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Mexico</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Luxemburg</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Netherlands</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Austria</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Slovenia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Belgium</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Libya</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Czech Republic</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Croatia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Tunisia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Morocco</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Israel</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Albania</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Bosnia-Herzegovina</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Montenegro</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Algeria</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Egypt</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Palestine</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Syria</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Lebanon</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Jordan</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Saudi Arabia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Belize</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Guatemala</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Honduras</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Nicaragua</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>El Salvador</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Costa Rica</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Panama</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Iraq</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Western Sahara</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Mauritania</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Mali</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Niger</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Chad</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Sudan</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Ethiopia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Nigeria</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Senegal</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>The Gambia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Guinea Bissau</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Guinea</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Sierra Leone</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Liberia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Cote D'Ivoire</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Djibouti</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Burkina Faso</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Ghana</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Togo</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Benin</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Cameroon</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Central African Republic</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>South Sudan</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Somalia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Eritrea</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Kenya</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Uganda</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Equatorial Guinea</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Gabon</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Congo</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Democratic Republic of Congo</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Angola</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Zambia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Rwanda</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Burundi</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Tanzania</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Malawi</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Mozambique</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Zimbabwe</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Namibia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Botswana</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>South Africa</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Lesotho</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Swaziland</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Madagascar</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Yemen</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Qatar</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Oman</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>United Arab Emirates</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Kuwait</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Sao Tome and Principe</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Greece</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Denmark</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>North Macedonia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Serbia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Bulgaria</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Romania</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Slovakia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Hungary</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Colombia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Ecuador</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Venezuela</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Guyana</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Suriname</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>French Guiana</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Peru</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Chile</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Bolivia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Norway</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Sweden</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Finland</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Japan</string>
+        <string>Imperial Palace</string>
+        <string>Prime Minister's Office</string>
+        <string>House of Representatives</string>
+        <string>House of Councillors</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Taiwan</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>South Korea</string>
+        <string>Blue House</string>
+        <string>Prime Minister's Office</string>
+        <string>National Assembly</string>
+        <string>Senate</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>North Korea</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Vietnam</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Turkey</string>
+        <string>Presidential Complex</string>
+        <string>Grand National Assembly of Turkey</string>
+        <string>Assembly Hall</string>
+        <string>Senate of republic</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Georgia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Armenia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Azerbaijan</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Iran</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Cambodia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Laos</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Thailand</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Myanmar</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Buthan</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Bangladesh</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>India</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Nepal</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Pakistan</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Afghanistan</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Argentina</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Paraguay</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Uruguay</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Brazil</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Poland</string>
+        <string>Presidential Palace</string>
+        <string>Prime Minister's Office</string>
+        <string>Sejm Building</string>
+        <string>Senate Building</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Ukraine</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Belarus</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Lithuania</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Latvia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Estonia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Iceland</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Sri Lanka</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Cuba</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Malaysia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Singapore</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Brunei</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Jamaica</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Haiti</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Dominican Republic</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Puerto Rico</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Turkmenistan</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Uzbekistan</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Tajikistan</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Kyrgyzstan</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Philippines</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Indonesia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>New Zealand</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Papua New Guinea</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Solomon Islands</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>China</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Mongolia</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Kazakhstan</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Moldova</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Soviet Union</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>England</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Wales</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Scotland</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Northern Ireland</string>
+      </text>
+    </Item>
+  </Nations>
+  <ParametersGroups>
+    <string />
+    <string>Institutions</string>
+    <string>Housing</string>
+    <string>Safety</string>
+    <string>Education</string>
+    <string>Environment</string>
+    <string>Entertainment </string>
+    <string>Society</string>
+    <string>Economy</string>
+    <string>Health</string>
+    <string>Transport</string>
+  </ParametersGroups>
+  <Parameters>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Robberies</string>
+        <string>Crimes involving the unlawful taking of property from another person through force or threat.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Press Freedom</string>
+        <string>The right to express and publish ideas without government censorship or interference. It's crucial for democracy, allowing for the free flow of information and accountability.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Drug addiction</string>
+        <string>The percentage of a population diagnosed with substance use disorders, indicating the prevalence of drug addiction</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Water pollution</string>
+        <string>Involves harmful substances like plastics, oil, and waste entering rivers and ocean, damaging marine life, ecosystems, and potentially impacting human health.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Homeless</string>
+        <string>The state of living without a stable, permanent residence, often resulting from economic hardship, lack of affordable housing, or other systemic issues.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Murders</string>
+        <string>Intentional killings of one individual by another, typically characterized by premeditation and malice aforethought.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Home ownership</string>
+        <string>The state of possessing and living in one's own house or property, as opposed to renting or leasing it from someone else.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Property price</string>
+        <string>The average cost associated with purchasing a house or apartment, reflecting the typical market price for residential properties.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Rental price</string>
+        <string>The typical monthly expenditure required to lease a residential property, encompassing a range of housing types and reflecting regional market conditions.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Graduates</string>
+        <string>Percentage of the population with a university degree or higher.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Recycling</string>
+        <string>Is the conversion rate of waste into reusable materials to conserve resources.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Depression rate</string>
+        <string>A serious mental health disorder marked by persistent sadness, lack of interest, and difficulty functioning in daily life.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Shows and concerts</string>
+        <string>The number of concerts organized annually.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Tourist arrivals</string>
+        <string>The number of tourists visiting the country.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Unemployment</string>
+        <string>The number of people who are willing and able to work but are unable to find a job.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Innovation index</string>
+        <string>Measures innovation capacity and drives economic growth.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Public transport punctuality</string>
+        <string>Measures the reliability of public transportation services in arriving and departing according to their scheduled times, critical for assessing the efficiency and effectiveness of a transit network.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Bankruptcies</string>
+        <string>The bankruptcy rate measures the proportion of businesses or individuals that declare bankruptcy within a year, often reflecting economic health and financial stability in a region or sector.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>PISA score</string>
+        <string>The PISA scoring system evaluates the proficiency students around the world in reading, mathematics, and science every three years. Scores are used to compare educational outcomes across countries and inform policy decisions.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Emergency response time</string>
+        <string>Average response time for ambulances to reach and pick up patients.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Obesity rate</string>
+        <string>Percentage of a population classified as obese, serving as a key indicator of public health.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Internet speed</string>
+        <string>The average internet speed refers to the median rate at which data is transferred from the internet to a user's device or vice versa, usually measured in megabits per second (Mbps).</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Individual Freedom</string>
+        <string>The social freedom that every citizen has to express and develop themselves.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Bureaucracy</string>
+        <string>The amount of paperwork and actions required when interacting with public institutions.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Perceived corruption</string>
+        <string>Subjective belief about the prevalence of corruption in the country.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Democratic representation</string>
+        <string>Assesses democratic practices encompassing electoral process, government function, and civil liberties.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Car accidents</string>
+        <string>The amount of traffic accidents happening on national roads.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Individual income</string>
+        <string>The total earnings a person receives from wages, investments, and other sources, reflecting their financial status.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Life expectancy</string>
+        <string>The average citizen age expected at childbirth.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Tax evasion</string>
+        <string>The illegal act of deliberately not paying due taxes owed to the government by misrepresenting one's financial situation.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Fertility rate</string>
+        <string>The average number of children born to a woman over her lifetime.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Food quality</string>
+        <string>The taste, texture, nutritional value, and safety standards of edible products.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Air pollution</string>
+        <string>The release of harmful substances into the Earth's atmosphere, leading to environmental and health problems.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Gini index</string>
+        <string>Measures income and wealth inequality within population.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Inflation</string>
+        <string>The rate at which the general level of prices for goods and services is rising, and subsequently, purchasing power is decreasing.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Public debt</string>
+        <string>The total amount of money owed by a government to creditors, including individuals, institutions, and foreign governments.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Migration</string>
+        <string>The movement of people from one geographical location to another, often driven by factors such as economic opportunity, political freedom, or environmental factors.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Gross domestic product (GDP)</string>
+        <string>The total monetary or market value of all the finished goods and services produced within a country's borders in a specific time period.</string>
+      </text>
+    </Item>
+  </Parameters>
+  <Polls>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>How will you vote at the next election?</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>What are your current major concerns?</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>What should be the priorities for this party?</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Would you prefer a man or a woman as the head of government?</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>What are your general thoughts?</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Which party represents your interests the most?</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Do you prefer a young or mature head of government?</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Do you approve the current government?</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>What are the current swing states?</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Do you support the use of war as a means to resolve conflicts?</string>
+      </text>
+    </Item>
+  </Polls>
+  <Proposals>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>An organization is offering you financial compensation in exchange for your support in passing a particular law.</string>
+      </text>
+    </Item>
+  </Proposals>
+  <Scandals>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Illicit practicies</string>
+        <string>Party engaged in the illicit practice of purchasing votes and favors from other politicians.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Stole money from nation</string>
+        <string>Person involved stole money in his official function as politician.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Stole money from party</string>
+        <string>Person involved stole money from the party he represents in official appearance.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Illicit funds</string>
+        <string>Party obtained illicit funds from illegal organizations.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Failed coup</string>
+        <string>Found guilty of orchestrating a failed coup.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Conspiracy</string>
+        <string>Found guilty of financing the disappearance of politicians.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Nepotism</string>
+        <string>Accused of favoring their own children for high positions.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Foreign interference</string>
+        <string>Accused of having been financed and corrupted by foreign powers.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Conflict of interest</string>
+        <string>A person was caught engaging in a conflict of interest, compromising their ability to make impartial decisions.</string>
+      </text>
+    </Item>
+  </Scandals>
+  <Regions>
+    <string />
+    <string>South Tyrol</string>
+    <string>Trentino</string>
+    <string>Veneto</string>
+    <string>Friuli-Venezia Giulia</string>
+    <string>Lombardy</string>
+    <string>Emilia-Romagna</string>
+    <string>Tuscany</string>
+    <string>Marche</string>
+    <string>Umbria</string>
+    <string>Lazio</string>
+    <string>Liguria</string>
+    <string>Piedmont</string>
+    <string>Aosta Valley</string>
+    <string>Sardinia</string>
+    <string>Abruzzo</string>
+    <string>Campania</string>
+    <string>Apulia</string>
+    <string>Molise</string>
+    <string>Basilicata</string>
+    <string>Calabria</string>
+    <string>Sicily</string>
+    <string>Balearic Islands</string>
+    <string>Catalonia</string>
+    <string>Valencia</string>
+    <string>Murcia</string>
+    <string>Andalusia</string>
+    <string>Extremadura</string>
+    <string>Castilla-La Mancha</string>
+    <string>Aragon</string>
+    <string>Madrid</string>
+    <string>Galicia</string>
+    <string>Castile and León</string>
+    <string>Asturias</string>
+    <string>Cantabria</string>
+    <string>La Rioja</string>
+    <string>Navarre</string>
+    <string>Basque Country</string>
+    <string>Canary Islands</string>
+    <string>London</string>
+    <string>Cornwall</string>
+    <string>South East</string>
+    <string>South West</string>
+    <string>East Anglia</string>
+    <string>West Midlands</string>
+    <string>East Midlands</string>
+    <string>Yorkshire</string>
+    <string>Northwest</string>
+    <string>Northeast</string>
+    <string>South Wales</string>
+    <string>North Wales</string>
+    <string>South Scotland</string>
+    <string>West Scotland</string>
+    <string>East Scotland</string>
+    <string>Highlands</string>
+    <string>Northern Ireland</string>
+    <string>Corsica</string>
+    <string>Provence-Alpes-Côte d'Azur</string>
+    <string>Occitania</string>
+    <string>Nouvelle-Aquitaine</string>
+    <string>Auvergne-Rhône-Alpes</string>
+    <string>Brittany </string>
+    <string>Pays de la Loire</string>
+    <string>Normandy </string>
+    <string>Centre-Val de Loire</string>
+    <string>Île-de-France</string>
+    <string>Hauts-de-France</string>
+    <string>Grand Est</string>
+    <string>Bourgogne-Franche-Comté</string>
+    <string>Aegean</string>
+    <string>Black Sea</string>
+    <string>Central Anatolia</string>
+    <string>Eastern Anatolia</string>
+    <string>Marmara</string>
+    <string>Mediterranean</string>
+    <string>Southeastern Anatolia</string>
+    <string>Vinnytsia</string>
+    <string>Volyn</string>
+    <string>California</string>
+    <string>Nevada</string>
+    <string>Arizona</string>
+    <string>New Mexico</string>
+    <string>Texas</string>
+    <string>Louisiana</string>
+    <string>Mississippi</string>
+    <string>Georgia</string>
+    <string>Alabama</string>
+    <string>Florida</string>
+    <string>Utah</string>
+    <string>Colorado</string>
+    <string>Oklahoma</string>
+    <string>Arkansas</string>
+    <string>Tennessee</string>
+    <string>North Carolina</string>
+    <string>South Carolina</string>
+    <string>Oregon</string>
+    <string>Washington</string>
+    <string>Idaho</string>
+    <string>Montana</string>
+    <string>Wyoming</string>
+    <string>Kansas</string>
+    <string>Nebraska</string>
+    <string>South Dakota</string>
+    <string>North Dakota</string>
+    <string>Minnesota</string>
+    <string>Iowa</string>
+    <string>Missouri</string>
+    <string>Wisconsin</string>
+    <string>Illinois</string>
+    <string>Michigan</string>
+    <string>Indiana</string>
+    <string>Kentucky</string>
+    <string>Virginia</string>
+    <string>West Virginia</string>
+    <string>Ohio</string>
+    <string>Maryland</string>
+    <string>Pennsylvania</string>
+    <string>Delaware</string>
+    <string>New Jersey</string>
+    <string>New York</string>
+    <string>Connecticut</string>
+    <string>Rhode Island</string>
+    <string>Vermont</string>
+    <string>Massachusetts</string>
+    <string>New Hampshire</string>
+    <string>Maine</string>
+    <string>Alaska</string>
+    <string>Hawaii</string>
+    <string>British Columbia</string>
+    <string>Alberta</string>
+    <string>Saskatchewan</string>
+    <string>Manitoba</string>
+    <string>Ontario</string>
+    <string>Quebec</string>
+    <string>New Brunswick</string>
+    <string>Nova Scotia</string>
+    <string>Prince Edward Island</string>
+    <string>Newfundlands and Labrador</string>
+    <string>Yukon</string>
+    <string>Northwest Territories</string>
+    <string>Nunavut</string>
+    <string>Northern Portugal</string>
+    <string>Central Portugal</string>
+    <string>Lisbon</string>
+    <string>Alentejo</string>
+    <string>Algrave</string>
+    <string>Madeira</string>
+    <string>Azores</string>
+    <string>Western Australia</string>
+    <string>South Australia</string>
+    <string>Northern Territory</string>
+    <string>Tasmania</string>
+    <string>Victoria</string>
+    <string>Australian Capital Territory</string>
+    <string>New South Wales</string>
+    <string>Queensland</string>
+    <string>Western Switzerland</string>
+    <string>Valais</string>
+    <string>Bern</string>
+    <string>Northwest Switzerland</string>
+    <string>Central Switzerland</string>
+    <string>Northeast Switzerland</string>
+    <string>Graubunden</string>
+    <string>Ticino</string>
+    <string>Cork/Kerry</string>
+    <string>Shannon</string>
+    <string>West Ireland</string>
+    <string>Northwest Ireland</string>
+    <string>Midlands East</string>
+    <string>Dublin</string>
+    <string>Southeast Ireland</string>
+    <string>Flanders</string>
+    <string>Wallonia</string>
+    <string>Brussels</string>
+    <string>Luxembourg</string>
+    <string>Baja California</string>
+    <string>Sonora</string>
+    <string>Chihuahua</string>
+    <string>Coahuila</string>
+    <string>Nuevo Leon</string>
+    <string>Tamaulipas</string>
+    <string>Sinaloa</string>
+    <string>Durango</string>
+    <string>Nayarit</string>
+    <string>Zacatecas</string>
+    <string>San Luis Potosi</string>
+    <string>Aguascalientes</string>
+    <string>Jalisco</string>
+    <string>Guanajuato</string>
+    <string>Colima</string>
+    <string>Quaretaro</string>
+    <string>Michoacan</string>
+    <string>Mexico</string>
+    <string>Hidalgo</string>
+    <string>Veracruz</string>
+    <string>Mexico City</string>
+    <string>Guerrero</string>
+    <string>Morelos</string>
+    <string>Puebla</string>
+    <string>Tlaxcala</string>
+    <string>Oaxaca</string>
+    <string>Tabasco</string>
+    <string>Chiapas</string>
+    <string>Campeche</string>
+    <string>Yucatan</string>
+    <string>Quintana Roo</string>
+    <string>Baja California Sur</string>
+    <string>North Brabant</string>
+    <string>Zeeland</string>
+    <string>South Holland</string>
+    <string>Utrecht</string>
+    <string>North Holland</string>
+    <string>Gelderland</string>
+    <string>Flevoland</string>
+    <string>Overijssel</string>
+    <string>Friesland</string>
+    <string>Drenthe</string>
+    <string>Groningen</string>
+    <string>Limburg</string>
+    <string>Baden-Wurttemberg</string>
+    <string>Bavaria</string>
+    <string>Saarland</string>
+    <string>Rhineland-Palatinate</string>
+    <string>North Rhine-Westphalia</string>
+    <string>Lower Saxony</string>
+    <string>Bremen</string>
+    <string>Hesse</string>
+    <string>Thuringia</string>
+    <string>Saxony</string>
+    <string>Saxony-Anhalt</string>
+    <string>Berlin</string>
+    <string>Brandenburg</string>
+    <string>Hamburg</string>
+    <string>Schleswig-Holstein</string>
+    <string>Mecklenburg-Vorpommern</string>
+    <string>Vorarlberg</string>
+    <string>Tyrol</string>
+    <string>Salzburg</string>
+    <string>Carinthia</string>
+    <string>Upper Austria</string>
+    <string>Styria</string>
+    <string>Burgenland</string>
+    <string>Lower Austria</string>
+    <string>Vienna</string>
+    <string>Attica</string>
+    <string>Central Greece</string>
+    <string>Central Macedonia</string>
+    <string>Crete</string>
+    <string>Eastern Macedonia and Thrace</string>
+    <string>Epirus</string>
+    <string>Ionian Islands</string>
+    <string>North Aegean</string>
+    <string>Thessaly</string>
+    <string>Western Greece</string>
+    <string>Monastic Republic of Mount Athos</string>
+    <string>Western Macedonia</string>
+    <string>Peloponnese</string>
+    <string>South Aegean</string>
+    <string>Skane</string>
+    <string>Blekinge</string>
+    <string>Halland</string>
+    <string>Vastergotland</string>
+    <string>Gotland</string>
+    <string>Oland</string>
+    <string>Bohuslan</string>
+    <string>Dalsland</string>
+    <string>Narke</string>
+    <string>Sodermanland</string>
+    <string>Varmland</string>
+    <string>Vastmanland</string>
+    <string>Uppland</string>
+    <string>Dalarna</string>
+    <string>Gastrikland</string>
+    <string>Halsingland</string>
+    <string>Harjedalen</string>
+    <string>Medelpad</string>
+    <string>Jamtland</string>
+    <string>Angermanland</string>
+    <string>Lappland</string>
+    <string>Norrbotten</string>
+    <string>Vasterbotten</string>
+    <string>Smaland</string>
+    <string>Ostergotland</string>
+    <string>Acre</string>
+    <string>Amazonas</string>
+    <string>Roraima</string>
+    <string>Amapà</string>
+    <string>Rondonia</string>
+    <string>Para</string>
+    <string>Tocantins</string>
+    <string>Maranhao</string>
+    <string>Mato Grosso</string>
+    <string>Piaui</string>
+    <string>Ceara</string>
+    <string>Rio Grande do Norte</string>
+    <string>Paraiba</string>
+    <string>Pernambuco</string>
+    <string>Alagoas</string>
+    <string>Sergipe</string>
+    <string>Bahia</string>
+    <string>Goias</string>
+    <string>Federal District</string>
+    <string>Mato Grosso do Sul</string>
+    <string>Minas Gerais</string>
+    <string>Espirito Santo</string>
+    <string>Rio de Janeiro</string>
+    <string>Sao Paulo</string>
+    <string>Parana</string>
+    <string>Santa Caterina</string>
+    <string>Rio Grande do Sul</string>
+    <string>West Pomeranian</string>
+    <string>Pomeranian</string>
+    <string>Warmian-Masurian</string>
+    <string>Podlaskie</string>
+    <string>Masovian</string>
+    <string>Kuyavian-Pomeranian</string>
+    <string>Lubusz</string>
+    <string>Lower Silesian</string>
+    <string>Opole</string>
+    <string>Silesian</string>
+    <string>Lodz</string>
+    <string>Greater poland</string>
+    <string>Lublin</string>
+    <string>Swietokrzyskie</string>
+    <string>Subcarpathian</string>
+    <string>Lesser Poland</string>
+    <string>Astrakhan</string>
+    <string>Chelyabinsk</string>
+    <string>Ivanovo</string>
+    <string>Kaluga</string>
+    <string>Kemerovo</string>
+    <string>Kostroma</string>
+    <string>Leningrad</string>
+    <string>Lipetsk</string>
+    <string>Moscow</string>
+    <string>Nizhny Novgorod</string>
+    <string>Novgorod</string>
+    <string>Oryol</string>
+    <string>Penza</string>
+    <string>Ryazan</string>
+    <string>Samara</string>
+    <string>Sverdlovsk</string>
+    <string>Tambov</string>
+    <string>Tula</string>
+    <string>Ulyanovsk</string>
+    <string>Vladimir</string>
+    <string>Volgograd</string>
+    <string>Voronezh</string>
+    <string>Yaroslavl</string>
+    <string>Adygeya</string>
+    <string>Bashkortostan</string>
+    <string>Chechnya</string>
+    <string>Chuvashia</string>
+    <string>Ingushetia</string>
+    <string>Kabardino-Balkaria</string>
+    <string>Khakassia</string>
+    <string>Karachay-Cherkessia</string>
+    <string>Mari El</string>
+    <string>Mordovia</string>
+    <string>North Ossetia-Alania</string>
+    <string>Tatarstan</string>
+    <string>Udmurtia</string>
+    <string>Stavropol</string>
+    <string>Nenets</string>
+    <string>Jewish Oblast</string>
+    <string>Kaliningrad</string>
+    <string>Crimea</string>
+    <string>Rostov</string>
+    <string>Dagestan</string>
+    <string>Saratov</string>
+    <string>Krasnodar</string>
+    <string>Belgorod</string>
+    <string>Kursk</string>
+    <string>Bryansk</string>
+    <string>Smolensk</string>
+    <string>Tver</string>
+    <string>Pskov</string>
+    <string>Vologda</string>
+    <string>Murmansk</string>
+    <string>Arkhangelsk</string>
+    <string>Komi</string>
+    <string>Kirov</string>
+    <string>Perm</string>
+    <string>Yamalo</string>
+    <string>Khantia-mansia</string>
+    <string>Orenburg</string>
+    <string>Kurgan</string>
+    <string>Tyumen</string>
+    <string>Omsk</string>
+    <string>Tomsk</string>
+    <string>Novosibirsk</string>
+    <string>Altai</string>
+    <string>Krasnoyarsk</string>
+    <string>Sakha</string>
+    <string>Chukotka</string>
+    <string>Magadan</string>
+    <string>Kamchatka</string>
+    <string>Sakhalin</string>
+    <string>Amur</string>
+    <string>Khabarovsk</string>
+    <string>Primorsky</string>
+    <string>Irkutsk</string>
+    <string>Buryatia</string>
+    <string>Zabaykalsk</string>
+    <string>Kalmykia</string>
+    <string>Karelia</string>
+    <string>Altai Republic</string>
+    <string>Tuva</string>
+    <string>Anhui</string>
+    <string>Beijing</string>
+    <string>Chongqing</string>
+    <string>Fujian</string>
+    <string>Guangdong</string>
+    <string>Gansu</string>
+    <string>Guangxi</string>
+    <string>Guizhou</string>
+    <string>Henan</string>
+    <string>Hubei</string>
+    <string>Hebei</string>
+    <string>Hainan</string>
+    <string>Hong Kong</string>
+    <string>Heilongjiang</string>
+    <string>Hunan</string>
+    <string>Jilin</string>
+    <string>Jiangsu</string>
+    <string>Jiangxi</string>
+    <string>Liaoning</string>
+    <string>Macau</string>
+    <string>Inner Mongolia</string>
+    <string>Ningxia</string>
+    <string>Qinghai</string>
+    <string>Sichuan</string>
+    <string>Shandong</string>
+    <string>Shanghai</string>
+    <string>Shaanxi</string>
+    <string>Shanxi</string>
+    <string>Tianjin</string>
+    <string>Xinjiang</string>
+    <string>Tibet</string>
+    <string>Yunnan</string>
+    <string>Zhejiang</string>
+    <string>Ladakh</string>
+    <string>Jammu and Kashmir</string>
+    <string>Himachal Pradesh</string>
+    <string>Punjab</string>
+    <string>Haryana</string>
+    <string>Rajasthan</string>
+    <string>Gujarat</string>
+    <string>Uttar Pradesh</string>
+    <string>Bihar</string>
+    <string>Uttarakhand</string>
+    <string>Sikkim</string>
+    <string>Assam</string>
+    <string>Nagaland</string>
+    <string>Arunchal Pradesh</string>
+    <string>Meghalaya</string>
+    <string>Manipur</string>
+    <string>Mizoram</string>
+    <string>Tripura</string>
+    <string>Jharkhand</string>
+    <string>West Bengal</string>
+    <string>Odisha</string>
+    <string>Chhattisgarh</string>
+    <string>Telangana</string>
+    <string>Goa</string>
+    <string>Madhya Pradesh</string>
+    <string>Maharashtra</string>
+    <string>Karnataka</string>
+    <string>Andhra Pradesh</string>
+    <string>Tamil Nadu</string>
+    <string>Kerala</string>
+    <string>Dachang Hui</string>
+    <string>Chandigarh</string>
+    <string>Dehli</string>
+    <string>Dnipropetrovsk</string>
+    <string>Donetsk</string>
+    <string>Zhytomyr</string>
+    <string>Zakarapattia</string>
+    <string>Zaporizhzhia</string>
+    <string>Ivano-Frankivsk</string>
+    <string>Kyiv</string>
+    <string>Kirovohard</string>
+    <string>Luhansk</string>
+    <string>Lviv</string>
+    <string>Mykolaiv</string>
+    <string>Odesa</string>
+    <string>Poltava</string>
+    <string>Rvine</string>
+    <string>Sumy</string>
+    <string>Ternopil</string>
+    <string>Kharkiv</string>
+    <string>Kherson</string>
+    <string>Khmelnytskyi</string>
+    <string>Cherkasky</string>
+    <string>Chernivtsi</string>
+    <string>Chernihiv</string>
+    <string>Prague</string>
+    <string>Central Bohemian</string>
+    <string>South Bohemian</string>
+    <string>Plzeň</string>
+    <string>Karlovy Vary</string>
+    <string>Ústí nad Labem</string>
+    <string>Liberec</string>
+    <string>Hradec Králové</string>
+    <string>Pardubice</string>
+    <string>Vysočina</string>
+    <string>South Moravian</string>
+    <string>Olomouc</string>
+    <string>Zlín</string>
+    <string>Moravian-Silesian</string>
+    <string>Hokkaidō</string>
+    <string>Tōhoku</string>
+    <string>Kantō</string>
+    <string>Chūbu</string>
+    <string>Kansai</string>
+    <string>Chūgoku</string>
+    <string>Shikoku</string>
+    <string>Kyūshū</string>
+    <string>Seoul</string>
+    <string>Busan</string>
+    <string>Daegu</string>
+    <string>Incheon</string>
+    <string>Gwangju</string>
+    <string>Daejeon</string>
+    <string>Ulsan</string>
+    <string>Sejong</string>
+    <string>Gyeonggi-do</string>
+    <string>Gangwon</string>
+    <string>Chungcheongbuk-do</string>
+    <string>Chungcheongnam-do</string>
+    <string>Jeonbuk</string>
+    <string>Jeollanam-do</string>
+    <string>Gyeongsangbuk-do</string>
+    <string>Gyeongsangnam-do</string>
+    <string>Jeju</string>
+  </Regions>
+  <Religions>
+    <string />
+    <string>Christianity</string>
+    <string>Islam</string>
+    <string>Hinduism</string>
+    <string>Buddhism</string>
+    <string>Judaism</string>
+    <string>Sikhism</string>
+  </Religions>
+  <Resources>
+    <string />
+    <string>Apples</string>
+    <string>Fish</string>
+    <string>Meat</string>
+    <string>Cheese</string>
+    <string>Wine</string>
+    <string>Missiles</string>
+    <string>Tanks</string>
+    <string>Oil</string>
+    <string>Steel</string>
+    <string>Cars</string>
+    <string>Phones</string>
+    <string>Cloths</string>
+    <string>Uranium</string>
+    <string>Wood</string>
+    <string>Soap</string>
+    <string>Lithium</string>
+  </Resources>
+  <Rules>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Membership</string>
+        <string>Requirements and fees to become a member.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Candidates</string>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Discipline</string>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Leadership</string>
+        <string />
+      </text>
+    </Item>
+  </Rules>
+  <RuleArticles>
+    <string />
+    <string>Annual Fee</string>
+    <string>Age</string>
+    <string>Payday</string>
+    <string>Primaries</string>
+  </RuleArticles>
+  <RuleCommas>
+    <string />
+  </RuleCommas>
+  <Statements>
+    <string />
+    <string>Accuse a party of corruption</string>
+    <string>Accuse a person of corruption</string>
+    <string>Appeal to national patriotism</string>
+    <string>Vow to back a city</string>
+    <string>Oppose cooperation with party</string>
+    <string>Promote cooperation with party</string>
+    <string>Despise a political belief</string>
+    <string>Advocate for a political belief</string>
+    <string>Commemorate</string>
+    <string>Claim territory</string>
+    <string>Criticize government</string>
+    <string>Applaud the government</string>
+    <string>Praise a nation</string>
+    <string>Condemn a nation</string>
+    <string>Promote conspiracy theories</string>
+    <string>Call for unity and bipartisanship</string>
+    <string>Underline the importance of voting</string>
+    <string>Share a personal story and end with a joke</string>
+    <string>Critique the media and its role in politics</string>
+    <string>Pledge to support a category</string>
+    <string>Thank voters for the trust</string>
+    <string>Call out election fraud</string>
+    <string>Invite citizens to join the party</string>
+    <string>Endorse a candidate</string>
+    <string>Endorse a party</string>
+  </Statements>
+  <Thoughts>
+    <string />
+    <string>I'm proud and happy of our political system.</string>
+    <string>I wish there would be less bureaucracy.</string>
+    <string>Do politicians really understand my daily struggles?</string>
+    <string>I wish politicians would work together more.</string>
+    <string>Government assistance programs play a vital role.</string>
+    <string>My tax money isn't being used effectively.</string>
+    <string>Government and opposition are the same.</string>
+    <string>I would like to see more experienced people in government.</string>
+    <string>I think there is a lot of corruption in my country.</string>
+    <string>I believe the taxation system is unfair.</string>
+    <string>I wish for more diverse political options.</string>
+    <string>Our lives are shaped by decisions made by just one party and system.</string>
+  </Thoughts>
+  <Traits>
+    <string />
+    <string>Lazy</string>
+    <string>Opportunist</string>
+    <string>Introvert</string>
+    <string>Extrovert</string>
+    <string>Ambitious</string>
+  </Traits>
+  <Tutorials>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Lawgivers II is a turn-based political sandbox game.\n\nYou can run for elections with your party, approve or abolish laws in parliament/congress and form the government of your country.\n\nWith this tutorial you will learn the basics of the game, in control of the secretary of the red party $p3 in the United States $n5.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Use W, S, D, A to move around the world map and inside buildings.\n\nZoom in/out with R/F or mouse scroll wheel. Close windows with SPACE or second mouse button.</string>
+        <string>Use one pressed finger on the world map or inside buildings to move around.\n\nTouch and spread/unite with two fingers to zoom in/out.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>This is the calendar, where most of the actions and events are happening.\n\nAt the end of the turn you will progress one week $i1.18. A year has 48 weeks (48 turns).\n\nYou can use the calendar to release statements, write bills, commission a poll, etc. and check when election and other events occur.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>On the bottom-left side, you can see the PARTY $p3 and the PERSON $h you are in control, the possible actions $i9.9, the money $i9.4 and the black money $i9.5 at your disposal.\n\nOn the bottom-right side, the panel to navigate the CALENDAR, the CHAT, the NEWS, the END TURN $i1.22 and the AUTO PROGRESS button.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>On the top-left side you can open the WORLD menu, check the NATION you are playing in and some values such as happiness $i6.4, budget $i6.7, gdp $i6.8, government approval $i4.3, research $i4.6 and conditions $i4.7. \n\nOn the top-right side the FILTERS, LAWGIVERSPEDIA (Help) and SETTINGS/EXIT buttons.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Hover on screen elements to display tooltips to understand more about actions and values ingame. More information and help you can find in the LAWGIVERSPEDIA $i1.19 at the right-top corner of the screen.</string>
+        <string>Keep pressed on screen elements to display tooltips to understand more about actions and values ingame.\n\nMore information and help you can find in the LAWGIVERSPEDIA $i1.19 at the top-right corner of the screen.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Elections are starting soon so continue with the end turn $i1.22 button or auto progress till the candidate selection for the presidential election $i4.2.</string>
+        <string />
+        <string>Progress to week 5</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Open the candidates selection for presidential election $i4.2 and select your candidate for president and vice president.</string>
+        <string />
+        <string>Select a candidate for president</string>
+        <string>Select a candidate for vice president</string>
+        <string>Press participate button</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Open the candidates selection for the House of Representatives $i4.0 and select your candidates for elections in every constituency.</string>
+        <string />
+        <string>Select autofill to select all required candidates</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Now that you've choose the candidates you can go on and release your first statement $i9.3 in an effort to raise support from voters.\n\nRemember that it's best to keep your promises $i9.2.</string>
+        <string />
+        <string>Open calendar week 8 and select release statement</string>
+        <string>Choose to promise to reduce robberies</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>The election campaign has started and citizen's attention is higher than usual. AI or other players (multiplayer) may plan statements on calendar too.\n\nWhen a new week begins, don't forget to check out if there are any news $i1.20 worth to read.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Move foward to your statement $i9.3 and check out the outreach of it.</string>
+        <string />
+        <string>Go to statement on week 8</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>In future you might organize polls $i4.5 to understand more about new trends and what voters would like to change and adjust your statements accordingly.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Go forward and participate to debate $i4.14 with other presidential candidates.\n\nSwitch from general information $i1.21 to action menu $i6.3 and choose to talk more or less about subjects.</string>
+        <string />
+        <string>Go to debate on week 20</string>
+        <string>Distribute 5:00 minutes among the subjects</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Move till election and see the results of the presidential $i4.2 and House of Representatives $i4.0 elections.\n\nFirst the turnout is displayed and than the results which can be filtered by constituency/state.</string>
+        <string />
+        <string>Go to election on week 22</string>
+        <string>Wait until elections end</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Congrats, you've won more electors than 270 and therefore the right to form the government $i4.3. \n\nChoose secretaries by their stats like: experience, popularity, etc.</string>
+        <string />
+        <string>Go to week 25</string>
+        <string>Choose 8 ministers</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Alright, after the House of representative election $i4.0 there's the need to choose the speaker of the house.\n\nThe speaker represents the house and may reschedule votes on calendar and is chosen among the elected lawmakers.</string>
+        <string />
+        <string>Go to week 26</string>
+        <string>Select candidate for speaker</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Check the results of the vote for the speaker. The second most voted lawmaker becomes vice-speaker.\n\nThe vice-speaker gets the control when the speaker is absent $i9.0.</string>
+        <string />
+        <string>Go to week 28</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>The final step to make the house operative is to nominate the committees, where the bills are discussed and first approval occurs.\n\nSeats in committees are distributed according to the seats $i8.5 obtained by your party in the house.</string>
+        <string />
+        <string>Go to week 31</string>
+        <string>Select the lawmakers for the committees</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Now that your lawmakers are inside congress and committees, you can write your first bill $i6.0. \n\nLaws change parameters and budget of your nation. It's time to keep your promise to reduce robberies.\n\n</string>
+        <string />
+        <string>Open calendar on week 33</string>
+        <string>Select the bill "Police regulation" and add at least one article</string>
+        <string>Select a lawmaker to write this bill</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Now you need to wait until the writing process is complete. You can check when this happens in the news $i1.20. \n\nMore experienced lawmakers will write bills faster.</string>
+        <string />
+        <string>Progress on calendar until the bill writing process ends.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Open calendar and propose the bill to the committee $i6.14. \n\nBusy or absent $i8.0 lawmakers can't work on bills. In this case you need to wait until they are available again.</string>
+        <string />
+        <string>Propose the bill to respective committee.</string>
+        <string>Approve the bill in committee.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>After passing the committe, the bill continues to the house.\n\nCheck the loyality of your lawmakers and make sure they follow the line.</string>
+        <string />
+        <string>Approve the bill in the house.</string>
+        <string>Sign the bill with your president.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Now that the bill has completed the approval process, it will become law and apply it's effect to your country after the implementation time.\n\nMore experienced $i10.5 governments can reduce implementation/repeal times.\n\n</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>What you've experience in this tutorial is the election and bill approval system of the United States $n5. \n\nOther countries work different, and the elections and bill approval systems are regulated by the constitution $i6.12.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Congratulation, you've keep your promise $i9.2 to voters and mastered the basic functions of the game.\n\nNow you are free to explore and adjust your strategy to survive politically the next elections. Have a fun time with Lawgivers II!</string>
+      </text>
+    </Item>
+  </Tutorials>
+  <Universities>
+    <string />
+  </Universities>
+  <Features>
+    <string>Unlock all playable countries</string>
+    <string>Unlock all parties and customizations</string>
+    <string>Unlock all gameplay elements</string>
+    <string>Remove ads</string>
+    <string>Help to fund next updates and content</string>
+  </Features>
+  <DLC>
+    <string>Special backers edition that adds new laws and more world creation options</string>
+    <string>Adds more world creation options and new laws</string>
+  </DLC>
+  <Networks>
+    <string>Connecting</string>
+    <string>Not a valid IP address</string>
+    <string>Connection attempt time out</string>
+    <string>Connection established</string>
+    <string>Server full</string>
+    <string>Wrong password</string>
+    <string>Connected to host</string>
+    <string>Already connected</string>
+    <string>Update to new version</string>
+    <string>Missing content/dlc</string>
+  </Networks>
+  <Loading>
+    <string>rigging elections</string>
+    <string>stuffing ballot boxes</string>
+    <string>loading dictatorships</string>
+    <string>overthrow goverments</string>
+    <string>fooling taxpayers</string>
+    <string>unnecessary controversies</string>
+    <string>jailing political opponents</string>
+    <string>fixing ballot machines</string>
+    <string>setting up walls</string>
+    <string>street protests</string>
+    <string>uncontrolled migration</string>
+    <string>tax evasion</string>
+    <string>rising tensions</string>
+    <string>arms trafficking</string>
+    <string>human trafficking</string>
+    <string>fabricating scandals</string>
+    <string>starting revolutions</string>
+    <string>gerrymandering</string>
+    <string>founding new think tanks</string>
+    <string>breaking promises</string>
+    <string>respecting electoral mandates</string>
+    <string>political memes</string>
+    <string>supporting minority rights</string>
+    <string>peace negotiations</string>
+    <string>international cooperation</string>
+    <string>promoting human rights</string>
+    <string>cybersecurity measures</string>
+    <string>undermining judicial independence</string>
+    <string>installing puppet rulers</string>
+    <string>talk without say anything courses</string>
+    <string>sending postal ballot papers</string>
+    <string>organize moneybombs</string>
+    <string>pardon family members</string>
+    <string>own nothing and be happy</string>
+    <string>forging new ideologies</string>
+    <string>control vassal states</string>
+  </Loading>
+  <Months>
+    <string>January</string>
+    <string>February</string>
+    <string>March</string>
+    <string>April</string>
+    <string>May</string>
+    <string>June</string>
+    <string>July</string>
+    <string>August</string>
+    <string>September</string>
+    <string>October</string>
+    <string>November</string>
+    <string>December</string>
+  </Months>
+  <Text>
+    <string />
+    <string>Warning: you are using a not official or broken version of the game.</string>
+    <string>Please buy the game or update to latest version.</string>
+    <string>Join directly our Discord to report a bug or let us know critics and suggestions to improve the game.</string>
+    <string>Alternatively you can email us with this form</string>
+    <string>Include savegame</string>
+    <string>New measure</string>
+    <string>Remove measure</string>
+    <string>Create new event</string>
+    <string>Choose a nation</string>
+    <string>Choose a party</string>
+    <string>Choose a person</string>
+    <string>Presidential election</string>
+    <string>Candidate selection</string>
+    <string>Government selection</string>
+    <string>Speaker election</string>
+    <string>Speaker selection</string>
+    <string>Mission complete</string>
+    <string>Mission failure</string>
+    <string>Release an official statement</string>
+    <string>Commission a poll</string>
+    <string>Propose a bill to committee</string>
+    <string>Not available in DEMO</string>
+    <string>Launch missile</string>
+    <string>Write a new bill</string>
+    <string>1 lawmaker in a committee</string>
+    <string>Propose to remove law to committee</string>
+    <string>Research complete</string>
+    <string>Building complete</string>
+    <string>In force</string>
+    <string>Proposal</string>
+    <string>To be repealed</string>
+    <string>To be written</string>
+    <string>Coming into force</string>
+    <string>Bill writing complete</string>
+    <string>Law in force</string>
+    <string>Law repealed</string>
+    <string>Person joined</string>
+    <string>Propose agreement with party</string>
+    <string>New treaty</string>
+    <string>Person switched side</string>
+    <string>Person passed away</string>
+    <string>War declaration</string>
+    <string>Total played turns</string>
+    <string>Longest game</string>
+    <string>General elections</string>
+    <string>Midterm elections</string>
+    <string>Candidates selection</string>
+    <string>Motion of confidence</string>
+    <string>President resolution</string>
+    <string>Speaker resolution</string>
+    <string>Parliament resolution</string>
+    <string>1 party member</string>
+    <string>Missile launch</string>
+    <string>1 lawmaker in parliament</string>
+    <string>Required votes</string>
+    <string>Missing votes</string>
+    <string>Dissolution of parliament</string>
+    <string>Propose coalition</string>
+    <string>Propose budget adjustment</string>
+    <string>Peace signed</string>
+    <string>Committees selection</string>
+    <string>Loan has been repaid</string>
+    <string>Vote to approve new bill</string>
+    <string>Vote to remove bill</string>
+    <string>Issue bonds and raise public debt to create money for your nation.</string>
+    <string>Required lawmakers</string>
+    <string>Sign new bill</string>
+    <string>Reject new bill</string>
+    <string>Sign law removal</string>
+    <string>Reject law removal</string>
+    <string>Signature to approve new bill</string>
+    <string>Signature to remove law</string>
+    <string>Major party</string>
+    <string>Medium size party</string>
+    <string>Minor party</string>
+    <string>Political movement</string>
+    <string>Regional party</string>
+    <string>Distribute government responsabilities and competences among parties.</string>
+    <string>Random name</string>
+    <string>Random appearance</string>
+    <string>Random body</string>
+    <string>Random cloths</string>
+    <string>Government in force</string>
+    <string>Government out of force</string>
+    <string>Go to current turn</string>
+    <string>Auto progress</string>
+    <string>Propose to switch side</string>
+    <string>Give a holiday break</string>
+    <string>Select a successor</string>
+    <string>Adjust salary</string>
+    <string>The appointed government requires to win the majority in parliament in order to be in charge.</string>
+    <string>Reschedule vote on calendar</string>
+    <string>Mayor election</string>
+    <string>Governor election</string>
+    <string>Propose to vote same way</string>
+    <string>Holidays are useful to rest and recover energy.</string>
+    <string>The degree of familiarity of this individual among the general public.</string>
+    <string>Required for engaging in political duties and responsibilities.</string>
+    <string>Plays a crucial role in debates and delivering statements effectively.</string>
+    <string>Cunning proves advantageous in masking scandals skillfully.</string>
+    <string>Important for enhancing visibility and securing electoral victories.</string>
+    <string>Greater loyalty correlates with a reduced likelihood of deviating from the party line.</string>
+    <string>Gained experience from key responsibilities boosts efficiency, reducing time and cost for some operations.</string>
+    <string>Retire member to get rid of scandals or reduce spending.</string>
+    <string>New coalition</string>
+    <string>Coalition broken</string>
+    <string>Extend an offer to recruit this person as a member of your party.</string>
+    <string>Propose that this person leave their party and join yours.</string>
+    <string>Propose that this person votes according to your party line.</string>
+    <string>Designate a successor to assume your role in the event of leaving politics.</string>
+    <string>Raise salary to increase happiness and loyalty towards party or decrease to reduce spending.</string>
+    <string>Assumes responsabilities</string>
+    <string>Military intervention</string>
+    <string>Dissolution of the government and parliament. Offical dates set for new elections.</string>
+    <string>Failed to load scenario</string>
+    <string>World creation ...</string>
+    <string>Repay the loan to lower your weekly expenditure</string>
+    <string>Display voters percentage</string>
+    <string>The extent of influence and authority within the party.</string>
+    <string>The party securing the most seats has the right to propose a coalition, should the election yield no clear majority.</string>
+    <string>Coalition proposal</string>
+    <string>Win elections</string>
+    <string>Government competencies are divided among secretaries, each overseeing a specific department.</string>
+    <string>Break coalition and get ready for new elections.</string>
+    <string>Election speed</string>
+    <string>Steal from national budget</string>
+    <string>Steal from party money</string>
+    <string>Debate hall</string>
+    <string>Assesses the extent to which the citizens who recognize this individual genuinely appreciate them as a political figure.</string>
+    <string>Only compatible with version</string>
+    <string>Disable constitutional changes</string>
+    <string>Military operation</string>
+    <string>Titles not compatible</string>
+    <string>Impeachment is a political process to remove a high-ranking official for serious misconduct. It involves an investigation, voting, and, if convicted, removal from office.</string>
+    <string>Impeachment</string>
+    <string>Not enough money</string>
+    <string>Disable wars</string>
+    <string>Repeat vote</string>
+    <string>Government resolution</string>
+    <string>Remove treaty</string>
+    <string>Region annexed</string>
+    <string>Region occupied</string>
+    <string>Publish electoral program</string>
+    <string>Promise actions to your citizens or improve relations with parties.</string>
+    <string>Choose a party member to write a new bill. After completing the writing process, the bill can be submitted to committees for approval.</string>
+    <string>Learn more about your citizen's needs and preferences.</string>
+    <string>Select a bill and initiate the approval process at the relevant committee.</string>
+    <string>Select a bill and initiate the removal process at the relevant committee.</string>
+    <string>Special action that needs approval of the parliament.</string>
+    <string>Propose to share government responsabilities among parties of the parliament.</string>
+    <string>Special actions to perform with the speaker of the house.</string>
+    <string>Government measures are used to swiftly change parameters in your country.</string>
+    <string>Remove government measures to restore the budget.</string>
+    <string>Build infrastructures on the territory.</string>
+    <string>Remove infrastructures from the territory.</string>
+    <string>Raise your nation's budget by issuing government bonds and increase public debt.</string>
+    <string>Special action to perform with the head of the executive government.</string>
+    <string>Improve relations with other countries and form new treaties.</string>
+    <string>Perform a military operations in domestic or foreign territory.</string>
+    <string>Attack a hostile nation and damage its economy.</string>
+    <string>Let voters know your intentions.</string>
+    <string>No active disputes</string>
+    <string>No active battle</string>
+    <string>Map not verified</string>
+    <string>No units available</string>
+    <string>No occupied territory</string>
+    <string>Talk more</string>
+    <string>Talk less</string>
+    <string>Compare with law in force</string>
+    <string>Your party is running out of money $i9.4. Salaries cannot be guaranteed, and members' loyalty is gradually on decline, leading some to consider leaving the party. Evaluate to take out a loan.</string>
+    <string>National prestige</string>
+    <string>Party influence</string>
+    <string>Personal gains</string>
+    <string>Weeks in power</string>
+    <string>1st round</string>
+    <string>2nd round</string>
+    <string>The strength of the promise made.</string>
+    <string>The efforts made by the party to fulfill this promise.</string>
+    <string>The actual capacity of your party to fulfill this promise.</string>
+    <string>Construction is already underway</string>
+    <string>Already built</string>
+    <string>Already in force</string>
+    <string>Already approved</string>
+    <string>Arrange a demonstration to voice criticisms of the current government.</string>
+    <string>Organize a protest</string>
+    <string>Raise funds from potential donors to support your party's activities.</string>
+    <string>Party at the opposition</string>
+    <string>Negotiate with other parties to advance your own interests.</string>
+    <string>Building destroyed</string>
+    <string>Already in progress</string>
+    <string>Rejection timeout</string>
+    <string>Requirements not met</string>
+    <string>Currently writing</string>
+    <string>Similar is already in process</string>
+    <string>Not required</string>
+    <string>No government</string>
+    <string>No government measures</string>
+    <string>Not enough budget</string>
+    <string>No treaties available</string>
+    <string>Production expansion</string>
+    <string>Lawmakers display their choice</string>
+    <string>Lawmakers don't display their choice</string>
+    <string>Send to mission</string>
+    <string>Stolen money from the country goes to black money and increase corruption in country.</string>
+    <string>Political interest</string>
+    <string>Cosmetic surgery</string>
+    <string>Organize disappearance</string>
+    <string>Send person to a field mission to enhance some attributes.</string>
+    <string>Scandals are suppressed</string>
+    <string>The global political trend is experiencing a significant shift towards this new belief</string>
+    <string>Take out a loan to increase your funds</string>
+    <string>Political trend</string>
+    <string>No lawmaker in committee</string>
+    <string>No lawmakers</string>
+    <string>Highest happiness</string>
+    <string>Lowest happiness</string>
+    <string>Send the government to visit another country</string>
+    <string>No more attempts left</string>
+    <string>Setup a debate before elections</string>
+    <string>Parties may organize a fundraise</string>
+    <string>Utilize surgery to enhance this person's appearance</string>
+    <string>Ensure that this person suddenly disappears.</string>
+    <string>Mission end</string>
+    <string>New lawmakers have been appointed</string>
+    <string>Already selected</string>
+    <string>No action points</string>
+    <string>Visit end</string>
+    <string>Person has been found death</string>
+    <string>Missile hit</string>
+    <string>Surgery end</string>
+    <string>Campaign end</string>
+    <string>New proposal</string>
+    <string>Improve relation between countries</string>
+    <string>Learn about country and it's culture</string>
+    <string>Mission missed</string>
+    <string>Propose to be absent</string>
+    <string>Propose to this person that they take a holiday and avoid important events.</string>
+    <string>Limit reached</string>
+    <string>Attack victory</string>
+    <string>Defence victory</string>
+    <string>Select location to candidate for elections</string>
+    <string>More is better</string>
+    <string>Less is better</string>
+    <string>Organize a campaign</string>
+    <string>Rally to increase your voter base in a specific region/state.</string>
+    <string>Resign from current position</string>
+    <string>You've got a donation</string>
+    <string>You got a proposal from a category</string>
+    <string>In response to rising social issues, citizens peacefully protested, demanding tax justice and equality through signs and chants, showing their determination for policy change.</string>
+    <string>A crowd gathers, voices rising in unison as banners demand an end to the war. People from all walks of life stand together, calling urgently for peace.</string>
+    <string>Person has left the party</string>
+    <string>Display government approval</string>
+    <string>Determine the next research subject to investigate in the country.</string>
+    <string>Vote research</string>
+    <string>Win general elections</string>
+    <string>Manipulate to favour your party</string>
+    <string>Special action to perform with the head of state.</string>
+    <string>Only right after election</string>
+    <string>Intelligence operation</string>
+    <string>Select the amount of voters on past election</string>
+    <string>Select the age of the person</string>
+    <string>Select another person</string>
+    <string>Change the controlled person and continue the game.</string>
+    <string>Waiting for minimum players</string>
+    <string>Please consider taking a break</string>
+    <string>Law replaced</string>
+    <string>Vote candidate</string>
+    <string>Voters aquisition</string>
+    <string>Unveil a possible scandal</string>
+    <string>Increase happiness</string>
+    <string>Increase gdp</string>
+    <string>Win most seats at elections</string>
+    <string>Govern your nation</string>
+    <string>Attain influential roles within the nation or party</string>
+    <string>Move funds to tax haven</string>
+    <string>Persecution immunity</string>
+    <string>Grant pardon</string>
+    <string>A new nation has been added to the game</string>
+    <string>A new party has been founded</string>
+    <string>A new medium has been launched</string>
+    <string>A new resource has been added</string>
+    <string>Pressure in your favour</string>
+    <string>Fabricate a scandal</string>
+    <string>Suspend law</string>
+    <string>Start the game as the secretary of a party</string>
+    <string>Start the game as a new member of a party</string>
+    <string>All researches at start</string>
+    <string>The World Economic Group is forecasting a slight economic improvement next year.</string>
+    <string>The World Economic Group forecasts a substantial economic upturn next year.</string>
+    <string>The World Economic Group is forecasting a slight economic downturn next year.</string>
+    <string>The World Economic Group predicts a sharp economic downturn next year.</string>
+    <string>Appoint new government</string>
+    <string>Convert to constitutional law</string>
+    <string>Fabricate a scandal to lower the reputation and popularity of a person.</string>
+    <string>Put pressure on a judge to rule in your favor.</string>
+    <string>The party withdrew from politics</string>
+    <string>Editing parties</string>
+    <string>Create new</string>
+    <string>Distribute skill points to person</string>
+    <string>Monarch resolution</string>
+  </Text>
+</Data>

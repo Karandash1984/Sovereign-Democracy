@@ -1,0 +1,5376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <System>
+    <Absences>Неявка</Absences>
+    <Absent>Отсутствует</Absent>
+    <Absolve>Оправдать</Absolve>
+    <Abstain>Воздержаться</Abstain>
+    <Accept>Принять</Accept>
+    <Achievements>Достижения</Achievements>
+    <Acronym>Акроним</Acronym>
+    <Action>Действие</Action>
+    <Actions>Действия</Actions>
+    <Active>Действующий</Active>
+    <Activism>Активизм</Activism>
+    <Activist>Активист</Activist>
+    <Activists>Активисты</Activists>
+    <Activity>Деятельность</Activity>
+    <Activities>Активности</Activities>
+    <Admin>Админ</Admin>
+    <Add>Добавить</Add>
+    <Adults>Взрослые</Adults>
+    <Advanced>Продвинутый</Advanced>
+    <Age>Возраст</Age>
+    <Agreement>Соглашение</Agreement>
+    <Agreements>Соглашения</Agreements>
+    <AI>ИИ</AI>
+    <All>Все</All>
+    <Alliance>Альянс</Alliance>
+    <Ally>Союзник</Ally>
+    <Allies>Союзники</Allies>
+    <Alphabet>Алфавит</Alphabet>
+    <Amendment>Поправка</Amendment>
+    <Amount>Количество</Amount>
+    <Annexation>Аннексия</Annexation>
+    <Antialiasing>Сглаживание</Antialiasing>
+    <Appearance>Появление</Appearance>
+    <Approval>Одобрение</Approval>
+    <Approve>Одобрить</Approve>
+    <Approved>Одобренный</Approved>
+    <Archive>Архив</Archive>
+    <Area>Область</Area>
+    <Article>Статья</Article>
+    <Articles>Статьи</Articles>
+    <Assembly>Собрание</Assembly>
+    <Associations>Ассоциации</Associations>
+    <Attack>Атака</Attack>
+    <Attention>Внимание</Attention>
+    <Attributes>Атрибуты</Attributes>
+    <Audience>Аудитория</Audience>
+    <Audio>Аудио</Audio>
+    <Autofill>Автозаполнение</Autofill>
+    <Available>Доступно</Available>
+    <Average>Среднее</Average>
+    <Back>Назад</Back>
+    <Backer>Спонсор</Backer>
+    <Backward>Назад</Backward>
+    <Balance>Баланс</Balance>
+    <Bank>Банк</Bank>
+    <Banks>Банки</Banks>
+    <Battle>Бой</Battle>
+    <Battles>Бои</Battles>
+    <Benchmark>Производительность</Benchmark>
+    <Better>Лучше</Better>
+    <Bipolar>Биполярный</Bipolar>
+    <Bill>Законопроект</Bill>
+    <Bills>Законопроекты</Bills>
+    <Births>Рождения</Births>
+    <Black>Грязные деньги</Black>
+    <Body>Тело</Body>
+    <Bonds>Облигации</Bonds>
+    <Bonus>Бонус</Bonus>
+    <Borders>Границы</Borders>
+    <Born>Рождённый</Born>
+    <Borrower>Заёмщик</Borrower>
+    <Break>Перерыв</Break>
+    <Budget>Бюджет</Budget>
+    <Build>Строить</Build>
+    <Building>Постройка</Building>
+    <Buildings>Постройки</Buildings>
+    <Busy>Занят</Busy>
+    <Buy>Купить</Buy>
+    <Calendar>Календарь</Calendar>
+    <Campaign>Кампания</Campaign>
+    <Cancel>Отмена</Cancel>
+    <Candidate>Кандидат</Candidate>
+    <Candidates>Кандидаты</Candidates>
+    <Cantons>Кантоны</Cantons>
+    <Challenge>Вызов</Challenge>
+    <Challenges>Вызовы</Challenges>
+    <Chance>Шанс</Chance>
+    <Chancellor>Канцлер</Chancellor>
+    <Change>Изменить</Change>
+    <Changes>Изменения</Changes>
+    <Charm>Обаяние</Charm>
+    <Capital>Столица</Capital>
+    <Category>Категория</Category>
+    <Categories>Категории</Categories>
+    <Chat>Чат</Chat>
+    <Choice>Выбор</Choice>
+    <Children>Дети</Children>
+    <City>Город</City>
+    <Cities>Города</Cities>
+    <Citizen>Гражданин</Citizen>
+    <Citizens>Граждане</Citizens>
+    <Citizenship>Гражданство</Citizenship>
+    <Clock>Часы</Clock>
+    <Close>Закрыть</Close>
+    <Cloths>Одежда</Cloths>
+    <Coalition>Коалиция</Coalition>
+    <Coalitions>Коалиции</Coalitions>
+    <Color>Цвет</Color>
+    <Comma>Запятая</Comma>
+    <Commas>Запятые</Commas>
+    <Committee>Комитет</Committee>
+    <Committees>Комитеты</Committees>
+    <Commemorate>Почтить память</Commemorate>
+    <Community>Сообщество</Community>
+    <Competence>Компетенция</Competence>
+    <Competences>Компетенции</Competences>
+    <Companies>Компании</Companies>
+    <Company>Компания</Company>
+    <Compare>Сравнить</Compare>
+    <Complete>Завершить</Complete>
+    <Concept>Концепция</Concept>
+    <Condition>Условие</Condition>
+    <Conditions>Условия</Conditions>
+    <Confidence>Уверенность</Confidence>
+    <Confirm>Подтвердить</Confirm>
+    <Congress>Конгресс</Congress>
+    <Constitution>Конституция</Constitution>
+    <Constitutional>Конституционный</Constitutional>
+    <Constituencies>Избирательные округа</Constituencies>
+    <Content>Содержание</Content>
+    <Continue>Продолжить</Continue>
+    <Contributor>Вкладчик</Contributor>
+    <Contribution>Вклад</Contribution>
+    <Controls>Управление</Controls>
+    <Cooldown>Время восстановления</Cooldown>
+    <Cooperation>Сотрудничество</Cooperation>
+    <Convicted>Осужденный</Convicted>
+    <CopyToClipboard>Копировать в буфер обмена</CopyToClipboard>
+    <Corporations>Корпорации</Corporations>
+    <Corruption>Коррупция</Corruption>
+    <Cost>Стоимость</Cost>
+    <Councilor>Член совета</Councilor>
+    <Councilors>Члены совета</Councilors>
+    <Country>Страна</Country>
+    <Countries>Страны</Countries>
+    <County>Уезд</County>
+    <Counties>Уезды</Counties>
+    <Coup>Переворот</Coup>
+    <Coverage>Покрытие</Coverage>
+    <Create>Создать</Create>
+    <Created>Созданный</Created>
+    <Credits>Авторы</Credits>
+    <Culture>Культура</Culture>
+    <Cunning>Хитрый</Cunning>
+    <Cursor>Курсор</Cursor>
+    <Custom>Пользовательский</Custom>
+    <CustomParty>Пользовательская партия</CustomParty>
+    <CustomPartyAcronym>ПП</CustomPartyAcronym>
+    <CustomParties>Пользовательские партии</CustomParties>
+    <CustomPeople>Пользовательские персонажи</CustomPeople>
+    <Currency>Валюта</Currency>
+    <Currencies>Валюты</Currencies>
+    <Daily>Ежедневно</Daily>
+    <Damage>Урон</Damage>
+    <Date>Дата</Date>
+    <Deadline>Крайний срок</Deadline>
+    <Death>Смерть</Death>
+    <Deaths>Смерти</Deaths>
+    <Debate>Дебаты</Debate>
+    <Debug>Дебаг-режим</Debug>
+    <Debt>Долг</Debt>
+    <DebtToGDP>Долг к ВВП</DebtToGDP>
+    <Decline>Отказаться</Decline>
+    <Decrease>Уменьшить</Decrease>
+    <Defence>Оборона</Defence>
+    <Default>По умолчанию</Default>
+    <Delete>Удалить</Delete>
+    <Department>Департамент</Department>
+    <Departments>Департаменты</Departments>
+    <Demand>Требовать</Demand>
+    <Density>Плотность</Density>
+    <Deputy>Депутат</Deputy>
+    <Deputies>Депутаты</Deputies>
+    <DeEscalation>Деэскалация</DeEscalation>
+    <Description>Описание</Description>
+    <Destabilize>Дестабилизировать</Destabilize>
+    <Developer>Разработчик</Developer>
+    <Detail>Деталь</Detail>
+    <Details>Детали</Details>
+    <Deteriorate>Ухудшаться</Deteriorate>
+    <Dictator>Диктатор</Dictator>
+    <Difficulty>Сложность</Difficulty>
+    <Discover>Открыть</Discover>
+    <Dismantle>Разобрать</Dismantle>
+    <Dispute>Спор</Dispute>
+    <Disputes>Споры</Disputes>
+    <District>Округ</District>
+    <Districts>Округа</Districts>
+    <Donate>Пожертвовать</Donate>
+    <Donation>Пожертвование</Donation>
+    <Donations>Пожертвования</Donations>
+    <Down>Вниз</Down>
+    <Draft>Черновик</Draft>
+    <Duplicate>Дубликат</Duplicate>
+    <Duration>Продолжительность</Duration>
+    <Earnings>Доход</Earnings>
+    <Editor>Редактор</Editor>
+    <Effect>Эффект</Effect>
+    <Effects>Эффекты</Effects>
+    <Election>Выборы</Election>
+    <Electorate>Избирательное тело</Electorate>
+    <Electors>Избиратели</Electors>
+    <Elements>Элементы</Elements>
+    <Eloquence>Красноречие</Eloquence>
+    <Encyclopedia>Энциклопедия</Encyclopedia>
+    <End>Конец</End>
+    <EndTurn>Закончить ход</EndTurn>
+    <Energy>Энергия</Energy>
+    <EnterText>Текст</EnterText>
+    <Email>Эл. почта</Email>
+    <Employees>Сотрудники</Employees>
+    <Escalation>Эскалация</Escalation>
+    <EstimatedDuration>Ожидаемая продолжительность</EstimatedDuration>
+    <Expansion>Расширение</Expansion>
+    <Extinguish>Потушить</Extinguish>
+    <Event>Событие</Event>
+    <Events>События</Events>
+    <Evidence>Доказательство</Evidence>
+    <Exit>Выход</Exit>
+    <Expected>Ожидаемый</Expected>
+    <Expenses>Расходы</Expenses>
+    <Experience>Опыт</Experience>
+    <Export>Экспорт</Export>
+    <Eyes>Глаза</Eyes>
+    <Factions>Фракции</Factions>
+    <Failed>Неудачно</Failed>
+    <Failure>Провал</Failure>
+    <Fast>Быстрый</Fast>
+    <Favourite>Любимый</Favourite>
+    <Federal>Федеральный</Federal>
+    <Fee>Сбор</Fee>
+    <Feedback>Отзыв</Feedback>
+    <Filibustering>Парламентская обструкция</Filibustering>
+    <Filter>Фильтр</Filter>
+    <Filters>Фильтры</Filters>
+    <Fine>Штраф</Fine>
+    <Fire>Огонь</Fire>
+    <Fired>Уволен</Fired>
+    <Fix>Исправление</Fix>
+    <Flags>Флаги</Flags>
+    <Focus>Фокус</Focus>
+    <Followers>Последователи</Followers>
+    <Food>Еда</Food>
+    <Forecast>Прогноз</Forecast>
+    <Form>Форма</Form>
+    <Formation>Формирование</Formation>
+    <Former>Бывший</Former>
+    <FormerLaw>Бывший закон</FormerLaw>
+    <FormerLaws>Бывшие законы</FormerLaws>
+    <FormerMembers>Бывшие члены</FormerMembers>
+    <Forward>Далее</Forward>
+    <Founded>Основанный</Founded>
+    <Free>Свободный</Free>
+    <Freewill>Свободный выбор</Freewill>
+    <Friendly>Дружелюбный</Friendly>
+    <Front>Фронт</Front>
+    <Frontrunner>Лидер</Frontrunner>
+    <Frontrunners>Лидеры</Frontrunners>
+    <Fullscreen>Полноэкранный режим</Fullscreen>
+    <Fundraise>Сбор средств</Fundraise>
+    <Gap>Разрыв</Gap>
+    <Gameplay>Геймплей</Gameplay>
+    <General>Основные</General>
+    <GDP>ВВП</GDP>
+    <GDPCapita>ВВП на душу населения</GDPCapita>
+    <Goal>Цель</Goal>
+    <Goals>Цели</Goals>
+    <Government>Правительство</Government>
+    <Governor>Губернатор</Governor>
+    <Governors>Губернаторы</Governors>
+    <GreatPower>Великая держава</GreatPower>
+    <Growth>Рост</Growth>
+    <Group>Группа</Group>
+    <Groups>Группы</Groups>
+    <Hair>Прическа</Hair>
+    <Happiness>Уровень счастья</Happiness>
+    <Headquarter>Штаб-квартира</Headquarter>
+    <HeadOfGovernment>Глава правительства</HeadOfGovernment>
+    <HeadOfState>Глава государства</HeadOfState>
+    <High>Высокое</High>
+    <HighestCourt>Высший суд</HighestCourt>
+    <Highscore>Рекорд</Highscore>
+    <Hints>Подсказки</Hints>
+    <Hire>Нанять</Hire>
+    <History>История</History>
+    <Host>Хост</Host>
+    <Hostile>Враждебный</Hostile>
+    <House>Дом</House>
+    <Ideology>Идеология</Ideology>
+    <Ideologies>Идеологии</Ideologies>
+    <Income>Прибыль</Income>
+    <Increase>Увеличить</Increase>
+    <Index>Индекс</Index>
+    <InForce>В силу</InForce>
+    <InProgress>В процессе</InProgress>
+    <Influence>Влияние</Influence>
+    <Infrastructure>Инфраструктура</Infrastructure>
+    <International>Международный</International>
+    <Interview>Интервью</Interview>
+    <Interviews>Интервью</Interviews>
+    <Institution>Учреждение</Institution>
+    <Institutions>Учреждения</Institutions>
+    <Invasion>Вторжение</Invasion>
+    <Invite>Пригласить</Invite>
+    <Implementation>Реализация</Implementation>
+    <Implementing>Выполнение</Implementing>
+    <Import>Импорт</Import>
+    <Imprisonment>Заключение</Imprisonment>
+    <Improve>Улучшить</Improve>
+    <Independent>Независимый</Independent>
+    <IPAddress>IP адрес</IPAddress>
+    <Issue>Проблема</Issue>
+    <Issues>Проблемы</Issues>
+    <Job>Работа</Job>
+    <Jobs>Работа</Jobs>
+    <Join>Присоединиться</Join>
+    <JoinCode>Код для присоединения</JoinCode>
+    <JoinDate>Дата присоединения</JoinDate>
+    <Judge>Судья</Judge>
+    <Judges>Судьи</Judges>
+    <Keep>Хранить</Keep>
+    <Keyboard>Клавиатура</Keyboard>
+    <King>Король</King>
+    <Knowledge>Знание</Knowledge>
+    <Language>Язык</Language>
+    <Last>Последний</Last>
+    <LastElection>Последние выборы</LastElection>
+    <Later>Далее</Later>
+    <LatestSurvey>Последний опрос</LatestSurvey>
+    <Lawgiverspedia>Lawgiverspedia</Lawgiverspedia>
+    <Lawmaker>Депутат</Lawmaker>
+    <Lawmakers>Депутаты</Lawmakers>
+    <Law>Закон</Law>
+    <Laws>Законы</Laws>
+    <LawsApproved>Принятые законы</LawsApproved>
+    <LawsRejected>Отклонённые законы</LawsRejected>
+    <Leader>Лидер</Leader>
+    <Leaning>Наклон</Leaning>
+    <Legislature>Парламент</Legislature>
+    <Level>Уровень</Level>
+    <Listeners>Слушатели</Listeners>
+    <Loan>Займ</Loan>
+    <Loans>Займы</Loans>
+    <Location>Локация</Location>
+    <Lord>Лорд</Lord>
+    <Lords>Лорды</Lords>
+    <Loyalty>Лояльность</Loyalty>
+    <Low>Низкое</Low>
+    <Major>Крупные партии</Major>
+    <Majority>Большинство</Majority>
+    <Maintain>Сохранять</Maintain>
+    <Man>Мужчина</Man>
+    <ManPower>Человеческие ресурсы</ManPower>
+    <Map>Карта</Map>
+    <Maps>Карты</Maps>
+    <Margin>Маржа</Margin>
+    <MarginOfError>Вероятность ошибки</MarginOfError>
+    <Master>Общий</Master>
+    <Materials>Материалы</Materials>
+    <Mature>Зрелый</Mature>
+    <Max>Макс</Max>
+    <Maximum>Максимум</Maximum>
+    <Mayor>Мэр</Mayor>
+    <Mayors>Мэры</Mayors>
+    <Measure>Показатель</Measure>
+    <Measures>Показатели</Measures>
+    <Media>СМИ</Media>
+    <Medium>Средние партии</Medium>
+    <Member>Член</Member>
+    <Members>Члены</Members>
+    <Membership>Членство</Membership>
+    <Men>Мужчины</Men>
+    <Menu>Меню</Menu>
+    <Messages>Сообщения</Messages>
+    <Metropolis>Мегаполис</Metropolis>
+    <Migration>Миграция</Migration>
+    <Military>Армия</Military>
+    <Minor>Малые партии</Minor>
+    <MinorPower>Малая держава</MinorPower>
+    <Min>Мин</Min>
+    <Minimum>Минимум</Minimum>
+    <Minister>Министр</Minister>
+    <Ministers>Министры</Ministers>
+    <Minutes>Минуты</Minutes>
+    <Missed>Пропущено</Missed>
+    <Mission>Миссия</Mission>
+    <Missions>Миссии</Missions>
+    <Moderate>Умеренный</Moderate>
+    <Mods>Моды</Mods>
+    <Monarch>Король</Monarch>
+    <Money>Деньги</Money>
+    <Morality>Мораль</Morality>
+    <Move>Переместить</Move>
+    <Movement>Движение</Movement>
+    <Movements>Движения</Movements>
+    <Multiplayer>Мультиплеер</Multiplayer>
+    <Multipolar>Многополярный</Multipolar>
+    <Municipal>Муниципальный</Municipal>
+    <Music>Музыка</Music>
+    <Name>Имя</Name>
+    <Nation>Нация</Nation>
+    <National>Национальный</National>
+    <Nations>Нации</Nations>
+    <Natural>Природный</Natural>
+    <Negative>Отрицательный</Negative>
+    <Neutral>Нейтральный</Neutral>
+    <NewWorld>Новый мир</NewWorld>
+    <New>Новый</New>
+    <News>Новости</News>
+    <Newspaper>Газета</Newspaper>
+    <Next>Следующий</Next>
+    <NextElection>Следующие выборы</NextElection>
+    <NextSurvey>Следующий опрос</NextSurvey>
+    <No>Нет</No>
+    <None>Нет</None>
+    <Normal>Нормальный</Normal>
+    <NotElected>Не избран</NotElected>
+    <NotFound>Не найдено</NotFound>
+    <NotTransparent>Не прозрачный</NotTransparent>
+    <Notes>Заметки</Notes>
+    <Notifications>Уведомления</Notifications>
+    <Number>Число</Number>
+    <NumberShort>№</NumberShort>
+    <Occupation>Профессия</Occupation>
+    <Off>Выключено</Off>
+    <Offer>Предложение</Offer>
+    <Official>Официальный</Official>
+    <Ok>Ок</Ok>
+    <Old>Старый</Old>
+    <On>Включено</On>
+    <Ongoing>В процессе</Ongoing>
+    <Operating>Работающий</Operating>
+    <Opposition>Оппозиция</Opposition>
+    <Option>Опция</Option>
+    <Options>Опции</Options>
+    <Optional>Опционально</Optional>
+    <Ordinary>Обыкновенный</Ordinary>
+    <Origin>Происхождение</Origin>
+    <Organization>Организация</Organization>
+    <Organizations>Организации</Organizations>
+    <OutOfForce>Не в силе</OutOfForce>
+    <Outreach>Пропаганда</Outreach>
+    <Parameter>Параметр</Parameter>
+    <Parameters>Параметры</Parameters>
+    <Parliament>Парламент</Parliament>
+    <Participants>Участники</Participants>
+    <Participate>Participate</Participate>
+    <Party>Партия</Party>
+    <Parties>Партии</Parties>
+    <Pause>Пауза</Pause>
+    <Password>Пароль</Password>
+    <Peace>Мир</Peace>
+    <People>Люди</People>
+    <Period>Период</Period>
+    <Person>Человек</Person>
+    <Percentage>Процент</Percentage>
+    <Performance>Производительность</Performance>
+    <Player>Игрок</Player>
+    <Players>Игроки</Players>
+    <Points>Очки</Points>
+    <Politician>Политик</Politician>
+    <Poll>Опрос</Poll>
+    <Polls>Опросы</Polls>
+    <Popularity>Популярность</Popularity>
+    <Population>Население</Population>
+    <Portraits>Портреты</Portraits>
+    <Position>Позиция</Position>
+    <Positive>Положительный</Positive>
+    <Power>Власть</Power>
+    <President>Президент</President>
+    <Presence>Присутствие</Presence>
+    <Present>Настоящий</Present>
+    <Preset>Предустановленный</Preset>
+    <Prevention>Предотвращение</Prevention>
+    <Previous>Предыдущий</Previous>
+    <Price>Цена</Price>
+    <PrimeMinister>Премьер-министр</PrimeMinister>
+    <Primaries>Праймериз</Primaries>
+    <Prince>Принц</Prince>
+    <Princess>Принцесса</Princess>
+    <Priority>Приоритет</Priority>
+    <Prison>Тюрьма</Prison>
+    <Privacy>Конфиденциальность</Privacy>
+    <Private>Приватный</Private>
+    <Probability>Вероятность</Probability>
+    <Production>Производство</Production>
+    <Products>Продукты</Products>
+    <Progress>Прогресс</Progress>
+    <Promise>Обещание</Promise>
+    <Promises>Обещания</Promises>
+    <Proposal>Предложение</Proposal>
+    <Propose>Предложить</Propose>
+    <Protest>Протест</Protest>
+    <Oblast>Область</Oblast>
+    <Oblasts>Области</Oblasts>
+    <Open>Открыть</Open>
+    <OpenVote>Открытое голосование</OpenVote>
+    <Quality>Качество</Quality>
+    <Quarter>Четверть</Quarter>
+    <Queen>Королева</Queen>
+    <Question>Вопрос</Question>
+    <Quit>Выйти</Quit>
+    <Radio>Радио</Radio>
+    <Random>Случайный</Random>
+    <Rank>Ранг</Rank>
+    <Rate>Оценка</Rate>
+    <Read>Читать</Read>
+    <Readers>Читатели</Readers>
+    <Realistic>Реалистичный</Realistic>
+    <Reason>Причина</Reason>
+    <Recognition>Признание</Recognition>
+    <Recruit>Набрать</Recruit>
+    <Redo>Повторить</Redo>
+    <Reduce>Уменьшить</Reduce>
+    <Referendum>Референдум</Referendum>
+    <RegionalPower>Региональная держава</RegionalPower>
+    <Reject>Отклонить</Reject>
+    <Rejected>Отклонено</Rejected>
+    <Region>Регион</Region>
+    <Regional>Региональные</Regional>
+    <Regions>Регионы</Regions>
+    <Relations>Отношения</Relations>
+    <RelativeMajority>Относительное большинство</RelativeMajority>
+    <Remove>Удалить</Remove>
+    <Removing>Удаление</Removing>
+    <Repeat>Повторить</Repeat>
+    <Representative>Представитель</Representative>
+    <Representatives>Представители</Representatives>
+    <Required>Необходимо</Required>
+    <Requirements>Требования</Requirements>
+    <Reputation>Репутация</Reputation>
+    <Research>Исследование</Research>
+    <Researches>Исследования</Researches>
+    <Reserve>Резерв</Reserve>
+    <Reserves>Резервы</Reserves>
+    <Reset>Перезагрузить</Reset>
+    <Resign>Уйти в отставку</Resign>
+    <Resignation>Отставка</Resignation>
+    <Resolution>Решение</Resolution>
+    <Resources>Ресурсы</Resources>
+    <Responsible>Ответственный</Responsible>
+    <Result>Результат</Result>
+    <Resume>Продолжить</Resume>
+    <Retire>Уйти на пенсию</Retire>
+    <Revolution>Революция</Revolution>
+    <Reward>Награда</Reward>
+    <Round>Раунд</Round>
+    <Rules>Правила</Rules>
+    <Runoff>Сточные воды</Runoff>
+    <Sales>Продажи</Sales>
+    <Salary>Зарплата</Salary>
+    <Same>То же самое</Same>
+    <Sample>Образец</Sample>
+    <Sandbox>Песочница</Sandbox>
+    <Save>Сохранить</Save>
+    <Scandal>Скандал</Scandal>
+    <Scandals>Скандалы</Scandals>
+    <Scenario>Сценарий</Scenario>
+    <Scenarios>Сценарии</Scenarios>
+    <Science>Наука</Science>
+    <Search>Поиск</Search>
+    <Sea>Моря</Sea>
+    <Seats>Места</Seats>
+    <SecretVote>Тайное голосование</SecretVote>
+    <Secretaries>Секретари</Secretaries>
+    <Secretary>Секретарь</Secretary>
+    <Sections>Провинции</Sections>
+    <Select>Выбрать</Select>
+    <Selection>Выбор</Selection>
+    <SelectLanguage>Выберите язык</SelectLanguage>
+    <Senate>Сенат</Senate>
+    <Senator>Сенатор</Senator>
+    <Senators>Сенаторы</Senators>
+    <Send>Отправить</Send>
+    <Sentence>Приговор</Sentence>
+    <Sentences>Приговоры</Sentences>
+    <Server>Сервер</Server>
+    <Servers>Сервера</Servers>
+    <Settings>Настройки</Settings>
+    <Simple>Простой</Simple>
+    <Singleplayer>Одиночная игра</Singleplayer>
+    <Size>Размер</Size>
+    <Share>Поделиться</Share>
+    <Shop>Магазин</Shop>
+    <Slow>Медленно</Slow>
+    <SocialNetwork>Социальная сеть</SocialNetwork>
+    <SocialPyramid>Социальная пирамида</SocialPyramid>
+    <Sound>Звук</Sound>
+    <Speaker>Спикер</Speaker>
+    <Spectator>Наблюдатель</Spectator>
+    <Speed>Скорость</Speed>
+    <Standard>Стандарт</Standard>
+    <Stability>Стабильность</Stability>
+    <Start>Старт</Start>
+    <State>Государство</State>
+    <Statement>Заявление</Statement>
+    <Statements>Заявления</Statements>
+    <States>Государства</States>
+    <Statistics>Статистика</Statistics>
+    <Status>Статус</Status>
+    <Stabilize>Стабилизировать</Stabilize>
+    <Steal>Украсть</Steal>
+    <Stenographer>Стенографист</Stenographer>
+    <Strength>Сила</Strength>
+    <Strong>Сильный</Strong>
+    <Strongest>Самый сильный</Strongest>
+    <Students>Студенты</Students>
+    <Success>Успех</Success>
+    <Successor>Наследник</Successor>
+    <Suffrage>Избирательное право</Suffrage>
+    <Superpower>Сверхдержава</Superpower>
+    <Support>Поддержка</Support>
+    <SupremeCourt>Верховный суд</SupremeCourt>
+    <Supress>Подавить</Supress>
+    <Surgery>Операция</Surgery>
+    <Suspend>Приостановить</Suspend>
+    <Suspended>Приостановлен</Suspended>
+    <System>Система</System>
+    <Take>Взять</Take>
+    <Target>Цель</Target>
+    <Tax>Налог</Tax>
+    <Taxes>Налоги</Taxes>
+    <TaxHaven>Налоговый рай</TaxHaven>
+    <Technology>Технологии</Technology>
+    <Television>Телевидение</Television>
+    <Tension>Напряжение</Tension>
+    <Terms>Мандаты</Terms>
+    <Territory>Территория</Territory>
+    <Threshold>Порог</Threshold>
+    <Thought>Мысль</Thought>
+    <Thoughts>Мысли</Thoughts>
+    <Time>Время</Time>
+    <Timeline>Хронология</Timeline>
+    <Timeout>Тайм-аут</Timeout>
+    <Timer>Таймер</Timer>
+    <Title>Заголовок</Title>
+    <Total>Суммарно</Total>
+    <TotalCost>Общая стоимость</TotalCost>
+    <Town>Городок</Town>
+    <Townhall>Ратуша</Townhall>
+    <Trade>Торговля</Trade>
+    <Traits>Черты характера</Traits>
+    <Transparent>Прозрачный</Transparent>
+    <Treaty>Договор</Treaty>
+    <Treaties>Договора</Treaties>
+    <Troop>Отряд</Troop>
+    <Troops>Отряды</Troops>
+    <Turn>Ход</Turn>
+    <Turnout>Явка</Turnout>
+    <Tutorial>Обучение</Tutorial>
+    <Type>Тип</Type>
+    <UIScale>Масштаб интерфейса</UIScale>
+    <Ultra>Ультра</Ultra>
+    <Undo>Отменить</Undo>
+    <Unfriendly>Недружественный</Unfriendly>
+    <Unknown>Неизвестный</Unknown>
+    <Unipolar>Униполярный</Unipolar>
+    <Unit>Подразделение</Unit>
+    <Units>Подразделения</Units>
+    <University>Университет</University>
+    <Universities>Университеты</Universities>
+    <Unlock>Разблокировать</Unlock>
+    <Unofficial>Неофициальный</Unofficial>
+    <Unrepresented>Не представленный</Unrepresented>
+    <Up>Вверх</Up>
+    <Update>Обновление</Update>
+    <Upload>Загрузить</Upload>
+    <Upgrade>Обновление</Upgrade>
+    <Vacant>Свободно</Vacant>
+    <Value>Значение</Value>
+    <Values>Значения</Values>
+    <Version>Версия</Version>
+    <Veto>Вето</Veto>
+    <Vibration>Вибрация</Vibration>
+    <Victory>Победа</Victory>
+    <VicePresident>Вице-президент</VicePresident>
+    <ViceSpeaker>Вице-спикер</ViceSpeaker>
+    <Video>Видео</Video>
+    <View>Просмотр</View>
+    <Visit>Посетить</Visit>
+    <Volume>Звук</Volume>
+    <Vote>Голосовать</Vote>
+    <Votes>Голоса</Votes>
+    <Voters>Избиратели</Voters>
+    <VotesLeft>Оставшиеся голоса</VotesLeft>
+    <VotesMargin>Разница голосов</VotesMargin>
+    <VSync>Вертикальная синхронизация</VSync>
+    <Wait>Подождите</Wait>
+    <Waiting>Ожидание</Waiting>
+    <War>Война</War>
+    <Watchers>Наблюдатели</Watchers>
+    <Weakest>Самый слабый</Weakest>
+    <Wealth>Богатство</Wealth>
+    <Weapons>Оружие</Weapons>
+    <WebSurfers>Интернет-пользователи</WebSurfers>
+    <Week>Неделя</Week>
+    <WeeklyCost>Недельная стоимость</WeeklyCost>
+    <Weeks>Недели</Weeks>
+    <Winner>Победитель</Winner>
+    <Withdraw>Отозвать</Withdraw>
+    <Woman>Женщина</Woman>
+    <Women>Женщины</Women>
+    <World>Мир</World>
+    <Worlds>Миры</Worlds>
+    <Worse>Хуже</Worse>
+    <Writing>Письмо</Writing>
+    <Yearbook>Ежегодник</Yearbook>
+    <YearlyCost>Годовая стоимость</YearlyCost>
+    <Year>Год</Year>
+    <Years>Года</Years>
+    <Yes>Да</Yes>
+    <Yield>Доходность</Yield>
+    <Young>Молодой</Young>
+    <Zoom>Приблизить</Zoom>
+  </System>
+  <Extra>
+    <Info>Весь контент, включая страны, партии, события, эффекты законов и т.д., является вымышленным и разработан исключительно для соответствия игровому процессу.</Info>
+    <Info2>Эта игра никоим образом НЕ отражает реальность.</Info2>
+    <Rate>Оцените нашу игру</Rate>
+    <Review>Если вы хорошо проводите время в нашем политическом симуляторе, пожалуйста, оставьте отзыв в магазине. Это может повысить популярность подобных игр, а также очень поможет нам. Было бы здорово собрать достаточно ресурсов для разработки продолжения, возможно, с министрами, картой мира, войной и торговлей. Спасибо за уделенное время!</Review>
+    <Thanks>Спасибо всем друзьям за поддержку разработки и помощь в создании этой политической игры-симулятора!</Thanks>
+    <Unlock>Разблокируйте полную версию, чтобы поддержать разработку и новые обновления</Unlock>
+    <Break>Вы играете уже больше 2 часов!</Break>
+    <Break2>Небольшой перерыв поможет вам восстановить силы и почувствовать себя более отдохнувшим!</Break2>
+    <Welcome>ДОБРО ПОЖАЛОВАТЬ В LAWGIVERS II</Welcome>
+    <Welcome2>Спасибо за вашу поддержку! Игра будет получать частые обновления на протяжении 2025 года! Для предложений по функциям или сообщений об ошибках присоединяйтесь к нашему сообществу в Discord.</Welcome2>
+    <Warning>*Более высокие настройки графики могут привести к более быстрой разрядке батареи.</Warning>
+  </Extra>
+  <Achievements>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Садист</string>
+        <string>Понизить счастье до -10</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Законодатель</string>
+        <string>Одобрить 100 законов</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Учёный</string>
+        <string>Завершить все исследования</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Долгожитель</string>
+        <string>Играть 10000 ходов</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Популист</string>
+        <string>Не выполнить 3 миссии</string>
+      </text>
+    </Item>
+  </Achievements>
+  <Banks>
+    <string />
+  </Banks>
+  <Buildings>
+    <string />
+    <string>Военная база</string>
+    <string>Лаборатория</string>
+    <string>Электростанция</string>
+    <string>Ферма</string>
+    <string>Фабрика</string>
+    <string>Шахта</string>
+  </Buildings>
+  <Categories>
+    <string />
+    <string>Студенты</string>
+    <string>Пенсионеры</string>
+    <string>Предприниматели</string>
+    <string>Сотрудники</string>
+    <string>Родители</string>
+    <string>Одинокие</string>
+    <string>Нерелигиозные</string>
+    <string>Религиозные</string>
+    <string>Низший класс</string>
+    <string>Средний класс</string>
+    <string>Высший класс</string>
+  </Categories>
+  <Cities>
+    <string />
+    <string>Нью-Йорк</string>
+    <string>Чикаго</string>
+    <string>Даллас</string>
+    <string>Хьюстон</string>
+    <string>Сан-Антонио</string>
+    <string>Феникс</string>
+    <string>Лос-Анджелес</string>
+    <string>Сан-Диего</string>
+    <string>Сан-Хосе</string>
+    <string>Филадельфия</string>
+    <string>Вашингтон</string>
+    <string>Лондон</string>
+    <string>Берлин</string>
+    <string>Париж</string>
+    <string>Рим</string>
+    <string>Мадрид</string>
+    <string>Варшава</string>
+    <string>Бёрн</string>
+    <string>Вена</string>
+    <string>Лиссабон</string>
+    <string>Дублин</string>
+    <string>Москва</string>
+    <string>Анкара</string>
+    <string>Тель-Авив</string>
+    <string>Оттава</string>
+    <string>Канберра</string>
+    <string>Мехико</string>
+    <string>Стокгольм</string>
+    <string>Осло</string>
+    <string>Хельсинки</string>
+    <string>Пекин</string>
+    <string>Токио</string>
+    <string>Сеул</string>
+    <string>Афины</string>
+    <string>Будапешт</string>
+    <string>Бухарест</string>
+    <string>Белград</string>
+    <string>Загреб</string>
+    <string>Любляна</string>
+    <string>Братислава</string>
+    <string>Киев</string>
+    <string>Тегеран</string>
+    <string>Мюнхен</string>
+    <string>Гамбург</string>
+    <string>Кёльн</string>
+    <string>Стамбул</string>
+    <string>Милан</string>
+    <string>Барселона</string>
+    <string>Бангкок</string>
+    <string>Бразилиа</string>
+    <string>Манчестер</string>
+    <string>Эдинбург</string>
+    <string>Бирмингем</string>
+    <string>Севилья</string>
+    <string>Бильбао</string>
+    <string>Марсель</string>
+    <string>Лион</string>
+    <string>Тулуза</string>
+    <string>Прага</string>
+    <string>Каир</string>
+    <string>Санкт-Петербург</string>
+    <string>Рабат</string>
+    <string>Рияд</string>
+    <string>Сиэтл</string>
+    <string>Майами</string>
+    <string>Ванкувер</string>
+    <string>Буэнос-Айрес</string>
+    <string>Солт-Лейк-Сити</string>
+    <string>Бостон</string>
+    <string>Минск</string>
+    <string>Лима</string>
+    <string>Сантьяго-де-Чили</string>
+    <string>Тбилиси</string>
+    <string>Нью-Дели</string>
+    <string>Чунцин</string>
+    <string>Куала-Лумпур</string>
+    <string>Джакарта</string>
+    <string>Сидней</string>
+    <string>Мельбурн</string>
+    <string>Веллингтон</string>
+    <string>Кито</string>
+    <string>Богота</string>
+    <string>Каракас</string>
+    <string>Кейптаун</string>
+    <string>Копенгаген</string>
+    <string>Волгоград</string>
+    <string>Неаполь</string>
+    <string>Флоренция</string>
+    <string>Брюссель</string>
+    <string>Люксембург</string>
+  </Cities>
+  <Companies>
+    <string />
+  </Companies>
+  <Competences>
+    <string />
+    <string>Иностранных дел</string>
+    <string>Торговли</string>
+    <string>Финансов</string>
+    <string>Казны</string>
+    <string>Экологии</string>
+    <string>Сельского хозяйства</string>
+    <string>Обороны</string>
+    <string>Социального обеспечения</string>
+    <string>Работы</string>
+    <string>Образования</string>
+    <string>Энергетики</string>
+    <string>Технологий</string>
+    <string>Транспорта</string>
+    <string>Инфраструктуры</string>
+    <string>Юстиции</string>
+    <string>Равенство</string>
+    <string>Спорт</string>
+    <string>Культуры</string>
+    <string>Досуга</string>
+    <string>Конституцонных дел</string>
+    <string>Внутренних дел</string>
+    <string>Здравоохранения</string>
+  </Competences>
+  <Culture>
+    <string />
+    <string>Итальянская</string>
+    <string>Американская</string>
+    <string>Немецкая</string>
+    <string>Французская</string>
+    <string>Испанская</string>
+    <string>Английская</string>
+    <string>Австрийская</string>
+    <string>Русская</string>
+    <string>Швейцарская</string>
+    <string>Турецкая</string>
+    <string>Канадская</string>
+    <string>Польская</string>
+    <string>Бразильская</string>
+    <string>Австралийская</string>
+    <string>Португальская</string>
+    <string>Нидерландская</string>
+    <string>Китайская</string>
+    <string>Японская</string>
+    <string>Корейская</string>
+    <string>Шведская</string>
+    <string>Бельгийская</string>
+    <string>Индийская</string>
+    <string>Тайская</string>
+    <string>Мексиканская</string>
+    <string>Аргентинская</string>
+    <string>Индонезийская</string>
+    <string>Малайзийская</string>
+    <string>Сингапурская</string>
+    <string>Арабский</string>
+    <string>Греческий</string>
+  </Culture>
+  <Currencies>
+    <string />
+    <string>Евро</string>
+    <string>Доллар США</string>
+    <string>Фунт стерлингов</string>
+    <string>Йена</string>
+    <string>Доллар Австралии</string>
+    <string>Доллар Канады</string>
+    <string>Швейцарский франк</string>
+    <string>Рубль</string>
+    <string>Шведская крона</string>
+    <string>Норвежская крона</string>
+    <string>Лира</string>
+    <string>Реал</string>
+    <string>Вона</string>
+    <string>Польский злотый</string>
+    <string>Китайский юань</string>
+    <string>Тайский бат</string>
+    <string>Итальянская лира</string>
+    <string>Немецкая марка</string>
+    <string>Французский франк</string>
+    <string>Австрийский шиллинг</string>
+    <string>Сингапурский доллар</string>
+    <string>Гонконгский доллар</string>
+    <string>Индийская рупия</string>
+    <string>Новозеландский доллар</string>
+    <string>Мексиканское песо</string>
+    <string>Саудовский риял</string>
+    <string>Дирхам ОАЭ</string>
+    <string>Малайзийский ринггит</string>
+    <string>Индонезийская рупия</string>
+    <string>Южноафриканский ранд</string>
+    <string>Филиппинское песо</string>
+    <string>Вьетнамский донг</string>
+    <string>Египетский фунт</string>
+    <string>Аргентинское песо</string>
+    <string>Чешская крона</string>
+    <string>Украинская гривна</string>
+    <string>Румынский лей</string>
+    <string>Испанское песо</string>
+  </Currencies>
+  <Events>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Ипотечный кризис</string>
+        <string>Резкое падение цен на жилье в США после лопания ипотечного пузыря</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Великая депрессия</string>
+        <string>Крах рынка жилья и финансовый кризис приводят к снижению деловой активности и высокому уровню безработицы.</string>
+        <string>Экономический стимул</string>
+        <string>Меры экономии</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Кризис инфляции</string>
+        <string>Общий прогрессирующий рост цен на товары и услуги со снижением покупательской способности граждан.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Коронавирус</string>
+        <string>Пандемия коронавируса вызвала глобальные чрезвычайные ситуации в здравоохранении, экономические сбои и рост государственных расходов на здравоохранение и экономическую поддержку, поставив перед странами задачу быстро адаптироваться и реагировать.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Крушение поезда</string>
+        <string>Произошла разрушительная авария поезда из-за сбоя сигнала, что привело к значительным жертвам и вызвало неотложные вопросы о безопасности и техническом обслуживании железнодорожной инфраструктуры.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Злоупотребление властью</string>
+        <string>Скрытая фракция внутри мощной организации тайно перераспределила ресурсы и повлияла на решения в своих интересах, подрывая прозрачность и разрушая общественное доверие.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Спад в технологиях</string>
+        <string>Технологический сектор, когда-то являвшийся опорой экономической стабильности, сталкивается с резким спадом, с сокращением инвестиций и увольнениями, что влияет на рыночное доверие и способствует экономической неопределенности.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Лесные пожары</string>
+        <string>Эскалация лесных пожаров, вызванных экстремальными погодными условиями и сухими ландшафтами, разрушила огромные территории, уничтожив дома и природные среды, и вызвала массовую эвакуацию и экстренные меры реагирования.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Возрождение сообщества</string>
+        <string>Прозрачное и эффективное распределение государственных средств успешно восстановило местное сообщество, приведя к ремонту общественных парков, улучшению местных школ и укреплению службы экстренной помощи.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Коррупция в инфраструктуре</string>
+        <string>Недавний аудит выявил значительное нецелевое расходование государственных средств, выделенных на муниципальные инфраструктурные проекты, что привело к незавершенным или некачественным дорогам, мостам и коммунальным услугам.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Образовательное мошенничество</string>
+        <string>Расследования выявили мошеннические схемы в процессе контрактования в образовательном секторе, что привело к нецелевому расходованию средств, предназначенных для инфраструктуры школ и материалов.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Скандал в жилищном строительстве</string>
+        <string>Всплыл скандал, связанный с откатами при строительстве общественного жилья, когда чиновники получали незаконные выплаты в обмен на заключение контрактов с определёнными застройщиками.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Нехватка энергии</string>
+        <string>Нехватка энергии существенно повлияла на экономику, с частыми перебоями в подаче электричества и высокими энергетическими затратами, что тормозит промышленную продуктивность и способствует замедлению экономического роста.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Кризис безработицы</string>
+        <string>Резкий рост уровня безработицы привел к экономическим и социальным проблемам, с дефицитом рабочих мест, что снижает потребительские расходы и увеличивает зависимость от систем социального обеспечения.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Революция</string>
+        <string>В стране происходит революция, быстро изменяющая наше общество, свергнув старые власти и вводя новый порядок, основанный на стремлениях тех, кто стремится к переменам.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Попытка переворота</string>
+        <string>Ведется попытка переворота, характеризующаяся усилиями военных или политических фракций свергнуть текущее правительство или лидера, стремясь быстро изменить существующую власть и захватить контроль.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Возрождение туризма</string>
+        <string>Возрождение туристического сектора, обусловленное эффективным маркетингом и улучшением условий для путешествий, привлекло поток посетителей, значительно пользуясь местным бизнесам и экономике в целом.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Расширение экспорта</string>
+        <string>Диверсификация и улучшение экспортных товаров открыли новые международные рынки, способствуя экономическому росту и создавая излишек в торговых балансах, стабилизируя национальную экономику.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Условия засухи</string>
+        <string>Продолжительные засухи разрушили сельскохозяйственные показатели, приводя к нехватке воды и значительным экономическим потерям в сельских районах, что оказывает влияние на цепочки поставок продуктов и повышает цены.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Наводнения</string>
+        <string>Сильные и неожиданные наводнения затопили города и сельские районы, повредив имущество и бизнес, нарушив транспортировку и коммерцию, и потребовав значительных средств на экстренную помощь и восстановление.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Ураганные разрушения</string>
+        <string>Частые и мощные ураганы вызвали массовое разрушение инфраструктуры и жилья, приведя к дорогим ремонтным работам и усилиям по восстановлению, что оказывает давление на местные экономики и государственные бюджеты.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Обрушение моста</string>
+        <string>Обрушение важного моста из-за структурной неисправности нарушило критические транспортные маршруты, вызвав долгосрочные последствия для торговли и ежедневных поездок, требуя дорогих и времязатратных ремонтов.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Авария на шахте</string>
+        <string>Тяжелая авария на шахте привела к многочисленным жертвам и значительному экологическому ущербу, вызвав расследования и требования реформ в отрасли, а также оказав влияние на местную экономику и стабильность рабочей силы.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Химический разлив</string>
+        <string>Промышленный химический разлив загрязнил местные водоемы и экосистемы, вызвав кризис в здравоохранении, юридические последствия для ответственных компаний и масштабные работы по очистке, истощая местные экономики.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Катастрофа с авиалайнером</string>
+        <string>Катастрофический авиакрах привел к значительным потерям среди пассажиров и вызвал серьезные опасения по поводу авиационных стандартов безопасности, что привело к приостановке флота и снижению доверия пассажиров, оказав экономическое воздействие на авиационную отрасль.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Ограбление банка</string>
+        <string>Дерзкое ограбление банка потрясло финансовое сообщество, приведя к значительным денежным потерям и усилению мер безопасности в банковском секторе, что повлияло на доверие клиентов и операционные расходы.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Рост наркоторговли</string>
+        <string>Увеличение деятельности наркоторговли нагрузило ресурсы правоохранительных органов, способствовало общественным беспорядкам и увеличению проблем в области здравоохранения, с дорогостоящими социально-экономическими последствиями.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Волна вандализма</string>
+        <string>Волна вандализма, направленного против общественной и частной собственности, привела к значительным расходам на ремонт, повышению страховых премий и усилению общественного беспокойства, что повлияло на работу местных бизнесов и туризм.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Археологическая находка</string>
+        <string>Обнаружение древнего города дало ценные сведения о человеческой истории и культуре, привлекло международное внимание, повысило местный туризм и способствовало глобальным академическим сотрудничествам.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Астрономическое открытие</string>
+        <string>Астрономы обнаружили потенциально обитаемую экзопланету, что вызвало широкий интерес к исследованию космоса, возможностям внезависного жизни и инвестициям в космические технологии.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Исследование глубокого моря</string>
+        <string>Экспедиция в глубокие воды обнаружила неизвестные виды и минералы, предлагая захватывающие возможности для биологических исследований и возможную добычу ценных ресурсов.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Художественная инновация</string>
+        <string>Художник дебютирует с революционным новым стилем, который оказывает влияние на мир искусства и вдохновляет новое движение, изменяя восприятие и создание искусства по всему миру.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Кулинарный акцент</string>
+        <string>Традиционное блюдо из недооцененной кулинарной культуры приобретает популярность после того, как оно было представлено на широко смотримом международном кулинарном шоу, вызывая глобальное любопытство и признание кухни этого региона.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Терапевтический прорыв</string>
+        <string>Новый препарат одобрен после небывалого успеха в лечении хронического заболевания, предлагая надежду миллионам пациентов и открывая новые возможности для терапии.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Увеличение хронических заболеваний</string>
+        <string>Изменения в образе жизни и экологические факторы способствуют резкому росту хронических заболеваний, таких как диабет и болезни сердца, что нагружает системы здравоохранения и снижает продолжительность жизни.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Достижения в области ИИ</string>
+        <string>Прорывы в области искусственного интеллекта приводят к разработке систем ИИ, которые повышают эффективность в области диагностики здравоохранения, управления движением и персонализированного образования, улучшая качество жизни и производительность.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Промышленное загрязнение</string>
+        <string>Быстрый промышленный рост 1970-х годов часто происходил за счет окружающей среды, с многочисленными случаями загрязнения, такими как разливы химических веществ и смог в крупных городах, что подчеркивает темную сторону промышленного прогресса.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Легенда спорта</string>
+        <string>Спортсмен достигает небывалого успеха в своем виде спорта, устанавливая рекорды и вдохновляя других своей преданностью, мастерством и спортивным духом.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Городской разработчик-новатор</string>
+        <string>Архитектор или градостроитель разрабатывает и реализует инновационные проекты, которые улучшают качество жизни, устойчивость и функциональность городских пространств.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Технологический пионер</string>
+        <string>Инноватор разрабатывает новую технологию или платформу, которая кардинально меняет способ жизни, работы или общения людей, устанавливая новые стандарты и создавая новые отрасли.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Падение Берлинской стены</string>
+        <string>Ознаменовав конец разделенной Германии, символизирует крах коммунизма в Восточной Европе и воссоединение Восточной и Западной Германии.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Введение евро</string>
+        <string>Несколько европейских стран принимают единую валюту для усиления экономической интеграции и упрощения торговли.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Скандал Тангентополи</string>
+        <string>Крупный политический коррупционный скандал, раскрывающий широкомасштабное взяточничество и приводящий к краху устоявшихся партий.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Теракты 11 сентября</string>
+        <string>Координированный акт терроризма с участием угнанных самолетов, нацеленных на важные объекты, вызвавший массовые разрушения и глобальные последствия.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Бомбардировки города</string>
+        <string>Серия координированных взрывов потрясла крупный мегаполис, вызвав жертвы среди гражданского населения и широкую панику. Власти реагируют усилением мер безопасности, в то время как общественный дух и социальная стабильность подвергаются испытанию.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Чернобыльская катастрофа</string>
+        <string>Взрыв реактора на Чернобыльской АЭС привел к выбросу радиоактивных материалов в окружающую среду.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Протест "желтых жилетов"</string>
+        <string>Протестующие в желтых жилетах проводят демонстрации по всей Франции, требуя экономических реформ и снижения налогов на топливо, что приводит к массовым собраниям и ответным мерам правительства.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Кризис беженцев</string>
+        <string>Массовая миграция людей, ищущих безопасность и лучшую жизнь, создающая гуманитарные и политические вызовы.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>По умолчанию</string>
+        <string>Ваша страна пережила системный экономический кризис и не смогла выполнить свои долговые обязательства, что привело к серьезной финансовой нестабильности, девальвации валюты и потере доверия инвесторов.</string>
+      </text>
+    </Item>
+  </Events>
+  <EventsGroups>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Преступление</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Стихийное бедствие</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Эпидемия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Инцидент</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Экономика</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Открытия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Технология</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Учреждения</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Достижения</string>
+      </text>
+    </Item>
+  </EventsGroups>
+  <Encyclopedia>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Что такое Lawgivers II?</string>
+        <string>Lawgivers II это политический симулятор-песочница, в которой есть несколько способов баллотироваться на выборах, одобрять/отклонять законопроекты и управлять страной. \n\nКаждая нация и культура по всему миру имеют свою точку зрения в различных вопросах, историю и методы правления. \n\nИгрокам предлагается исследовать различные игровые системы и насладиться наследием нашего удивительного мира.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Отражает ли игра реально происходящие события?</string>
+        <string>Нет, хотя в игре есть карта мира с изображением большинства наций, поведение ИИ и последствия являются чисто вымышленными и предназначены исключительно для развлекательных целей. \n\nПоэтому эта игра никоим образом не отражает реальность и не предлагает никакой «правильной» идеологии или системы управления страной. Имена, политические партии и некоторые другие вещи намеренно названы случайным образом.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Почему ранний доступ?</string>
+        <string>С точки зрения разработчика-одиночки, эта игра огромна. Много статистики и ИИ должны хорошо вписываться в игровую механику. Вот почему ранний доступ останется надолго, чтобы в конечном итоге получить потрясающий продукт и подарить игрокам больше эмоций. \n\nПрисоединяйтесь ко мне в этом приключении :)</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Как играть?</string>
+        <string>Игроки управляют выбранным человеком, который может баллотироваться на выборах, стать лидером, контролировать партию и, в конечном итоге, стать президентом/правителем нации.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Как можно победить?</string>
+        <string>Есть 3 способа выиграть. Необходимо получить достаточное количество очков личной выгоды, партийного влияния или национального престижа.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Внимание граждан</string>
+        <string>Граждане будут уделять больше внимания перед выборами или после важного события. Ваши действия будут иметь большее значение в этот момент.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Приоритеты граждан</string>
+        <string>У населения есть различные приоритеты, которые могут измениться после значительного события или появления нового поколения.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Закрытие окон</string>
+        <string>Вы можете закрыть все окна, удерживая кнопку закрытия на последнем открытом окне в течение 2 секунд.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Подсказки</string>
+        <string>Чтобы отобразить подсказки, нажмите и удерживайте на том же месте на элементе интерфейса.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Можно ли модифицировать игру?</string>
+        <string>Все, начиная от стран, партий и законов до событий и многого другого, редактируемо. Вы также можете импортировать политиков и настраивать их внешний вид. Присоединяйтесь к нашему сообществу, чтобы узнать больше.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Процесс утверждения закона</string>
+        <string>Создайте закон через меню календаря. Выберите статьи для добавления и подождите, пока закон будет написан. После этого предложите закон в компетентный комитет. Если закон будет одобрен, он перейдёт на пленарное заседание.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Как утвердить законопроект?</string>
+        <string>Как только закон будет создан, его можно предложить в компетентный комитет законодателем. Если комитет одобрит, законопроект перейдёт в пленарное заседание парламента/конгресса. Если парламент тоже его одобрит, президент или монарх должен подписать законопроект.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Что такое парламент?</string>
+        <string>Парламент — это законодательный орган правительства, в котором обсуждаются, создаются и принимаются законы. Он состоит из избранных представителей и играет роль в формировании политики, контроле над правительством и финансовыми вопросами. Его структура и полномочия могут варьироваться в разных странах.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Как получить больше избирателей?</string>
+        <string>Чтобы привлечь больше избирателей, выпускайте заявления с вашими политиками, предлагайте популярные законопроекты и реализуйте меры, которые получат одобрение общественности. Используйте опросы, чтобы понять потребности и желания граждан.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Что такое комитет?</string>
+        <string>Комитет — это группа лиц, назначенных или избранных для выполнения конкретной задачи, принятия решений или контроля за определённой областью интересов или проблем.\n\nВ законодательном процессе законопроекты рассматриваются и исследуются комитетами в каждой палате до окончательного утверждения на пленарном заседании.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Что такое правительство?</string>
+        <string>Роль правительства заключается в установлении и обеспечении исполнения законов, предоставлении общественных услуг и защите прав и благополучия граждан. Правительство состоит из различных департаментов, каждый из которых возглавляется секретарем или министром, ответственным за контроль за конкретными областями управления и администрирования.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Что такое законодатель?</string>
+        <string>Законодатель — это человек, обычно избранный представитель, который имеет полномочия создавать, изменять и отменять законы в законодательном органе, таком как парламент или конгресс.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Спикер</string>
+        <string>Спикер — это председательствующее лицо законодательного органа, ответственное за управление дебатами, поддержание порядка и представление палаты перед внешними сторонами.\n\n</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Как отменить законопроект?</string>
+        <string>Для отмены существующего закона необходимо, чтобы законодателя назначили в нужный комитет и предложили отмену.\n\nЕсли комитет одобрит отмену, закон будет передан на пленарное заседание для окончательного голосования. Если парламент/конгресс также его одобрит, президент/монарх поставит окончательную подпись. Когда подпись будет поставлена, закон будет отменён после истечения времени на его отмену.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Как проходят выборы?</string>
+        <string>Каждая нация в игре имеет свою систему выборов, которую можно изменять в ходе игры с помощью конституционных законопроектов.\n\nКогда начинается новая предвыборная кампания, необходимо выбрать несколько кандидатов для избирательных округов. Выбирайте членов с лучшими характеристиками, чтобы повысить шансы на победу на выборах.\n\nЕсли нужно, воспользуйтесь кнопкой автозаполнения для более быстрого завершения процесса.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Я нашел ошибку, что мне делать?</string>
+        <string>Lawgivers II — это песочница, и поэтому игра более подвержена ошибкам, чем линейные игры, так как правила игры могут изменяться. Но это и есть веселье, не так ли?\n\nЛюбая помощь приветствуется: сообщите об ошибках через опцию обратной связи в игре (меню паузы) или напрямую в нашем Discord в канале feedback-bugs.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Может ли Lawgivers II использоваться для образовательных целей?</string>
+        <string>Абсолютно нет, игра неточная и не отражает реальность.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Выборы</string>
+        <string>Выборы — это формальный процесс, в ходе которого люди голосуют за выбор лидеров или для принятия решений по конкретным вопросам. Это основная часть демократии, позволяющая гражданам участвовать в управлении.\n\nВыборы часто сопровождаются кампаниями, в которых кандидаты или группы продвигают свои идеи, ценности и планы на будущее. Эта коммуникация помогает избирателям принимать осознанные решения.\n\nВыборы могут проводиться на различных уровнях, от местных решений до выборов национальных лидеров. Они являются важным способом участия людей в формировании политики и направлений развития их общества.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Избирательные округа</string>
+        <string>Избирательный округ — это конкретная географическая зона, которая представляется избранным должностным лицом. Это лицо может быть членом законодательного органа, такого как парламент или конгресс. Избирательные округа используются для разделения страны на более мелкие управляемые единицы с целью представительства. Каждый округ обычно выбирает одного или нескольких представителей, в зависимости от избирательной системы.\n\nИзбирательные округа помогают обеспечить, чтобы различные регионы или сообщества в стране были услышаны в законодательном процессе. Представители, избранные от каждого округа, ответственны за защиту интересов и проблем своих избирателей в законодательном органе. Точные границы и количество округов могут варьироваться в зависимости от таких факторов, как размер населения, географические особенности и политические решения.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Деньги</string>
+        <string>Деньги используются людьми или партиями для планирования мероприятий в игровом календаре, найма новых участников, проведения опросов, выпуска заявлений и т.д.\n\nДля получения дополнительных средств партии могут взять кредит или организовать кампании по сбору средств.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Черные деньги</string>
+        <string>Черные деньги относятся к неофициальным средствам, используемым людьми или партиями для участия в неэтичных действиях, таких как покупка голосов в парламенте или запугивание других политиков.\n\nПолучить больше черных денег можно, украдя из государственного бюджета.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Счастье</string>
+        <string>Счастье обеспечивает стабильность нации, предотвращая протесты и поддерживая эффективное управление.\n\nУдовлетворение требований граждан и предоставление необходимых ресурсов и услуг являются важными шагами на пути к большему счастью населения.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Как сформировать коалицию?</string>
+        <string>В парламентских системах победа на выборах не всегда гарантирует большинство для формирования правительства. Для решения этой ситуации вы можете предложить коалицию, создать расписание и распределить министерские должности или секретарей другим партиям для получения их поддержки.\n\nВашему правительству нужно будет пройти голосование доверия в парламенте, чтобы начать работать.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Наука</string>
+        <string>Наука используется для завершения исследований и открытия новых законов, зданий и т.д.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>ВВП</string>
+        <string>Валовой внутренний продукт (ВВП) — это основной экономический показатель, измеряющий общую стоимость товаров и услуг, произведенных в стране. Он используется для оценки и сравнения экономической эффективности.\n\nВВП на душу населения — это средний доход на человека в стране, получаемый путем деления валового внутреннего продукта (ВВП) на население.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Опросы</string>
+        <string>Опросы — это анкеты, предназначенные для сбора мнений или отзывов по конкретным вопросам путём задавания людям набора заранее определённых вопросов.\n\nИспользуйте опросы, чтобы понять предпочтения граждан на выборах и эффективно учитывать их беспокойства.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Меры</string>
+        <string>Меры, быстро принимаемые министрами или секретарями, направлены на корректировку параметров внутри страны, при этом соблюдаются бюджетные ограничения.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Здания</string>
+        <string>Подобно законам, здания изменяют параметры в вашей стране.\n\nКаждое правительство имеет полномочия строить или сносить заранее определённое количество зданий.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Категории</string>
+        <string>Население каждой страны делится на различные категории, такие как студенты, предприниматели и другие.\n\nУсилия по привлечению этих определённых избирательных сегментов могут привести к увеличению поддержки на выборах.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Законы</string>
+        <string>Когда законопроект принимается, он становится законом, изменяя различные национальные параметры, такие как счастье и ВВП. Законы, связанные с налогами, могут приносить доход, в то время как другие законы могут увеличить расходы государственного бюджета.\n\nДля утверждения законопроекта он должен сначала быть рассмотрен комитетом, затем принят парламентом, и в конце подписан президентом или монархом.\n\nЗаконы могут быть обычными или конституционными. Конституционные законы изменяют значительные функции в стране и обычно требуют большего большинства в парламенте для утверждения.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Договоры</string>
+        <string>Договор — это специализированный закон, регулирующий отношения между государствами.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Когда игра сохраняется?</string>
+        <string>Игра сохраняется в конце каждого хода.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Валюта</string>
+        <string>У каждой страны есть своя валюта $i5.2.\n\nСобытия $i4.7 и условия в стране могут вызвать инфляцию, что повлияет на повышение цен на действия в игре.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>События</string>
+        <string>События $i5.8 влияют на параметры $i4.35 в стране. Существуют как положительные $i4.30, так и отрицательные $i4.7 события.\n\nНекоторые законы и меры могут снизить воздействие и частоту событий.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Верховный суд</string>
+        <string>Верховный суд собирается для увеличения, поддержания, сокращения или отмены приговора $i4.31 по делам о скандалах $i4.28.\n\nЕсли признан виновным, человек либо платит штраф, либо идет в тюрьму $i8.3.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Скандал</string>
+        <string>Скандал $i4.28 может произойти, если было совершено слишком много аморальных действий.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Действия</string>
+        <string>Действия $i9.9 расходуются при планировании события в календаре, выполнении специального действия с вашей партией или выполнении специального действия с человеком.\n\nОчки действия зарабатываются каждый ход в соответствии с правилами игры.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Параметры</string>
+        <string>Параметры $i4.35 значительно влияют на ключевые переменные в вашей стране, такие как счастье $i6.4, стабильность $i5.9 и ВВП $i6.8. Изменения в законах, государственной политике или событиях могут изменять эти параметры.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Стабильность</string>
+        <string>Низкая стабильность $i5.9 увеличивает вероятность протестов и, если она длится долго, повышает риск революции.</string>
+        </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Филибастерство</string>
+        <string>Политическая тактика, при которой законодатели задерживают или блокируют законодательные действия, часто с помощью затяжных речей, чтобы помешать голосованию. \n\nЗаконодатели, участвующие в филибастерстве, потеряют много энергии.</string>
+      </text>
+    </Item>
+  </Encyclopedia>
+  <Ideologies>
+    <Item>
+      <text>
+        <string />
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Фискальный консерватизм</string>
+        <string>Экономическая философия, выступающая за минимальные государственные расходы, низкие налоговые ставки и снижение государственного долга.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Социал-консерватизм</string>
+        <string>Идеологическая позиция, поддерживающая традиционные ценности и нормы, часто подчеркивающая роль религии, морали и семейных структур.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Либертарианство</string>
+        <string>Выступает за минимальное вмешательство государства в личные и экономические свободы, поддерживая свободный рынок и индивидуальные права.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Центризм</string>
+        <string>Выступает за сбалансированное сочетание социальных и фискальных политик как левых, так и правых идеологий, стремясь к поиску решений, учитывающих интересы обеих сторон.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Правый популизм</string>
+        <string>Отстаивает права и власть простых людей против предполагаемой коррумпированной элиты, обычно с правым националистическим уклоном.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Прогрессивный либерализм</string>
+        <string>Выступает за социальную справедливость, гражданские права и экономическое вмешательство, подчеркивая роль государства в устранении социальных несправедливостей.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Социал-либерализм</string>
+        <string>Выступает за вмешательство государства для обеспечения социальной справедливости, гражданских прав и индивидуальной свободы, а также за регулированную свободную рыночную систему.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Левый популизм</string>
+        <string>Выступает за социально-экономическое равенство, отстаивая права простых людей против предполагаемой элиты.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Экологизм</string>
+        <string>Выступает за защиту окружающей среды через устойчивые практики, с акцентом на такие вопросы, как изменение климата и биоразнообразие.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Социальная демократия</string>
+        <string>Отстаивает социальную справедливость в рамках капиталистической экономики, поддерживая элементы государства всеобъемлющего благосостояния и смешанную экономику.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Неолиберализм</string>
+        <string>Выступает за либерализацию экономической политики, продвижение свободных рыночных систем, приватизацию, дерегуляцию и усиление роли частного сектора.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Регионализм</string>
+        <string>Выступает за политические или экономические интересы конкретного региона, часто в контексте децентрализации или передачи полномочий.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Национализм</string>
+        <string>Отдает предпочтение интересам конкретной нации (или убеждению, что нация должна действовать независимо), часто подчеркивая общую культуру, язык или этничность.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Коллективизм</string>
+        <string>Приоритет отдается нуждам, целям и благополучию группы или общества в целом, а не индивидуальным интересам, с упором на сотрудничество, общую ответственность и коллективное принятие решений.</string>
+      </text>
+    </Item>
+  </Ideologies>
+  <Institutions>
+    <string />
+    <string>Президентство</string>
+    <string>Правительство</string>
+    <string>Нижняя палата</string>
+    <string>Верхняя палата</string>
+    <string>Верховный суд</string>
+    <string>Зал дебатов</string>
+    <string>Монархия</string>
+  </Institutions>
+  <Jobs>
+    <string />
+    <string>Безработный</string>
+    <string>Юрист</string>
+    <string>Шеф</string>
+    <string>Солдат</string>
+    <string>Водитель автобуса</string>
+    <string>Астронавт</string>
+    <string>Доктор</string>
+    <string>Банкир</string>
+    <string>Инвестор</string>
+    <string>Техник</string>
+    <string>Построитель</string>
+    <string>Спортсмен</string>
+    <string>Комик</string>
+    <string>Политик</string>
+    <string>Ученый</string>
+    <string>Инженер</string>
+    <string>Судья</string>
+    <string>Медсестра</string>
+    <string>Продавец</string>
+    <string>Официант</string>
+    <string>Инженер-электрик</string>
+    <string>Инженер-механик</string>
+    <string>Компьютерщик</string>
+    <string>Журналист</string>
+    <string>Бизнесмен</string>
+    <string>Полицейский</string>
+    <string>Бейкер</string>
+    <string>Профессор</string>
+    <string>Программист</string>
+    <string>Актёр</string>
+    <string>Социальный работник</string>
+    <string>Студент</string>
+    <string>Исследователь</string>
+    <string>Член королевской семьи</string>
+    <string>Архитектор</string>
+    <string>Фармацевт</string>
+    <string>Менеджер по маркетингу</string>
+    <string>Ветеринар</string>
+    <string>Библиотекарь</string>
+    <string>Финансовый аналитик</string>
+    <string>Пилот</string>
+    <string>Физиотерапевт</string>
+    <string>Риелтор</string>
+    <string>Фотограф</string>
+    <string>Биомедицинский инженер</string>
+    <string>Пожарный</string>
+    <string>Переводчик</string>
+    <string>Модельер</string>
+    <string>Геолог</string>
+    <string>Музыкант</string>
+    <string>Зоолог</string>
+    <string>Гид</string>
+    <string>Метеоролог</string>
+    <string>Дальнобойщик</string>
+    <string>Фермер</string>
+    <string>Археолог</string>
+    <string>Историк</string>
+    <string>Бухгалтер</string>
+    <string>Сантехник</string>
+    <string>Плотник</string>
+    <string>Механик</string>
+    <string>Писатель</string>
+    <string>Предприниматель</string>
+    <string>Астроном</string>
+    <string>Школьный учитель</string>
+    <string>Тренер</string>
+    <string>Охранник</string>
+  </Jobs>
+  <Laws>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Нижняя палата</string>
+        <string>Положение о выборах в палату, количество мест и необходимые требования.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Сельскохозяйственные субсидии</string>
+        <string>Фермеры кормят мир. Но не все из них имеют достаточный доход для поддержания своей деятельности. Субсидируйте фермерство для стимулирования производства.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Налог на продажи</string>
+        <string>Налог с продаж — это налог, добавляемый к стоимости товаров и услуг в момент продажи. Это процент от покупной цены, который продавец собирает для государства.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Правительство</string>
+        <string>Регулирование правительства и ведомств государства.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Нация</string>
+        <string>Регулирование основных характеристик и особенностей нации.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Сенат</string>
+        <string>В двухпалатном парламенте это старшая законодательная палата, ответственная за рассмотрение законов и контроль за действиями правительства.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Президентство</string>
+        <string>Регулирование выборов и введение требований, чтобы стать президентом государства.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Наказание за ограбление</string>
+        <string>Это преступление, когда отдельное лицо или группа крадут что-то ценное силой.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Начальное образование</string>
+        <string>Первое учебное заведение для школьников.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Торговое соглашение</string>
+        <string>Содействует обмену товарами и услугами между странами, снижая пошлины и другие барьеры.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Программа публичных домов</string>
+        <string>Создана для обеспечения достойным жильем семей с низким доходом, пожилых людей или инвалидов.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Среднее образование</string>
+        <string>Среднее образование — это уровень образования, который следует после начального образования и готовит студентов к высшему образованию или работе.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Национальные праздники</string>
+        <string>Определяет официальные общественные праздники, регулируя выходные дни и компенсацию для работников в эти дни.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Пенсии</string>
+        <string>Государственная программа, предлагающая финансовые пособия квалифицированным лицам, когда они достигают определенного возраста или соответствуют конкретным критериям.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Рабочий регламент</string>
+        <string>Устанавливает условия труда, такие как рабочие часы, зарплата и безопасность, защищая права работников и обеспечивая справедливые условия труда.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Природные заповедники</string>
+        <string>Закон о природных парках защищает природные территории и регулирует виды деятельности для сохранения природы и обеспечения общественного доступа.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Банковская система</string>
+        <string>Это сеть финансовых учреждений, предоставляющая различные услуги, такие как депозиты, кредиты и инвестиции, и играющая ключевую роль в экономике.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Полицейское регулирование</string>
+        <string>Правила и рекомендации, касающиеся организации, полномочий и обязанностей полиции.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Основные права</string>
+        <string>Основные права человека, защищенные конституцией страны, такие как право на жизнь, свободу слова и неприкосновенность частной жизни, обеспечивающие равенство и достоинство для всех.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Подоходный налог</string>
+        <string>Налог, взимаемый с дохода или прибыли граждан.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Соглашение о взаимной обороне</string>
+        <string>Договор о взаимной обороне — это соглашение между странами о взаимной поддержке в случае военной агрессии против одной из сторон.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Права арендодателей и арендаторов</string>
+        <string>Арендодатели имеют право получать аренду и поддерживать имущество, в то время как арендаторы имеют право на пригодное для жилья пространство, конфиденциальность и справедливое соглашение об аренде.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Охрана границ и иммиграция</string>
+        <string>Регулирует иммиграцию и определяет, кто может въехать, проживать и работать в стране.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Корпоративный налог</string>
+        <string>Прямой налог на прибыль корпораций и компаний обычно применяется на национальном уровне.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Налог на богатство</string>
+        <string>Налагается на индивидуальное частное имущество и стоимость их общих активов за вычетом обязательств.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Производство вооружений</string>
+        <string>Направлено на значительное увеличение производственных мощностей страны для производства оборонного оборудования и оружия через государственное финансирование, стимулы и регуляторную поддержку.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Режим военного положения</string>
+        <string>Временное состояние контроля, при котором военные власти берут на себя управление страной, обычно в ответ на кризис, такой как массовые беспорядки, стихийные бедствия или угрозы национальной безопасности.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Обязательная военная служба</string>
+        <string>Граждане обязаны служить в армии для защиты страны.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Водительское удостоверение</string>
+        <string>Каждый гражданин должен иметь водительское удостоверение для передвижения по дорогам.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Экономический стимул</string>
+        <string>Предназначен для стимулирования экономической активности, обычно через государственные расходы, налоговые льготы или финансовые стимулы, чтобы противостоять экономическим спадам и способствовать росту.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Регулирование туризма</string>
+        <string>Регулировать передвижение людей для посещения страны.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Права животных</string>
+        <string>Вера в этичное обращение с животными и их защиту, признание их способности страдать и продвижение их благосостояния.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Культурные субсидии</string>
+        <string>Поощряйте культурный интерес к местным традициям, музыке, еде и искусству.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Процесс утверждения законопроекта</string>
+        <string>Регулирование процесса и необходимое для принятия законопроекта большинство.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Регулирование продуктов питания</string>
+        <string>Предоставляет важную информацию для клиентов, безопасности пищевых продуктов и контроля процессов.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Регулирование рынка огнестрельного оружия</string>
+        <string>Регулирование производства, продажи, хранения и использования огнестрельного оружия гражданами.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Политика планирования семьи</string>
+        <string>Меры, касающиеся отпуска по уходу за ребенком, детских пособий и ежедневного ухода.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Налог на наследство</string>
+        <string>Государственный сбор на активы, оставленные наследникам после чьей-либо смерти. Сумма налога зависит от общей стоимости имущества.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Общественное здравоохранение</string>
+        <string>Услуги здравоохранения, предоставляемые и финансируемые государством для обеспечения равного доступа к медицинской помощи для всех граждан.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Губернатор</string>
+        <string>Регулирование выборов и требования для того, чтобы стать губернатором этого штата/региона.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Мэр</string>
+        <string>Регулирование выборов и требования для того, чтобы стать мэром этого города.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Всемирная торговая организация</string>
+        <string>Продвигает международную торговлю, ведя переговоры по соглашениям, разрешая споры и контролируя политику между государствами-членами.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Финансирование партий</string>
+        <string>Способ сбора средств политическими партиями для кампаний и управления.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Всемирные игры</string>
+        <string>Глобальное мультиспортивное событие, проводимое каждые четыре года, демонстрирующее соревнования элитных спортсменов.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Регулирование магазинов</string>
+        <string>Управление операционными аспектами розничных бизнесов, включая часы работы, условия труда сотрудников и стандарты защиты потребителей.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Высшее образование</string>
+        <string>Образование после среднего образования, предоставляющее специализированные знания и навыки для продвинутых профессий и личностного развития.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Научное сотрудничество</string>
+        <string>Сотрудничество с другими странами в области научных исследований, обмен ресурсами и защита интеллектуальной собственности.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Космическое агентство</string>
+        <string>Организация, управляющая и проводящая мероприятия, связанные с исследованием и исследованием космоса.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Корпоративное регулирование</string>
+        <string>Управление деятельностью бизнеса для обеспечения соблюдения юридических, этических и экономических стандартов, защиты общественных интересов и содействия честной конкуренции.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Промышленные субсидии</string>
+        <string>Финансовая поддержка со стороны правительства для конкретных отраслей с целью снижения производственных затрат, стимулирования роста и повышения конкурентоспособности.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Фонд солидарности</string>
+        <string>Предоставление финансовой помощи отдельным лицам или сообществам, находящимся в нужде, финансируемое коллективными взносами.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Наказания за убийство</string>
+        <string>Противоправное лишение жизни другого человека.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Налог на имущество</string>
+        <string>Регулярный сбор, взимаемый государством с недвижимости и других объектов, принадлежащих частным лицам или организациям, на основе оценочной стоимости имущества.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Налог на транспортные средства</string>
+        <string>Государственный сбор на владение или использование транспортных средств.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Общественный транспорт</string>
+        <string>Инклюзивная сеть автобусов, поездов и других совместных средств, способствующая эффективному движению в городах и сельских районах, снижению пробок и продвижению целей устойчивого развития.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Интеллектуальная собственность</string>
+        <string>Юридические права, предоставляемые создателям и изобретателям для защиты их изобретений, литературных и художественных произведений, дизайнов, символов и других творений от несанкционированного использования или воспроизведения.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Права на личную информацию</string>
+        <string>Защита контроля индивидов над своей личной информацией, обеспечение того, чтобы она собиралась, использовалась и передавалась с учетом их автономии, достоинства и согласия.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Регулирование азартных игр</string>
+        <string>Управление деятельностью азартных игр, лицензированием и контролем, чтобы обеспечить справедливость и предотвратить мошенничество или эксплуатацию.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Семейное законодательство</string>
+        <string>Регулирование юридических требований для брака, прав и обязанностей супругов, а также процедур развода, включая раздел имущества, алименты и опеку над детьми.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Налог на прирост капитала</string>
+        <string>Налог на прибыль, полученную от продажи активов или инвестиций, таких как акции, недвижимость или предприятия, которые увеличились в стоимости с момента покупки.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Акцизы на вредные товары</string>
+        <string>Налоги на товары или виды деятельности, которые считаются вредными для общества, такие как табак и алкоголь, чтобы уменьшить их потребление и генерировать общественные доходы.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Налог на дарение</string>
+        <string>Налог, взимаемый с передачи собственности или денег от одного человека к другому.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Регулирование охоты</string>
+        <string>Правила, регулирующие охотничьи практики, включая время сезонов, разрешенные виды, методы, лицензирование и меры безопасности.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Регулирование рыболовства</string>
+        <string>Установленные властями ограничения на сезоны, квоты, орудия лова и виды рыбы для управления популяциями рыбы и защиты экосистем.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Управление отходами</string>
+        <string>Регулирование утилизации, обработки и сокращения отходов для защиты здоровья и окружающей среды.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Регулирование вещания СМИ</string>
+        <string>Юридические нормы и правила, регулирующие распределение и передачу контента через различные средства массовой информации, такие как телевидение, радио и онлайн-платформы.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Энергетическая политика</string>
+        <string>Установление ориентиров для управления различными аспектами производства, распределения и потребления энергии для достижения определенных социальных и экономических целей.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Верховный суд</string>
+        <string>Высшая судебная власть, где судьи интерпретируют Конституцию и устанавливают юридические прецеденты, которые формируют законы страны.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Основной доход</string>
+        <string>Программа, предоставляющая регулярные денежные выплаты всем гражданам или резидентам, независимо от их дохода или трудового статуса, чтобы помочь покрыть основные жизненные расходы.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Наркотическая политика</string>
+        <string>Юридическая база, контролирующая одобрение, распределение и использование медикаментов, включая запрет на определенные вещества для обеспечения общественной безопасности</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Мониторинг погоды</string>
+        <string>Процесс отслеживания атмосферных условий для прогнозирования изменений и тенденций погоды с использованием различных инструментов и технологий.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Гражданство и паспорта</string>
+        <string>Определяет критерии для получения гражданства, процесс подачи заявлений и обновления паспортов, а также права и обязанности граждан.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Реструктуризация</string>
+        <string>Финансовая помощь, предоставляемая для предотвращения краха компании или учреждения, которое часто считают слишком важным для того, чтобы оно исчезло.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Строительные нормы</string>
+        <string>Стандарты для строительства, проектирования и безопасности сооружений для обеспечения их соответствия санитарным, экологическим и законодательным требованиям.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Церковный налог</string>
+        <string>Государство удерживает часть налога с дохода и направляет его на финансирование зарегистрированных церковных мероприятий и операций.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Регулирование владения домашними животными</string>
+        <string>Правила владения домашними животными, включая вакцинацию, регистрацию и стандарты ухода для обеспечения благополучия животных и безопасности общества.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Регулирование спортивных лиг</string>
+        <string>Регулирует организацию, управление и деятельность профессиональных и любительских спортивных лиг.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Национальная лотерея</string>
+        <string>Управляет операциями и распределением средств национальной лотереи, обеспечивая справедливость и прозрачность.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Регулирование общественных мероприятий</string>
+        <string>Устанавливает правила для организации и управления общественными мероприятиями, чтобы обеспечить безопасность, охрану и соблюдение законов.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Почтовая служба</string>
+        <string>Обеспечивает сбор, транспортировку и доставку почты и посылок получателям по местным, национальным и международным направлениям.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Референдум</string>
+        <string>Позволяет гражданам напрямую голосовать по конкретному вопросу или политике, давая им возможность одобрить или отклонить предлагаемые законы или изменения в Конституции.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Общественные библиотеки</string>
+        <string>Стандарты для управления библиотеками, обеспечения доступа к ресурсам и обеспечения их выполнения образовательных и культурных потребностей сообщества.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Дома престарелых</string>
+        <string>Регулирует деятельность и стандарты ухода за учреждениями для пожилых жителей.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Регулирование тюрем</string>
+        <string>Управляет управлением, правами и обращением с заключенными, а также функционированием исправительных учреждений для обеспечения безопасности, порядка и соблюдения юридических стандартов.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Развитие территории</string>
+        <string>Целенаправленное улучшение конкретных районов для общего прогресса и устойчивости.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Регулирование прессы</string>
+        <string>Управляет поведением, содержанием и операциями средств массовой информации для обеспечения точности, справедливости и подотчетности, соблюдая при этом свободу слова и общественные интересы.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Регулирование умных городов</string>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Поддержка ветеранов</string>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Меры по снижению светового загрязнения</string>
+        <string>Меры по уменьшению чрезмерного ночного освещения с помощью защитных устройств, таймеров и повышения осведомленности общественности для защиты темного неба.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Налог на топливо</string>
+        <string>Налог на продажи топлива, направляемый на финансирование общественных проектов или снижение использования топлива.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Монетарный союз</string>
+        <string>Соглашение между двумя или более странами об использовании единой валюты и координации денежно-кредитной политики для экономической интеграции и стабильности.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Правила дорожного движения</string>
+        <string>Регулирует движение и поведение транспортных средств, пешеходов и участников движения для обеспечения безопасности и порядка на дорогах.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Регулирование коммунальных услуг</string>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Административные подразделения</string>
+        <string>Регулирует отношения между центральным правительством и местными подразделениями.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Охрана морской среды</string>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Налоговый орган</string>
+        <string>Орган, собирающий налоги с физических и юридических лиц.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Монархия</string>
+        <string>Форма правления, при которой один человек, обычно король или королева, обладает высшей властью и полномочиями в государстве.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Регулирование производства</string>
+        <string>Контролирует безопасность продукции, воздействие на окружающую среду, качество и трудовые практики, обеспечивая ответственное и безопасное производство.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Центральный банк</string>
+        <string>Основная финансовая власть, контролирующая денежную массу, денежно-кредитную политику и часто выпуск валюты.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Гражданская защита</string>
+        <string>Регулирует управление чрезвычайными ситуациями, направленное на подготовку, реагирование и восстановление, чтобы обеспечить безопасность общественности в кризисных ситуациях.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Общественное управление</string>
+        <string>Регулирует организацию и работу государственных учреждений для обеспечения подотчетности и эффективности.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Регулирование партий</string>
+        <string>Юридическая основа, регулирующая создание, деятельность и регулирование политических партий.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Основные обязанности</string>
+        <string>Конституционные обязанности граждан чтобы поддерживать национальную целостность, гармонию и наследие.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Фондовая биржа</string>
+        <string>Регулирует эмиссию, торговлю и раскрытие информации о ценных бумагах для защиты инвесторов и обеспечения справедливых рыночных практик.</string>
+      </text>
+    </Item>
+  </Laws>
+  <LawArticles>
+    <string />
+    <string>Количество мест в парламенте</string>
+    <string>Избирательная система</string>
+    <string>Частота выборов</string>
+    <string>Порог избирательного права</string>
+    <string>Дополнительный бюрократический контроль</string>
+    <string>Товары и услуги</string>
+    <string>Форма правления</string>
+    <string>Президентские выборы</string>
+    <string>Здание</string>
+    <string>Флаг</string>
+    <string>Частота выборов</string>
+    <string>Глава правительства</string>
+    <string>Валюта</string>
+    <string>Код</string>
+    <string>Капитал</string>
+    <string>Ограничить субсидии новым фермам</string>
+    <string>Тип законодательства</string>
+    <string>Выборщики</string>
+    <string>Возраст активного избирательного права</string>
+    <string>Возраст избирателей</string>
+    <string>Форма парламента</string>
+    <string>Места в комитетах</string>
+    <string>Производство</string>
+    <string>Доход</string>
+    <string>Продукты</string>
+    <string>Координация обороны</string>
+    <string>Комитет</string>
+    <string>Избирательные округа</string>
+    <string>Форма правления</string>
+    <string>Вице-президент</string>
+    <string>Требования</string>
+    <string>Невооруженное ограбление</string>
+    <string>Вооруженное ограбление</string>
+    <string>Регулирование речи ненависти</string>
+    <string>Защита источников</string>
+    <string>Пожарная безопасность</string>
+    <string>Налоговая ставка</string>
+    <string>Уверенность</string>
+    <string>Ограничение срока</string>
+    <string>Услуга</string>
+    <string>Военные учения</string>
+    <string>Базовый годовой оклад</string>
+    <string>Имя члена кабинета</string>
+    <string>Разрешение на пребывание</string>
+    <string>Визовые требования</string>
+    <string>Форма нации</string>
+    <string>Имя</string>
+    <string>Обычные законы</string>
+    <string>Конституционные законы</string>
+    <string>Туристическая страховка</string>
+    <string>Возраст вождения</string>
+    <string>Расширенный экзамен</string>
+    <string>Обучение окружающей среде</string>
+    <string>Религия</string>
+    <string>Обязательные физические нагрузки</string>
+    <string>Сексуальное образование</string>
+    <string>Курс первой помощи</string>
+    <string>Международные выставки</string>
+    <string>Защита меньшинств</string>
+    <string>Бесплатные музеи</string>
+    <string>Пенсионный возраст для мужчин</string>
+    <string>Пенсионный возраст для женщин</string>
+    <string>Минимальный возраст</string>
+    <string>Неумышленное убийство</string>
+    <string>Умышленное убийство</string>
+    <string>Компетенции</string>
+    <string>Настройки</string>
+    <string>Финансирование</string>
+    <string>Спортивные соревнования</string>
+    <string>Образовательные поездки</string>
+    <string>Планы обучения на борту</string>
+    <string>Стипендии</string>
+    <string>Поездки</string>
+    <string>Налог на собственность</string>
+    <string>Налог на передачу</string>
+    <string>Всеобщее медицинское страхование</string>
+    <string>Плата за несрочную медицинскую помощь</string>
+    <string>Спасение вертолетом</string>
+    <string>Приюты для бездомных</string>
+    <string>Высокотехнологичное сельское хозяйство</string>
+    <string>Запрет на ГМО</string>
+    <string>Детский сад</string>
+    <string>Декретный отпуск для матери</string>
+    <string>Декретный отпуск для отца</string>
+    <string>Детские пособия</string>
+    <string>Планирование населения</string>
+    <string>Воздержаться</string>
+    <string>Голосование по почте</string>
+    <string>Входные билеты</string>
+    <string>Исследования дикой природы и местообитаний</string>
+    <string>Защита исчезающих видов</string>
+    <string>Требования к капиталу</string>
+    <string>Защита прав потребителей</string>
+    <string>Налоговые льготы</string>
+    <string>Тренировочная программа</string>
+    <string>Бесплатный общественный транспорт</string>
+    <string>Безбарьерный дизайн</string>
+    <string>Затраты на обслуживание</string>
+    <string>Совместное использование лабораторий</string>
+    <string>Часы работы</string>
+    <string>Оружие</string>
+    <string>Банковская тайна</string>
+    <string>Обязательный учебный курс</string>
+    <string>Запрет на оружие для штурма</string>
+    <string>Проверки биографий</string>
+    <string>Переход на летнее время</string>
+    <string>Распределение</string>
+    <string>Политика предоставления убежища</string>
+    <string>Автономия</string>
+    <string>Прозрачность распределения налогов</string>
+    <string>Штрафы за просрочку платежа</string>
+    <string>Лишение привилегий паспорта</string>
+    <string>Отказ в государственных льготах</string>
+    <string>Налог на сладкие напитки</string>
+    <string>Маркировка продуктов питания</string>
+    <string>Прослеживаемость и процедуры отзыва</string>
+    <string>Запрет на испытания на животных</string>
+    <string>Регулирование развлекательных мероприятий с животными</string>
+    <string>Чипирование и регистрация</string>
+    <string>Запрет на владение экзотическими питомцами</string>
+    <string>Лицензия на рыбалку</string>
+    <string>Охраняемые территории</string>
+    <string>Национальная неделя</string>
+    <string>Минимальный ежегодный отпуск</string>
+    <string>Конфиденциальность на рабочем месте</string>
+    <string>Правила безопасности</string>
+    <string>Классы для выборов</string>
+    <string>Выборы спикера</string>
+    <string>Ношение камер на теле</string>
+    <string>Спутниковый мониторинг</string>
+    <string>Места в избирательных округах</string>
+    <string>Разрешить использование ядерной энергии</string>
+    <string>Участие в протестах запрещено</string>
+    <string>Выборные дебаты</string>
+    <string>Налоговая ставка</string>
+    <string>Имя члена</string>
+    <string>Уровень строгости иммиграции</string>
+    <string>Минимальная зарплата</string>
+    <string>Агентства по трудоустройству</string>
+    <string>Защита трудовых прав</string>
+    <string>Производство устойчивых батарей</string>
+    <string>Энергетическая эффективность</string>
+    <string>Процентные ставки</string>
+    <string>Вклад в аренду</string>
+    <string>Экономическая поддержка</string>
+    <string>Охотничий билет</string>
+    <string>Охотничьи сезоны</string>
+    <string>Футбольная лига</string>
+    <string>Баскетбольная лига</string>
+    <string>Теннисная лига</string>
+    <string>Налоговая ставка</string>
+    <string>Продукт</string>
+    <string>Цензура</string>
+    <string>Математическая олимпиада</string>
+    <string>Продвигать здоровые привычки</string>
+    <string>Спутниковый интернет</string>
+    <string>Разрешить отмывание денег</string>
+    <string>Ночной комендантский час</string>
+    <string>Облачное посевание</string>
+    <string>Количество судей</string>
+    <string>Допустимый возраст</string>
+    <string>Политическое образование</string>
+    <string>Запрещены расследования</string>
+    <string>Свободный доступ к общественной информации и записям</string>
+    <string>Продвигать общественное бесплатное Wi-Fi</string>
+    <string>Брачный договор</string>
+    <string>Сбор средств</string>
+    <string>Двухпалатное голосование</string>
+    <string>Запрет на курение</string>
+    <string>Лимит алкоголя для водителей</string>
+    <string>Доплата на роскошные автомобили</string>
+    <string>Разрешение на владение автомобилем</string>
+    <string>Беспроводная система предупреждения</string>
+    <string>Электронное правительство</string>
+    <string>Период натурализации</string>
+    <string>Требование знания языка</string>
+    <string>Снижение освещенности ночью</string>
+    <string>Обязательные светодиодные уличные фонари</string>
+    <string>Законы о авторских правах</string>
+    <string>Продолжительность действия товарного знака</string>
+    <string>Граничная скорость в городе</string>
+    <string>Обязательное использование ремней безопасности</string>
+    <string>Энергоэффективность</string>
+    <string>Реабилитация и образование</string>
+    <string>Здравоохранение и медицинская помощь</string>
+    <string>Требование согласия</string>
+    <string>Право быть забытым</string>
+    <string>Налоговая ставка</string>
+    <string>Запрет на фейерверки</string>
+    <string>Разрешить уличных артистов</string>
+    <string>Антимонопольная политика</string>
+    <string>Программа разнообразия и инклюзивности</string>
+    <string>Предпринимать действия против уклоняющихся от призыва</string>
+    <string>Кампания по образованию и повышению осведомленности</string>
+    <string>Президент может распустить парламенты</string>
+    <string>Налог на алкоголь</string>
+    <string>Налог на табак</string>
+    <string>Налог на пластиковые пакеты</string>
+    <string>Налог на холостяков</string>
+    <string>Налоговая ставка</string>
+    <string>Налоговая ставка</string>
+    <string>Пространственное планирование</string>
+    <string>Иммунитет</string>
+    <string>Полномочия</string>
+    <string>Свобода слова</string>
+    <string>Право на справедливый судебный процесс</string>
+    <string>Свобода вероисповедания</string>
+    <string>Право на образование</string>
+    <string>Система номинаций</string>
+    <string>Продвижение туризма</string>
+    <string>Разрешить беспилотные транспортные средства</string>
+    <string>Умные светофоры</string>
+    <string>Централизованный монитор данных</string>
+    <string>Защищать нацию</string>
+    <string>Соблюдать закон</string>
+    <string>Платить налоги</string>
+    <string>Стартовый фонд</string>
+    <string>Стимул к найму</string>
+    <string>Сдерживание инфляции</string>
+    <string>Ежегодный военный парад</string>
+    <string>Второуровневая администрация</string>
+    <string>Предотвращение монополии</string>
+    <string>Предельный тариф для малообеспеченных</string>
+    <string>Предотвращение дефицита энергии</string>
+    <string>Запретить создание новых партий</string>
+    <string>Разрешить филибастерство</string>
+    <string>Разрешить двойное гражданство</string>
+    <string>Lobby transparency register</string>
+    <string>Поддержка семей</string>
+    <string>Программа реинтеграции</string>
+    <string>Защита информаторов</string>
+    <string>Силы кибербезопасности</string>
+    <string>Налог на туризм</string>
+    <string>Надзорный орган</string>
+  </LawArticles>
+  <LawCommas>
+    <string />
+    <string>3 года</string>
+    <string>1 год</string>
+    <string>Мажоритарный (округи)</string>
+    <string>Пропорциональный (страна)</string>
+    <string>Пропорционально (регион)</string>
+    <string>2 года</string>
+    <string>Президентская республика</string>
+    <string>Полупрезидентская республика</string>
+    <string>Парламентская республика</string>
+    <string>Конституционная монархия</string>
+    <string>Президент избирается гражданами напрямую</string>
+    <string>Президент избирается прямым голосованием граждан во втором туре</string>
+    <string>Президент избирается гражданами через крупных выборщиков</string>
+    <string>Президент избирается парламентом</string>
+    <string>4 года</string>
+    <string>Президент также является главой правительства</string>
+    <string>Премьер-министр избирается парламентом</string>
+    <string>Канцлер избирается парламентом</string>
+    <string>Однопалатный</string>
+    <string>Двухпалатный</string>
+    <string>Полукруг</string>
+    <string>Лицом к лицу</string>
+    <string>Только закрытые общественные пространства</string>
+    <string>Закрытые и открытые общественные пространства</string>
+    <string>0,05%</string>
+    <string>Ноль</string>
+    <string>5 лет</string>
+    <string>10 лет</string>
+    <string>Избран президентом</string>
+    <string>Гражданин страны по рождению</string>
+    <string>Круговой</string>
+    <string>Эллиптический</string>
+    <string>2–5 лет</string>
+    <string>3–6 лет</string>
+    <string>5–30 лет</string>
+    <string>5 лет до срока службы</string>
+    <string>Нужен вотум доверия парламента</string>
+    <string>1 термин</string>
+    <string>2 термина</string>
+    <string>3 термина</string>
+    <string>Директорская республика</string>
+    <string>Мужчины</string>
+    <string>Женщины</string>
+    <string>Секретарь</string>
+    <string>Министр</string>
+    <string>1 месяц</string>
+    <string>3 месяца</string>
+    <string>Унитарное государство</string>
+    <string>Федерация</string>
+    <string>50% голосов + 1</string>
+    <string>2/3 голосов</string>
+    <string>Относительное большинство голосов</string>
+    <string>3/4 голосов</string>
+    <string>5 лет</string>
+    <string>5 лет</string>
+    <string>10 лет</string>
+    <string>15 лет</string>
+    <string>Пожизненное заключение</string>
+    <string>Открыто только в дневное время</string>
+    <string>Открыто 24 часа</string>
+    <string>3 предпочтения</string>
+    <string>Политика одного ребенка</string>
+    <string>Политика двух детей</string>
+    <string>Обязательно для всех</string>
+    <string>Обязательно для мужчин, добровольно для женщин</string>
+    <string>Добровольно</string>
+    <string>Засчитывается как неучаствующий в голосовании</string>
+    <string>Засчитывается как противоположное голосование</string>
+    <string>Все активные партии</string>
+    <string>Только избранные партии</string>
+    <string>Ограничение штрафами</string>
+    <string>Штрафы и в худших случаях тюремное заключение</string>
+    <string>6 лет</string>
+    <string>7 лет</string>
+    <string>8 лет</string>
+    <string>Нет ежегодного отпуска</string>
+    <string>10 дней</string>
+    <string>20 дней</string>
+    <string>30 дней</string>
+    <string>Запретить наблюдение за сотрудниками</string>
+    <string>Разрешить мониторинг сотрудников</string>
+    <string>Государственная делегация</string>
+    <string>Два класса</string>
+    <string>Три класса</string>
+    <string>Пленарные выборы</string>
+    <string>Председатель — вице-президент</string>
+    <string>Обычный</string>
+    <string>Обширный</string>
+    <string>Назначение</string>
+    <string>Член парламента</string>
+    <string>Представитель</string>
+    <string>Депутат</string>
+    <string>Сенатор</string>
+    <string>Государственный представитель</string>
+    <string>Лорд</string>
+    <string>Унитарное государство с делегированием полномочий</string>
+    <string>Низкий</string>
+    <string>Умеренный</string>
+    <string>Высокий</string>
+    <string>Первый прошедший по результатам голосования</string>
+    <string>Гибкий</string>
+    <string>Стабильный</string>
+    <string>Комплексный</string>
+    <string>Минимальный</string>
+    <string>Умеренный</string>
+    <string>Серьезный</string>
+    <string>Премьер-министр выбирается президентом</string>
+    <string>Все законы</string>
+    <string>Только конституционные законы</string>
+    <string>Строгий</string>
+    <string>Либеральный</string>
+    <string>10 лет</string>
+    <string>20 лет</string>
+    <string>Нормальный</string>
+    <string>Медленный</string>
+    <string>Низкий</string>
+    <string>Высокий</string>
+    <string>Умеренный</string>
+    <string>Высокий</string>
+    <string>Мажоритарная система с вторым туром</string>
+    <string>Требует голосования о доверии относительным большинством</string>
+    <string>Дарование помилования</string>
+    <string>Частично мажоритарная, частично пропорциональная</string>
+    <string>Выборный</string>
+    <string>Не выборный</string>
+  </LawCommas>
+  <Media>
+    <string />
+    <string></string>
+    <string></string>
+    <string></string>
+    <string></string>
+    <string></string>
+    <string></string>
+    <string></string>
+    <string></string>
+    <string></string>
+    <string></string>
+    <string></string>
+    <string></string>
+    <string>Первый Канал</string>
+  </Media>
+  <Messages />
+  <Missions>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Добавить закон</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Удалить закон</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Пообещать увеличить</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Пообещать сократить</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Снижение налогов</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Обещание закончить войну</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Реформа закона</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Обещание поддержать регион</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Обещание смягчить последствия</string>
+      </text>
+    </Item>
+  </Missions>
+  <Nations>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Италия</string>
+        <string>Palazzo del Quirinale</string>
+        <string>Palazzo Chigi</string>
+        <string>Palazzo Montecitorio</string>
+        <string>Palazzo Madama</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Испания</string>
+        <string>Palacio de la Zarzuela</string>
+        <string>Palacio de la Moncloa</string>
+        <string>Паласио де лас Кортес</string>
+        <string>Senado</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Франция</string>
+        <string>Palais de l'Élysée</string>
+        <string>Hôtel Matignon</string>
+        <string>Assemblée nationale</string>
+        <string>Senate</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Великобритания</string>
+        <string>Букингемский дворец</string>
+        <string>Palace of Westminster</string>
+        <string>House of Commons</string>
+        <string>House of Lords</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>США</string>
+        <string>Белый дом</string>
+        <string>Капитолий</string>
+        <string>Палата представителей</string>
+        <string>Сенат</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Германия</string>
+        <string>Бельвю Палас</string>
+        <string>Бундесканцлерамт</string>
+        <string>Бундестаг</string>
+        <string>Бундесрат</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Россия</string>
+        <string>Kremlin</string>
+        <string>House of the Government</string>
+        <string>State Duma</string>
+        <string>Federal council</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Канада</string>
+        <string>Rideau Hall</string>
+        <string>24 Sussex Drive</string>
+        <string>House of Commons</string>
+        <string>Senate</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Португалия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Швейцария</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Австралия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Ирландия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Мексика</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Люксембург</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Нидерланды</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Австрия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Словения</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Бельгия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Ливия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Чешская Республика</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Хорватия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Тунис</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Марокко</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Израиль</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Албания</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Босния и Герцеговина</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Черногория</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Алжир</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Египет</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Палестина</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Сирия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Ливан</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Иордания</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Саудовская Аравия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Белиз</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Гватемала</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Гондурас</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Никарагуа</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Эль-Сальвадор</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Коста-Рика</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Панама</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Ирак</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Западная Сахара</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Мавритания</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Мали</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Нигер</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Чад</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Судан</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Эфиопия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Нигерия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Сенегал</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Гамбия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Гвинея-Бисау</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Гвинея</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Сьерра-Леоне</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Либерия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Кот-д'Ивуар</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Джибути</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Буркина-Фасо</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Гана</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Того</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Бенин</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Камерун</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Центрально-Африканская Республика</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Южный Судан</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Сомали</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Эритрея</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Кения</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Уганда</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Экваториальная Гвинея</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Габон</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Конго</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Демократическая Республика Конго</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Ангола</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Замбия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Руанда</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Бурунди</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Танзания</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Малави</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Мозамбик</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Зимбабве</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Намибия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Ботсвана</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Южно-Африканская Республика</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Лесото</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Свазиленд</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Мадагаскар</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Йемен</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Катар</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Оман</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Объединённые Арабские Эмираты</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Кувейт</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Сан-Томе и Принсипи</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Греция</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Дания</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Северная Македония</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Сербия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Болгария</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Румыния</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Словакия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Венгрия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Колумбия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Эквадор</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Венесуэла</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Гайана</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Суринам</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Французская Гвиана</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Перу</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Чили</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Боливия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Норвегия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Швеция</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Финляндия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Япония</string>
+        <string>Imperial Palace</string>
+        <string>Prime Minister's Office</string>
+        <string>House of Representatives</string>
+        <string>House of Councillors</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Тайвань</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Южная Корея</string>
+        <string>Blue House</string>
+        <string>Prime Minister's Office</string>
+        <string>National Assembly</string>
+        <string>Сенат</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Северная Корея</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Вьетнам</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Турция</string>
+        <string>Президентский комплекс</string>
+        <string>Великое национальное собрание Турции</string>
+        <string>Зал собраний</string>
+        <string>Сенат республики</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Грузия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Армения</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Азербайджан</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Иран</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Камбоджа</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Лаос</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Таиланд</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Мьянма</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Бутан</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Бангладеш</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Индия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Непал</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Пакистан</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Афганистан</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Аргентина</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Парагвай</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Уругвай</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Бразилия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Польша</string>
+        <string>Presidential Palace</string>
+        <string>Prime Minister's Office</string>
+        <string>Sejm Building</string>
+        <string>Senate Building</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Украина</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Беларусь</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Литва</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Латвия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Эстония</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Исландия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Шри-Ланка</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Куба</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Малайзия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Сингапур</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Бруней</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Ямайка</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Гаити</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Доминиканская Республика</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Пуэрто-Рико</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Туркменистан</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Узбекистан</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Таджикистан</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Кыргызстан</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Филиппины</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Индонезия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Новая Зеландия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Папуа-Новая Гвинея</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Соломоновы Острова</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Китай</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Монголия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Казахстан</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Молдова</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Советский Союз</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Англия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Уэльс</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Шотландия</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Северная Ирландия</string>
+      </text>
+    </Item>
+  </Nations>
+  <ParametersGroups>
+    <string />
+    <string>Учреждения</string>
+    <string>Жилье</string>
+    <string>Безопасность</string>
+    <string>Образование</string>
+    <string>Окружающая среда</string>
+    <string>Развлечения </string>
+    <string>Свобода</string>
+    <string>Экономика</string>
+    <string>Здоровье</string>
+    <string>Транспорт</string>
+  </ParametersGroups>
+  <Parameters>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Ограбления</string>
+        <string>Количество грабежей, совершаемых каждый год</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Свобода прессы</string>
+        <string>Право выражать и публиковать идеи без цензуры или вмешательства правительства. Это важно для демократии, так как позволяет свободный поток информации и подотчетность.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Наркомания</string>
+        <string>Процент населения, диагностированного с расстройствами, связанными с употреблением психоактивных веществ, что указывает на распространенность наркозависимости.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Морское загрязнение</string>
+        <string>Включает вредные вещества, такие как пластик, нефть и отходы, попадающие в океан, что наносит ущерб морской жизни, экосистемам и может повлиять на здоровье человека.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Бездомные</string>
+        <string>Количество людей, живущих без дома.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Убийства</string>
+        <string>Уровень убийств в стране.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Владение жильём</string>
+        <string>Процент граждан, имеющих собственное жилье.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Средняя цена недвижимости</string>
+        <string>Средняя цена покупки дома/квартиры.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Среднемесячная арендная плата</string>
+        <string>Средняя ежемесячная сумма, которую нужно платить за аренду дома.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Выпускники</string>
+        <string>Доля граждан, имеющих высшее образование.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Переработка</string>
+        <string>Коэффициент повторного использования отходов в экономике.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Уровень депрессии</string>
+        <string>Серьезное расстройство психического здоровья, характеризующееся стойким чувством печали, отсутствием интереса и трудностями в повседневной жизни.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Шоу и концерты</string>
+        <string>Количество концертов, организуемых ежегодно.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Прибывшие туристы</string>
+        <string>Количество туристов, посетивших страну.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Безработица</string>
+        <string>Количество людей, которые готовы и могут работать, но не могут найти работу.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Индекс инноваций</string>
+        <string>Оценивает инновационный потенциал и стимулирует экономический рост.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Пунктуальность общественного транспорта</string>
+        <string>Измеряет надежность услуг общественного транспорта в плане прибытия и отправления согласно запланированным временам, что критически важно для оценки эффективности и действенности транспортной сети.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Банкротство</string>
+        <string>Сколько компаний обанкротились в течение года.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Оценка PISA</string>
+        <string>Система оценки PISA оценивает уровень знаний студентов по всему миру в области чтения, математики и науки каждые три года. Оценки используются для сравнения образовательных результатов между странами и принятия политических решений.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Время экстренного реагирования</string>
+        <string>Среднее время, необходимое машине скорой помощи, чтобы забрать пациентов.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Уровень ожирения</string>
+        <string>Процент населения, классифицированного как страдающее ожирением, служащий ключевым показателем общественного здоровья.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Скорость интернета</string>
+        <string>Средняя скорость интернета — это медианное значение скорости передачи данных от интернета на устройство пользователя или наоборот, обычно измеряемое в мегабитах в секунду (Мбит/с).</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Индивидуальная свобода</string>
+        <string>Социальная свобода, которую должен выражать и каждый гражданин.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Бюрократия</string>
+        <string>Количество документов и действий, необходимых при взаимодействии с государственными учреждениями.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Индекс восприятия коррупции</string>
+        <string>Уровень коррупции, воспринимаемый населением.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Уровень демократии</string>
+        <string>Уровень, на котором граждане могут взаимодействовать и чувствовать себя представленными институтами.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Автомобильные аварии</string>
+        <string>Количество автомобильных аварий, происходящих на национальных дорогах.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Средний индивидуальный доход</string>
+        <string>Средний доход граждан</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Средняя продолжительность жизни</string>
+        <string>Средний ожидаемый возраст граждан при рождении.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Уклонение от уплаты налогов</string>
+        <string>Недостающие налоги, взимаемые учреждениями.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Коэффициент рождаемости</string>
+        <string>Количество детей на одну женщину.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Качество пищи</string>
+        <string>Вкус, текстура, питательная ценность и стандарты безопасности съедобных продуктов.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Загрязнение воздуха</string>
+        <string>Выброс вредных веществ в атмосферу Земли, что приводит к экологическим и здравоохранительным проблемам.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Индекс Джини</string>
+        <string>Измеряет неравенство доходов и богатства в популяции.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Инфляция</string>
+        <string>Темп, с которым общий уровень цен на товары и услуги растет, что в свою очередь снижает покупательную способность.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Государственный долг</string>
+        <string>Общая сумма денег, которую правительство должно кредиторам, включая физических лиц, учреждения и зарубежные правительства.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Миграция</string>
+        <string>Перемещение людей из одного географического региона в другой, часто под воздействием таких факторов, как экономические возможности, политическая свобода или экологические факторы.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Валовой внутренний продукт (ВВП)</string>
+        <string>Общая денежная или рыночная стоимость всех товаров и услуг, произведенных внутри страны в определенный период времени.</string>
+      </text>
+    </Item>
+  </Parameters>
+  <Polls>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>За кого вы будете голосовать на следующих выборах?</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Каковы ваши приоритеты на выборах?</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Каковы должны быть приоритеты для этой партии?</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Предпочли бы вы мужчину или женщину на посту главы правительства?</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Каковы ваши общие мысли?</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Какая партия больше всего соответствует вашим интересам?</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Предпочли бы вы молодого или зрелого главу правительства?</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Одобряете ли вы текущее правительство?</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Какие в настоящее время колеблющиеся штаты?</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Поддерживаете ли вы использование войны как способа разрешения конфликтов?</string>
+      </text>
+    </Item>
+  </Polls>
+  <Proposals>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Организация предлагает вам финансовую компенсацию в обмен на вашу поддержку при принятии определенного закона.</string>
+      </text>
+    </Item>
+  </Proposals>
+  <Scandals>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Незаконные практики</string>
+        <string>Расследование выявило доказательства того, что партия занималась незаконной практикой покупки голосов и привилегий у других политиков.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Кража денег у страны</string>
+        <string>Расследование выявило доказательства того, что вовлеченное лицо украло деньги в своей официальной должности политика.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Кража денег у партии</string>
+        <string>Расследование выявило доказательства того, что вовлеченное лицо украло деньги у партии, которую он представляет, при официальных выступлениях.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Незаконные средства</string>
+        <string>Расследование выявило доказательства того, что партия получила незаконные средства от преступных организаций.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Неудавшийся переворот</string>
+        <string>Эти лица были признаны виновными в организации неудавшегося переворота.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Заговор</string>
+        <string>Эти лица были признаны виновными в финансировании исчезновения политиков.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Непотизм</string>
+        <string>Эти лица обвиняются в том, что они предоставляли своим детям высокие должности.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Иностранное вмешательство</string>
+        <string>Обвиняются в том, что были финансированы и коррумпированы иностранными государствами.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Конфликт интересов</string>
+        <string>Человека поймали на конфликте интересов, что подорвало его способность принимать беспристрастные решения.</string>
+      </text>
+    </Item>
+  </Scandals>
+  <Regions>
+    <string />
+    <string>Южный Тироль</string>
+    <string>Трентино</string>
+    <string>Венето</string>
+    <string>Фриули-Венеция-Джулия</string>
+    <string>Ломбардия</string>
+    <string>Эмилия-Романья</string>
+    <string>Тоскана</string>
+    <string>Марке</string>
+    <string>Умбрия</string>
+    <string>Лацио</string>
+    <string>Лигурия</string>
+    <string>Пьемонт</string>
+    <string>Долина Аосты</string>
+    <string>Сардиния</string>
+    <string>Абруццо</string>
+    <string>Кампания</string>
+    <string>Апулия</string>
+    <string>Молизе</string>
+    <string>Базиликата</string>
+    <string>Калабрия</string>
+    <string>Сицилия</string>
+    <string>Балеарские острова</string>
+    <string>Каталония</string>
+    <string>Валенсия</string>
+    <string>Мурсия</string>
+    <string>Андалусия</string>
+    <string>Экстремадура</string>
+    <string>Кастилия-Ла-Манча</string>
+    <string>Арагон</string>
+    <string>Мадрид</string>
+    <string>Галисия</string>
+    <string>Кастилия и Леон</string>
+    <string>Астурия</string>
+    <string>Кантабрия</string>
+    <string>Ла-Риоха</string>
+    <string>Наварра</string>
+    <string>Страна Басков</string>
+    <string>Канарские острова</string>
+    <string>Лондон</string>
+    <string>Корнуолл</string>
+    <string>Юго-Восток</string>
+    <string>Юго-Запад</string>
+    <string>Восточная Англия</string>
+    <string>Западные Мидлендс</string>
+    <string>Восточные Мидлендс</string>
+    <string>Йоркшир</string>
+    <string>Северо-Запад</string>
+    <string>Северо-Восток</string>
+    <string>Южный Уэльс</string>
+    <string>Северный Уэльс</string>
+    <string>Южная Шотландия</string>
+    <string>Западная Шотландия</string>
+    <string>Восточная Шотландия</string>
+    <string>Горы</string>
+    <string>Северная Ирландия</string>
+    <string>Корсика</string>
+    <string>Прованс-Альпы-Лазурный Берег</string>
+    <string>Окитания</string>
+    <string>Новая Аквитания</string>
+    <string>Овернь-Рона-Альпы</string>
+    <string>Бретань</string>
+    <string>Пеи-де-ла-Луар</string>
+    <string>Нормандия</string>
+    <string>Центр-Долина Луары</string>
+    <string>Иль-де-Франс</string>
+    <string>О Верхние Франции</string>
+    <string>Гран-Эст</string>
+    <string>Бургундия-Франш-Конте</string>
+    <string>Эгейское</string>
+    <string>Чёрное море</string>
+    <string>Центральная Анатолия</string>
+    <string>Восточная Анатолия</string>
+    <string>Мраморное</string>
+    <string>Средиземное</string>
+    <string>Юго-Восточная Анатолия</string>
+    <string>Винница</string>
+    <string>Волынь</string>
+    <string>Калифорния</string>
+    <string>Невада</string>
+    <string>Аризона</string>
+    <string>Нью-Мексико</string>
+    <string>Техас</string>
+    <string>Луизиана</string>
+    <string>Миссисипи</string>
+    <string>Джорджия</string>
+    <string>Алабама</string>
+    <string>Флорида</string>
+    <string>Юта</string>
+    <string>Колорадо</string>
+    <string>Оклахома</string>
+    <string>Арканзас</string>
+    <string>Теннесси</string>
+    <string>Северная Каролина</string>
+    <string>Южная Каролина</string>
+    <string>Орегон</string>
+    <string>Вашингтон</string>
+    <string>Айдахо</string>
+    <string>Монтана</string>
+    <string>Вайоминг</string>
+    <string>Канзас</string>
+    <string>Небраска</string>
+    <string>Южная Дакота</string>
+    <string>Северная Дакота</string>
+    <string>Миннесота</string>
+    <string>Айова</string>
+    <string>Миссури</string>
+    <string>Висконсин</string>
+    <string>Иллинойс</string>
+    <string>Мичиган</string>
+    <string>Индиана</string>
+    <string>Кентукки</string>
+    <string>Вирджиния</string>
+    <string>Западная Вирджиния</string>
+    <string>Огайо</string>
+    <string>Мэриленд</string>
+    <string>Пенсильвания</string>
+    <string>Делавэр</string>
+    <string>Нью-Джерси</string>
+    <string>Нью-Йорк</string>
+    <string>Коннектикут</string>
+    <string>Род-Айленд</string>
+    <string>Вермонт</string>
+    <string>Массачусетс</string>
+    <string>Нью-Гэмпшир</string>
+    <string>Мэн</string>
+    <string>Аляска</string>
+    <string>Гавайи</string>
+    <string>Британская Колумбия</string>
+    <string>Альберта</string>
+    <string>Саскачеван</string>
+    <string>Манитоба</string>
+    <string>Онтарио</string>
+    <string>Квебек</string>
+    <string>Нью-Брансуик</string>
+    <string>Новая Шотландия</string>
+    <string>Остров Принца Эдуарда</string>
+    <string>Ньюфаундленд и Лабрадор</string>
+    <string>Юкон</string>
+    <string>Северо-Западные территории</string>
+    <string>Нунавут</string>
+    <string>Северная Португалия</string>
+    <string>Центральная Португалия</string>
+    <string>Лиссабон</string>
+    <string>Алентежу</string>
+    <string>Алгарви</string>
+    <string>Мадейра</string>
+    <string>Азорские острова</string>
+    <string>Западная Австралия</string>
+    <string>Южная Австралия</string>
+    <string>Северная территория</string>
+    <string>Тасмания</string>
+    <string>Виктория</string>
+    <string>Австралийская столичная территория</string>
+    <string>Новый Южный Уэльс</string>
+    <string>Квинсленд</string>
+    <string>Западная Швейцария</string>
+    <string>Вале</string>
+    <string>Берн</string>
+    <string>Северо-Западная Швейцария</string>
+    <string>Центральная Швейцария</string>
+    <string>Северо-восточная Швейцария</string>
+    <string>Граубюнден</string>
+    <string>Тичино</string>
+    <string>Корк/Керри</string>
+    <string>Шеннон</string>
+    <string>Западная Ирландия</string>
+    <string>Северо-Западная Ирландия</string>
+    <string>Восточный Мидлендс</string>
+    <string>Дублин</string>
+    <string>Юго-Восточная Ирландия</string>
+    <string>Фландрия</string>
+    <string>Валлония</string>
+    <string>Брюссель</string>
+    <string>Люксембург</string>
+    <string>Нижняя Калифорния</string>
+    <string>Сонора</string>
+    <string>Чихуахуа</string>
+    <string>Коауила</string>
+    <string>Нуэво-Леон</string>
+    <string>Тамаулипас</string>
+    <string>Синалоа</string>
+    <string>Дуранго</string>
+    <string>Наярит</string>
+    <string>Сакатекас</string>
+    <string>Сан-Луис-Потоси</string>
+    <string>Агуаскальентес</string>
+    <string>Халиско</string>
+    <string>Гуанахуато</string>
+    <string>Колима</string>
+    <string>Кваретаро</string>
+    <string>Мичоакан</string>
+    <string>Мексика</string>
+    <string>Идальго</string>
+    <string>Веракрус</string>
+    <string>Мехико</string>
+    <string>Герреро</string>
+    <string>Морелос</string>
+    <string>Пуэбла</string>
+    <string>Тласкала</string>
+    <string>Оахака</string>
+    <string>Табаско</string>
+    <string>Чьяпас</string>
+    <string>Кампече</string>
+    <string>Юкатан</string>
+    <string>Кинтана-Роо</string>
+    <string>Южная Нижняя Калифорния</string>
+    <string>Северный Брабант</string>
+    <string>Зеландия</string>
+    <string>Южная Голландия</string>
+    <string>Утрехт</string>
+    <string>Северная Голландия</string>
+    <string>Гелдерланд</string>
+    <string>Флеволанд</string>
+    <string>Оверэйсел</string>
+    <string>Фрисландия</string>
+    <string>Дренте</string>
+    <string>Гронинген</string>
+    <string>Лимбург</string>
+    <string>Баден-Вюртемберг</string>
+    <string>Бавария</string>
+    <string>Саар</string>
+    <string>Рейнланд-Пфальц</string>
+    <string>Северный Рейн-Вестфалия</string>
+    <string>Нижняя Саксония</string>
+    <string>Бремен</string>
+    <string>Гессен</string>
+    <string>Тюрингия</string>
+    <string>Саксония</string>
+    <string>Саксония-Анхальт</string>
+    <string>Берлин</string>
+    <string>Бранденбург</string>
+    <string>Гамбург</string>
+    <string>Шлезвиг-Гольштейн</string>
+    <string>Мекленбург-Передняя Померания</string>
+    <string>Форарльберг</string>
+    <string>Тироль</string>
+    <string>Зальцбург</string>
+    <string>Каринтия</string>
+    <string>Верхняя Австрия</string>
+    <string>Штирия</string>
+    <string>Бургенланд</string>
+    <string>Нижняя Австрия</string>
+    <string>Вена</string>
+    <string>Аттика</string>
+    <string>Центральная Греция</string>
+    <string>Центральная Македония</string>
+    <string>Крит</string>
+    <string>Восточная Македония и Фракия</string>
+    <string>Эпир</string>
+    <string>Ионические острова</string>
+    <string>Северные Эгейские острова</string>
+    <string>Фессалия</string>
+    <string>Западная Греция</string>
+    <string>Монастырская Республика Святой Горы Афон</string>
+    <string>Западная Македония</string>
+    <string>Пелопоннес</string>
+    <string>Южные Эгейские острова</string>
+    <string>Скане</string>
+    <string>Блекинге</string>
+    <string>Халланд</string>
+    <string>Вестерготланд</string>
+    <string>Готланд</string>
+    <string>Оландия</string>
+    <string>Бохуслан</string>
+    <string>Далсленд</string>
+    <string>Нарке</string>
+    <string>Седерманланд</string>
+    <string>Вермланд</string>
+    <string>Вастманланд</string>
+    <string>Возвышенность</string>
+    <string>Даларна</string>
+    <string>Гастрикланд</string>
+    <string>Гальсингленд</string>
+    <string>Харьедален</string>
+    <string>Медельпад</string>
+    <string>Гамтланд</string>
+    <string>Ангерманланд</string>
+    <string>Лапландия</string>
+    <string>Норботтен</string>
+    <string>Вестерботтен</string>
+    <string>Смаланд</string>
+    <string>Остергетланд</string>
+    <string>Акр</string>
+    <string>Амазонас</string>
+    <string>Рорайма</string>
+    <string>Амапа</string>
+    <string>Рондония</string>
+    <string>Пара</string>
+    <string>Токантины</string>
+    <string>Мараньян</string>
+    <string>Мато-Гросу</string>
+    <string>Пиауи</string>
+    <string>Сеара</string>
+    <string>Риу-Гранди-ду-Норти</string>
+    <string>Параиба</string>
+    <string>Пернамбуку</string>
+    <string>Алагоас</string>
+    <string>Сержип</string>
+    <string>Баия</string>
+    <string>Гояс</string>
+    <string>Федеральный округ</string>
+    <string>Мату-Гросу-ду-Сул</string>
+    <string>Минас-Жерайс</string>
+    <string>Эспирито Санто</string>
+    <string>Рио-де-Жанейро</string>
+    <string>Сан-Паулу</string>
+    <string>Парана</string>
+    <string>Санта-Катерина</string>
+    <string>Риу-Гранди-ду-Сул</string>
+    <string>Западнопомеранское воеводство</string>
+    <string>Померанское воеводство</string>
+    <string>Варминско-Мазурское воеводство</string>
+    <string>Подляское воеводство</string>
+    <string>Мазовецкое воеводство</string>
+    <string>Куявско-Поморское воеводство</string>
+    <string>Любуш</string>
+    <string>Нижняя Силезия</string>
+    <string>Ополе</string>
+    <string>Силезия</string>
+    <string>Лодзь</string>
+    <string>Великопольское воеводство</string>
+    <string>Люблин</string>
+    <string>Свентокшиское воеводство</string>
+    <string>Подкарпатье</string>
+    <string>Малопольское воеводство</string>
+    <string>Астрахань</string>
+    <string>Челябинск</string>
+    <string>Иваново</string>
+    <string>Калуга</string>
+    <string>Кемерово</string>
+    <string>Кострома</string>
+    <string>Ленинград</string>
+    <string>Липецк</string>
+    <string>Москва</string>
+    <string>Нижний Новгород</string>
+    <string>Новгород</string>
+    <string>Орел</string>
+    <string>Пенза</string>
+    <string>Рязань</string>
+    <string>Самара</string>
+    <string>Свердловск</string>
+    <string>Тамбов</string>
+    <string>Тула</string>
+    <string>Ульяновск</string>
+    <string>Владимир</string>
+    <string>Волгоград</string>
+    <string>Воронеж</string>
+    <string>Ярославль</string>
+    <string>Адыгея</string>
+    <string>Башкортостан</string>
+    <string>Чечня</string>
+    <string>Чувашия</string>
+    <string>Ингушетия</string>
+    <string>Кабардино-Балкария</string>
+    <string>Хакасия</string>
+    <string>Карачаево-Черкесия</string>
+    <string>Марий Эл</string>
+    <string>Мордовия</string>
+    <string>Северная Осетия-Алания</string>
+    <string>Татарстан</string>
+    <string>Удмуртия</string>
+    <string>Ставрополь</string>
+    <string>Ненецкий АО</string>
+    <string>Еврейская АО</string>
+    <string>Калининград</string>
+    <string>Крым</string>
+    <string>Ростов</string>
+    <string>Дагестан</string>
+    <string>Саратов</string>
+    <string>Краснодар</string>
+    <string>Белгород</string>
+    <string>Курск</string>
+    <string>Брянск</string>
+    <string>Смоленск</string>
+    <string>Тверь</string>
+    <string>Псков</string>
+    <string>Вологда</string>
+    <string>Мурманск</string>
+    <string>Архангельск</string>
+    <string>Коми</string>
+    <string>Киров</string>
+    <string>Пермь</string>
+    <string>Ямало</string>
+    <string>Ханты-Мансийск</string>
+    <string>Оренбург</string>
+    <string>Курган</string>
+    <string>Тюмень</string>
+    <string>Омск</string>
+    <string>Томск</string>
+    <string>Новосибирск</string>
+    <string>Алтай</string>
+    <string>Красноярск</string>
+    <string>Саха</string>
+    <string>Чукотка</string>
+    <string>Магадан</string>
+    <string>Камчатка</string>
+    <string>Сахалин</string>
+    <string>Амур</string>
+    <string>Хабаровск</string>
+    <string>Приморский</string>
+    <string>Иркутск</string>
+    <string>Бурятия</string>
+    <string>Забайкальск</string>
+    <string>Калмыкия</string>
+    <string>Карелия</string>
+    <string>Республика Алтай</string>
+    <string>Тыва</string>
+    <string>Аньхой</string>
+    <string>Пекин</string>
+    <string>Чунцин</string>
+    <string>Фуцзянь</string>
+    <string>Гуандун</string>
+    <string>Ганьсу</string>
+    <string>Гуанси</string>
+    <string>Гуйчжоу</string>
+    <string>Хэнань</string>
+    <string>Хубэй</string>
+    <string>Хэбэй</string>
+    <string>Хайнань</string>
+    <string>Гонконг</string>
+    <string>Хэйлунцзян</string>
+    <string>Хунань</string>
+    <string>Цилинь</string>
+    <string>Цзянсу</string>
+    <string>Цзянси</string>
+    <string>Ляонин</string>
+    <string>Макао</string>
+    <string>Внутренняя Монголия</string>
+    <string>Нинся</string>
+    <string>Цинхай</string>
+    <string>Сычуань</string>
+    <string>Шаньдун</string>
+    <string>Шанхай</string>
+    <string>Шэньси</string>
+    <string>Шаньси</string>
+    <string>Тяньцзинь</string>
+    <string>Синьцзян</string>
+    <string>Тибет</string>
+    <string>Юньнань</string>
+    <string>Чжэцзян</string>
+    <string>Ладакх</string>
+    <string>Джамму и Кашмир</string>
+    <string>Химачал-Прадеш</string>
+    <string>Пенджаб</string>
+    <string>Хариана</string>
+    <string>Раджастхан</string>
+    <string>Гуджарат</string>
+    <string>Уттар-Прадеш</string>
+    <string>Бихар</string>
+    <string>Уттаракханд</string>
+    <string>Сикким</string>
+    <string>Ассам</string>
+    <string>Нагаленд</string>
+    <string>Арунчал-Прадеш</string>
+    <string>Мегхалая</string>
+    <string>Манипур</string>
+    <string>Мизорам</string>
+    <string>Трипура</string>
+    <string>Джарханд</string>
+    <string>Западная Бенгалия</string>
+    <string>Одиша</string>
+    <string>Чхаттисгарх</string>
+    <string>Телангана</string>
+    <string>Гоа</string>
+    <string>Мадхья-Прадеш</string>
+    <string>Махараштра</string>
+    <string>Карнатака</string>
+    <string>Андра-Прадеш</string>
+    <string>Тамил Наду</string>
+    <string>Керала</string>
+    <string>Дачан Хуэй</string>
+    <string>Чандигарх</string>
+    <string>Нью-Дели</string>
+    <string>Днепропетровск</string>
+    <string>Донецк</string>
+    <string>Житомир</string>
+    <string>Закарпатье</string>
+    <string>Запорожье</string>
+    <string>Ивано-Франковск</string>
+    <string>Киев</string>
+    <string>Кировоград</string>
+    <string>Луганск</string>
+    <string>Львов</string>
+    <string>Николаев</string>
+    <string>Одесса</string>
+    <string>Полтава</string>
+    <string>Ровно</string>
+    <string>Сумы</string>
+    <string>Тернополь</string>
+    <string>Харьков</string>
+    <string>Херсон</string>
+    <string>Хмельницкий</string>
+    <string>Черкассы</string>
+    <string>Черновцы</string>
+    <string>Чернигов</string>
+    <string>Прага</string>
+    <string>Среднечешский</string>
+    <string>Южночешский</string>
+    <string>Пльзень</string>
+    <string>Карловы Вары</string>
+    <string>Усти-над-Лабем</string>
+    <string>Либерец</string>
+    <string>Градец-Кралове</string>
+    <string>Пардубице</string>
+    <string>Высочина</string>
+    <string>Южноморавский</string>
+    <string>Оломоуц</string>
+    <string>Злин</string>
+    <string>Моравскосилезский</string>
+    <string>Хоккайдо</string>
+    <string>Тохоку</string>
+    <string>Канто</string>
+    <string>Тюбу</string>
+    <string>Кансай</string>
+    <string>Тюгоку</string>
+    <string>Сикоку</string>
+    <string>Кюсю</string>
+    <string>Сеул</string>
+    <string>Пусан</string>
+    <string>Тэгу</string>
+    <string>Инчхон</string>
+    <string>Кванджу</string>
+    <string>Тэджон</string>
+    <string>Ульсан</string>
+    <string>Седжон</string>
+    <string>Кёнгидо</string>
+    <string>Канвондо</string>
+    <string>Чхунчхон-Пукто</string>
+    <string>Чхунчхон-Намдо</string>
+    <string>Чолла-Пукто</string>
+    <string>Чолла-Намдо</string>
+    <string>Кёнсан-Пукто</string>
+    <string>Кёнсан-Намдо</string>
+    <string>Чеджу</string>
+  </Regions>
+  <Religions>
+    <string />
+    <string>Христианство</string>
+    <string>Ислам</string>
+    <string>Индуизм</string>
+    <string>Буддизм</string>
+    <string>Иудаизм</string>
+    <string>Сикхизм</string>
+  </Religions>
+  <Resources>
+    <string />
+    <string>Яблоки</string>
+    <string>Рыба</string>
+    <string>Мясо</string>
+    <string>Сыр</string>
+    <string>Вино</string>
+    <string>Ракеты</string>
+    <string>Танки</string>
+    <string>Нефть</string>
+    <string>Сталь</string>
+    <string>Автомобили</string>
+    <string>Телефоны</string>
+    <string>Одежда</string>
+    <string>Уран</string>
+    <string>Дерево</string>
+    <string>Мыло</string>
+    <string>Литий</string>
+  </Resources>
+  <Rules>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Членство</string>
+        <string>Требования и взнос, чтобы стать членом.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Кандидаты</string>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Дисциплина</string>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Лидерство</string>
+        <string />
+      </text>
+    </Item>
+  </Rules>
+  <RuleArticles>
+    <string />
+    <string>Годовая плата</string>
+    <string>Возраст</string>
+    <string>День выплаты зарплаты</string>
+    <string>Первичные выборы</string>
+  </RuleArticles>
+  <RuleCommas>
+    <string />
+  </RuleCommas>
+  <Statements>
+    <string />
+    <string>Обвинить партию в коррупции</string>
+    <string>Обвинить человека в коррупции</string>
+    <string>Призвать к национальному патриотизму</string>
+    <string>Пообещать поддержать город</string>
+    <string>Раскритиковать партию</string>
+    <string>Похвалить партию</string>
+    <string>Раскритиковать идеологию</string>
+    <string>Расхвалить идеологию</string>
+    <string>Почтить память</string>
+    <string>Забрать территорию</string>
+    <string>Критиковать правительство</string>
+    <string>Восхвалять правительство</string>
+    <string>Говорить хорошо о нации</string>
+    <string>Говорить плохо о нации</string>
+    <string>Продвигать теории заговора</string>
+    <string>Призвать к единству и двустороннему сотрудничеству</string>
+    <string>Подчеркнуть важность голосования</string>
+    <string>Поделиться личной историей и закончить шуткой</string>
+    <string>Критиковать СМИ и их роль в политике</string>
+    <string>Пообещать поддержать категорию</string>
+    <string>Поблагодарить избирателей за доверие</string>
+    <string>Обвинить в мошенничестве на выборах</string>
+    <string>Пригласить граждан присоединиться к партии</string>
+    <string>Поддержать кандидата</string>
+    <string>Поддержать партию</string>
+  </Statements>
+  <Thoughts>
+    <string />
+    <string>Я горжусь нашей демократической системой.</string>
+    <string>Хотелось бы, чтобы было меньше бюрократии.</string>
+    <string>Действительно ли политики понимают мои ежедневные трудности?</string>
+    <string>Хотелось бы, чтобы политики чаще работали вместе.</string>
+    <string>Программы государственной помощи имеют ключевое значение.</string>
+    <string>Мои налоговые деньги используются не так хорошо.</string>
+    <string>Правительство и оппозиция — одно и то же.</string>
+    <string>Я хотел бы видеть в правительстве более опытных людей.</string>
+    <string>Я думаю, что в моей стране много коррупции.</string>
+    <string>Я считаю, что система налогообложения несправедлива.</string>
+    <string>Я хочу более разнообразных политических вариантов.</string>
+    <string>Наши жизни формируются решениями, принимаемыми одной партией и системой.</string>
+  </Thoughts>
+  <Traits>
+    <string />
+    <string>Ленивый</string>
+    <string>Оппортунист</string>
+    <string>Интроверт</string>
+    <string>Экстраверт</string>
+    <string>Амбициозный</string>
+  </Traits>
+  <Tutorials>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Lawgivers II — это пошаговая политическая песочница.\n\nВы можете баллотироваться на выборах с вашей партией, утверждать или отменять законы в парламенте/конгрессе и формировать правительство вашей страны.\n\nС этим руководством вы научитесь основам игры, управляя секретарём красной партии $p3 в США $n5.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Используйте W, S, D, A для перемещения по карте мира и внутри зданий.\n\nПриближайте/удаляйте с помощью R/F или колесика мыши. Закрывайте окна с помощью SPACE или правой кнопки мыши.</string>
+        <string>Используйте один палец для перемещения по карте мира или внутри зданий.\n\nДля приближения/удаления используйте два пальца.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Это календарь, где происходят большинство действий и событий.\n\nВ конце хода пройдет одна неделя $i1.18. В году 48 недель (48 ходов).\n\nВы можете использовать календарь для выпуска заявлений, написания законопроектов, проведения опросов и т. д. и проверять, когда происходят выборы и другие события.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>В нижнем левом углу вы можете увидеть ПАРТИЮ $p3 и ЛИЧНОСТЬ $h, которыми вы управляете, возможные действия $i9.9, деньги $i9.4 и черные деньги $i9.5 в вашем распоряжении.\n\nВ нижнем правом углу панель для навигации по КАЛЕНДАРЮ, ЧАТУ, НОВОСТЯМ, кнопка КОНЕЦ ХОДА $i1.22 и кнопка АВТОПРОГРЕСС.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>В верхнем левом углу вы можете открыть меню МИР, проверить НАЦИЮ, в которой вы играете, и некоторые значения, такие как счастье $i6.4, бюджет $i6.7, ВВП $i6.8, одобрение правительства $i4.3, исследования $i4.6 и условия $i4.7. \n\nВ верхнем правом углу фильтры, LAWGIVERSPEDIA (Справка) и кнопки НАСТРОЙКИ/ВЫХОД.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Наведите на элементы экрана, чтобы отобразить подсказки и лучше понять действия и значения в игре. Более подробную информацию и помощь можно найти в LAWGIVERSPEDIA $i1.19 в верхнем правом углу экрана.</string>
+        <string>Удерживайте на элементах экрана, чтобы отобразить подсказки и лучше понять действия и значения в игре.\n\nБолее подробную информацию и помощь можно найти в LAWGIVERSPEDIA $i1.19 в верхнем правом углу экрана.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Выборы скоро начнутся, продолжайте с кнопкой конца хода $i1.22 или авто прогресса до выбора кандидатов для президентских выборов $i4.2.</string>
+        <string />
+        <string>Продвиньтесь до недели 5</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Откройте выбор кандидатов на президентские выборы $i4.2 и выберите вашего кандидата в президенты и вице-президента.</string>
+        <string />
+        <string>Выберите кандидата на пост президента</string>
+        <string>Выберите кандидата на пост вице-президента</string>
+        <string>Нажмите кнопку "участвовать"</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Откройте выбор кандидатов в Палату представителей $i4.0 и выберите ваших кандидатов для выборов в каждом избирательном округе.</string>
+        <string />
+        <string>Выберите автозаполнение, чтобы выбрать всех нужных кандидатов</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Теперь, когда вы выбрали кандидатов, вы можете выпустить ваше первое заявление $i9.3, чтобы получить поддержку избирателей.\n\nПомните, что лучше сдерживать свои обещания $i9.2.</string>
+        <string />
+        <string>Откройте календарь на неделю 8 и выберите "выпустить заявление"</string>
+        <string>Выберите обещание снизить количество ограблений</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Предвыборная кампания началась, и внимание граждан выше обычного. ИИ или другие игроки (многопользовательский режим) также могут планировать заявления в календаре.\n\nКогда начинается новая неделя, не забудьте проверить, есть ли новости $i1.20, которые стоит прочитать.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Переместитесь к вашему заявлению $i9.3 и посмотрите на его охват.</string>
+        <string />
+        <string>Перейдите к заявлению на неделю 8</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>В будущем вы можете организовать опросы $i4.5, чтобы узнать больше о новых тенденциях и том, что избиратели хотели бы изменить, и скорректировать свои заявления соответственно.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Продолжайте и участвуйте в дебатах $i4.14 с другими кандидатами в президенты.\n\nПереключитесь с общего меню $i1.21 на меню действий $i6.3 и выберите, о чём говорить больше или меньше.</string>
+        <string />
+        <string>Перейдите к дебатам на неделю 20</string>
+        <string>Распределите 5:00 минут между темами</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Перемещайтесь до выборов и посмотрите результаты президентских $i4.2 и парламентских $i4.0 выборов.\n\nСначала отображается явка, а затем результаты, которые могут быть отфильтрованы по округам/штатам.</string>
+        <string />
+        <string>Перейдите к выборам на неделю 22</string>
+        <string>Подождите, пока выборы не завершатся</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Поздравляю, вы набрали больше 270 голосов и получили право сформировать правительство $i4.3. \n\nВыберите секретарей по их характеристикам, таким как опыт, популярность и т. д.</string>
+        <string />
+        <string>Перейдите к неделе 25</string>
+        <string>Выберите 8 министров</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Хорошо, после выборов в Палату представителей $i4.0 нужно выбрать спикера палаты.\n\nСпикер представляет палату, может перенести голосования на календаре и выбирается из числа избранных депутатов.</string>
+        <string />
+        <string>Перейдите к неделе 26</string>
+        <string>Выберите кандидата на пост спикера</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Проверьте результаты голосования за спикера. Второй по числу голосов депутат становится заместителем спикера.\n\nЗаместитель спикера берет на себя управление, когда спикер отсутствует $i9.0.</string>
+        <string />
+        <string>Перейдите к неделе 28</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Последний шаг для того, чтобы палата стала работоспособной, — это назначение комитетов, где обсуждаются законопроекты и происходит первое одобрение.\n\nМеста в комитетах распределяются в зависимости от числа мест $i8.5, полученных вашей партией в палате.</string>
+        <string />
+        <string>Перейдите к неделе 31</string>
+        <string>Выберите депутатов для комитетов</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Теперь, когда ваши депутаты находятся в конгрессе и комитетах, вы можете написать ваш первый законопроект $i6.0. \n\nЗаконы изменяют параметры и бюджет вашей страны. Пора сдержать обещание по снижению ограблений.\n\n</string>
+        <string />
+        <string>Откройте календарь на неделю 33</string>
+        <string>Выберите законопроект "Регулирование полиции" и добавьте хотя бы одну статью</string>
+        <string>Выберите законодателя для написания этого законопроекта</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Теперь вам нужно подождать, пока процесс написания будет завершен. Вы можете проверить, когда это произойдёт, в новостях $i1.20. \n\nБолее опытные законодатели пишут законопроекты быстрее.</string>
+        <string />
+        <string>Продвигайтесь по календарю, пока процесс написания законопроекта не завершится.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Откройте календарь и предложите законопроект в комитет $i6.14. \n\nЗаконодатели, занятые или отсутствующие $i8.0, не могут работать над законопроектами. В этом случае нужно подождать, пока они снова не будут доступны.</string>
+        <string />
+        <string>Предложите законопроект в соответствующий комитет.</string>
+        <string>Одобрите законопроект в комитете.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>После того, как законопроект пройдет комитет, он продолжит путь в палату.\n\nПроверьте лояльность ваших законодателей и убедитесь, что они придерживаются линии.</string>
+        <string />
+        <string>Одобрите законопроект в палате.</string>
+        <string>Подпишите законопроект с вашим президентом.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Теперь, когда законопроект прошел процесс одобрения, он станет законом и начнет действовать в вашей стране после времени реализации.\n\nБолее опытные $i10.5 правительства могут сократить время реализации/отмены.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>То, что вы испытали в этом руководстве, — это система выборов и утверждения законов США $n5. \n\nВ других странах это работает по-разному, и выборы и системы утверждения законов регулируются конституцией $i6.12.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Поздравляю, вы сдержали ваше обещание $i9.2 избирателям и освоили основные функции игры.\n\nТеперь вы свободны исследовать и корректировать свою стратегию, чтобы политически выжить на следующих выборах. Приятной игры в Lawgivers II!</string>
+      </text>
+    </Item>
+  </Tutorials>
+  <Universities>
+    <string />
+  </Universities>
+  <Features>
+    <string>Разблокировать все играбельные страны</string>
+    <string>Разблокировать все партии и кастомизацию</string>
+    <string>Разблокировать все геймплейные элементы</string>
+    <string>Убрать раздражающую рекламу</string>
+    <string>Помочь в финансировании нашей следующей игры</string>
+  </Features>
+  <DLC>
+    <string>Специальное издание для спонсоров, которое добавляет новые законы и больше вариантов создания мира</string>
+    <string>Добавляет больше вариантов создания мира и новые законы</string>
+  </DLC>
+  <Networks>
+    <string>Подключение</string>
+    <string>Некорректный IP-адрес</string>
+    <string>Время ожидания подключения истекло</string>
+    <string>Подключение установлено</string>
+    <string>Сервер переполнен</string>
+    <string>Неверный пароль</string>
+    <string>Подключено к хосту</string>
+    <string>Уже подключено</string>
+    <string>Обновить до новой версии</string>
+    <string>Отсутствует контент/DLC</string>
+  </Networks>
+  <Loading>
+    <string>фальсифицируем выборы</string>
+    <string>вбрасываем бюллетени</string>
+    <string>загружаем диктатуры</string>
+    <string>свергаем правительства</string>
+    <string>дурачим налогоплатильщиков</string>
+    <string>спорим</string>
+    <string>сажаем оппозиционнеров</string>
+    <string>чиним машины для голосования</string>
+    <string>воздвигаем стены</string>
+    <string>протестуем</string>
+    <string>неконтролируемая миграция</string>
+    <string>уклоняемся от уплаты налогов</string>
+    <string>наращиваем напряжённость</string>
+    <string>незаконно продаём оружие</string>
+    <string>торгуем людьми</string>
+    <string>фабрикуем скандалы</string>
+    <string>начинаем революции</string>
+    <string>предвыборные махинации</string>
+    <string>создаём аналитические центры</string>
+    <string>нарушаем обещания</string>
+    <string>соблюдаем избирательный мандат</string>
+    <string>Политические мемы</string>
+    <string>Поддержка прав меньшинств</string>
+    <string>Мирные переговоры</string>
+    <string>Международное сотрудничество</string>
+    <string>Продвижение прав человека</string>
+    <string>Меры кибербезопасности</string>
+    <string>Подрыв независимости судебной власти</string>
+    <string>Установка марионеточных правителей</string>
+    <string>Курсы "говорить, не говоря ничего"</string>
+    <string>Отправка бюллетеней по почте</string>
+    <string>Организация денежной бомбы</string>
+    <string>Помилование членов семьи</string>
+    <string>Не иметь ничего и быть счастливым</string>
+    <string>Создание новых идеологий</string>
+    <string>Контроль вассальных государств</string>
+  </Loading>
+  <Months>
+    <string>Январь</string>
+    <string>Февраль</string>
+    <string>Март</string>
+    <string>Апрель</string>
+    <string>Май</string>
+    <string>Июнь</string>
+    <string>Июль</string>
+    <string>Август</string>
+    <string>Сентябрь</string>
+    <string>Октябрь</string>
+    <string>Ноябрь</string>
+    <string>Декабрь</string>
+  </Months>
+  <Text>
+    <string />
+    <string>Внимание, некоторые игровые файлы были повреждены :(</string>
+    <string>Пожалуйста, обновитесь до последней доступной версии.</string>
+    <string>Присоединяйтесь к нашему Discord-серверу, чтобы сообщить о багах или рассказать о предложениях по улучшению игры.</string>
+    <string>В качестве альтернативы вы можете отправить нам электронное письмо с этой формой</string>
+    <string>Включая сохранение</string>
+    <string>Новый показатель</string>
+    <string>Удалить показатель</string>
+    <string>Создать событие</string>
+    <string>Выберите нацию</string>
+    <string>Выберите партию</string>
+    <string>Выберите человека</string>
+    <string>Президентские выборы</string>
+    <string>Выбор кандидата</string>
+    <string>Выбор правительства</string>
+    <string>Выборы спикера</string>
+    <string>Выбор спикера</string>
+    <string>Миссия выполнена</string>
+    <string>Миссия провалена</string>
+    <string>Выпустить официальное заявление</string>
+    <string>Провести соцопрос</string>
+    <string>Предложить законопроект комитету</string>
+    <string>Недоступно в ДЕМО-версии игры</string>
+    <string>Запуск боеголовки</string>
+    <string>Написать новый законопроект</string>
+    <string>1 депутат в комитете</string>
+    <string>Предложить снять законопроект с рассмотрения</string>
+    <string>Исследование завершено</string>
+    <string>Строительство завершено</string>
+    <string>Действующий</string>
+    <string>Предложение</string>
+    <string>Должно быть отменено</string>
+    <string>Должно быть написано</string>
+    <string>Вступает в силу</string>
+    <string>Законопроект завершён</string>
+    <string>Законопроект в силе</string>
+    <string>Законопроект отменён</string>
+    <string>Человек нанят</string>
+    <string>Предложить соглашение с партией</string>
+    <string>Предложить договор</string>
+    <string>Депутат подкуплен</string>
+    <string>Человек скончался</string>
+    <string>Объявление войны</string>
+    <string>Всего сыгранных ходов</string>
+    <string>Самая длинная игра</string>
+    <string>Всеобщие выборы</string>
+    <string>Промежуточные выборы</string>
+    <string>Отбор кандидатов</string>
+    <string>Вотум доверия</string>
+    <string>Резолюция президента</string>
+    <string>Резолюция спикера</string>
+    <string>Резолюция парламента</string>
+    <string>1 член партии</string>
+    <string>Запуск боеголовки</string>
+    <string>1 депутат в парламенте</string>
+    <string>Требуются голоса</string>
+    <string>Отсутствующие голоса</string>
+    <string>Роспуск парламента</string>
+    <string>Предложить коалицию</string>
+    <string>Предложить корректировку бюджета</string>
+    <string>Подписан мир</string>
+    <string>Отбор комитетов</string>
+    <string>Долг погашен</string>
+    <string>Проголосовать за принятие нового законопроекта</string>
+    <string>Проголосовать за отмену законопроекта</string>
+    <string>Выпускайте облигации и увеличивайте государственный долг, чтобы создать деньги для вашей страны.</string>
+    <string>Необходимые законодатели</string>
+    <string>Подписать закон</string>
+    <string>Отклонить закон</string>
+    <string>Подписать удаление закона</string>
+    <string>Отклонить удаление закона</string>
+    <string>Подпись президента для одобрения закона</string>
+    <string>Подпись президента для удаления закона</string>
+    <string>Основная партия</string>
+    <string>Средняя партия</string>
+    <string>Меньшая партия</string>
+    <string>Политическое движение</string>
+    <string>Региональная партия</string>
+    <string>Распределить правительственные обязанности и полномочия между партиями.</string>
+    <string>Случайное имя</string>
+    <string>Случайный внешний вид</string>
+    <string>Случайное тело</string>
+    <string>Случайная одежда</string>
+    <string>Правительство в силе</string>
+    <string>Правительство вышло из сил</string>
+    <string>Перейти к текущему ходу</string>
+    <string>Автопрогресс</string>
+    <string>Предложить сменить сторону</string>
+    <string>Дать перерыв на отпуск</string>
+    <string>Выбрать преемника</string>
+    <string>Отрегулировать зарплату</string>
+    <string>Назначенное правительство должно получить большинство в парламенте, чтобы взять на себя ответственность.</string>
+    <string>Перенести голосование на календарь</string>
+    <string>Выборы мэра</string>
+    <string>Выборы губернатора</string>
+    <string>Предложить голосовать одинаково</string>
+    <string>Отпуска полезны для отдыха и восстановления энергии.</string>
+    <string>Степень известности этого человека среди широкой публики.</string>
+    <string>Необходимо для выполнения политических обязанностей и ответственности.</string>
+    <string>Играет важную роль в дебатах и эффективном изложении заявлений.</string>
+    <string>Хитрость оказывается полезной для умелого маскирования скандалов.</string>
+    <string>Важно для повышения видимости и обеспечения побед на выборах.</string>
+    <string>Большая верность коррелирует с меньшей вероятностью отклонения от партийной линии.</string>
+    <string>Полученный опыт от ключевых обязанностей повышает эффективность, сокращая время и затраты на некоторые операции.</string>
+    <string>Уволить члена, чтобы избавиться от скандалов или уменьшить расходы.</string>
+    <string>Новая коалиция</string>
+    <string>Коалиция разрушена</string>
+    <string>Предложить этому человеку вступить в вашу партию.</string>
+    <string>Предложить этому человеку покинуть свою партию и присоединиться к вашей.</string>
+    <string>Предложить этому человеку голосовать по линии вашей партии.</string>
+    <string>Выбрать замену в случае вашей смерти.</string>
+    <string>Повысить зарплату для увеличения счастья и верности партии или снизить для сокращения расходов.</string>
+    <string>Берет на себя ответственность</string>
+    <string>Иностранное вмешательство</string>
+    <string>Распуск правительства и парламента. Официальные даты установлены для новых выборов.</string>
+    <string>Не удалось загрузить сценарий</string>
+    <string>Создание мира ...</string>
+    <string>Погасить кредит для снижения еженедельных расходов</string>
+    <string>Показать процент избирателей</string>
+    <string>Степень влияния и власти в партии.</string>
+    <string>Партия, набравшая наибольшее количество мест, имеет право предложить коалицию, если выборы не дают четкого большинства.</string>
+    <string>Предложение коалиции</string>
+    <string>Выиграть выборы</string>
+    <string>Необходимо создать работающее правительство, чтобы страна находилась под контролем.</string>
+    <string>Разорвать коалицию и подготовиться к новым выборам.</string>
+    <string>Скорость выборов</string>
+    <string>Украсть у нации</string>
+    <string>Украсть деньги у партии</string>
+    <string>Зал дебатов</string>
+    <string>Оценивает, в какой степени граждане, которые признают этого человека, действительно ценят его как политическую фигуру.</string>
+    <string>Совместимо только с версией</string>
+    <string>Отключить изменения в конституции</string>
+    <string>Военная операция</string>
+    <string>Несовместимые титулы</string>
+    <string>Импичмент — это политический процесс удаления высокопоставленного чиновника за серьезные проступки. Он включает расследование, голосование и, в случае осуждения, снятие с должности.</string>
+    <string>Импичмент</string>
+    <string>Недостаточно денег</string>
+    <string>Отключить войны</string>
+    <string>Повторное голосование</string>
+    <string>Решение правительства</string>
+    <string>Удалить договор</string>
+    <string>Регион аннексирован</string>
+    <string>Регион занят</string>
+    <string>Опубликовать электоральную программу</string>
+    <string>Пообещайте действия своим гражданам или улучшите отношения с партиями.</string>
+    <string>Выберите члена партии для написания нового закона. После завершения написания закон может быть подан в комитеты для утверждения.</string>
+    <string>Узнайте больше о потребностях и предпочтениях ваших граждан.</string>
+    <string>Выберите закон и начните процесс утверждения в соответствующем комитете.</string>
+    <string>Выберите закон и начните процесс его отмены в соответствующем комитете.</string>
+    <string>Специальное действие, требующее одобрения парламента.</string>
+    <string>Предложить разделить правительственные обязанности между партиями парламента.</string>
+    <string>Специальные действия с председателем парламента.</string>
+    <string>Правительственные меры используются для быстрого изменения параметров в вашей стране.</string>
+    <string>Удалить правительственные меры для восстановления бюджета.</string>
+    <string>Строить инфраструктуру в регионах и городах.</string>
+    <string>Удалить инфраструктуру из регионов и городов.</string>
+    <string>Увеличьте бюджет страны, выпустив государственные облигации, и увеличьте государственный долг.</string>
+    <string>Специальное действие с главой правительства.</string>
+    <string>Улучшить отношения с другими странами и заключить новые договоры.</string>
+    <string>Выполнить военные операции на территории страны или за рубежом.</string>
+    <string>Атаковать враждебную страну и нанести ущерб её экономике.</string>
+    <string>Дайте избирателям знать о своих намерениях.</string>
+    <string>Нет активных споров</string>
+    <string>Нет активных боевых действий</string>
+    <string>Карта не проверена</string>
+    <string>Нет доступных единиц</string>
+    <string>Нет оккупированных территорий</string>
+    <string>Говорите больше</string>
+    <string>Говорите меньше</string>
+    <string>Сравнить с действующим законом</string>
+    <string>Ваша партия исчерпывает свои финансовые ресурсы $i9.4. Зарплаты не могут быть гарантированы, и верность членов партии постепенно снижается, что заставляет некоторых рассматривать возможность ухода из партии. Оцените возможность взять кредит.</string>
+    <string>Национальный престиж</string>
+    <string>Влияние партии</string>
+    <string>Личные выгоды</string>
+    <string>Недели у власти</string>
+    <string>1-й тур</string>
+    <string>2-й тур</string>
+    <string>Сила данного обещания.</string>
+    <string>Усилия, приложенные партией для выполнения этого обещания.</string>
+    <string>Фактическая способность вашей партии выполнить это обещание.</string>
+    <string>Строительство уже ведется</string>
+    <string>Уже построено</string>
+    <string>Уже в силе</string>
+    <string>Уже одобрено</string>
+    <string>Организовать демонстрацию для выражения критики в адрес нынешнего правительства.</string>
+    <string>Организовать протест</string>
+    <string>Собрать средства от потенциальных доноров для поддержки деятельности вашей партии.</string>
+    <string>Партия в оппозиции</string>
+    <string>Вести переговоры с другими партиями для продвижения собственных интересов.</string>
+    <string>Здание разрушено.</string>
+    <string>Уже в процессе</string>
+    <string>Тайм-аут отклонения</string>
+    <string>Требования не выполнены</string>
+    <string>В процессе написания</string>
+    <string>Похожее уже в процессе</string>
+    <string>Не требуется</string>
+    <string>Нет правительства</string>
+    <string>Нет мер правительства</string>
+    <string>Недостаточно бюджета</string>
+    <string>Нет доступных договоров</string>
+    <string>Расширение производства</string>
+    <string>Законодатели показывают свой выбор</string>
+    <string>Законодатели не показывают свой выбор</string>
+    <string>Отправить на миссию</string>
+    <string>Украденные деньги из страны идут в черную кассу и увеличивают коррупцию в стране.</string>
+    <string>Политический интерес</string>
+    <string>Косметическая операция</string>
+    <string>Организовать исчезновение</string>
+    <string>Отправить человека на полевую миссию для изменения и улучшения некоторых атрибутов.</string>
+    <string>Скандалы подавляются.</string>
+    <string>Глобальная политическая тенденция переживает значительный сдвиг в сторону этой новой идеи</string>
+    <string>Взять кредит для увеличения своих средств</string>
+    <string>Политическая тенденция</string>
+    <string>Нет законодателей в комитете</string>
+    <string>Нет законодателей</string>
+    <string>Высшее счастье</string>
+    <string>Низшее счастье</string>
+    <string>Посетить другую страну</string>
+    <string>Больше нет попыток</string>
+    <string>Организовать дебаты перед выборами</string>
+    <string>Партии могут организовывать сбор средств</string>
+    <string>Использовать операцию для улучшения внешности этого человека</string>
+    <string>Обеспечить, чтобы этот человек исчез внезапно</string>
+    <string>Конец миссии</string>
+    <string>Назначены новые законодатели</string>
+    <string>Уже выбрано</string>
+    <string>Нет оставшихся очков действий</string>
+    <string>Конец визита</string>
+    <string>Человек найден мертвым</string>
+    <string>Попадание ракеты</string>
+    <string>Конец операции</string>
+    <string>Конец кампании</string>
+    <string>Новое предложение</string>
+    <string>Улучшить отношения между странами</string>
+    <string>Изучить страну и её культуру</string>
+    <string>Миссия не выполнена</string>
+    <string>Предложить быть отсутствующим</string>
+    <string>Предложить этому человеку взять отпуск и избегать важных событий.</string>
+    <string>Достигнут предел</string>
+    <string>Победа в атаке</string>
+    <string>Победа в обороне</string>
+    <string>Выберите место для кандидата на выборы</string>
+    <string>Больше — лучше</string>
+    <string>Меньше — лучше</string>
+    <string>Организовать кампанию</string>
+    <string>Мобилизовать для увеличения числа избирателей в конкретном регионе/штате.</string>
+    <string>Уйти в отставку с текущей должности</string>
+    <string>Вы получили пожертвование</string>
+    <string>Вы получили предложение от категории</string>
+    <string>В ответ на растущие социальные проблемы граждане мирно протестовали, требуя налоговой справедливости и равенства через плакаты и лозунги, демонстрируя решимость изменить политику.</string>
+    <string>Толпа собирается, голоса звучат в унисон, а транспаранты требуют окончания войны. Люди из всех слоев общества стоят вместе, настоятельно призывая к миру.</string>
+    <string>Человек покинул партию</string>
+    <string>Показать одобрение правительства</string>
+    <string>Определить следующий исследовательский предмет для изучения в стране.</string>
+    <string>Голосовать за исследование</string>
+    <string>Выиграть всеобщие выборы</string>
+    <string>Манипулировать в пользу своей партии</string>
+    <string>Специальное действие с главой государства.</string>
+    <string>Только после выборов</string>
+    <string>Разведывательная операция</string>
+    <string>Выберите количество избирателей на прошлых выборах</string>
+    <string>Выберите возраст человека</string>
+    <string>Выберите другого человека</string>
+    <string>Изменить контролируемого человека и продолжить игру.</string>
+    <string>Ожидание минимального числа игроков</string>
+    <string>Пожалуйста, подумайте о перерыве</string>
+    <string>Закон заменен</string>
+    <string>Голосовать за кандидата</string>
+    <string>Приобретение избирателей</string>
+    <string>Разоблачить возможный скандал</string>
+    <string>Увеличить счастье</string>
+    <string>Увеличить ВВП</string>
+    <string>Выиграть большинство мест на выборах</string>
+    <string>Управлять своей нацией</string>
+    <string>Достигнуть влиятельных ролей в нации или партии</string>
+    <string>Переместить средства в налоговый рай</string>
+    <string>Иммунитет от преследования</string>
+    <string>Дарование помилования</string>
+    <string>В игру добавлена новая нация</string>
+    <string>Создана новая партия</string>
+    <string>Запущено новое средство массовой информации</string>
+    <string>Добавлен новый ресурс</string>
+    <string>Давление в вашу пользу</string>
+    <string>Сфабриковать скандал</string>
+    <string>Приостановка закона</string>
+    <string>Начните игру в качестве секретаря партии</string>
+    <string>Начните игру как новый член партии</string>
+    <string>Все исследования с самого начала</string>
+    <string>Мировая экономическая группа прогнозирует незначительное улучшение экономики в следующем году.</string>
+    <string>Мировая экономическая группа прогнозирует значительный экономический рост в следующем году.</string>
+    <string>Мировая экономическая группа прогнозирует незначительный экономический спад в следующем году.</string>
+    <string>Мировая экономическая группа прогнозирует резкий экономический спад в следующем году.</string>
+    <string>Назначить новое правительство</string>
+    <string>Преобразовать в конституционный закон</string>
+    <string>Сфабриковать скандал, чтобы снизить репутацию и популярность человека.</string>
+    <string>Оказать давление на судью, чтобы он вынес решение в вашу пользу.</string>
+    <string>Партия ушла из политики</string>
+    <string>Изменение партий</string>
+    <string>Создать новую</string>
+    <string>Потратить скилл поинты на человека</string>
+    <string>Монархическая резолюция</string>
+  </Text>
+</Data>
