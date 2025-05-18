@@ -3,9 +3,9 @@
     "name": "Sovereign Democracy",
     "description": "Russia mod",
     "author": "Karandash/PAKMAN",
-    "version": "1.2",
+    "version": "1.3",
     "fileVersion": 2,
-    "build": 3508
+    "build": 3549
   },
   "years": [
     1992,
@@ -8291,6 +8291,14 @@
           "articles": [],
           "commas": [],
           "commasUnavailable": []
+        },
+        {
+          "id": 232,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
         }
       ],
       "minArticles": 1,
@@ -8375,6 +8383,14 @@
         },
         {
           "id": 208,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 231,
           "required": false,
           "limit": 1,
           "articles": [],
@@ -9107,6 +9123,14 @@
         },
         {
           "id": 210,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 233,
           "required": false,
           "limit": 1,
           "articles": [],
@@ -10238,6 +10262,14 @@
         },
         {
           "id": 192,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 228,
           "required": false,
           "limit": 1,
           "articles": [],
@@ -11623,6 +11655,14 @@
           "articles": [],
           "commas": [],
           "commasUnavailable": []
+        },
+        {
+          "id": 227,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
         }
       ],
       "minArticles": 1,
@@ -12449,6 +12489,62 @@
       "change": 0,
       "proposable": 0,
       "id": 87
+    },
+    {
+      "required": false,
+      "order": 1000,
+      "level": 0,
+      "type": 1,
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "competence": 8,
+      "name": 0,
+      "articles": [
+        {
+          "id": 229,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 230,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        }
+      ],
+      "minArticles": 1,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.5,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 88
     },
     {
       "required": false,
@@ -13331,6 +13427,71 @@
       "change": 0,
       "proposable": 0,
       "id": 103
+    },
+    {
+      "required": false,
+      "order": 1000,
+      "level": 0,
+      "type": 1,
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "competence": 3,
+      "name": 0,
+      "articles": [
+        {
+          "id": 234,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        }
+      ],
+      "minArticles": 0,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 38,
+            "value": 2.0,
+            "mode": 0
+          },
+          {
+            "id": 34,
+            "value": 1.5,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [
+          {
+            "id": 5,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 104
     }
   ],
   "lawArticles": [
@@ -19080,7 +19241,23 @@
       "type": 1,
       "modifiers": 0,
       "defaultValue": 0,
-      "commas": [],
+      "commas": [
+        {
+          "id": 97,
+          "articles": [],
+          "commas": []
+        },
+        {
+          "id": 98,
+          "articles": [],
+          "commas": []
+        },
+        {
+          "id": 99,
+          "articles": [],
+          "commas": []
+        }
+      ],
       "subdivisions": 0,
       "data": [],
       "research": {
@@ -19103,7 +19280,7 @@
         "specials": []
       },
       "common": 0,
-      "change": 8,
+      "change": 0,
       "proposable": 0,
       "id": 137
     },
@@ -22865,6 +23042,346 @@
       "change": 0,
       "proposable": 0,
       "id": 226
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": -0.5
+        },
+        "parameters": [
+          {
+            "id": 23,
+            "value": 1.0,
+            "mode": 0
+          },
+          {
+            "id": 26,
+            "value": 1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 227
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 2,
+            "value": 1.0,
+            "mode": 0
+          },
+          {
+            "id": 24,
+            "value": 1.5,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [
+          {
+            "id": 8,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 228
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -1.8
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.3
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 229
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -1.4
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 38,
+            "value": 0.2,
+            "mode": 0
+          },
+          {
+            "id": 34,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 230
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 2,
+            "value": 1.0,
+            "mode": 0
+          },
+          {
+            "id": 24,
+            "value": 1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 231
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -0.5
+          }
+        ],
+        "military": {
+          "defence": 3,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 232
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": 2.0
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 14,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 233
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -0.8
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 28,
+            "value": 1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 234
     }
   ],
   "lawCommas": [
@@ -64145,9 +64662,9 @@
         "end": 2000
       },
       "colorData": {
-        "r": 0,
-        "g": 128,
-        "b": 0,
+        "r": 99,
+        "g": 208,
+        "b": 255,
         "a": 255
       },
       "ideologies": [
@@ -64206,7 +64723,7 @@
     {
       "nameOriginal": "Наш дом — Россия",
       "acronymOriginal": "НДР",
-      "nameInternational": "Our home — Russia",
+      "nameInternational": "Our Home — Russia",
       "acronymInternational": "OHR",
       "playable": 0,
       "nation": 7,
@@ -64307,41 +64824,6 @@
       "predecessor": 0,
       "size": 1,
       "id": 8
-    },
-    {
-      "nameOriginal": "Народно-патриотический союз России",
-      "acronymOriginal": "НПСР",
-      "nameInternational": "People's Patriotic Union of Russia",
-      "acronymInternational": "PPUR",
-      "playable": 0,
-      "nation": 7,
-      "time": {
-        "start": 1996,
-        "end": 2004
-      },
-      "colorData": {
-        "r": 139,
-        "g": 0,
-        "b": 0,
-        "a": 255
-      },
-      "ideologies": [
-        {
-          "id": 5,
-          "value": 60
-        },
-        {
-          "id": 13,
-          "value": 70
-        }
-      ],
-      "factions": [],
-      "people": [],
-      "regions": [],
-      "rules": [],
-      "predecessor": 0,
-      "size": 2,
-      "id": 9
     },
     {
       "nameOriginal": "Народная партия Российской Федерации",
@@ -64877,7 +65359,7 @@
       "nation": 7,
       "time": {
         "start": 1993,
-        "end": 1999
+        "end": 1998
       },
       "colorData": {
         "r": 0,
@@ -65409,7 +65891,7 @@
       "id": 40
     },
 {
-      "nameOriginal": "Российское христианская демократическая партия",
+      "nameOriginal": "Российская христианская демократическая партия",
       "acronymOriginal": "РХДП",
       "nameInternational": "Russian Christian Democratic Party",
       "acronymInternational": "RCDM",
@@ -65910,7 +66392,7 @@
       "nation": 7,
       "time": {
         "start": 1991,
-        "end": 1996
+        "end": 2000
       },
       "colorData": {
         "r": 235,
@@ -65990,7 +66472,7 @@
       },
       "ideologies": [
         {
-          "id": 1,
+          "id": 2,
           "value": 60
         },
         {
@@ -66339,6 +66821,476 @@
       "predecessor": 0,
       "size": 3,
       "id": 68
+    },
+{
+      "nameOriginal": "Российская партия пенсионеров",
+      "acronymOriginal": "РПП",
+      "nameInternational": "Russian Party of Pensioners",
+      "acronymInternational": "RPP",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1997,
+        "end": 0
+      },
+      "colorData": {
+        "r": 203,
+        "g": 137,
+        "b": 162,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 4,
+          "value": 80
+        },
+        {
+          "id": 8,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 69
+    },
+{
+      "nameOriginal": "Российская партия защиты женщин",
+      "acronymOriginal": "РПЗЖ",
+      "nameInternational": "Russian Party for the Protection of Women",
+      "acronymInternational": "RPPW",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1999,
+        "end": 2001
+      },
+      "colorData": {
+        "r": 125,
+        "g": 116,
+        "b": 152,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 4,
+          "value": 40
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 70
+    },
+{
+      "nameOriginal": "Движение «За гражданское достоинство»",
+      "acronymOriginal": "ЗГД",
+      "nameInternational": "«For Civil Dignity» Movement",
+      "acronymInternational": "FCD",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1999,
+        "end": 0
+      },
+      "colorData": {
+        "r": 169,
+        "g": 234,
+        "b": 57,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 6,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 71
+    },
+{
+      "nameOriginal": "Движение в поддержку армии, оборонной промышленности и военной науки",
+      "acronymOriginal": "ДПА",
+      "nameInternational": "Movement in Support of the Army",
+      "acronymInternational": "MSA",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1998,
+        "end": 0
+      },
+      "colorData": {
+        "r": 93,
+        "g": 36,
+        "b": 36,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 14,
+          "value": 70
+        },
+        {
+          "id": 5,
+          "value": 50
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 72
+    },
+{
+      "nameOriginal": "Мир, труд, Май",
+      "acronymOriginal": "МТМ",
+      "nameInternational": "Peace, Labour, May",
+      "acronymInternational": "PLM",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1999,
+        "end": 2000
+      },
+      "colorData": {
+        "r": 254,
+        "g": 96,
+        "b": 114,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 8,
+          "value": 70
+        },
+        {
+          "id": 4,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 73
+    },
+{
+      "nameOriginal": "Партия мира и единства",
+      "acronymOriginal": "ПМЕ",
+      "nameInternational": "Party of Peace and Unity",
+      "acronymInternational": "PPU",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1998,
+        "end": 2008
+      },
+      "colorData": {
+        "r": 110,
+        "g": 42,
+        "b": 117,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 8,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 74
+    },
+{
+      "nameOriginal": "Русская социалистическая партия",
+      "acronymOriginal": "РСП",
+      "nameInternational": "Russian Socialist Party",
+      "acronymInternational": "RSP",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1996,
+        "end": 2001
+      },
+      "colorData": {
+        "r": 95,
+        "g": 99,
+        "b": 140,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 2,
+          "value": 70
+        },
+        {
+          "id": 8,
+          "value": 50
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 75
+    },
+{
+      "nameOriginal": "Движение патриотических сил «Русское дело»",
+      "acronymOriginal": "Русское дело",
+      "nameInternational": "Movement of Political Forces «Russian Cause»",
+      "acronymInternational": "Russian Cause",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1996,
+        "end": 2001
+      },
+      "colorData": {
+        "r": 95,
+        "g": 140,
+        "b": 112,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 4,
+          "value": 70
+        },
+        {
+          "id": 5,
+          "value": 50
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 76
+    },
+{
+      "nameOriginal": "Движение «Спас»",
+      "acronymOriginal": "Спас",
+      "nameInternational": "«Saviour» Movement",
+      "acronymInternational": "Saviour",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1996,
+        "end": 2000
+      },
+      "colorData": {
+        "r": 63,
+        "g": 75,
+        "b": 83,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 5,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 77
+    },
+{
+      "nameOriginal": "Всероссийское общественно-политическое движение «Духовное наследие»",
+      "acronymOriginal": "Духовное наследие",
+      "nameInternational": "Movement «Spiritual Heritage»",
+      "acronymInternational": "Spiritual Heritage",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1999,
+        "end": 2005
+      },
+      "colorData": {
+        "r": 160,
+        "g": 216,
+        "b": 255,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 2,
+          "value": 70
+        },
+        {
+          "id": 5,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 78
+    },
+{
+      "nameOriginal": "Социалистическая партия России",
+      "acronymOriginal": "СПР",
+      "nameInternational": "Socialist Party of Russia",
+      "acronymInternational": "SPR",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1997,
+        "end": 2000
+      },
+      "colorData": {
+        "r": 255,
+        "g": 42,
+        "b": 42,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 2,
+          "value": 60
+        },
+        {
+          "id": 10,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 79
+    },
+{
+      "nameOriginal": "Всероссийская политическая партия народа",
+      "acronymOriginal": "ВППР",
+      "nameInternational": "All-Russian Political Party of People",
+      "acronymInternational": "RPPP",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1999,
+        "end": 2000
+      },
+      "colorData": {
+        "r": 84,
+        "g": 14,
+        "b": 35,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 4,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 80
+    },
+{
+      "nameOriginal": "Русское патриотическое народное движение",
+      "acronymOriginal": "РПНД",
+      "nameInternational": "Russian Petriotic People's Movement",
+      "acronymInternational": "RPPM",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1999,
+        "end": 2000
+      },
+      "colorData": {
+        "r": 89,
+        "g": 78,
+        "b": 82,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 13,
+          "value": 60
+        },
+        {
+          "id": 4,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 3,
+      "id": 81
+    },
+{
+      "nameOriginal": "Российская консервативная партия пердпринимателей",
+      "acronymOriginal": "РКПП",
+      "nameInternational": "Russian Conservative Party of Entrepreneurs",
+      "acronymInternational": "RCPE",
+      "playable": 0,
+      "nation": 7,
+      "time": {
+        "start": 1999,
+        "end": 2000
+      },
+      "colorData": {
+        "r": 24,
+        "g": 34,
+        "b": 92,
+        "a": 255
+      },
+      "ideologies": [
+        {
+          "id": 1,
+          "value": 60
+        },
+        {
+          "id": 3,
+          "value": 70
+        }
+      ],
+      "factions": [],
+      "people": [],
+      "regions": [],
+      "rules": [],
+      "predecessor": 0,
+      "size": 2,
+      "id": 82
     }
   ],
   "people": [
@@ -105995,10 +106947,6 @@
         {
           "id": 0,
           "value": "ТВ Мир"
-        },
-        {
-          "id": 0,
-          "value": "Первый Канал"
         },
         {
           "id": 0,
