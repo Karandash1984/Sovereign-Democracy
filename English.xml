@@ -1729,6 +1729,12 @@
       <string>An ideology emphasizing Russia’s unique civilizational and geopolitical path as a bridge between Europe and Asia, advocating for deeper integration within the Eurasian space and stronger cooperation with neighboring countries.</string>
     </text>
   </Item>
+  <Item>
+  <text>
+    <string>Agrarianism</string>
+    <string>An ideology prioritizing agriculture, farmers’ rights, and rural development, advocating support for small farms, access to land and credit for peasants, and sustainable rural development including modernization of rural infrastructure.</string>
+  </text>
+</Item>
   </Ideologies>
   <Institutions>
     <string />
