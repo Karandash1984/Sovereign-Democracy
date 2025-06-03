@@ -3,9 +3,9 @@
     "name": "Sovereign Democracy",
     "description": "Russia mod",
     "author": "Karandash/PAKMAN",
-    "version": "1.3",
+    "version": "1.4",
     "fileVersion": 2,
-    "build": 3549
+    "build": 3570
   },
   "years": [
     1992,
@@ -4420,1820 +4420,566 @@
     }
   ],
   "ideologies": [
-    {
-      "parameters": [
-        {
-          "id": 1,
-          "value": 65
-        },
-        {
-          "id": 2,
-          "value": 60
-        },
-        {
-          "id": 3,
-          "value": 60
-        },
-        {
-          "id": 4,
-          "value": 40
-        },
-        {
-          "id": 5,
-          "value": 30
-        },
-        {
-          "id": 6,
-          "value": 60
-        },
-        {
-          "id": 7,
-          "value": 70
-        },
-        {
-          "id": 8,
-          "value": 55
-        },
-        {
-          "id": 9,
-          "value": 50
-        },
-        {
-          "id": 10,
-          "value": 60
-        },
-        {
-          "id": 11,
-          "value": 50
-        },
-        {
-          "id": 12,
-          "value": 40
-        },
-        {
-          "id": 13,
-          "value": 30
-        },
-        {
-          "id": 14,
-          "value": 60
-        },
-        {
-          "id": 15,
-          "value": 70
-        },
-        {
-          "id": 16,
-          "value": 75
-        },
-        {
-          "id": 17,
-          "value": 60
-        },
-        {
-          "id": 18,
-          "value": 80
-        },
-        {
-          "id": 19,
-          "value": 65
-        },
-        {
-          "id": 20,
-          "value": 65
-        },
-        {
-          "id": 21,
-          "value": 50
-        },
-        {
-          "id": 22,
-          "value": 65
-        },
-        {
-          "id": 23,
-          "value": 75
-        },
-        {
-          "id": 24,
-          "value": 85
-        },
-        {
-          "id": 25,
-          "value": 80
-        },
-        {
-          "id": 26,
-          "value": 70
-        },
-        {
-          "id": 27,
-          "value": 70
-        },
-        {
-          "id": 28,
-          "value": 70
-        },
-        {
-          "id": 29,
-          "value": 65
-        },
-        {
-          "id": 30,
-          "value": 80
-        },
-        {
-          "id": 31,
-          "value": 50
-        },
-        {
-          "id": 32,
-          "value": 60
-        },
-        {
-          "id": 33,
-          "value": 50
-        },
-        {
-          "id": 34,
-          "value": 40
-        },
-        {
-          "id": 35,
-          "value": 90
-        },
-        {
-          "id": 36,
-          "value": 95
-        },
-        {
-          "id": 37,
-          "value": 60
-        },
-        {
-          "id": 38,
-          "value": 85
-        }
-      ],
-      "radicalism": 3,
-      "spectrum": 35,
-      "spending": 10,
-      "colorData": {
-        "r": 0,
-        "g": 51,
-        "b": 102,
-        "a": 255
-      },
-      "id": 1
+  {
+    "parameters": [
+      { "id": 1,  "value": 65 },
+      { "id": 2,  "value": 60 },
+      { "id": 3,  "value": 60 },
+      { "id": 4,  "value": 40 },
+      { "id": 5,  "value": 30 },
+      { "id": 6,  "value": 60 },
+      { "id": 7,  "value": 70 },
+      { "id": 8,  "value": 55 },
+      { "id": 9,  "value": 50 },
+      { "id": 10, "value": 60 },
+      { "id": 11, "value": 50 },
+      { "id": 12, "value": 40 },
+      { "id": 13, "value": 30 },
+      { "id": 14, "value": 60 },
+      { "id": 15, "value": 70 },
+      { "id": 16, "value": 75 },
+      { "id": 17, "value": 60 },
+      { "id": 18, "value": 80 },
+      { "id": 19, "value": 65 },
+      { "id": 20, "value": 65 },
+      { "id": 21, "value": 50 },
+      { "id": 22, "value": 65 },
+      { "id": 23, "value": 75 },
+      { "id": 24, "value": 85 },
+      { "id": 25, "value": 80 },
+      { "id": 26, "value": 70 },
+      { "id": 27, "value": 70 },
+      { "id": 28, "value": 70 },
+      { "id": 29, "value": 65 },
+      { "id": 30, "value": 80 },
+      { "id": 31, "value": 50 },
+      { "id": 32, "value": 60 },
+      { "id": 33, "value": 50 },
+      { "id": 34, "value": 40 },
+      { "id": 35, "value": 90 },
+      { "id": 36, "value": 95 },
+      { "id": 37, "value": 60 },
+      { "id": 38, "value": 85 }
+    ],
+    "radicalism": 3,
+    "spectrum": 35,
+    "spending": 10,
+    "colorData": {
+      "r": 0,
+      "g": 51,
+      "b": 102,
+      "a": 255
     },
-    {
-      "parameters": [
-        {
-          "id": 1,
-          "value": 75
-        },
-        {
-          "id": 2,
-          "value": 50
-        },
-        {
-          "id": 3,
-          "value": 80
-        },
-        {
-          "id": 4,
-          "value": 30
-        },
-        {
-          "id": 5,
-          "value": 40
-        },
-        {
-          "id": 6,
-          "value": 80
-        },
-        {
-          "id": 7,
-          "value": 60
-        },
-        {
-          "id": 8,
-          "value": 50
-        },
-        {
-          "id": 9,
-          "value": 45
-        },
-        {
-          "id": 10,
-          "value": 70
-        },
-        {
-          "id": 11,
-          "value": 40
-        },
-        {
-          "id": 12,
-          "value": 50
-        },
-        {
-          "id": 13,
-          "value": 25
-        },
-        {
-          "id": 14,
-          "value": 80
-        },
-        {
-          "id": 15,
-          "value": 60
-        },
-        {
-          "id": 16,
-          "value": 50
-        },
-        {
-          "id": 17,
-          "value": 50
-        },
-        {
-          "id": 18,
-          "value": 60
-        },
-        {
-          "id": 19,
-          "value": 70
-        },
-        {
-          "id": 20,
-          "value": 70
-        },
-        {
-          "id": 21,
-          "value": 60
-        },
-        {
-          "id": 22,
-          "value": 50
-        },
-        {
-          "id": 23,
-          "value": 50
-        },
-        {
-          "id": 24,
-          "value": 70
-        },
-        {
-          "id": 25,
-          "value": 85
-        },
-        {
-          "id": 26,
-          "value": 60
-        },
-        {
-          "id": 27,
-          "value": 75
-        },
-        {
-          "id": 28,
-          "value": 60
-        },
-        {
-          "id": 29,
-          "value": 70
-        },
-        {
-          "id": 30,
-          "value": 75
-        },
-        {
-          "id": 31,
-          "value": 80
-        },
-        {
-          "id": 32,
-          "value": 65
-        },
-        {
-          "id": 33,
-          "value": 45
-        },
-        {
-          "id": 34,
-          "value": 45
-        },
-        {
-          "id": 35,
-          "value": 70
-        },
-        {
-          "id": 36,
-          "value": 70
-        },
-        {
-          "id": 37,
-          "value": 80
-        },
-        {
-          "id": 38,
-          "value": 70
-        }
-      ],
-      "radicalism": 5,
-      "spectrum": 40,
-      "spending": 5,
-      "colorData": {
-        "r": 0,
-        "g": 0,
-        "b": 128,
-        "a": 255
-      },
-      "id": 2
+    "id": 1
+  },
+  {
+    "parameters": [
+      { "id": 1,  "value": 75 },
+      { "id": 2,  "value": 50 },
+      { "id": 3,  "value": 80 },
+      { "id": 4,  "value": 30 },
+      { "id": 5,  "value": 40 },
+      { "id": 6,  "value": 80 },
+      { "id": 7,  "value": 60 },
+      { "id": 8,  "value": 50 },
+      { "id": 9,  "value": 45 },
+      { "id": 10, "value": 70 },
+      { "id": 11, "value": 40 },
+      { "id": 12, "value": 50 },
+      { "id": 13, "value": 25 },
+      { "id": 14, "value": 80 },
+      { "id": 15, "value": 60 },
+      { "id": 16, "value": 50 },
+      { "id": 17, "value": 50 },
+      { "id": 18, "value": 60 },
+      { "id": 19, "value": 70 },
+      { "id": 20, "value": 70 },
+      { "id": 21, "value": 60 },
+      { "id": 22, "value": 50 },
+      { "id": 23, "value": 50 },
+      { "id": 24, "value": 70 },
+      { "id": 25, "value": 85 },
+      { "id": 26, "value": 60 },
+      { "id": 27, "value": 75 },
+      { "id": 28, "value": 60 },
+      { "id": 29, "value": 70 },
+      { "id": 30, "value": 75 },
+      { "id": 31, "value": 80 },
+      { "id": 32, "value": 65 },
+      { "id": 33, "value": 45 },
+      { "id": 34, "value": 45 },
+      { "id": 35, "value": 70 },
+      { "id": 36, "value": 70 },
+      { "id": 37, "value": 80 },
+      { "id": 38, "value": 70 }
+    ],
+    "radicalism": 5,
+    "spectrum": 40,
+    "spending": 5,
+    "colorData": {
+      "r": 0,
+      "g": 0,
+      "b": 128,
+      "a": 255
     },
-    {
-      "parameters": [
-        {
-          "id": 1,
-          "value": 55
-        },
-        {
-          "id": 2,
-          "value": 90
-        },
-        {
-          "id": 3,
-          "value": 50
-        },
-        {
-          "id": 4,
-          "value": 50
-        },
-        {
-          "id": 5,
-          "value": 35
-        },
-        {
-          "id": 6,
-          "value": 50
-        },
-        {
-          "id": 7,
-          "value": 50
-        },
-        {
-          "id": 8,
-          "value": 40
-        },
-        {
-          "id": 9,
-          "value": 40
-        },
-        {
-          "id": 10,
-          "value": 50
-        },
-        {
-          "id": 11,
-          "value": 45
-        },
-        {
-          "id": 12,
-          "value": 45
-        },
-        {
-          "id": 13,
-          "value": 40
-        },
-        {
-          "id": 14,
-          "value": 55
-        },
-        {
-          "id": 15,
-          "value": 50
-        },
-        {
-          "id": 16,
-          "value": 80
-        },
-        {
-          "id": 17,
-          "value": 45
-        },
-        {
-          "id": 18,
-          "value": 50
-        },
-        {
-          "id": 19,
-          "value": 60
-        },
-        {
-          "id": 20,
-          "value": 60
-        },
-        {
-          "id": 21,
-          "value": 40
-        },
-        {
-          "id": 22,
-          "value": 70
-        },
-        {
-          "id": 23,
-          "value": 95
-        },
-        {
-          "id": 24,
-          "value": 90
-        },
-        {
-          "id": 25,
-          "value": 75
-        },
-        {
-          "id": 26,
-          "value": 80
-        },
-        {
-          "id": 27,
-          "value": 50
-        },
-        {
-          "id": 28,
-          "value": 65
-        },
-        {
-          "id": 29,
-          "value": 60
-        },
-        {
-          "id": 30,
-          "value": 60
-        },
-        {
-          "id": 31,
-          "value": 40
-        },
-        {
-          "id": 32,
-          "value": 55
-        },
-        {
-          "id": 33,
-          "value": 40
-        },
-        {
-          "id": 34,
-          "value": 30
-        },
-        {
-          "id": 35,
-          "value": 85
-        },
-        {
-          "id": 36,
-          "value": 90
-        },
-        {
-          "id": 37,
-          "value": 50
-        },
-        {
-          "id": 38,
-          "value": 80
-        }
-      ],
-      "radicalism": 5,
-      "spectrum": 15,
-      "spending": 9,
-      "colorData": {
-        "r": 255,
-        "g": 215,
-        "b": 0,
-        "a": 255
-      },
-      "id": 3
+    "id": 2
+  },
+  {
+    "parameters": [
+      { "id": 1,  "value": 55 },
+      { "id": 2,  "value": 90 },
+      { "id": 3,  "value": 50 },
+      { "id": 4,  "value": 50 },
+      { "id": 5,  "value": 35 },
+      { "id": 6,  "value": 50 },
+      { "id": 7,  "value": 50 },
+      { "id": 8,  "value": 40 },
+      { "id": 9,  "value": 40 },
+      { "id": 10, "value": 50 },
+      { "id": 11, "value": 45 },
+      { "id": 12, "value": 45 },
+      { "id": 13, "value": 40 },
+      { "id": 14, "value": 55 },
+      { "id": 15, "value": 50 },
+      { "id": 16, "value": 80 },
+      { "id": 17, "value": 45 },
+      { "id": 18, "value": 50 },
+      { "id": 19, "value": 60 },
+      { "id": 20, "value": 60 },
+      { "id": 21, "value": 40 },
+      { "id": 22, "value": 70 },
+      { "id": 23, "value": 95 },
+      { "id": 24, "value": 90 },
+      { "id": 25, "value": 75 },
+      { "id": 26, "value": 80 },
+      { "id": 27, "value": 50 },
+      { "id": 28, "value": 65 },
+      { "id": 29, "value": 60 },
+      { "id": 30, "value": 60 },
+      { "id": 31, "value": 40 },
+      { "id": 32, "value": 55 },
+      { "id": 33, "value": 40 },
+      { "id": 34, "value": 30 },
+      { "id": 35, "value": 85 },
+      { "id": 36, "value": 90 },
+      { "id": 37, "value": 50 },
+      { "id": 38, "value": 80 }
+    ],
+    "radicalism": 5,
+    "spectrum": 15,
+    "spending": 9,
+    "colorData": {
+      "r": 255,
+      "g": 215,
+      "b": 0,
+      "a": 255
     },
-    {
-      "parameters": [
-        {
-          "id": 1,
-          "value": 50
-        },
-        {
-          "id": 2,
-          "value": 70
-        },
-        {
-          "id": 3,
-          "value": 70
-        },
-        {
-          "id": 4,
-          "value": 60
-        },
-        {
-          "id": 5,
-          "value": 60
-        },
-        {
-          "id": 6,
-          "value": 70
-        },
-        {
-          "id": 7,
-          "value": 65
-        },
-        {
-          "id": 8,
-          "value": 60
-        },
-        {
-          "id": 9,
-          "value": 60
-        },
-        {
-          "id": 10,
-          "value": 75
-        },
-        {
-          "id": 11,
-          "value": 60
-        },
-        {
-          "id": 12,
-          "value": 60
-        },
-        {
-          "id": 13,
-          "value": 50
-        },
-        {
-          "id": 14,
-          "value": 65
-        },
-        {
-          "id": 15,
-          "value": 75
-        },
-        {
-          "id": 16,
-          "value": 70
-        },
-        {
-          "id": 17,
-          "value": 70
-        },
-        {
-          "id": 18,
-          "value": 70
-        },
-        {
-          "id": 19,
-          "value": 75
-        },
-        {
-          "id": 20,
-          "value": 75
-        },
-        {
-          "id": 21,
-          "value": 70
-        },
-        {
-          "id": 22,
-          "value": 75
-        },
-        {
-          "id": 23,
-          "value": 70
-        },
-        {
-          "id": 24,
-          "value": 75
-        },
-        {
-          "id": 25,
-          "value": 90
-        },
-        {
-          "id": 26,
-          "value": 90
-        },
-        {
-          "id": 27,
-          "value": 80
-        },
-        {
-          "id": 28,
-          "value": 75
-        },
-        {
-          "id": 29,
-          "value": 75
-        },
-        {
-          "id": 30,
-          "value": 85
-        },
-        {
-          "id": 31,
-          "value": 60
-        },
-        {
-          "id": 32,
-          "value": 75
-        },
-        {
-          "id": 33,
-          "value": 70
-        },
-        {
-          "id": 34,
-          "value": 60
-        },
-        {
-          "id": 35,
-          "value": 75
-        },
-        {
-          "id": 36,
-          "value": 75
-        },
-        {
-          "id": 37,
-          "value": 65
-        },
-        {
-          "id": 38,
-          "value": 75
-        }
-      ],
-      "radicalism": 1,
-      "spectrum": 0,
-      "spending": 7,
-      "colorData": {
-        "r": 128,
-        "g": 128,
-        "b": 128,
-        "a": 255
-      },
-      "id": 4
+    "id": 3
+  },
+  {
+    "parameters": [
+      { "id": 1,  "value": 50 },
+      { "id": 2,  "value": 70 },
+      { "id": 3,  "value": 70 },
+      { "id": 4,  "value": 60 },
+      { "id": 5,  "value": 60 },
+      { "id": 6,  "value": 70 },
+      { "id": 7,  "value": 65 },
+      { "id": 8,  "value": 60 },
+      { "id": 9,  "value": 60 },
+      { "id": 10, "value": 75 },
+      { "id": 11, "value": 60 },
+      { "id": 12, "value": 60 },
+      { "id": 13, "value": 50 },
+      { "id": 14, "value": 65 },
+      { "id": 15, "value": 75 },
+      { "id": 16, "value": 70 },
+      { "id": 17, "value": 70 },
+      { "id": 18, "value": 70 },
+      { "id": 19, "value": 75 },
+      { "id": 20, "value": 75 },
+      { "id": 21, "value": 70 },
+      { "id": 22, "value": 75 },
+      { "id": 23, "value": 70 },
+      { "id": 24, "value": 75 },
+      { "id": 25, "value": 90 },
+      { "id": 26, "value": 90 },
+      { "id": 27, "value": 80 },
+      { "id": 28, "value": 75 },
+      { "id": 29, "value": 75 },
+      { "id": 30, "value": 85 },
+      { "id": 31, "value": 60 },
+      { "id": 32, "value": 75 },
+      { "id": 33, "value": 70 },
+      { "id": 34, "value": 60 },
+      { "id": 35, "value": 75 },
+      { "id": 36, "value": 75 },
+      { "id": 37, "value": 65 },
+      { "id": 38, "value": 75 }
+    ],
+    "radicalism": 1,
+    "spectrum": 0,
+    "spending": 7,
+    "colorData": {
+      "r": 128,
+      "g": 128,
+      "b": 128,
+      "a": 255
     },
-    {
-      "parameters": [
-        {
-          "id": 1,
-          "value": 70
-        },
-        {
-          "id": 2,
-          "value": 40
-        },
-        {
-          "id": 3,
-          "value": 65
-        },
-        {
-          "id": 4,
-          "value": 35
-        },
-        {
-          "id": 5,
-          "value": 45
-        },
-        {
-          "id": 6,
-          "value": 75
-        },
-        {
-          "id": 7,
-          "value": 60
-        },
-        {
-          "id": 8,
-          "value": 50
-        },
-        {
-          "id": 9,
-          "value": 50
-        },
-        {
-          "id": 10,
-          "value": 60
-        },
-        {
-          "id": 11,
-          "value": 35
-        },
-        {
-          "id": 12,
-          "value": 50
-        },
-        {
-          "id": 13,
-          "value": 45
-        },
-        {
-          "id": 14,
-          "value": 40
-        },
-        {
-          "id": 15,
-          "value": 65
-        },
-        {
-          "id": 16,
-          "value": 60
-        },
-        {
-          "id": 17,
-          "value": 55
-        },
-        {
-          "id": 18,
-          "value": 65
-        },
-        {
-          "id": 19,
-          "value": 60
-        },
-        {
-          "id": 20,
-          "value": 70
-        },
-        {
-          "id": 21,
-          "value": 55
-        },
-        {
-          "id": 22,
-          "value": 60
-        },
-        {
-          "id": 23,
-          "value": 65
-        },
-        {
-          "id": 24,
-          "value": 80
-        },
-        {
-          "id": 25,
-          "value": 70
-        },
-        {
-          "id": 26,
-          "value": 65
-        },
-        {
-          "id": 27,
-          "value": 65
-        },
-        {
-          "id": 28,
-          "value": 70
-        },
-        {
-          "id": 29,
-          "value": 65
-        },
-        {
-          "id": 30,
-          "value": 70
-        },
-        {
-          "id": 31,
-          "value": 75
-        },
-        {
-          "id": 32,
-          "value": 70
-        },
-        {
-          "id": 33,
-          "value": 55
-        },
-        {
-          "id": 34,
-          "value": 50
-        },
-        {
-          "id": 35,
-          "value": 60
-        },
-        {
-          "id": 36,
-          "value": 60
-        },
-        {
-          "id": 37,
-          "value": 90
-        },
-        {
-          "id": 38,
-          "value": 70
-        }
-      ],
-      "radicalism": 8,
-      "spectrum": 50,
-      "spending": 6,
-      "colorData": {
-        "r": 34,
-        "g": 34,
-        "b": 34,
-        "a": 255
-      },
-      "id": 5
+    "id": 4
+  },
+  {
+    "parameters": [
+      { "id": 1,  "value": 70 },
+      { "id": 2,  "value": 40 },
+      { "id": 3,  "value": 65 },
+      { "id": 4,  "value": 35 },
+      { "id": 5,  "value": 45 },
+      { "id": 6,  "value": 75 },
+      { "id": 7,  "value": 60 },
+      { "id": 8,  "value": 50 },
+      { "id": 9,  "value": 50 },
+      { "id": 10, "value": 60 },
+      { "id": 11, "value": 35 },
+      { "id": 12, "value": 50 },
+      { "id": 13, "value": 45 },
+      { "id": 14, "value": 40 },
+      { "id": 15, "value": 65 },
+      { "id": 16, "value": 60 },
+      { "id": 17, "value": 55 },
+      { "id": 18, "value": 65 },
+      { "id": 19, "value": 60 },
+      { "id": 20, "value": 70 },
+      { "id": 21, "value": 55 },
+      { "id": 22, "value": 60 },
+      { "id": 23, "value": 65 },
+      { "id": 24, "value": 80 },
+      { "id": 25, "value": 70 },
+      { "id": 26, "value": 65 },
+      { "id": 27, "value": 65 },
+      { "id": 28, "value": 70 },
+      { "id": 29, "value": 65 },
+      { "id": 30, "value": 70 },
+      { "id": 31, "value": 75 },
+      { "id": 32, "value": 70 },
+      { "id": 33, "value": 55 },
+      { "id": 34, "value": 50 },
+      { "id": 35, "value": 60 },
+      { "id": 36, "value": 60 },
+      { "id": 37, "value": 90 },
+      { "id": 38, "value": 70 }
+    ],
+    "radicalism": 8,
+    "spectrum": 50,
+    "spending": 6,
+    "colorData": {
+      "r": 34,
+      "g": 34,
+      "b": 34,
+      "a": 255
     },
-    {
-      "parameters": [
-        {
-          "id": 1,
-          "value": 45
-        },
-        {
-          "id": 2,
-          "value": 80
-        },
-        {
-          "id": 3,
-          "value": 85
-        },
-        {
-          "id": 4,
-          "value": 70
-        },
-        {
-          "id": 5,
-          "value": 75
-        },
-        {
-          "id": 6,
-          "value": 65
-        },
-        {
-          "id": 7,
-          "value": 75
-        },
-        {
-          "id": 8,
-          "value": 65
-        },
-        {
-          "id": 9,
-          "value": 70
-        },
-        {
-          "id": 10,
-          "value": 85
-        },
-        {
-          "id": 11,
-          "value": 75
-        },
-        {
-          "id": 12,
-          "value": 75
-        },
-        {
-          "id": 13,
-          "value": 60
-        },
-        {
-          "id": 14,
-          "value": 70
-        },
-        {
-          "id": 15,
-          "value": 80
-        },
-        {
-          "id": 16,
-          "value": 85
-        },
-        {
-          "id": 17,
-          "value": 75
-        },
-        {
-          "id": 18,
-          "value": 75
-        },
-        {
-          "id": 19,
-          "value": 85
-        },
-        {
-          "id": 20,
-          "value": 80
-        },
-        {
-          "id": 21,
-          "value": 75
-        },
-        {
-          "id": 22,
-          "value": 85
-        },
-        {
-          "id": 23,
-          "value": 80
-        },
-        {
-          "id": 24,
-          "value": 65
-        },
-        {
-          "id": 25,
-          "value": 95
-        },
-        {
-          "id": 26,
-          "value": 95
-        },
-        {
-          "id": 27,
-          "value": 85
-        },
-        {
-          "id": 28,
-          "value": 85
-        },
-        {
-          "id": 29,
-          "value": 85
-        },
-        {
-          "id": 30,
-          "value": 90
-        },
-        {
-          "id": 31,
-          "value": 55
-        },
-        {
-          "id": 32,
-          "value": 85
-        },
-        {
-          "id": 33,
-          "value": 85
-        },
-        {
-          "id": 34,
-          "value": 80
-        },
-        {
-          "id": 35,
-          "value": 70
-        },
-        {
-          "id": 36,
-          "value": 65
-        },
-        {
-          "id": 37,
-          "value": 70
-        },
-        {
-          "id": 38,
-          "value": 75
-        }
-      ],
-      "radicalism": 4,
-      "spectrum": -10,
-      "spending": 3,
-      "colorData": {
-        "r": 135,
-        "g": 206,
-        "b": 250,
-        "a": 255
-      },
-      "id": 6
+    "id": 5
+  },
+  {
+    "parameters": [
+      { "id": 1,  "value": 45 },
+      { "id": 2,  "value": 80 },
+      { "id": 3,  "value": 85 },
+      { "id": 4,  "value": 70 },
+      { "id": 5,  "value": 75 },
+      { "id": 6,  "value": 65 },
+      { "id": 7,  "value": 75 },
+      { "id": 8,  "value": 65 },
+      { "id": 9,  "value": 70 },
+      { "id": 10, "value": 85 },
+      { "id": 11, "value": 75 },
+      { "id": 12, "value": 75 },
+      { "id": 13, "value": 60 },
+      { "id": 14, "value": 70 },
+      { "id": 15, "value": 80 },
+      { "id": 16, "value": 85 },
+      { "id": 17, "value": 75 },
+      { "id": 18, "value": 75 },
+      { "id": 19, "value": 85 },
+      { "id": 20, "value": 80 },
+      { "id": 21, "value": 75 },
+      { "id": 22, "value": 85 },
+      { "id": 23, "value": 80 },
+      { "id": 24, "value": 65 },
+      { "id": 25, "value": 95 },
+      { "id": 26, "value": 95 },
+      { "id": 27, "value": 85 },
+      { "id": 28, "value": 85 },
+      { "id": 29, "value": 85 },
+      { "id": 30, "value": 90 },
+      { "id": 31, "value": 55 },
+      { "id": 32, "value": 85 },
+      { "id": 33, "value": 85 },
+      { "id": 34, "value": 80 },
+      { "id": 35, "value": 70 },
+      { "id": 36, "value": 65 },
+      { "id": 37, "value": 70 },
+      { "id": 38, "value": 75 }
+    ],
+    "radicalism": 4,
+    "spectrum": -10,
+    "spending": 3,
+    "colorData": {
+      "r": 135,
+      "g": 206,
+      "b": 250,
+      "a": 255
     },
-    {
-      "parameters": [
-        {
-          "id": 1,
-          "value": 50
-        },
-        {
-          "id": 2,
-          "value": 85
-        },
-        {
-          "id": 3,
-          "value": 90
-        },
-        {
-          "id": 4,
-          "value": 75
-        },
-        {
-          "id": 5,
-          "value": 80
-        },
-        {
-          "id": 6,
-          "value": 70
-        },
-        {
-          "id": 7,
-          "value": 80
-        },
-        {
-          "id": 8,
-          "value": 70
-        },
-        {
-          "id": 9,
-          "value": 75
-        },
-        {
-          "id": 10,
-          "value": 90
-        },
-        {
-          "id": 11,
-          "value": 80
-        },
-        {
-          "id": 12,
-          "value": 80
-        },
-        {
-          "id": 13,
-          "value": 65
-        },
-        {
-          "id": 14,
-          "value": 75
-        },
-        {
-          "id": 15,
-          "value": 85
-        },
-        {
-          "id": 16,
-          "value": 90
-        },
-        {
-          "id": 17,
-          "value": 80
-        },
-        {
-          "id": 18,
-          "value": 70
-        },
-        {
-          "id": 19,
-          "value": 90
-        },
-        {
-          "id": 20,
-          "value": 85
-        },
-        {
-          "id": 21,
-          "value": 80
-        },
-        {
-          "id": 22,
-          "value": 90
-        },
-        {
-          "id": 23,
-          "value": 85
-        },
-        {
-          "id": 24,
-          "value": 60
-        },
-        {
-          "id": 25,
-          "value": 95
-        },
-        {
-          "id": 26,
-          "value": 95
-        },
-        {
-          "id": 27,
-          "value": 90
-        },
-        {
-          "id": 28,
-          "value": 90
-        },
-        {
-          "id": 29,
-          "value": 90
-        },
-        {
-          "id": 30,
-          "value": 90
-        },
-        {
-          "id": 31,
-          "value": 60
-        },
-        {
-          "id": 32,
-          "value": 90
-        },
-        {
-          "id": 33,
-          "value": 90
-        },
-        {
-          "id": 34,
-          "value": 85
-        },
-        {
-          "id": 35,
-          "value": 65
-        },
-        {
-          "id": 36,
-          "value": 60
-        },
-        {
-          "id": 37,
-          "value": 75
-        },
-        {
-          "id": 38,
-          "value": 70
-        }
-      ],
-      "radicalism": 4,
-      "spectrum": -20,
-      "spending": 3,
-      "colorData": {
-        "r": 70,
-        "g": 130,
-        "b": 180,
-        "a": 255
-      },
-      "id": 7
+    "id": 6
+  },
+  {
+    "parameters": [
+      { "id": 1,  "value": 50 },
+      { "id": 2,  "value": 85 },
+      { "id": 3,  "value": 90 },
+      { "id": 4,  "value": 75 },
+      { "id": 5,  "value": 80 },
+      { "id": 6,  "value": 70 },
+      { "id": 7,  "value": 80 },
+      { "id": 8,  "value": 70 },
+      { "id": 9,  "value": 75 },
+      { "id": 10, "value": 90 },
+      { "id": 11, "value": 80 },
+      { "id": 12, "value": 80 },
+      { "id": 13, "value": 65 },
+      { "id": 14, "value": 75 },
+      { "id": 15, "value": 85 },
+      { "id": 16, "value": 90 },
+      { "id": 17, "value": 80 },
+      { "id": 18, "value": 70 },
+      { "id": 19, "value": 90 },
+      { "id": 20, "value": 85 },
+      { "id": 21, "value": 80 },
+      { "id": 22, "value": 90 },
+      { "id": 23, "value": 85 },
+      { "id": 24, "value": 60 },
+      { "id": 25, "value": 95 },
+      { "id": 26, "value": 95 },
+      { "id": 27, "value": 90 },
+      { "id": 28, "value": 90 },
+      { "id": 29, "value": 90 },
+      { "id": 30, "value": 90 },
+      { "id": 31, "value": 60 },
+      { "id": 32, "value": 90 },
+      { "id": 33, "value": 90 },
+      { "id": 34, "value": 85 },
+      { "id": 35, "value": 65 },
+      { "id": 36, "value": 60 },
+      { "id": 37, "value": 75 },
+      { "id": 38, "value": 70 }
+    ],
+    "radicalism": 4,
+    "spectrum": -20,
+    "spending": 3,
+    "colorData": {
+      "r": 70,
+      "g": 130,
+      "b": 180,
+      "a": 255
     },
-    {
-      "parameters": [
-        {
-          "id": 1,
-          "value": 40
-        },
-        {
-          "id": 2,
-          "value": 60
-        },
-        {
-          "id": 3,
-          "value": 75
-        },
-        {
-          "id": 4,
-          "value": 65
-        },
-        {
-          "id": 5,
-          "value": 85
-        },
-        {
-          "id": 6,
-          "value": 60
-        },
-        {
-          "id": 7,
-          "value": 85
-        },
-        {
-          "id": 8,
-          "value": 75
-        },
-        {
-          "id": 9,
-          "value": 80
-        },
-        {
-          "id": 10,
-          "value": 80
-        },
-        {
-          "id": 11,
-          "value": 70
-        },
-        {
-          "id": 12,
-          "value": 85
-        },
-        {
-          "id": 13,
-          "value": 75
-        },
-        {
-          "id": 14,
-          "value": 60
-        },
-        {
-          "id": 15,
-          "value": 90
-        },
-        {
-          "id": 16,
-          "value": 70
-        },
-        {
-          "id": 17,
-          "value": 70
-        },
-        {
-          "id": 18,
-          "value": 60
-        },
-        {
-          "id": 19,
-          "value": 80
-        },
-        {
-          "id": 20,
-          "value": 80
-        },
-        {
-          "id": 21,
-          "value": 65
-        },
-        {
-          "id": 22,
-          "value": 80
-        },
-        {
-          "id": 23,
-          "value": 70
-        },
-        {
-          "id": 24,
-          "value": 55
-        },
-        {
-          "id": 25,
-          "value": 90
-        },
-        {
-          "id": 26,
-          "value": 85
-        },
-        {
-          "id": 27,
-          "value": 80
-        },
-        {
-          "id": 28,
-          "value": 95
-        },
-        {
-          "id": 29,
-          "value": 85
-        },
-        {
-          "id": 30,
-          "value": 95
-        },
-        {
-          "id": 31,
-          "value": 65
-        },
-        {
-          "id": 32,
-          "value": 80
-        },
-        {
-          "id": 33,
-          "value": 80
-        },
-        {
-          "id": 34,
-          "value": 90
-        },
-        {
-          "id": 35,
-          "value": 50
-        },
-        {
-          "id": 36,
-          "value": 50
-        },
-        {
-          "id": 37,
-          "value": 70
-        },
-        {
-          "id": 38,
-          "value": 65
-        }
-      ],
-      "radicalism": 7,
-      "spectrum": -45,
-      "spending": 1,
-      "colorData": {
-        "r": 178,
-        "g": 34,
-        "b": 34,
-        "a": 255
-      },
-      "id": 8
+    "id": 7
+  },
+  {
+    "parameters": [
+      { "id": 1,  "value": 40 },
+      { "id": 2,  "value": 60 },
+      { "id": 3,  "value": 75 },
+      { "id": 4,  "value": 65 },
+      { "id": 5,  "value": 85 },
+      { "id": 6,  "value": 60 },
+      { "id": 7,  "value": 85 },
+      { "id": 8,  "value": 75 },
+      { "id": 9,  "value": 80 },
+      { "id": 10, "value": 80 },
+      { "id": 11, "value": 70 },
+      { "id": 12, "value": 85 },
+      { "id": 13, "value": 75 },
+      { "id": 14, "value": 60 },
+      { "id": 15, "value": 90 },
+      { "id": 16, "value": 70 },
+      { "id": 17, "value": 70 },
+      { "id": 18, "value": 60 },
+      { "id": 19, "value": 80 },
+      { "id": 20, "value": 80 },
+      { "id": 21, "value": 65 },
+      { "id": 22, "value": 80 },
+      { "id": 23, "value": 70 },
+      { "id": 24, "value": 55 },
+      { "id": 25, "value": 90 },
+      { "id": 26, "value": 85 },
+      { "id": 27, "value": 80 },
+      { "id": 28, "value": 95 },
+      { "id": 29, "value": 85 },
+      { "id": 30, "value": 95 },
+      { "id": 31, "value": 65 },
+      { "id": 32, "value": 80 },
+      { "id": 33, "value": 80 },
+      { "id": 34, "value": 90 },
+      { "id": 35, "value": 50 },
+      { "id": 36, "value": 50 },
+      { "id": 37, "value": 70 },
+      { "id": 38, "value": 65 }
+    ],
+    "radicalism": 7,
+    "spectrum": -45,
+    "spending": 1,
+    "colorData": {
+      "r": 178,
+      "g": 34,
+      "b": 34,
+      "a": 255
     },
-    {
-      "parameters": [
-        {
-          "id": 1,
-          "value": 30
-        },
-        {
-          "id": 2,
-          "value": 75
-        },
-        {
-          "id": 3,
-          "value": 70
-        },
-        {
-          "id": 4,
-          "value": 95
-        },
-        {
-          "id": 5,
-          "value": 50
-        },
-        {
-          "id": 6,
-          "value": 40
-        },
-        {
-          "id": 7,
-          "value": 55
-        },
-        {
-          "id": 8,
-          "value": 60
-        },
-        {
-          "id": 9,
-          "value": 60
-        },
-        {
-          "id": 10,
-          "value": 70
-        },
-        {
-          "id": 11,
-          "value": 95
-        },
-        {
-          "id": 12,
-          "value": 70
-        },
-        {
-          "id": 13,
-          "value": 50
-        },
-        {
-          "id": 14,
-          "value": 50
-        },
-        {
-          "id": 15,
-          "value": 70
-        },
-        {
-          "id": 16,
-          "value": 65
-        },
-        {
-          "id": 17,
-          "value": 85
-        },
-        {
-          "id": 18,
-          "value": 50
-        },
-        {
-          "id": 19,
-          "value": 70
-        },
-        {
-          "id": 20,
-          "value": 70
-        },
-        {
-          "id": 21,
-          "value": 70
-        },
-        {
-          "id": 22,
-          "value": 70
-        },
-        {
-          "id": 23,
-          "value": 60
-        },
-        {
-          "id": 24,
-          "value": 50
-        },
-        {
-          "id": 25,
-          "value": 80
-        },
-        {
-          "id": 26,
-          "value": 80
-        },
-        {
-          "id": 27,
-          "value": 70
-        },
-        {
-          "id": 28,
-          "value": 70
-        },
-        {
-          "id": 29,
-          "value": 80
-        },
-        {
-          "id": 30,
-          "value": 70
-        },
-        {
-          "id": 31,
-          "value": 40
-        },
-        {
-          "id": 32,
-          "value": 95
-        },
-        {
-          "id": 33,
-          "value": 95
-        },
-        {
-          "id": 34,
-          "value": 70
-        },
-        {
-          "id": 35,
-          "value": 55
-        },
-        {
-          "id": 36,
-          "value": 55
-        },
-        {
-          "id": 37,
-          "value": 60
-        },
-        {
-          "id": 38,
-          "value": 60
-        }
-      ],
-      "radicalism": 5,
-      "spectrum": -30,
-      "spending": 2,
-      "colorData": {
-        "r": 34,
-        "g": 139,
-        "b": 34,
-        "a": 255
-      },
-      "id": 9
+    "id": 8
+  },
+  {
+    "parameters": [
+      { "id": 1,  "value": 30 },
+      { "id": 2,  "value": 75 },
+      { "id": 3,  "value": 70 },
+      { "id": 4,  "value": 95 },
+      { "id": 5,  "value": 50 },
+      { "id": 6,  "value": 40 },
+      { "id": 7,  "value": 55 },
+      { "id": 8,  "value": 60 },
+      { "id": 9,  "value": 60 },
+      { "id": 10, "value": 70 },
+      { "id": 11, "value": 95 },
+      { "id": 12, "value": 70 },
+      { "id": 13, "value": 50 },
+      { "id": 14, "value": 50 },
+      { "id": 15, "value": 70 },
+      { "id": 16, "value": 65 },
+      { "id": 17, "value": 85 },
+      { "id": 18, "value": 50 },
+      { "id": 19, "value": 70 },
+      { "id": 20, "value": 70 },
+      { "id": 21, "value": 70 },
+      { "id": 22, "value": 70 },
+      { "id": 23, "value": 60 },
+      { "id": 24, "value": 50 },
+      { "id": 25, "value": 80 },
+      { "id": 26, "value": 80 },
+      { "id": 27, "value": 70 },
+      { "id": 28, "value": 70 },
+      { "id": 29, "value": 80 },
+      { "id": 30, "value": 70 },
+      { "id": 31, "value": 40 },
+      { "id": 32, "value": 95 },
+      { "id": 33, "value": 95 },
+      { "id": 34, "value": 70 },
+      { "id": 35, "value": 55 },
+      { "id": 36, "value": 55 },
+      { "id": 37, "value": 60 },
+      { "id": 38, "value": 60 }
+    ],
+    "radicalism": 5,
+    "spectrum": -30,
+    "spending": 2,
+    "colorData": {
+      "r": 34,
+      "g": 139,
+      "b": 34,
+      "a": 255
     },
-    {
-      "parameters": [
-        {
-          "id": 1,
-          "value": 60
-        },
-        {
-          "id": 2,
-          "value": 80
-        },
-        {
-          "id": 3,
-          "value": 90
-        },
-        {
-          "id": 4,
-          "value": 80
-        },
-        {
-          "id": 5,
-          "value": 90
-        },
-        {
-          "id": 6,
-          "value": 70
-        },
-        {
-          "id": 7,
-          "value": 90
-        },
-        {
-          "id": 8,
-          "value": 80
-        },
-        {
-          "id": 9,
-          "value": 85
-        },
-        {
-          "id": 10,
-          "value": 95
-        },
-        {
-          "id": 11,
-          "value": 85
-        },
-        {
-          "id": 12,
-          "value": 90
-        },
-        {
-          "id": 13,
-          "value": 60
-        },
-        {
-          "id": 14,
-          "value": 70
-        },
-        {
-          "id": 15,
-          "value": 95
-        },
-        {
-          "id": 16,
-          "value": 90
-        },
-        {
-          "id": 17,
-          "value": 90
-        },
-        {
-          "id": 18,
-          "value": 80
-        },
-        {
-          "id": 19,
-          "value": 95
-        },
-        {
-          "id": 20,
-          "value": 90
-        },
-        {
-          "id": 21,
-          "value": 85
-        },
-        {
-          "id": 22,
-          "value": 95
-        },
-        {
-          "id": 23,
-          "value": 75
-        },
-        {
-          "id": 24,
-          "value": 60
-        },
-        {
-          "id": 25,
-          "value": 95
-        },
-        {
-          "id": 26,
-          "value": 80
-        },
-        {
-          "id": 27,
-          "value": 90
-        },
-        {
-          "id": 28,
-          "value": 95
-        },
-        {
-          "id": 29,
-          "value": 95
-        },
-        {
-          "id": 30,
-          "value": 95
-        },
-        {
-          "id": 31,
-          "value": 70
-        },
-        {
-          "id": 32,
-          "value": 90
-        },
-        {
-          "id": 33,
-          "value": 90
-        },
-        {
-          "id": 34,
-          "value": 95
-        },
-        {
-          "id": 35,
-          "value": 70
-        },
-        {
-          "id": 36,
-          "value": 65
-        },
-        {
-          "id": 37,
-          "value": 75
-        },
-        {
-          "id": 38,
-          "value": 70
-        }
-      ],
-      "radicalism": 5,
-      "spectrum": -30,
-      "spending": 2,
-      "colorData": {
-        "r": 255,
-        "g": 0,
-        "b": 0,
-        "a": 255
-      },
-      "id": 10
+    "id": 9
+  },
+  {
+    "parameters": [
+      { "id": 1,  "value": 60 },
+      { "id": 2,  "value": 80 },
+      { "id": 3,  "value": 90 },
+      { "id": 4,  "value": 80 },
+      { "id": 5,  "value": 90 },
+      { "id": 6,  "value": 70 },
+      { "id": 7,  "value": 90 },
+      { "id": 8,  "value": 80 },
+      { "id": 9,  "value": 85 },
+      { "id": 10, "value": 95 },
+      { "id": 11, "value": 85 },
+      { "id": 12, "value": 90 },
+      { "id": 13, "value": 60 },
+      { "id": 14, "value": 70 },
+      { "id": 15, "value": 95 },
+      { "id": 16, "value": 90 },
+      { "id": 17, "value": 90 },
+      { "id": 18, "value": 80 },
+      { "id": 19, "value": 95 },
+      { "id": 20, "value": 90 },
+      { "id": 21, "value": 85 },
+      { "id": 22, "value": 95 },
+      { "id": 23, "value": 75 },
+      { "id": 24, "value": 60 },
+      { "id": 25, "value": 95 },
+      { "id": 26, "value": 80 },
+      { "id": 27, "value": 90 },
+      { "id": 28, "value": 95 },
+      { "id": 29, "value": 95 },
+      { "id": 30, "value": 95 },
+      { "id": 31, "value": 70 },
+      { "id": 32, "value": 90 },
+      { "id": 33, "value": 90 },
+      { "id": 34, "value": 95 },
+      { "id": 35, "value": 70 },
+      { "id": 36, "value": 65 },
+      { "id": 37, "value": 75 },
+      { "id": 38, "value": 70 }
+    ],
+    "radicalism": 5,
+    "spectrum": -30,
+    "spending": 2,
+    "colorData": {
+      "r": 255,
+      "g": 0,
+      "b": 0,
+      "a": 255
     },
+    "id": 10
+  },
     {
       "parameters": [
-        {
-          "id": 1,
-          "value": 55
-        },
-        {
-          "id": 2,
-          "value": 70
-        },
-        {
-          "id": 3,
-          "value": 60
-        },
-        {
-          "id": 4,
-          "value": 60
-        },
-        {
-          "id": 5,
-          "value": 55
-        },
-        {
-          "id": 6,
-          "value": 60
-        },
-        {
-          "id": 7,
-          "value": 70
-        },
-        {
-          "id": 8,
-          "value": 55
-        },
-        {
-          "id": 9,
-          "value": 55
-        },
-        {
-          "id": 10,
-          "value": 65
-        },
-        {
-          "id": 11,
-          "value": 60
-        },
-        {
-          "id": 12,
-          "value": 55
-        },
-        {
-          "id": 13,
-          "value": 40
-        },
-        {
-          "id": 14,
-          "value": 80
-        },
-        {
-          "id": 15,
-          "value": 75
-        },
-        {
-          "id": 16,
-          "value": 80
-        },
-        {
-          "id": 17,
-          "value": 65
-        },
-        {
-          "id": 18,
-          "value": 85
-        },
-        {
-          "id": 19,
-          "value": 70
-        },
-        {
-          "id": 20,
-          "value": 70
-        },
-        {
-          "id": 21,
-          "value": 60
-        },
-        {
-          "id": 22,
-          "value": 75
-        },
-        {
-          "id": 23,
-          "value": 80
-        },
-        {
-          "id": 24,
-          "value": 80
-        },
-        {
-          "id": 25,
-          "value": 80
-        },
-        {
-          "id": 26,
-          "value": 75
-        },
-        {
-          "id": 27,
-          "value": 75
-        },
-        {
-          "id": 28,
-          "value": 80
-        },
-        {
-          "id": 29,
-          "value": 70
-        },
-        {
-          "id": 30,
-          "value": 80
-        },
-        {
-          "id": 31,
-          "value": 50
-        },
-        {
-          "id": 32,
-          "value": 70
-        },
-        {
-          "id": 33,
-          "value": 60
-        },
-        {
-          "id": 34,
-          "value": 55
-        },
-        {
-          "id": 35,
-          "value": 80
-        },
-        {
-          "id": 36,
-          "value": 80
-        },
-        {
-          "id": 37,
-          "value": 55
-        },
-        {
-          "id": 38,
-          "value": 90
-        }
+        { "id": 1,  "value": 55 },
+        { "id": 2,  "value": 70 },
+        { "id": 3,  "value": 60 },
+        { "id": 4,  "value": 60 },
+        { "id": 5,  "value": 55 },
+        { "id": 6,  "value": 60 },
+        { "id": 7,  "value": 70 },
+        { "id": 8,  "value": 55 },
+        { "id": 9,  "value": 55 },
+        { "id": 10, "value": 65 },
+        { "id": 11, "value": 60 },
+        { "id": 12, "value": 55 },
+        { "id": 13, "value": 40 },
+        { "id": 14, "value": 80 },
+        { "id": 15, "value": 75 },
+        { "id": 16, "value": 80 },
+        { "id": 17, "value": 65 },
+        { "id": 18, "value": 85 },
+        { "id": 19, "value": 70 },
+        { "id": 20, "value": 70 },
+        { "id": 21, "value": 60 },
+        { "id": 22, "value": 75 },
+        { "id": 23, "value": 80 },
+        { "id": 24, "value": 80 },
+        { "id": 25, "value": 80 },
+        { "id": 26, "value": 75 },
+        { "id": 27, "value": 75 },
+        { "id": 28, "value": 80 },
+        { "id": 29, "value": 70 },
+        { "id": 30, "value": 80 },
+        { "id": 31, "value": 50 },
+        { "id": 32, "value": 70 },
+        { "id": 33, "value": 60 },
+        { "id": 34, "value": 55 },
+        { "id": 35, "value": 80 },
+        { "id": 36, "value": 80 },
+        { "id": 37, "value": 55 },
+        { "id": 38, "value": 90 }
       ],
       "radicalism": 3,
       "spectrum": 20,
@@ -6248,158 +4994,44 @@
     },
     {
       "parameters": [
-        {
-          "id": 1,
-          "value": 40
-        },
-        {
-          "id": 2,
-          "value": 65
-        },
-        {
-          "id": 3,
-          "value": 70
-        },
-        {
-          "id": 4,
-          "value": 70
-        },
-        {
-          "id": 5,
-          "value": 60
-        },
-        {
-          "id": 6,
-          "value": 55
-        },
-        {
-          "id": 7,
-          "value": 60
-        },
-        {
-          "id": 8,
-          "value": 65
-        },
-        {
-          "id": 9,
-          "value": 65
-        },
-        {
-          "id": 10,
-          "value": 70
-        },
-        {
-          "id": 11,
-          "value": 70
-        },
-        {
-          "id": 12,
-          "value": 65
-        },
-        {
-          "id": 13,
-          "value": 70
-        },
-        {
-          "id": 14,
-          "value": 85
-        },
-        {
-          "id": 15,
-          "value": 80
-        },
-        {
-          "id": 16,
-          "value": 75
-        },
-        {
-          "id": 17,
-          "value": 75
-        },
-        {
-          "id": 18,
-          "value": 65
-        },
-        {
-          "id": 19,
-          "value": 75
-        },
-        {
-          "id": 20,
-          "value": 75
-        },
-        {
-          "id": 21,
-          "value": 70
-        },
-        {
-          "id": 22,
-          "value": 80
-        },
-        {
-          "id": 23,
-          "value": 65
-        },
-        {
-          "id": 24,
-          "value": 70
-        },
-        {
-          "id": 25,
-          "value": 85
-        },
-        {
-          "id": 26,
-          "value": 80
-        },
-        {
-          "id": 27,
-          "value": 70
-        },
-        {
-          "id": 28,
-          "value": 75
-        },
-        {
-          "id": 29,
-          "value": 75
-        },
-        {
-          "id": 30,
-          "value": 75
-        },
-        {
-          "id": 31,
-          "value": 70
-        },
-        {
-          "id": 32,
-          "value": 80
-        },
-        {
-          "id": 33,
-          "value": 75
-        },
-        {
-          "id": 34,
-          "value": 65
-        },
-        {
-          "id": 35,
-          "value": 60
-        },
-        {
-          "id": 36,
-          "value": 70
-        },
-        {
-          "id": 37,
-          "value": 65
-        },
-        {
-          "id": 38,
-          "value": 65
-        }
+        { "id": 1,  "value": 40 },
+        { "id": 2,  "value": 65 },
+        { "id": 3,  "value": 70 },
+        { "id": 4,  "value": 70 },
+        { "id": 5,  "value": 60 },
+        { "id": 6,  "value": 55 },
+        { "id": 7,  "value": 60 },
+        { "id": 8,  "value": 65 },
+        { "id": 9,  "value": 65 },
+        { "id": 10, "value": 70 },
+        { "id": 11, "value": 70 },
+        { "id": 12, "value": 65 },
+        { "id": 13, "value": 70 },
+        { "id": 14, "value": 85 },
+        { "id": 15, "value": 80 },
+        { "id": 16, "value": 75 },
+        { "id": 17, "value": 75 },
+        { "id": 18, "value": 65 },
+        { "id": 19, "value": 75 },
+        { "id": 20, "value": 75 },
+        { "id": 21, "value": 70 },
+        { "id": 22, "value": 80 },
+        { "id": 23, "value": 65 },
+        { "id": 24, "value": 70 },
+        { "id": 25, "value": 85 },
+        { "id": 26, "value": 80 },
+        { "id": 27, "value": 70 },
+        { "id": 28, "value": 75 },
+        { "id": 29, "value": 75 },
+        { "id": 30, "value": 75 },
+        { "id": 31, "value": 70 },
+        { "id": 32, "value": 80 },
+        { "id": 33, "value": 75 },
+        { "id": 34, "value": 65 },
+        { "id": 35, "value": 60 },
+        { "id": 36, "value": 70 },
+        { "id": 37, "value": 65 },
+        { "id": 38, "value": 65 }
       ],
       "radicalism": 6,
       "spectrum": 0,
@@ -6414,158 +5046,44 @@
     },
     {
       "parameters": [
-        {
-          "id": 1,
-          "value": 75
-        },
-        {
-          "id": 2,
-          "value": 45
-        },
-        {
-          "id": 3,
-          "value": 70
-        },
-        {
-          "id": 4,
-          "value": 40
-        },
-        {
-          "id": 5,
-          "value": 50
-        },
-        {
-          "id": 6,
-          "value": 80
-        },
-        {
-          "id": 7,
-          "value": 65
-        },
-        {
-          "id": 8,
-          "value": 50
-        },
-        {
-          "id": 9,
-          "value": 50
-        },
-        {
-          "id": 10,
-          "value": 60
-        },
-        {
-          "id": 11,
-          "value": 50
-        },
-        {
-          "id": 12,
-          "value": 30
-        },
-        {
-          "id": 13,
-          "value": 35
-        },
-        {
-          "id": 14,
-          "value": 45
-        },
-        {
-          "id": 15,
-          "value": 70
-        },
-        {
-          "id": 16,
-          "value": 65
-        },
-        {
-          "id": 17,
-          "value": 90
-        },
-        {
-          "id": 18,
-          "value": 70
-        },
-        {
-          "id": 19,
-          "value": 65
-        },
-        {
-          "id": 20,
-          "value": 75
-        },
-        {
-          "id": 21,
-          "value": 80
-        },
-        {
-          "id": 22,
-          "value": 65
-        },
-        {
-          "id": 23,
-          "value": 60
-        },
-        {
-          "id": 24,
-          "value": 75
-        },
-        {
-          "id": 25,
-          "value": 75
-        },
-        {
-          "id": 26,
-          "value": 30
-        },
-        {
-          "id": 27,
-          "value": 60
-        },
-        {
-          "id": 28,
-          "value": 65
-        },
-        {
-          "id": 29,
-          "value": 70
-        },
-        {
-          "id": 30,
-          "value": 70
-        },
-        {
-          "id": 31,
-          "value": 85
-        },
-        {
-          "id": 32,
-          "value": 65
-        },
-        {
-          "id": 33,
-          "value": 50
-        },
-        {
-          "id": 34,
-          "value": 50
-        },
-        {
-          "id": 35,
-          "value": 65
-        },
-        {
-          "id": 36,
-          "value": 75
-        },
-        {
-          "id": 37,
-          "value": 85
-        },
-        {
-          "id": 38,
-          "value": 75
-        }
+        { "id": 1,  "value": 75 },
+        { "id": 2,  "value": 45 },
+        { "id": 3,  "value": 70 },
+        { "id": 4,  "value": 40 },
+        { "id": 5,  "value": 50 },
+        { "id": 6,  "value": 80 },
+        { "id": 7,  "value": 65 },
+        { "id": 8,  "value": 50 },
+        { "id": 9,  "value": 50 },
+        { "id": 10, "value": 60 },
+        { "id": 11, "value": 50 },
+        { "id": 12, "value": 30 },
+        { "id": 13, "value": 35 },
+        { "id": 14, "value": 45 },
+        { "id": 15, "value": 70 },
+        { "id": 16, "value": 65 },
+        { "id": 17, "value": 90 },
+        { "id": 18, "value": 70 },
+        { "id": 19, "value": 65 },
+        { "id": 20, "value": 75 },
+        { "id": 21, "value": 80 },
+        { "id": 22, "value": 65 },
+        { "id": 23, "value": 60 },
+        { "id": 24, "value": 75 },
+        { "id": 25, "value": 75 },
+        { "id": 26, "value": 30 },
+        { "id": 27, "value": 60 },
+        { "id": 28, "value": 65 },
+        { "id": 29, "value": 70 },
+        { "id": 30, "value": 70 },
+        { "id": 31, "value": 85 },
+        { "id": 32, "value": 65 },
+        { "id": 33, "value": 50 },
+        { "id": 34, "value": 50 },
+        { "id": 35, "value": 65 },
+        { "id": 36, "value": 75 },
+        { "id": 37, "value": 85 },
+        { "id": 38, "value": 75 }
       ],
       "radicalism": 9,
       "spectrum": 45,
@@ -6580,158 +5098,44 @@
     },
     {
       "parameters": [
-        {
-          "id": 1,
-          "value": 60
-        },
-        {
-          "id": 2,
-          "value": 30
-        },
-        {
-          "id": 3,
-          "value": 70
-        },
-        {
-          "id": 4,
-          "value": 40
-        },
-        {
-          "id": 5,
-          "value": 80
-        },
-        {
-          "id": 6,
-          "value": 70
-        },
-        {
-          "id": 7,
-          "value": 90
-        },
-        {
-          "id": 8,
-          "value": 90
-        },
-        {
-          "id": 9,
-          "value": 90
-        },
-        {
-          "id": 10,
-          "value": 70
-        },
-        {
-          "id": 11,
-          "value": 50
-        },
-        {
-          "id": 12,
-          "value": 20
-        },
-        {
-          "id": 13,
-          "value": 10
-        },
-        {
-          "id": 14,
-          "value": 10
-        },
-        {
-          "id": 15,
-          "value": 80
-        },
-        {
-          "id": 16,
-          "value": 50
-        },
-        {
-          "id": 17,
-          "value": 50
-        },
-        {
-          "id": 18,
-          "value": 40
-        },
-        {
-          "id": 19,
-          "value": 70
-        },
-        {
-          "id": 20,
-          "value": 60
-        },
-        {
-          "id": 21,
-          "value": 40
-        },
-        {
-          "id": 22,
-          "value": 60
-        },
-        {
-          "id": 23,
-          "value": 10
-        },
-        {
-          "id": 24,
-          "value": 30
-        },
-        {
-          "id": 25,
-          "value": 30
-        },
-        {
-          "id": 26,
-          "value": 20
-        },
-        {
-          "id": 27,
-          "value": 50
-        },
-        {
-          "id": 28,
-          "value": 30
-        },
-        {
-          "id": 29,
-          "value": 50
-        },
-        {
-          "id": 30,
-          "value": 60
-        },
-        {
-          "id": 31,
-          "value": 50
-        },
-        {
-          "id": 32,
-          "value": 35
-        },
-        {
-          "id": 33,
-          "value": 40
-        },
-        {
-          "id": 34,
-          "value": 90
-        },
-        {
-          "id": 35,
-          "value": 40
-        },
-        {
-          "id": 36,
-          "value": 65
-        },
-        {
-          "id": 37,
-          "value": 50
-        },
-        {
-          "id": 38,
-          "value": 80
-        }
+        { "id": 1,  "value": 60 },
+        { "id": 2,  "value": 30 },
+        { "id": 3,  "value": 70 },
+        { "id": 4,  "value": 40 },
+        { "id": 5,  "value": 80 },
+        { "id": 6,  "value": 70 },
+        { "id": 7,  "value": 90 },
+        { "id": 8,  "value": 90 },
+        { "id": 9,  "value": 90 },
+        { "id": 10, "value": 70 },
+        { "id": 11, "value": 50 },
+        { "id": 12, "value": 20 },
+        { "id": 13, "value": 10 },
+        { "id": 14, "value": 10 },
+        { "id": 15, "value": 80 },
+        { "id": 16, "value": 50 },
+        { "id": 17, "value": 50 },
+        { "id": 18, "value": 40 },
+        { "id": 19, "value": 70 },
+        { "id": 20, "value": 60 },
+        { "id": 21, "value": 40 },
+        { "id": 22, "value": 60 },
+        { "id": 23, "value": 10 },
+        { "id": 24, "value": 30 },
+        { "id": 25, "value": 30 },
+        { "id": 26, "value": 20 },
+        { "id": 27, "value": 50 },
+        { "id": 28, "value": 30 },
+        { "id": 29, "value": 50 },
+        { "id": 30, "value": 60 },
+        { "id": 31, "value": 50 },
+        { "id": 32, "value": 35 },
+        { "id": 33, "value": 40 },
+        { "id": 34, "value": 90 },
+        { "id": 35, "value": 40 },
+        { "id": 36, "value": 65 },
+        { "id": 37, "value": 50 },
+        { "id": 38, "value": 80 }
       ],
       "radicalism": 8,
       "spectrum": -50,
@@ -6743,7 +5147,111 @@
         "a": 255
       },
       "id": 14
-    }
+    },
+    {
+  "id": 15,
+  "parameters": [
+    { "id": 1,  "value": 35 },
+    { "id": 2,  "value": 45 },
+    { "id": 3,  "value": 50 },
+    { "id": 4,  "value": 55 },
+    { "id": 5,  "value": 40 },
+    { "id": 6,  "value": 30 },
+    { "id": 7,  "value": 65 },
+    { "id": 8,  "value": 60 },
+    { "id": 9,  "value": 50 },
+    { "id": 10, "value": 35 },
+    { "id": 11, "value": 55 },
+    { "id": 12, "value": 45 },
+    { "id": 13, "value": 30 },
+    { "id": 14, "value": 75 },
+    { "id": 15, "value": 55 },
+    { "id": 16, "value": 85 },
+    { "id": 17, "value": 60 },
+    { "id": 18, "value": 65 },
+    { "id": 19, "value": 70 },
+    { "id": 20, "value": 50 },
+    { "id": 21, "value": 45 },
+    { "id": 22, "value": 60 },
+    { "id": 23, "value": 35 },
+    { "id": 24, "value": 70 },
+    { "id": 25, "value": 50 },
+    { "id": 26, "value": 40 },
+    { "id": 27, "value": 45 },
+    { "id": 28, "value": 50 },
+    { "id": 29, "value": 65 },
+    { "id": 30, "value": 60 },
+    { "id": 31, "value": 50 },
+    { "id": 32, "value": 55 },
+    { "id": 33, "value": 60 },
+    { "id": 34, "value": 65 },
+    { "id": 35, "value": 45 },
+    { "id": 36, "value": 75 },
+    { "id": 37, "value": 80 },
+    { "id": 38, "value": 70 }
+  ],
+  "radicalism": 10,
+  "spectrum": 40,
+  "spending": 6,
+  "colorData": {
+    "r": 139,
+    "g": 69,
+    "b": 19,
+    "a": 255
+  }
+},
+{
+  "id": 16,
+  "parameters": [
+    { "id": 1,  "value": 40 },
+    { "id": 2,  "value": 50 },
+    { "id": 3,  "value": 45 },
+    { "id": 4,  "value": 55 },
+    { "id": 5,  "value": 35 },
+    { "id": 6,  "value": 30 },
+    { "id": 7,  "value": 50 },
+    { "id": 8,  "value": 45 },
+    { "id": 9,  "value": 50 },
+    { "id": 10, "value": 40 },
+    { "id": 11, "value": 65 },
+    { "id": 12, "value": 50 },
+    { "id": 13, "value": 30 },
+    { "id": 14, "value": 60 },
+    { "id": 15, "value": 55 },
+    { "id": 16, "value": 40 },
+    { "id": 17, "value": 50 },
+    { "id": 18, "value": 45 },
+    { "id": 19, "value": 55 },
+    { "id": 20, "value": 60 },
+    { "id": 21, "value": 40 },
+    { "id": 22, "value": 55 },
+    { "id": 23, "value": 50 },
+    { "id": 24, "value": 70 },
+    { "id": 25, "value": 65 },
+    { "id": 26, "value": 85 },
+    { "id": 27, "value": 45 },
+    { "id": 28, "value": 40 },
+    { "id": 29, "value": 60 },
+    { "id": 30, "value": 50 },
+    { "id": 31, "value": 45 },
+    { "id": 32, "value": 75 },
+    { "id": 33, "value": 55 },
+    { "id": 34, "value": 50 },
+    { "id": 35, "value": 40 },
+    { "id": 36, "value": 55 },
+    { "id": 37, "value": 65 },
+    { "id": 38, "value": 45 }
+  ],
+  "radicalism": 7,
+  "spectrum": 20,
+  "spending": 8,
+  "colorData": {
+    "r": 34,
+    "g": 139,
+    "b": 34,
+    "a": 255
+  }
+}
   ],
   "laws": [
     {
@@ -65019,11 +63527,11 @@
       },
       "ideologies": [
         {
-          "id": 14,
+          "id": 16,
           "value": 60
         },
         {
-          "id": 4,
+          "id": 8,
           "value": 40
         }
       ],
@@ -112023,6 +110531,5 @@
   "nationsRelations": {
     "relations": [],
     "id": 0
-  },
-  "Data": []
+  }
 }
