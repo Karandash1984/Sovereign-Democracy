@@ -1399,7 +1399,20 @@
     {
       "population": 15.46,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1409,7 +1422,20 @@
     {
       "population": 1.35,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1419,7 +1445,20 @@
     {
       "population": 1.62,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1429,7 +1468,20 @@
     {
       "population": 8.31,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1439,7 +1491,20 @@
     {
       "population": 3.03,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1449,7 +1514,20 @@
     {
       "population": 0.57,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1459,7 +1537,20 @@
     {
       "population": 0.53,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1469,7 +1560,20 @@
     {
       "population": 1.15,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1479,7 +1583,20 @@
     {
       "population": 0.68,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1489,7 +1606,20 @@
     {
       "population": 0.35,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1499,7 +1629,20 @@
     {
       "population": 0.87,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1509,7 +1652,20 @@
     {
       "population": 0.57,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1519,7 +1675,20 @@
     {
       "population": 0.51,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1529,7 +1698,20 @@
     {
       "population": 1.35,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1539,7 +1721,20 @@
     {
       "population": 22.63,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1549,7 +1744,20 @@
     {
       "population": 5.67,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1559,7 +1767,20 @@
     {
       "population": 0.56,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1569,7 +1790,20 @@
     {
       "population": 0.0,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1579,7 +1813,20 @@
     {
       "population": 0.77,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1589,7 +1836,20 @@
     {
       "population": 0.45,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1599,7 +1859,20 @@
     {
       "population": 0.67,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1609,7 +1882,20 @@
     {
       "population": 3.12,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1619,7 +1905,20 @@
     {
       "population": 0.21,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1629,7 +1928,20 @@
     {
       "population": 0.65,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1639,7 +1951,20 @@
     {
       "population": 2.06,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1649,7 +1974,20 @@
     {
       "population": 10.29,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1659,7 +1997,20 @@
     {
       "population": 6.95,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1669,7 +2020,20 @@
     {
       "population": 1.06,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1679,7 +2043,20 @@
     {
       "population": 23.1,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1689,7 +2066,20 @@
     {
       "population": 29.9,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1699,7 +2089,20 @@
     {
       "population": 8.81,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1709,7 +2112,20 @@
     {
       "population": 11.4,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1719,7 +2135,20 @@
     {
       "population": 5.18,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1729,7 +2158,20 @@
     {
       "population": 5.3,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1739,7 +2181,20 @@
     {
       "population": 0.42,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1749,7 +2204,20 @@
     {
       "population": 1.99,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1759,7 +2227,20 @@
     {
       "population": 7.7,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1769,7 +2250,20 @@
     {
       "population": 1.83,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1779,7 +2273,20 @@
     {
       "population": 4.98,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1789,7 +2296,20 @@
     {
       "population": 1.15,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1799,7 +2319,20 @@
     {
       "population": 0.99,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1809,7 +2342,20 @@
     {
       "population": 0.98,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1819,42 +2365,508 @@
     {
       "population": 0.72,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
       },
       "id": 88
     },
-	    {
-      "population": 0.90,
+    {
+      "population": 2.79,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
       },
-      "id": 91
+      "id": 89
     },
-	{
-      "population": 0.13,
+    {
+      "population": 1.76,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
       },
       "id": 90
     },
-	    {
-      "population": 0.20,
+    {
+      "population": 0.81,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
       },
-      "id": 89
+      "id": 91
+    },
+    {
+      "population": 1.76,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 92
+    },
+    {
+      "population": 3.31,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 93
+    },
+    {
+      "population": 12.1,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 94
+    },
+    {
+      "population": 6.21,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 95
+    },
+    {
+      "population": 2.75,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 96
+    },
+    {
+      "population": 1.97,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 97
+    },
+    {
+      "population": 20.38,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 98
+    },
+    {
+      "population": 3.65,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 99
+    },
+    {
+      "population": 21.0,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 100
+    },
+    {
+      "population": 1.28,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 101
+    },
+    {
+      "population": 7.54,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 102
+    },
+    {
+      "population": 5.92,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 103
+    },
+    {
+      "population": 41.35,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 104
+    },
+    {
+      "population": 8.99,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 105
+    },
+    {
+      "population": 8.05,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 106
+    },
+    {
+      "population": 1.23,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 107
+    },
+    {
+      "population": 12.44,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 108
+    },
+    {
+      "population": 12.98,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 109
     }
   ],
   "competences": [
