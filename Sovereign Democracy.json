@@ -36,6 +36,7 @@
     "disableConstitutional": false,
     "disableWar": false,
     "disableAI": false,
+    "disableLocalElections": false,
     "notLawImplementationTime": false
   },
   "banks": [],
