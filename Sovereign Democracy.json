@@ -53854,7 +53854,7 @@
       "id": 115
     },
     {
-      "mode": 0,
+      "mode": 2,
       "time": {
         "start": 1948,
         "end": 3000
@@ -54031,7 +54031,7 @@
               "id": 14,
               "intValue": 0,
               "floatValue": 0.0,
-              "stringValue": "TR",
+              "stringValue": "TUR",
               "boolValue": false
             },
             {
@@ -54043,14 +54043,14 @@
             },
             {
               "id": 13,
-              "intValue": 11,
+              "intValue": 13,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
             },
             {
               "id": 15,
-              "intValue": 23,
+              "intValue": 33,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
@@ -54459,9 +54459,27 @@
         }
       ],
       "nations": [],
-      "regions": [],
+      "regions": [
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524,
+        525,
+        526,
+        527,
+        528,
+        529,
+        530,
+        531,
+        532,
+        533,
+        534
+      ],
       "events": [],
-      "culture": 0,
+      "culture": 19,
       "predecessor": 0,
       "parameters": [],
       "ideologies": [],
