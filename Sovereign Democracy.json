@@ -106,11 +106,11 @@
       "id": 2
     },
     {
-      "type": 0,
+      "type": 4,
       "unique": true,
       "competence": 14,
-      "time": 0,
-      "price": 0,
+      "time": 7,
+      "price": 40,
       "research": {
         "year": 2000,
         "priority": 0
@@ -7265,7 +7265,7 @@
     {
       "required": false,
       "order": 1000,
-      "level": 0,
+      "level": 1,
       "type": 1,
       "research": {
         "year": 2000,
@@ -10035,7 +10035,7 @@
         "science": 0,
         "knowledge": 0
       },
-      "federalLevel": 0,
+      "federalLevel": 1,
       "needs": 0,
       "nation": {
         "happiness": 0.0,
@@ -10135,7 +10135,7 @@
     {
       "required": false,
       "order": 1000,
-      "level": 0,
+      "level": 1,
       "type": 1,
       "research": {
         "year": 2000,
@@ -10746,8 +10746,25 @@
       },
       "competence": 14,
       "name": 0,
-      "articles": [],
-      "minArticles": 0,
+      "articles": [
+        {
+          "id": 236,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 237,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        }
+      ],
+      "minArticles": 1,
       "relation": {
         "cooperation": 0,
         "science": 0,
@@ -13013,6 +13030,318 @@
       "change": 0,
       "proposable": 0,
       "id": 104
+    },
+    {
+      "required": false,
+      "order": 1000,
+      "level": 2,
+      "type": 1,
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "competence": 13,
+      "name": 0,
+      "articles": [
+        {
+          "id": 235,
+          "required": true,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        }
+      ],
+      "minArticles": 1,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 106
+    },
+    {
+      "required": false,
+      "order": 1000,
+      "level": 2,
+      "type": 1,
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "competence": 14,
+      "name": 0,
+      "articles": [
+        {
+          "id": 238,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        }
+      ],
+      "minArticles": 1,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 107
+    },
+    {
+      "required": false,
+      "order": 1000,
+      "level": 2,
+      "type": 1,
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "competence": 18,
+      "name": 0,
+      "articles": [
+        {
+          "id": 239,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 240,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        }
+      ],
+      "minArticles": 1,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 108
+    },
+    {
+      "required": false,
+      "order": 1000,
+      "level": 2,
+      "type": 1,
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "competence": 14,
+      "name": 0,
+      "articles": [
+        {
+          "id": 241,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        }
+      ],
+      "minArticles": 1,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 109
+    },
+    {
+      "required": false,
+      "order": 1000,
+      "level": 2,
+      "type": 1,
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "competence": 21,
+      "name": 0,
+      "articles": [
+        {
+          "id": 242,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 243,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        }
+      ],
+      "minArticles": 1,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 110
+    },
+    {
+      "required": false,
+      "order": 1000,
+      "level": 1,
+      "type": 1,
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "competence": 18,
+      "name": 0,
+      "articles": [
+        {
+          "id": 244,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 245,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        }
+      ],
+      "minArticles": 1,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 111
     }
   ],
   "lawArticles": [
@@ -22903,6 +23232,428 @@
       "change": 0,
       "proposable": 0,
       "id": 234
+    },
+    {
+      "type": 1,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [
+        {
+          "id": 126,
+          "articles": [],
+          "commas": []
+        },
+        {
+          "id": 127,
+          "articles": [],
+          "commas": []
+        },
+        {
+          "id": 128,
+          "articles": [],
+          "commas": []
+        }
+      ],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 235
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": 1.0
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 24,
+            "value": 1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 236
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 11,
+            "value": 2.0,
+            "mode": 0
+          },
+          {
+            "id": 23,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 237
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 14,
+            "value": 2.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 238
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.5,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -0.5
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 11,
+            "value": 0.5,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 239
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 240
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 241
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 242
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 243
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.1,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -0.4
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 14,
+            "value": 1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 244
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.2,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -0.5
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 13,
+            "value": 1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 245
     }
   ],
   "lawCommas": [
@@ -26051,6 +26802,105 @@
       "change": 0,
       "proposable": 0,
       "id": 125
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -1.0
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 39,
+            "value": 1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 126
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -2.0
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 39,
+            "value": 2.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 127
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -3.0
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 39,
+            "value": 3.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 128
     }
   ],
   "media": [
