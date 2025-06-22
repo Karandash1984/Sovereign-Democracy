@@ -64225,7 +64225,7 @@
       "color": "FF6347",
       "year": 0,
       "promise": 0,
-      "level": 3,
+      "level": -1,
       "id": 1
     },
     {
@@ -64315,7 +64315,7 @@
       "color": "FF0000",
       "year": 0,
       "promise": 0,
-      "level": 3,
+      "level": -1,
       "id": 6
     },
     {
@@ -64333,7 +64333,7 @@
       "color": "F4A460",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 3,
       "id": 7
     },
     {
@@ -64351,7 +64351,7 @@
       "color": "DAA520",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 3,
       "id": 8
     },
     {
@@ -64387,7 +64387,7 @@
       "color": "8E60FF",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 5,
       "id": 10
     },
     {
@@ -64405,7 +64405,7 @@
       "color": "9DE73C",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 5,
       "id": 11
     },
     {
@@ -64441,7 +64441,7 @@
       "color": "FFD700",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 5,
       "id": 13
     },
     {
@@ -64459,7 +64459,7 @@
       "color": "FFA07A",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 3,
       "id": 14
     },
     {
@@ -64477,7 +64477,7 @@
       "color": "DC143C",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": -1,
       "id": 15
     },
     {
@@ -64555,7 +64555,7 @@
       "color": "6A5ACD",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 3,
       "id": 19
     },
     {
@@ -64573,7 +64573,7 @@
       "color": "FF5656",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 1,
       "id": 20
     },
     {
@@ -64607,7 +64607,7 @@
       "measure": 18,
       "influence": [],
       "color": "00BFFF",
-      "year": 0,
+      "year": 1995,
       "promise": 0,
       "level": 0,
       "id": 22
@@ -64699,7 +64699,7 @@
       "color": "B22222",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 3,
       "id": 27
     },
     {
@@ -64717,7 +64717,7 @@
       "color": "8FBC8F",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 5,
       "id": 28
     },
     {
@@ -64735,7 +64735,7 @@
       "color": "F08080",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 3,
       "id": 29
     },
     {
@@ -64807,7 +64807,7 @@
       "color": "B3B3B3",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 5,
       "id": 33
     },
     {
@@ -64897,8 +64897,26 @@
       "color": "FFC0CB",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 3,
       "id": 38
+    },
+    {
+      "mode": 1,
+      "group": 10,
+      "competence": 13,
+      "better": 1,
+      "min": 0.0,
+      "max": 100.0,
+      "median": 50.0,
+      "change": 3.0,
+      "value": 1,
+      "measure": 0,
+      "influence": [],
+      "color": "CFCFCF",
+      "year": 0,
+      "promise": 0,
+      "level": 5,
+      "id": 39
     }
   ],
   "parametersGroups": [
