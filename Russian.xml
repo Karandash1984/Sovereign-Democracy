@@ -39,6 +39,8 @@
     <Approved>Одобренный</Approved>
     <Archive>Архив</Archive>
     <Area>Область</Area>
+    <Armament>Вооружение</Armament>
+    <Armaments>Вооружения</Armaments>
     <Article>Статья</Article>
     <Articles>Статьи</Articles>
     <Assembly>Собрание</Assembly>
@@ -84,7 +86,9 @@
     <Cancel>Отмена</Cancel>
     <Candidate>Кандидат</Candidate>
     <Candidates>Кандидаты</Candidates>
+    <Canton>Кантон</Canton>
     <Cantons>Кантоны</Cantons>
+    <Cantonal>Cantonal</Cantonal>
     <Challenge>Вызов</Challenge>
     <Challenges>Вызовы</Challenges>
     <Chance>Шанс</Chance>
@@ -653,6 +657,8 @@
     <Townhall>Ратуша</Townhall>
     <Trade>Торговля</Trade>
     <Traits>Черты характера</Traits>
+    <Transfer>Передача</Transfer>
+    <Transfers>Передачи</Transfers>
     <Transparent>Прозрачный</Transparent>
     <Treaty>Договор</Treaty>
     <Treaties>Договора</Treaties>
@@ -892,9 +898,28 @@
     <string>Волгоград</string>
     <string>Неаполь</string>
     <string>Флоренция</string>
-    <string>Брюссель</string>
-    <string>Люксембург</string>
-  </Cities>
+    <string>Торонто</string>
+    <string>Монтреаль</string>
+    <string>Краков</string>
+    <string>Измир</string>
+    <string>Бусан</string>
+    <string>Сан-Паулу</string>
+    <string>Рио де Жанейро</string>
+    <string>Осака</string>
+    <string>Саппоро</string>
+    <string>Карачи</string>
+    <string>Дубай</string>
+    <string>Лагос</string>
+    <string>София</string>
+    <string>Гонг Конг</string>
+    <string>Сингапур</string>
+    <string>Шанхай</string>
+    <string>Хошимин</string>
+    <string>Ханой</string>
+    <string>Тирана</string>
+    <string>Мумбаи</string>
+    <string>Шэньчжэнь</string>  
+    </Cities>
   <Companies>
     <string />
   </Companies>
@@ -2441,6 +2466,48 @@
       <text>
         <string>Фондовая биржа</string>
         <string>Регулирует эмиссию, торговлю и раскрытие информации о ценных бумагах для защиты инвесторов и обеспечения справедливых рыночных практик.</string>
+              </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Иностранная помощь</string>
+        <string>Assistance given by one country to another for development or relief.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Обслуживание дорог</string>
+        <string>Ensures roads are regularly inspected, repaired, and kept safe for public use.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Зонирование</string>
+        <string>Controls how land and buildings can be used in different areas of a town or city (e.g., residential, commercial, industrial.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Публичные инициативы</string>
+        <string>Efforts that engage residents in improving community life through activities like clean-up drives, cultural events, local planning, and volunteer programs.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Public permits</string>
+        <string>Authorize activities in public spaces, like events, construction, or street vending.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Civic order regulation</string>
+        <string>Governs conduct in public spaces to ensure peace, safety, cleanliness, and respectful social interaction.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Historic preservation law</string>
+        <string>Protects buildings, sites, and landscapes of historical, cultural, or architectural significance from alteration or destruction.</string>
       </text>
     </Item>
   </Laws>
@@ -2680,6 +2747,17 @@
     <string>Силы кибербезопасности</string>
     <string>Налог на туризм</string>
     <string>Надзорный орган</string>
+    <string>Стандарт обслуживания</string>
+    <string>Penalties for illegal dumping</string>
+    <string>Mandatory recycling provisions</string>
+    <string>Promote the historic city center</string>
+    <string>Neighborhood clean-up day</string>
+    <string>Sunday Market</string>
+    <string>Food truck license</string>
+    <string>Anti-Begging Ordinance</string>
+    <string>Nighttime Noise Restriction</string>
+    <string>Conserve heritage buildings</string>
+    <string>Designate archeological sites</string>
   </LawArticles>
   <LawCommas>
     <string />
@@ -2808,6 +2886,9 @@
     <string>Частично мажоритарная, частично пропорциональная</string>
     <string>Выборный</string>
     <string>Не выборный</string>
+    <string>Низкий</string>
+    <string>Средний</string>
+    <string>Высокий</string>
   </LawCommas>
   <Media>
     <string />
@@ -5384,5 +5465,7 @@
     <string>Создать новую</string>
     <string>Потратить скилл поинты на человека</string>
     <string>Монархическая резолюция</string>
+    <string>Бюджет</string>
+    <string>Отключить местные выборы</string>
   </Text>
 </Data>

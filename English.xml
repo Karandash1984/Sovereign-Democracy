@@ -39,6 +39,8 @@
     <Approved>Approved</Approved>
     <Archive>Archive</Archive>
     <Area>Area</Area>
+    <Armament>Armament</Armament>
+    <Armaments>Armaments</Armaments>
     <Article>Article</Article>
     <Articles>Articles</Articles>
     <Assembly>Assembly</Assembly>
@@ -84,7 +86,9 @@
     <Cancel>Cancel</Cancel>
     <Candidate>Candidate</Candidate>
     <Candidates>Candidates</Candidates>
+    <Canton>Canton</Canton>
     <Cantons>Cantons</Cantons>
+    <Cantonal>Cantonal</Cantonal>
     <Challenge>Challenge</Challenge>
     <Challenges>Challenges</Challenges>
     <Chance>Chance</Chance>
@@ -192,6 +196,7 @@
     <Details>Details</Details>
     <Deteriorate>Deteriorate</Deteriorate>
     <Dictator>Dictator</Dictator>
+    <Difference>Difference</Difference>
     <Difficulty>Difficulty</Difficulty>
     <Discover>Discover</Discover>
     <Dismantle>Dismantle</Dismantle>
@@ -263,6 +268,7 @@
     <FormerMembers>Former members</FormerMembers>
     <Forward>Forward</Forward>
     <Founded>Founded</Founded>
+    <Fps>FPS</Fps>
     <Free>Free</Free>
     <Freewill>Freewill</Freewill>
     <Friendly>Friendly</Friendly>
@@ -486,6 +492,8 @@
     <Position>Position</Position>
     <Positive>Positive</Positive>
     <Power>Power</Power>
+    <Prefecture>Prefecture</Prefecture>
+    <Prefectures>Prefectures</Prefectures>
     <President>President</President>
     <Presence>Presence</Presence>
     <Present>Present</Present>
@@ -510,6 +518,9 @@
     <Proposal>Proposal</Proposal>
     <Propose>Propose</Propose>
     <Protest>Protest</Protest>
+    <Province>Province</Province>
+    <Provinces>Provinces</Provinces>
+    <Provincial>Provincial</Provincial>
     <Quality>Quality</Quality>
     <Quarter>Quarter</Quarter>
     <Queen>Queen</Queen>
@@ -558,6 +569,7 @@
     <Result>Result</Result>
     <Resume>Resume</Resume>
     <Retire>Retire</Retire>
+    <Revenue>Revenue</Revenue>
     <Revolution>Revolution</Revolution>
     <Reward>Reward</Reward>
     <Round>Round</Round>
@@ -593,12 +605,14 @@
     <Server>Server</Server>
     <Servers>Servers</Servers>
     <Settings>Settings</Settings>
+    <Significant>Significant</Significant>
     <Simple>Simple</Simple>
     <Singleplayer>Singleplayer</Singleplayer>
     <Size>Size</Size>
     <Share>Share</Share>
     <Shop>Shop</Shop>
     <Slow>Slow</Slow>
+    <Small>Small</Small>
     <SocialNetwork>Social Network</SocialNetwork>
     <SocialPyramid>Social pyramid</SocialPyramid>
     <Sound>Sound</Sound>
@@ -656,6 +670,8 @@
     <Townhall>Townhall</Townhall>
     <Trade>Trade</Trade>
     <Traits>Traits</Traits>
+    <Transfer>Transfer</Transfer>
+    <Transfers>Transfers</Transfers>
     <Transparent>Transparent</Transparent>
     <Treaty>Treaty</Treaty>
     <Treaties>Treaties</Treaties>
@@ -740,7 +756,7 @@
     <Break2>Taking a short break can help you recharge and feel more refreshed!</Break2>
     <Welcome>WELCOME TO LAWGIVERS II</Welcome>
     <Welcome2>Thank you for your support! The game will receive frequent updates throughout 2025. Got a feature request? Join our community on Discord and share your ideas with us!</Welcome2>
-    <Warning>*Higher quality may drain the battery faster</Warning>
+    <Warning>*Higher quality may drain the battery faster and overheat your device</Warning>
   </Extra>
   <Achievements>
     <Item>
@@ -790,6 +806,7 @@
     <string>Farm</string>
     <string>Factory</string>
     <string>Mine</string>
+    <string>Armament</string>
   </Buildings>
   <Categories>
     <string />
@@ -895,8 +912,27 @@
     <string>Volgograd</string>
     <string>Naples</string>
     <string>Florence</string>
-    <string>Brussel</string>
-    <string>Luxemburg</string>
+    <string>Toronto</string>
+    <string>Montreal</string>
+    <string>Krakow</string>
+    <string>Izmir</string>
+    <string>Busan</string>
+    <string>São Paulo</string>
+    <string>Rio de Janeiro</string>
+    <string>Osaka</string>
+    <string>Sapporo</string>
+    <string>Karachi</string>
+    <string>Dubai</string>
+    <string>Lagos</string>
+    <string>Sofia</string>
+    <string>Hong Kong</string>
+    <string>Singapore</string>
+    <string>Shanghai</string>
+    <string>Ho Chi Minh City</string>
+    <string>Hanoi</string>
+    <string>Tirana</string>
+    <string>Mumbai</string>
+    <string>Shenzhen</string>
   </Cities>
   <Companies>
     <string />
@@ -2446,6 +2482,48 @@
         <string>Governs the issuance, trading, and disclosure of securities to protect investors and ensure fair market practices.</string>
       </text>
     </Item>
+    <Item>
+      <text>
+        <string>Foreign aid</string>
+        <string>Assistance given by one country to another for development or relief.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Road maintenance</string>
+        <string>Ensures roads are regularly inspected, repaired, and kept safe for public use.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Zoning regulation</string>
+        <string>Controls how land and buildings can be used in different areas of a town or city (e.g., residential, commercial, industrial.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Public initiatives</string>
+        <string>Efforts that engage residents in improving community life through activities like clean-up drives, cultural events, local planning, and volunteer programs.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Public permits</string>
+        <string>Authorize activities in public spaces, like events, construction, or street vending.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Civic order regulation</string>
+        <string>Governs conduct in public spaces to ensure peace, safety, cleanliness, and respectful social interaction.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Historic preservation law</string>
+        <string>Protects buildings, sites, and landscapes of historical, cultural, or architectural significance from alteration or destruction.</string>
+      </text>
+    </Item>
   </Laws>
   <LawArticles>
     <string />
@@ -2683,6 +2761,17 @@
     <string>Cyber security force</string>
     <string>Tourist tax</string>
     <string>Supervision authority</string>
+    <string>Maintenance standard</string>
+    <string>Penalties for illegal dumping</string>
+    <string>Mandatory recycling provisions</string>
+    <string>Promote the historic city center</string>
+    <string>Neighborhood clean-up day</string>
+    <string>Sunday Market</string>
+    <string>Food truck license</string>
+    <string>Anti-Begging Ordinance</string>
+    <string>Nighttime Noise Restriction</string>
+    <string>Conserve heritage buildings</string>
+    <string>Designate archeological sites</string>
   </LawArticles>
   <LawCommas>
     <string />
@@ -2811,6 +2900,9 @@
     <string>Half majoritarian, half proportional</string>
     <string>Elective</string>
     <string>Non elective</string>
+    <string>Low</string>
+    <string>Average</string>
+    <string>High</string>
   </LawCommas>
   <Media>
     <string />
@@ -4053,6 +4145,12 @@
         <string>The total monetary or market value of all the finished goods and services produced within a country's borders in a specific time period.</string>
       </text>
     </Item>
+    <Item>
+      <text>
+        <string>Road condition</string>
+        <string>Rating that quantifies the overall condition and quality of a road surface, typically based on factors like surface distress, ride quality, and structural integrity.</string>
+      </text>
+    </Item>
   </Parameters>
   <Polls>
     <Item>
@@ -5122,12 +5220,12 @@
     <string>Mission failure</string>
     <string>Release an official statement</string>
     <string>Commission a poll</string>
-    <string>Propose a bill to committee</string>
+    <string>Propose a bill</string>
     <string>Not available in DEMO</string>
     <string>Launch missile</string>
     <string>Write a new bill</string>
     <string>1 lawmaker in a committee</string>
-    <string>Propose to remove law to committee</string>
+    <string>Propose to remove law</string>
     <string>Research complete</string>
     <string>Building complete</string>
     <string>In force</string>
@@ -5402,5 +5500,7 @@
     <string>Create new</string>
     <string>Distribute skill points to person</string>
     <string>Monarch resolution</string>
+    <string>Budget law</string>
+    <string>Disable local elections</string>
   </Text>
 </Data>
