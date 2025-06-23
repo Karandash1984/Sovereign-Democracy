@@ -3,9 +3,9 @@
     "name": "Sovereign Democracy",
     "description": "Russia mod",
     "author": "Karandash/PAKMAN",
-    "version": "1.4",
+    "version": "1.5",
     "fileVersion": 2,
-    "build": 3570
+    "build": 4058
   },
   "years": [
     1992,
@@ -36,6 +36,7 @@
     "disableConstitutional": false,
     "disableWar": false,
     "disableAI": false,
+    "disableLocalElections": false,
     "notLawImplementationTime": false
   },
   "banks": [],
@@ -105,11 +106,11 @@
       "id": 2
     },
     {
-      "type": 0,
+      "type": 4,
       "unique": true,
       "competence": 14,
-      "time": 0,
-      "price": 0,
+      "time": 7,
+      "price": 40,
       "research": {
         "year": 2000,
         "priority": 0
@@ -1399,7 +1400,20 @@
     {
       "population": 15.46,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1409,7 +1423,20 @@
     {
       "population": 1.35,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1419,7 +1446,20 @@
     {
       "population": 1.62,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1429,7 +1469,20 @@
     {
       "population": 8.31,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1439,7 +1492,20 @@
     {
       "population": 3.03,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1449,7 +1515,20 @@
     {
       "population": 0.57,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1459,7 +1538,20 @@
     {
       "population": 0.53,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1469,7 +1561,20 @@
     {
       "population": 1.15,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1479,7 +1584,20 @@
     {
       "population": 0.68,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1489,7 +1607,20 @@
     {
       "population": 0.35,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1499,7 +1630,20 @@
     {
       "population": 0.87,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1509,7 +1653,20 @@
     {
       "population": 0.57,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1519,7 +1676,20 @@
     {
       "population": 0.51,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1529,7 +1699,20 @@
     {
       "population": 1.35,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1539,7 +1722,20 @@
     {
       "population": 22.63,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1549,7 +1745,20 @@
     {
       "population": 5.67,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1559,7 +1768,20 @@
     {
       "population": 0.56,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1569,7 +1791,20 @@
     {
       "population": 0.0,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1579,7 +1814,20 @@
     {
       "population": 0.77,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1589,7 +1837,20 @@
     {
       "population": 0.45,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1599,7 +1860,20 @@
     {
       "population": 0.67,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1609,7 +1883,20 @@
     {
       "population": 3.12,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1619,7 +1906,20 @@
     {
       "population": 0.21,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1629,7 +1929,20 @@
     {
       "population": 0.65,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1639,7 +1952,20 @@
     {
       "population": 2.06,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1649,7 +1975,20 @@
     {
       "population": 10.29,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1659,7 +1998,20 @@
     {
       "population": 6.95,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1669,7 +2021,20 @@
     {
       "population": 1.06,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1679,7 +2044,20 @@
     {
       "population": 23.1,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1689,7 +2067,20 @@
     {
       "population": 29.9,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1699,7 +2090,20 @@
     {
       "population": 8.81,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1709,7 +2113,20 @@
     {
       "population": 11.4,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1719,7 +2136,20 @@
     {
       "population": 5.18,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1729,7 +2159,20 @@
     {
       "population": 5.3,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1739,7 +2182,20 @@
     {
       "population": 0.42,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1749,7 +2205,20 @@
     {
       "population": 1.99,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1759,7 +2228,20 @@
     {
       "population": 7.7,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1769,7 +2251,20 @@
     {
       "population": 1.83,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1779,7 +2274,20 @@
     {
       "population": 4.98,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1789,7 +2297,20 @@
     {
       "population": 1.15,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1799,7 +2320,20 @@
     {
       "population": 0.99,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1809,7 +2343,20 @@
     {
       "population": 0.98,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
@@ -1819,42 +2366,508 @@
     {
       "population": 0.72,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
       },
       "id": 88
     },
-	    {
-      "population": 0.90,
+    {
+      "population": 2.79,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
       },
-      "id": 91
+      "id": 89
     },
-	{
-      "population": 0.13,
+    {
+      "population": 1.76,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
       },
       "id": 90
     },
-	    {
-      "population": 0.20,
+    {
+      "population": 0.81,
       "gdpCapita": 0.0,
-      "laws": [],
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
       "coordinate": {
         "latitude": 0.0,
         "longitude": 0.0
       },
-      "id": 89
+      "id": 91
+    },
+    {
+      "population": 1.76,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 92
+    },
+    {
+      "population": 3.31,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 93
+    },
+    {
+      "population": 12.1,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 94
+    },
+    {
+      "population": 6.21,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 95
+    },
+    {
+      "population": 2.75,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 96
+    },
+    {
+      "population": 1.97,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 97
+    },
+    {
+      "population": 20.38,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 98
+    },
+    {
+      "population": 3.65,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 99
+    },
+    {
+      "population": 21.0,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 100
+    },
+    {
+      "population": 1.28,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 101
+    },
+    {
+      "population": 7.54,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 102
+    },
+    {
+      "population": 5.92,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 103
+    },
+    {
+      "population": 41.35,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 104
+    },
+    {
+      "population": 8.99,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 105
+    },
+    {
+      "population": 8.05,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 106
+    },
+    {
+      "population": 1.23,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 107
+    },
+    {
+      "population": 12.44,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 108
+    },
+    {
+      "population": 12.98,
+      "gdpCapita": 0.0,
+      "laws": [
+        {
+          "id": 41,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 109
     }
   ],
   "competences": [
@@ -6252,7 +7265,7 @@
     {
       "required": false,
       "order": 1000,
-      "level": 0,
+      "level": 1,
       "type": 1,
       "research": {
         "year": 2000,
@@ -9022,7 +10035,7 @@
         "science": 0,
         "knowledge": 0
       },
-      "federalLevel": 0,
+      "federalLevel": 1,
       "needs": 0,
       "nation": {
         "happiness": 0.0,
@@ -9122,7 +10135,7 @@
     {
       "required": false,
       "order": 1000,
-      "level": 0,
+      "level": 1,
       "type": 1,
       "research": {
         "year": 2000,
@@ -9733,8 +10746,25 @@
       },
       "competence": 14,
       "name": 0,
-      "articles": [],
-      "minArticles": 0,
+      "articles": [
+        {
+          "id": 236,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 237,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        }
+      ],
+      "minArticles": 1,
       "relation": {
         "cooperation": 0,
         "science": 0,
@@ -12000,6 +13030,318 @@
       "change": 0,
       "proposable": 0,
       "id": 104
+    },
+    {
+      "required": false,
+      "order": 1000,
+      "level": 2,
+      "type": 1,
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "competence": 13,
+      "name": 0,
+      "articles": [
+        {
+          "id": 235,
+          "required": true,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        }
+      ],
+      "minArticles": 1,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 106
+    },
+    {
+      "required": false,
+      "order": 1000,
+      "level": 2,
+      "type": 1,
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "competence": 14,
+      "name": 0,
+      "articles": [
+        {
+          "id": 238,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        }
+      ],
+      "minArticles": 1,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 107
+    },
+    {
+      "required": false,
+      "order": 1000,
+      "level": 2,
+      "type": 1,
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "competence": 18,
+      "name": 0,
+      "articles": [
+        {
+          "id": 239,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 240,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        }
+      ],
+      "minArticles": 1,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 108
+    },
+    {
+      "required": false,
+      "order": 1000,
+      "level": 2,
+      "type": 1,
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "competence": 14,
+      "name": 0,
+      "articles": [
+        {
+          "id": 241,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        }
+      ],
+      "minArticles": 1,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 109
+    },
+    {
+      "required": false,
+      "order": 1000,
+      "level": 2,
+      "type": 1,
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "competence": 21,
+      "name": 0,
+      "articles": [
+        {
+          "id": 242,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 243,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        }
+      ],
+      "minArticles": 1,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 110
+    },
+    {
+      "required": false,
+      "order": 1000,
+      "level": 1,
+      "type": 1,
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "competence": 18,
+      "name": 0,
+      "articles": [
+        {
+          "id": 244,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 245,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        }
+      ],
+      "minArticles": 1,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 111
     }
   ],
   "lawArticles": [
@@ -21890,6 +23232,428 @@
       "change": 0,
       "proposable": 0,
       "id": 234
+    },
+    {
+      "type": 1,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [
+        {
+          "id": 126,
+          "articles": [],
+          "commas": []
+        },
+        {
+          "id": 127,
+          "articles": [],
+          "commas": []
+        },
+        {
+          "id": 128,
+          "articles": [],
+          "commas": []
+        }
+      ],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 235
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": 1.0
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 24,
+            "value": 1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 236
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 11,
+            "value": 2.0,
+            "mode": 0
+          },
+          {
+            "id": 23,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 237
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 14,
+            "value": 2.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 238
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.5,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -0.5
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 11,
+            "value": 0.5,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 239
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 240
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 241
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 242
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 243
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.1,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -0.4
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 14,
+            "value": 1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 244
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.2,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -0.5
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 13,
+            "value": 1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 245
     }
   ],
   "lawCommas": [
@@ -25038,6 +26802,105 @@
       "change": 0,
       "proposable": 0,
       "id": 125
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -1.0
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 39,
+            "value": 1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 126
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -2.0
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 39,
+            "value": 2.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 127
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -3.0
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 39,
+            "value": 3.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 128
     }
   ],
   "media": [
@@ -52842,7 +54705,7 @@
       "id": 115
     },
     {
-      "mode": 0,
+      "mode": 2,
       "time": {
         "start": 1948,
         "end": 3000
@@ -53019,7 +54882,7 @@
               "id": 14,
               "intValue": 0,
               "floatValue": 0.0,
-              "stringValue": "TR",
+              "stringValue": "TUR",
               "boolValue": false
             },
             {
@@ -53031,14 +54894,14 @@
             },
             {
               "id": 13,
-              "intValue": 11,
+              "intValue": 13,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
             },
             {
               "id": 15,
-              "intValue": 23,
+              "intValue": 33,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
@@ -53447,9 +55310,27 @@
         }
       ],
       "nations": [],
-      "regions": [],
+      "regions": [
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524,
+        525,
+        526,
+        527,
+        528,
+        529,
+        530,
+        531,
+        532,
+        533,
+        534
+      ],
       "events": [],
-      "culture": 0,
+      "culture": 19,
       "predecessor": 0,
       "parameters": [],
       "ideologies": [],
@@ -62344,7 +64225,7 @@
       "color": "FF6347",
       "year": 0,
       "promise": 0,
-      "level": 3,
+      "level": -1,
       "id": 1
     },
     {
@@ -62434,7 +64315,7 @@
       "color": "FF0000",
       "year": 0,
       "promise": 0,
-      "level": 3,
+      "level": -1,
       "id": 6
     },
     {
@@ -62452,7 +64333,7 @@
       "color": "F4A460",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 3,
       "id": 7
     },
     {
@@ -62470,7 +64351,7 @@
       "color": "DAA520",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 3,
       "id": 8
     },
     {
@@ -62506,7 +64387,7 @@
       "color": "8E60FF",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 5,
       "id": 10
     },
     {
@@ -62524,7 +64405,7 @@
       "color": "9DE73C",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 5,
       "id": 11
     },
     {
@@ -62560,7 +64441,7 @@
       "color": "FFD700",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 5,
       "id": 13
     },
     {
@@ -62578,7 +64459,7 @@
       "color": "FFA07A",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 3,
       "id": 14
     },
     {
@@ -62596,7 +64477,7 @@
       "color": "DC143C",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": -1,
       "id": 15
     },
     {
@@ -62674,7 +64555,7 @@
       "color": "6A5ACD",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 3,
       "id": 19
     },
     {
@@ -62692,7 +64573,7 @@
       "color": "FF5656",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 1,
       "id": 20
     },
     {
@@ -62726,7 +64607,7 @@
       "measure": 18,
       "influence": [],
       "color": "00BFFF",
-      "year": 0,
+      "year": 1995,
       "promise": 0,
       "level": 0,
       "id": 22
@@ -62818,7 +64699,7 @@
       "color": "B22222",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 3,
       "id": 27
     },
     {
@@ -62836,7 +64717,7 @@
       "color": "8FBC8F",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 5,
       "id": 28
     },
     {
@@ -62854,7 +64735,7 @@
       "color": "F08080",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 3,
       "id": 29
     },
     {
@@ -62926,7 +64807,7 @@
       "color": "B3B3B3",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 5,
       "id": 33
     },
     {
@@ -63016,8 +64897,26 @@
       "color": "FFC0CB",
       "year": 0,
       "promise": 0,
-      "level": 0,
+      "level": 3,
       "id": 38
+    },
+    {
+      "mode": 1,
+      "group": 10,
+      "competence": 13,
+      "better": 1,
+      "min": 0.0,
+      "max": 100.0,
+      "median": 50.0,
+      "change": 3.0,
+      "value": 1,
+      "measure": 0,
+      "influence": [],
+      "color": "CFCFCF",
+      "year": 0,
+      "promise": 0,
+      "level": 5,
+      "id": 39
     }
   ],
   "parametersGroups": [
@@ -78277,12 +80176,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 2,
-          "value": 3
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -78384,7 +80278,12 @@
           ]
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "id": 2,
+          "value": 4
+        }
+      ],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -78638,7 +80537,7 @@
       "gdpCapita": 32.35,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 13,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -78671,12 +80570,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 2,
-          "value": 2
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [
@@ -78717,7 +80611,7 @@
       "gdpCapita": 35.7,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 13,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -78806,7 +80700,7 @@
       "gdpCapita": 26.34,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 13,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -78880,7 +80774,7 @@
       "gdpCapita": 24.97,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 13,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -78951,7 +80845,7 @@
       "gdpCapita": 22.51,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 13,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -78993,7 +80887,7 @@
       "resources": [
         {
           "id": 12,
-          "value": 2
+          "value": 1
         }
       ],
       "buildings": [],
@@ -79036,7 +80930,7 @@
       "gdpCapita": 22.2,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 13,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -79108,7 +81002,7 @@
       "gdpCapita": 23.98,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 13,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -79183,7 +81077,7 @@
       "gdpCapita": 33.12,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 13,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -79256,7 +81150,7 @@
       "gdpCapita": 41.04,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 13,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -79329,7 +81223,7 @@
       "gdpCapita": 27.3,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 13,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -79403,7 +81297,7 @@
       "gdpCapita": 28.4,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 13,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -79444,7 +81338,7 @@
       "resources": [
         {
           "id": 5,
-          "value": 3
+          "value": 2
         }
       ],
       "buildings": [],
@@ -79487,7 +81381,7 @@
       "gdpCapita": 26.96,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 13,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -79558,7 +81452,7 @@
       "gdpCapita": 28.02,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 13,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -79629,7 +81523,7 @@
       "gdpCapita": 32.06,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 13,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -79700,7 +81594,7 @@
       "gdpCapita": 36.85,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 13,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -79775,7 +81669,7 @@
       "gdpCapita": 39.13,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 13,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -79854,7 +81748,7 @@
       "gdpCapita": 24.4,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 13,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -81249,12 +83143,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 4,
-          "value": 1
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [
@@ -81581,8 +83470,8 @@
       ],
       "resources": [
         {
-          "id": 8,
-          "value": 2
+          "id": 2,
+          "value": 3
         }
       ],
       "buildings": [],
@@ -81670,12 +83559,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 2,
-          "value": 3
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [
@@ -82174,7 +84058,7 @@
       ],
       "resources": [
         {
-          "id": 13,
+          "id": 12,
           "value": 1
         }
       ],
@@ -82431,7 +84315,7 @@
       "resources": [
         {
           "id": 4,
-          "value": 3
+          "value": 1
         }
       ],
       "buildings": [],
@@ -82657,15 +84541,34 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 10,
-          "value": 2
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [],
+      "elections": [
+        {
+          "year": 2020,
+          "type": 3,
+          "turnout": 65.0,
+          "parties": [
+            {
+              "id": 21,
+              "percentage": 28.0
+            },
+            {
+              "id": 24,
+              "percentage": 15.0
+            },
+            {
+              "id": 23,
+              "percentage": 20.0
+            },
+            {
+              "id": 22,
+              "percentage": 20.0
+            }
+          ]
+        }
+      ],
       "events": [],
       "sea": false,
       "id": 65
@@ -82989,7 +84892,9 @@
         4819,
         4820
       ],
-      "cities": [],
+      "cities": [
+        92
+      ],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -83097,7 +85002,9 @@
         4846,
         4847
       ],
-      "cities": [],
+      "cities": [
+        23
+      ],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -83225,10 +85132,6 @@
         {
           "id": 12,
           "value": 3
-        },
-		{
-          "id": 9,
-          "value": 1
         }
       ],
       "buildings": [],
@@ -90020,11 +91923,45 @@
       "gdpCapita": 50.6,
       "area": 0.0,
       "code": "BC",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
-      "districts": [],
+      "districts": [
+        4959,
+        4960,
+        4961,
+        4962,
+        4963,
+        4964,
+        4965,
+        4966,
+        4967,
+        4968,
+        4969,
+        4970,
+        4971,
+        4972,
+        4973,
+        4974,
+        4975,
+        4976,
+        4977,
+        4978,
+        4979,
+        4980,
+        4981,
+        4982,
+        4983,
+        4984,
+        4985,
+        4986,
+        4987,
+        4988,
+        4989,
+        4990,
+        4991
+      ],
       "cities": [],
       "culture": [],
       "constitution": [],
@@ -90055,11 +91992,39 @@
       "gdpCapita": 67.4,
       "area": 0.0,
       "code": "AB",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
-      "districts": [],
+      "districts": [
+        4992,
+        4993,
+        4994,
+        4995,
+        4996,
+        4997,
+        4998,
+        4999,
+        5000,
+        5001,
+        5002,
+        5003,
+        5004,
+        5005,
+        5006,
+        5007,
+        5008,
+        5009,
+        5010,
+        5011,
+        5012,
+        5013,
+        5014,
+        5015,
+        5016,
+        5017,
+        5018
+      ],
       "cities": [],
       "culture": [],
       "constitution": [],
@@ -90090,11 +92055,26 @@
       "gdpCapita": 58.9,
       "area": 0.0,
       "code": "SK",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
-      "districts": [],
+      "districts": [
+        5019,
+        5020,
+        5021,
+        5022,
+        5023,
+        5024,
+        5025,
+        5026,
+        5027,
+        5028,
+        5029,
+        5030,
+        5031,
+        5032
+      ],
       "cities": [],
       "culture": [],
       "constitution": [],
@@ -90125,11 +92105,27 @@
       "gdpCapita": 44.94,
       "area": 0.0,
       "code": "MB",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
-      "districts": [],
+      "districts": [
+        5033,
+        5034,
+        5035,
+        5036,
+        5037,
+        5038,
+        5039,
+        5040,
+        5041,
+        5042,
+        5043,
+        5044,
+        5045,
+        5046,
+        5047
+      ],
       "cities": [],
       "culture": [],
       "constitution": [],
@@ -90160,13 +92156,94 @@
       "gdpCapita": 51.12,
       "area": 0.0,
       "code": "ON",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
-      "districts": [],
+      "districts": [
+        4945,
+        4946,
+        4947,
+        4948,
+        4949,
+        4950,
+        4951,
+        4952,
+        4953,
+        4954,
+        4955,
+        4956,
+        4957,
+        4958,
+        5048,
+        5049,
+        5050,
+        5051,
+        5052,
+        5053,
+        5054,
+        5055,
+        5056,
+        5057,
+        5058,
+        5059,
+        5060,
+        5061,
+        5062,
+        5063,
+        5064,
+        5065,
+        5066,
+        5067,
+        5068,
+        5069,
+        5070,
+        5071,
+        5072,
+        5073,
+        5074,
+        5075,
+        5076,
+        5077,
+        5078,
+        5079,
+        5080,
+        5081,
+        5082,
+        5083,
+        5084,
+        5085,
+        5086,
+        5087,
+        5088,
+        5089,
+        5090,
+        5091,
+        5092,
+        5093,
+        5094,
+        5095,
+        5096,
+        5097,
+        5098,
+        5099,
+        5100,
+        5101,
+        5102,
+        5103,
+        5104,
+        5105,
+        5106,
+        5107,
+        5108,
+        5109,
+        5110,
+        5111,
+        5112
+      ],
       "cities": [
-        25
+        25,
+        89
       ],
       "culture": [],
       "constitution": [],
@@ -90197,13 +92274,88 @@
       "gdpCapita": 45.15,
       "area": 0.0,
       "code": "QC",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
-      "districts": [],
-      "cities": [],
-      "culture": [],
+      "districts": [
+        4892,
+        4893,
+        4894,
+        4895,
+        4896,
+        4897,
+        4898,
+        4899,
+        4900,
+        4901,
+        4902,
+        4903,
+        4904,
+        4905,
+        4906,
+        4907,
+        4908,
+        4909,
+        4910,
+        4911,
+        4912,
+        4913,
+        4914,
+        4915,
+        4916,
+        4917,
+        4918,
+        4919,
+        4920,
+        4921,
+        4922,
+        4923,
+        4924,
+        4925,
+        4926,
+        4927,
+        4928,
+        4929,
+        4930,
+        4931,
+        4932,
+        4933,
+        4934,
+        4935,
+        4936,
+        4937,
+        4938,
+        4939,
+        4940,
+        4941,
+        4942,
+        4943,
+        4944,
+        5114,
+        5115,
+        5116,
+        5117,
+        5118,
+        5119,
+        5120,
+        5121,
+        5122,
+        5123,
+        5124,
+        5125,
+        5126
+      ],
+      "cities": [
+        90
+      ],
+      "culture": [
+        {
+          "id": 4,
+          "value": 100.0,
+          "mode": 0
+        }
+      ],
       "constitution": [],
       "laws": [
         {
@@ -90232,11 +92384,22 @@
       "gdpCapita": 41.03,
       "area": 0.0,
       "code": "NB",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
-      "districts": [],
+      "districts": [
+        5127,
+        5128,
+        5129,
+        5130,
+        5131,
+        5132,
+        5133,
+        5134,
+        5135,
+        5136
+      ],
       "cities": [],
       "culture": [],
       "constitution": [],
@@ -90267,11 +92430,25 @@
       "gdpCapita": 40.05,
       "area": 0.0,
       "code": "NS",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
-      "districts": [],
+      "districts": [
+        4887,
+        4888,
+        4889,
+        4890,
+        4891,
+        5137,
+        5138,
+        5139,
+        5140,
+        5141,
+        5142,
+        5143,
+        5144
+      ],
       "cities": [],
       "culture": [],
       "constitution": [],
@@ -90302,11 +92479,14 @@
       "gdpCapita": 39.88,
       "area": 0.0,
       "code": "PE",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
-      "districts": [],
+      "districts": [
+        5145,
+        5146
+      ],
       "cities": [],
       "culture": [],
       "constitution": [],
@@ -90337,11 +92517,20 @@
       "gdpCapita": 56.3,
       "area": 0.0,
       "code": "NL",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
-      "districts": [],
+      "districts": [
+        4880,
+        4881,
+        4882,
+        4883,
+        4884,
+        4885,
+        4886,
+        5147
+      ],
       "cities": [],
       "culture": [],
       "constitution": [],
@@ -90359,7 +92548,12 @@
           ]
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "id": 2,
+          "value": 3
+        }
+      ],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -90372,11 +92566,13 @@
       "gdpCapita": 63.4,
       "area": 0.0,
       "code": "YT",
-      "identity": 0,
+      "identity": 14,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
-      "districts": [],
+      "districts": [
+        5148
+      ],
       "cities": [],
       "culture": [],
       "constitution": [],
@@ -90407,11 +92603,13 @@
       "gdpCapita": 84.1,
       "area": 0.0,
       "code": "NT",
-      "identity": 0,
+      "identity": 14,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
-      "districts": [],
+      "districts": [
+        5149
+      ],
       "cities": [],
       "culture": [],
       "constitution": [],
@@ -90429,7 +92627,12 @@
           ]
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "id": 14,
+          "value": 4
+        }
+      ],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -90442,11 +92645,13 @@
       "gdpCapita": 79.65,
       "area": 0.0,
       "code": "NU",
-      "identity": 0,
+      "identity": 14,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
-      "districts": [],
+      "districts": [
+        4879
+      ],
       "cities": [],
       "culture": [],
       "constitution": [],
@@ -90499,12 +92704,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 16,
-          "value": 1
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -90729,11 +92929,28 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
-      "districts": [],
+      "districts": [
+        5447,
+        5448,
+        5449,
+        5450,
+        5451,
+        5452,
+        5453,
+        5454,
+        5455,
+        5456,
+        5457,
+        5458,
+        5459,
+        5460,
+        5461,
+        5462
+      ],
       "cities": [],
       "culture": [],
       "constitution": [],
@@ -90751,12 +92968,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 16,
-          "value": 3
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -90769,11 +92981,22 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
-      "districts": [],
+      "districts": [
+        5463,
+        5464,
+        5465,
+        5466,
+        5467,
+        5468,
+        5469,
+        5470,
+        5471,
+        5472
+      ],
       "cities": [],
       "culture": [],
       "constitution": [],
@@ -90804,11 +93027,14 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 14,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
-      "districts": [],
+      "districts": [
+        5473,
+        5474
+      ],
       "cities": [],
       "culture": [],
       "constitution": [],
@@ -90839,11 +93065,17 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
-      "districts": [],
+      "districts": [
+        5475,
+        5476,
+        5477,
+        5478,
+        5479
+      ],
       "cities": [],
       "culture": [],
       "constitution": [],
@@ -90874,14 +93106,52 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
-      "districts": [],
-      "cities": [
-	  79
-	  ],
+      "districts": [
+        5480,
+        5481,
+        5482,
+        5483,
+        5484,
+        5485,
+        5486,
+        5487,
+        5488,
+        5489,
+        5490,
+        5491,
+        5492,
+        5493,
+        5494,
+        5495,
+        5496,
+        5497,
+        5498,
+        5499,
+        5500,
+        5501,
+        5502,
+        5503,
+        5504,
+        5505,
+        5506,
+        5507,
+        5508,
+        5509,
+        5510,
+        5511,
+        5512,
+        5513,
+        5514,
+        5515,
+        5516,
+        5517,
+        5518
+      ],
+      "cities": [],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -90911,14 +93181,18 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 14,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
-      "districts": [],
+      "districts": [
+        5519,
+        5520,
+        5521
+      ],
       "cities": [
-	  26
-	  ],
+        26
+      ],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -90948,53 +93222,54 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
-      "districts": [],
-      "cities": [
-	  78
-	  ],
-      "culture": [],
-      "constitution": [],
-      "laws": [
-        {
-          "id": 40,
-          "articles": [
-            {
-              "id": 3,
-              "intValue": 15,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            }
-          ]
-        }
+      "districts": [
+        5431,
+        5432,
+        5433,
+        5434,
+        5435,
+        5436,
+        5437,
+        5438,
+        5439,
+        5440,
+        5441,
+        5442,
+        5443,
+        5444,
+        5445,
+        5446,
+        5522,
+        5523,
+        5524,
+        5525,
+        5526,
+        5527,
+        5528,
+        5529,
+        5530,
+        5531,
+        5532,
+        5533,
+        5534,
+        5535,
+        5536,
+        5537,
+        5538,
+        5539,
+        5540,
+        5541,
+        5542,
+        5543,
+        5544,
+        5545,
+        5546,
+        5547
       ],
-      "resources": [
-        {
-          "id": 9,
-          "value": 1
-        }
-      ],
-      "buildings": [],
-      "ideologies": [],
-      "elections": [],
-      "events": [],
-      "sea": true,
-      "id": 154
-    },
-    {
-      "population": 0.0,
-      "gdpCapita": 0.0,
-      "area": 0.0,
-      "code": "",
-      "identity": 0,
-      "mountainous": 0,
-      "fertility": 0,
-      "climate": 0,
-      "districts": [],
       "cities": [],
       "culture": [],
       "constitution": [],
@@ -91012,12 +93287,69 @@
           ]
         }
       ],
-      "resources": [
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 154
+    },
+    {
+      "population": 0.0,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 2,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5405,
+        5406,
+        5407,
+        5408,
+        5409,
+        5410,
+        5411,
+        5412,
+        5413,
+        5414,
+        5415,
+        5416,
+        5417,
+        5418,
+        5419,
+        5420,
+        5421,
+        5422,
+        5423,
+        5424,
+        5425,
+        5426,
+        5427,
+        5428,
+        5429,
+        5430
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
         {
-          "id": 3,
-          "value": 2
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
         }
       ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -91030,7 +93362,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 5,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -91065,7 +93397,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 5,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -91100,7 +93432,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 5,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -91137,7 +93469,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 5,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -91172,7 +93504,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 5,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -91200,12 +93532,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 11,
-          "value": 1
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -91218,7 +93545,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 5,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -91253,7 +93580,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 5,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -91288,7 +93615,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 5,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -91415,12 +93742,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 3,
-          "value": 3
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -91632,12 +93954,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 9,
-          "value": 1
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -91655,9 +93972,7 @@
       "fertility": 0,
       "climate": 0,
       "districts": [],
-      "cities": [
-	  89
-],
+      "cities": [],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -91692,9 +94007,7 @@
       "fertility": 0,
       "climate": 0,
       "districts": [],
-      "cities": [
-	  90
-	  ],
+      "cities": [],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -91724,7 +94037,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -91759,7 +94072,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -91781,12 +94094,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 3,
-          "value": 2
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -91799,7 +94107,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -91839,7 +94147,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -91874,7 +94182,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -91909,7 +94217,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -91944,7 +94252,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -91979,7 +94287,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92014,7 +94322,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92049,7 +94357,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92084,7 +94392,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92119,7 +94427,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92154,7 +94462,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92189,7 +94497,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92224,7 +94532,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92259,7 +94567,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92294,7 +94602,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92329,7 +94637,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92364,7 +94672,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92399,7 +94707,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92434,12 +94742,14 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
       "districts": [],
-      "cities": [],
+      "cities": [
+        27
+      ],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -92469,7 +94779,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92504,7 +94814,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92539,7 +94849,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92561,12 +94871,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 10,
-          "value": 1
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -92579,7 +94884,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92614,7 +94919,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92649,7 +94954,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92684,7 +94989,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92719,7 +95024,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92741,12 +95046,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 8,
-          "value": 2
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -92759,7 +95059,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92794,7 +95094,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92829,7 +95129,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92864,7 +95164,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92899,7 +95199,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92934,7 +95234,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -92969,7 +95269,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -93004,14 +95304,12 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
       "districts": [],
-      "cities": [
-	  91
-	  ],
+      "cities": [],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -93028,12 +95326,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 8,
-          "value": 1
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -93046,7 +95339,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -93081,7 +95374,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -93116,7 +95409,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -93151,7 +95444,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -93186,7 +95479,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -93221,7 +95514,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -93256,7 +95549,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -93291,7 +95584,7 @@
       "gdpCapita": 47.29,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -93355,8 +95648,8 @@
       ],
       "resources": [
         {
-          "id": 3,
-          "value": 4
+          "id": 1,
+          "value": 2
         }
       ],
       "buildings": [],
@@ -93434,7 +95727,7 @@
       "gdpCapita": 57.01,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -93510,7 +95803,7 @@
       "resources": [
         {
           "id": 10,
-          "value": 5
+          "value": 2
         }
       ],
       "buildings": [],
@@ -93588,7 +95881,7 @@
       "gdpCapita": 36.68,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -93691,7 +95984,7 @@
       "gdpCapita": 35.45,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -93806,7 +96099,7 @@
       "gdpCapita": 39.67,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -93972,7 +96265,7 @@
       "gdpCapita": 38.42,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -94026,12 +96319,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 1,
-          "value": 2
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [
@@ -94107,7 +96395,7 @@
       "gdpCapita": 58.06,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -94209,7 +96497,7 @@
       "gdpCapita": 46.92,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -94330,7 +96618,7 @@
       "gdpCapita": 35.25,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -94437,7 +96725,7 @@
       "gdpCapita": 37.1,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -94477,8 +96765,8 @@
       ],
       "resources": [
         {
-          "id": 16,
-          "value": 1
+          "id": 3,
+          "value": 4
         }
       ],
       "buildings": [],
@@ -94556,7 +96844,7 @@
       "gdpCapita": 33.97,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -94664,7 +96952,7 @@
       "gdpCapita": 41.96,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -94777,7 +97065,7 @@
       "gdpCapita": 34.85,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -94886,7 +97174,7 @@
       "gdpCapita": 78.9,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -94993,7 +97281,7 @@
       "gdpCapita": 39.77,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -95027,7 +97315,12 @@
           ]
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "id": 2,
+          "value": 2
+        }
+      ],
       "buildings": [],
       "ideologies": [],
       "elections": [
@@ -95103,7 +97396,7 @@
       "gdpCapita": 34.14,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -95208,7 +97501,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -95243,7 +97536,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -95278,7 +97571,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -95313,7 +97606,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -95348,7 +97641,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -95383,7 +97676,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -95405,12 +97698,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 1,
-          "value": 3
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -95423,7 +97711,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -95458,7 +97746,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -95493,7 +97781,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -95622,12 +97910,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 4,
-          "value": 1
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -95977,12 +98260,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 5,
-          "value": 4
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -96030,7 +98308,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96052,12 +98330,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 3,
-          "value": 1
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -96070,7 +98343,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96105,7 +98378,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96140,7 +98413,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96175,7 +98448,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96197,12 +98470,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 2,
-          "value": 3
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -96215,7 +98483,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96250,7 +98518,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96285,7 +98553,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96320,7 +98588,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96355,7 +98623,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96390,7 +98658,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96412,12 +98680,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 14,
-          "value": 2
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -96430,7 +98693,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96465,7 +98728,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96502,7 +98765,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96537,7 +98800,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96572,7 +98835,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96607,7 +98870,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96642,7 +98905,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96677,7 +98940,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96712,7 +98975,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96747,7 +99010,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96782,7 +99045,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96817,7 +99080,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96852,7 +99115,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96887,7 +99150,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 15,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96922,7 +99185,7 @@
       "gdpCapita": 4.8,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96957,7 +99220,7 @@
       "gdpCapita": 6.56,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -96992,7 +99255,7 @@
       "gdpCapita": 6.2,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97027,7 +99290,7 @@
       "gdpCapita": 5.3,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97062,7 +99325,7 @@
       "gdpCapita": 6.33,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97097,7 +99360,7 @@
       "gdpCapita": 4.78,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97132,7 +99395,7 @@
       "gdpCapita": 5.9,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97167,7 +99430,7 @@
       "gdpCapita": 3.5,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97202,7 +99465,7 @@
       "gdpCapita": 10.7,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97237,7 +99500,7 @@
       "gdpCapita": 3.69,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97272,7 +99535,7 @@
       "gdpCapita": 4.4,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97307,7 +99570,7 @@
       "gdpCapita": 6.75,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97342,7 +99605,7 @@
       "gdpCapita": 4.2,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97377,7 +99640,7 @@
       "gdpCapita": 5.09,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97412,7 +99675,7 @@
       "gdpCapita": 4.22,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97447,7 +99710,7 @@
       "gdpCapita": 4.91,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97482,7 +99745,7 @@
       "gdpCapita": 4.85,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97517,7 +99780,7 @@
       "gdpCapita": 7.78,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97552,12 +99815,14 @@
       "gdpCapita": 22.67,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
       "districts": [],
-      "cities": [],
+      "cities": [
+        50
+      ],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -97587,7 +99852,7 @@
       "gdpCapita": 9.8,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97622,7 +99887,7 @@
       "gdpCapita": 13.26,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97657,7 +99922,7 @@
       "gdpCapita": 16.14,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97692,7 +99957,7 @@
       "gdpCapita": 18.4,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97727,7 +99992,7 @@
       "gdpCapita": 27.1,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97762,7 +100027,7 @@
       "gdpCapita": 17.98,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97797,7 +100062,7 @@
       "gdpCapita": 19.08,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97832,7 +100097,7 @@
       "gdpCapita": 18.1,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97867,7 +100132,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 8,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97894,8 +100159,8 @@
       ],
       "resources": [
         {
-          "id": 14,
-          "value": 3
+          "id": 9,
+          "value": 2
         }
       ],
       "buildings": [],
@@ -97910,7 +100175,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 8,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97948,7 +100213,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 8,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -97973,7 +100238,12 @@
           ]
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "id": 15,
+          "value": 2
+        }
+      ],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -97986,7 +100256,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 8,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98023,7 +100293,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 8,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98066,7 +100336,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 8,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98104,7 +100374,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 8,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98141,7 +100411,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 8,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98180,7 +100450,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 8,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98217,7 +100487,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 8,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98246,12 +100516,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 9,
-          "value": 2
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -98264,7 +100529,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 8,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98303,7 +100568,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 8,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98332,12 +100597,8 @@
       ],
       "resources": [
         {
-          "id": 1,
+          "id": 14,
           "value": 3
-        },
-		        {
-          "id": 15,
-          "value": 2
         }
       ],
       "buildings": [],
@@ -98352,7 +100613,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 8,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98390,7 +100651,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 8,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98427,7 +100688,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 8,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98465,7 +100726,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 8,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98475,7 +100736,9 @@
         4811,
         4812
       ],
-      "cities": [],
+      "cities": [
+        91
+      ],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -98505,7 +100768,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98540,7 +100803,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98575,7 +100838,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98610,7 +100873,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98645,7 +100908,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98680,7 +100943,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98715,7 +100978,7 @@
       "gdpCapita": 35.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98752,7 +101015,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98787,7 +101050,7 @@
       "gdpCapita": 50.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98824,7 +101087,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98864,7 +101127,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98899,7 +101162,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98934,7 +101197,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -98969,7 +101232,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99004,7 +101267,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99039,7 +101302,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99074,7 +101337,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99109,7 +101372,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99144,7 +101407,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99179,7 +101442,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99214,7 +101477,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99256,7 +101519,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99291,7 +101554,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99326,7 +101589,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 4,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99361,7 +101624,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 4,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99401,7 +101664,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 4,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99436,7 +101699,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 4,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99471,7 +101734,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 4,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99506,7 +101769,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 4,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99541,7 +101804,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 4,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99576,7 +101839,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 4,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99611,7 +101874,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 4,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99646,7 +101909,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 4,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99681,7 +101944,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 4,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99716,7 +101979,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 4,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99751,7 +102014,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 4,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99786,7 +102049,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 9,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99821,7 +102084,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 10,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99856,7 +102119,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99891,7 +102154,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99926,7 +102189,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99961,7 +102224,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 4,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -99996,7 +102259,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100031,7 +102294,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 9,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100066,7 +102329,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100101,7 +102364,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100136,7 +102399,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100171,7 +102434,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100206,7 +102469,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100241,7 +102504,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100276,7 +102539,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100311,7 +102574,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100346,7 +102609,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100381,7 +102644,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 4,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100416,7 +102679,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100451,7 +102714,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 9,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100486,7 +102749,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 10,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100521,7 +102784,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 10,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100561,7 +102824,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100596,7 +102859,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100631,7 +102894,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100666,7 +102929,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100701,7 +102964,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100741,7 +103004,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100776,7 +103039,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 9,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100811,7 +103074,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 9,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100851,7 +103114,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 4,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100886,7 +103149,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 10,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100921,7 +103184,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100956,7 +103219,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 9,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100991,7 +103254,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101026,7 +103289,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101061,7 +103324,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 9,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101096,7 +103359,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 9,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101131,7 +103394,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 3,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101166,7 +103429,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 4,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101201,7 +103464,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 9,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101236,7 +103499,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 4,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101271,7 +103534,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 4,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101306,7 +103569,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 4,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101341,7 +103604,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 4,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101376,7 +103639,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101411,7 +103674,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101446,14 +103709,12 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
       "districts": [],
-      "cities": [
-	  75
-	  ],
+      "cities": [],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -101483,7 +103744,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101505,12 +103766,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 12,
-          "value": 3
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -101523,7 +103779,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101545,12 +103801,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 11,
-          "value": 2
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -101563,7 +103814,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101633,7 +103884,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101668,7 +103919,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101703,7 +103954,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101738,7 +103989,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101773,7 +104024,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101808,7 +104059,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 11,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101843,7 +104094,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101865,12 +104116,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 8,
-          "value": 1
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -101883,7 +104129,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101918,7 +104164,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101953,7 +104199,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101975,12 +104221,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 9,
-          "value": 3
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -101993,7 +104234,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102028,7 +104269,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102063,7 +104304,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102098,7 +104339,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102168,7 +104409,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102203,7 +104444,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102225,12 +104466,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 3,
-          "value": 3
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -102243,7 +104479,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102278,7 +104514,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102313,7 +104549,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102348,7 +104584,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102383,7 +104619,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102440,12 +104676,7 @@
           ]
         }
       ],
-     "resources": [
-        {
-          "id": 13,
-          "value": 1
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -102493,7 +104724,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102528,7 +104759,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102563,7 +104794,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102598,7 +104829,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102633,7 +104864,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102655,12 +104886,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 1,
-          "value": 3
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -102673,7 +104899,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102708,7 +104934,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102743,7 +104969,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102778,7 +105004,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102813,7 +105039,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102848,7 +105074,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102883,7 +105109,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102918,7 +105144,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102953,7 +105179,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -102975,12 +105201,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 8,
-          "value": 1
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -102993,7 +105214,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -103028,7 +105249,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -103063,7 +105284,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -103098,7 +105319,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -103133,7 +105354,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -103168,7 +105389,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -103203,7 +105424,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -103225,12 +105446,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 13,
-          "value": 1
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -103243,7 +105459,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -103278,7 +105494,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -103313,7 +105529,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -103348,7 +105564,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -103383,7 +105599,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -103418,7 +105634,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -103453,7 +105669,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -103488,7 +105704,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -103523,7 +105739,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -103545,12 +105761,7 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 11,
-          "value": 2
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -103563,7 +105774,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -103598,7 +105809,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -103633,7 +105844,7 @@
       "gdpCapita": 3.5,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -103668,7 +105879,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -103703,7 +105914,7 @@
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 2,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -103732,6 +105943,878 @@
       "events": [],
       "sea": false,
       "id": 473
+    },
+    {
+      "population": 9.5,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 1,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5162,
+        5163,
+        5164,
+        5165,
+        5166,
+        5167,
+        5168,
+        5169,
+        5170,
+        5171,
+        5172,
+        5173,
+        5174,
+        5175,
+        5176,
+        5177,
+        5178,
+        5179,
+        5180,
+        5181,
+        5182,
+        5183,
+        5184,
+        5185,
+        5186,
+        5187,
+        5188,
+        5189,
+        5190,
+        5191,
+        5192,
+        5193,
+        5194,
+        5195,
+        5196,
+        5197,
+        5198,
+        5199,
+        5200,
+        5367,
+        5368,
+        5369,
+        5370,
+        5371,
+        5372,
+        5373,
+        5374,
+        5375,
+        5376,
+        5377,
+        5378,
+        5379
+      ],
+      "cities": [
+        33
+      ],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 518
+    },
+    {
+      "population": 3.34,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 1,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5205,
+        5206,
+        5207,
+        5208,
+        5209,
+        5210,
+        5211,
+        5212,
+        5213,
+        5214,
+        5215,
+        5216,
+        5217,
+        5218,
+        5219,
+        5220,
+        5221
+      ],
+      "cities": [
+        93
+      ],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 519
+    },
+    {
+      "population": 2.4,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 1,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5161,
+        5385,
+        5386,
+        5387,
+        5388,
+        5389,
+        5390,
+        5391,
+        5392,
+        5393,
+        5394,
+        5395,
+        5396
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 520
+    },
+    {
+      "population": 2.94,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 1,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5326,
+        5327,
+        5328,
+        5329,
+        5330,
+        5331,
+        5332,
+        5333,
+        5334,
+        5335,
+        5336,
+        5337,
+        5338,
+        5339,
+        5340,
+        5341,
+        5342,
+        5343,
+        5344
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 521
+    },
+    {
+      "population": 1.47,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 1,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5237,
+        5238,
+        5239,
+        5240,
+        5241,
+        5242,
+        5243,
+        5244
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 522
+    },
+    {
+      "population": 1.48,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 1,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5222,
+        5223,
+        5224,
+        5225,
+        5226,
+        5227,
+        5228
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 523
+    },
+    {
+      "population": 1.13,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 1,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5380,
+        5381,
+        5382,
+        5383,
+        5384
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 524
+    },
+    {
+      "population": 0.34,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 1,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5365,
+        5366
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 525
+    },
+    {
+      "population": 13.51,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 1,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5201,
+        5202,
+        5203,
+        5204,
+        5245,
+        5246,
+        5247,
+        5248,
+        5249,
+        5250,
+        5251,
+        5252,
+        5253,
+        5254,
+        5255,
+        5256,
+        5257,
+        5258,
+        5259,
+        5260,
+        5261,
+        5262,
+        5263,
+        5264,
+        5265,
+        5266,
+        5267,
+        5268,
+        5269,
+        5270,
+        5271,
+        5272,
+        5273,
+        5274,
+        5275,
+        5276,
+        5277,
+        5278,
+        5279,
+        5280,
+        5281,
+        5282,
+        5283,
+        5284,
+        5285,
+        5286,
+        5287,
+        5288,
+        5289,
+        5290,
+        5291,
+        5292,
+        5293,
+        5294,
+        5295,
+        5296
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 526
+    },
+    {
+      "population": 1.52,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 1,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5229,
+        5230,
+        5231,
+        5232,
+        5233,
+        5234,
+        5235,
+        5236
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 527
+    },
+    {
+      "population": 1.63,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 1,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5397,
+        5398,
+        5399,
+        5400,
+        5401,
+        5402,
+        5403,
+        5404
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 528
+    },
+    {
+      "population": 2.17,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 1,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5113,
+        5150,
+        5151,
+        5152,
+        5153,
+        5154,
+        5155,
+        5156,
+        5157,
+        5158,
+        5159,
+        5160
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 529
+    },
+    {
+      "population": 1.8,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 1,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5355,
+        5356,
+        5357,
+        5358,
+        5359,
+        5360,
+        5361,
+        5362,
+        5363,
+        5364
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 530
+    },
+    {
+      "population": 1.78,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 1,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5346,
+        5347,
+        5348,
+        5349,
+        5350,
+        5351,
+        5352,
+        5353,
+        5354
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 531
+    },
+    {
+      "population": 2.64,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 1,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5297,
+        5298,
+        5299,
+        5300,
+        5301,
+        5302,
+        5303,
+        5304,
+        5305,
+        5306,
+        5307,
+        5308
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 532
+    },
+    {
+      "population": 3.33,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 1,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5309,
+        5310,
+        5311,
+        5312,
+        5313,
+        5314,
+        5315,
+        5316,
+        5317,
+        5318,
+        5319,
+        5320,
+        5321,
+        5322,
+        5323,
+        5324,
+        5325
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 533
+    },
+    {
+      "population": 0.67,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 1,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5345
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 534
     }
   ],
   "religions": [],
@@ -103739,81 +106822,97 @@
     {
       "type": 0,
       "year": 0,
+      "climate": 0,
       "id": 1
     },
     {
       "type": 0,
       "year": 0,
+      "climate": 0,
       "id": 2
     },
     {
       "type": 0,
       "year": 0,
+      "climate": 0,
       "id": 3
     },
     {
       "type": 0,
       "year": 0,
+      "climate": 0,
       "id": 4
     },
     {
       "type": 0,
       "year": 0,
+      "climate": 0,
       "id": 5
     },
     {
       "type": 3,
       "year": 0,
+      "climate": 0,
       "id": 6
     },
     {
       "type": 3,
       "year": 0,
+      "climate": 0,
       "id": 7
     },
     {
       "type": 1,
       "year": 0,
+      "climate": 0,
       "id": 8
     },
     {
       "type": 1,
       "year": 0,
+      "climate": 0,
       "id": 9
     },
     {
       "type": 2,
       "year": 0,
+      "climate": 0,
       "id": 10
     },
     {
       "type": 2,
       "year": 1995,
+      "climate": 0,
       "id": 11
     },
     {
       "type": 2,
       "year": 0,
+      "climate": 0,
       "id": 12
     },
     {
       "type": 1,
       "year": 0,
+      "climate": 0,
       "id": 13
     },
     {
       "type": 1,
       "year": 0,
+      "climate": 0,
       "id": 14
     },
     {
       "type": 2,
       "year": 0,
+      "climate": 0,
       "id": 15
     },
     {
       "type": 1,
       "year": 1990,
+      "climate": 0,
       "id": 16
     }
   ],
