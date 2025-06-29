@@ -11,7 +11,7 @@
     1992,
 	2025
   ],
-  "yearReference": 2025,
+  "yearReference": 2022,
   "customGameRules": false,
   "gameRules": {
     "preset": 0,
@@ -23460,12 +23460,24 @@
       "nation": {
         "happiness": 0.0,
         "science": 0.0,
-        "finance": [],
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -0.5
+          }
+        ],
         "military": {
           "defence": 0,
           "manPower": 0.0
         },
-        "parameters": [],
+        "parameters": [
+          {
+            "id": 28,
+            "value": 1.0,
+            "mode": 0
+          }
+        ],
         "resources": [],
         "events": [],
         "reputation": 0,
@@ -23491,12 +23503,24 @@
       "nation": {
         "happiness": 0.0,
         "science": 0.0,
-        "finance": [],
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": 1.0
+          }
+        ],
         "military": {
           "defence": 0,
           "manPower": 0.0
         },
-        "parameters": [],
+        "parameters": [
+          {
+            "id": 28,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
         "resources": [],
         "events": [],
         "reputation": 0,
@@ -23520,14 +23544,20 @@
       },
       "dependencies": [],
       "nation": {
-        "happiness": 0.0,
+        "happiness": -0.2,
         "science": 0.0,
         "finance": [],
         "military": {
           "defence": 0,
           "manPower": 0.0
         },
-        "parameters": [],
+        "parameters": [
+          {
+            "id": 5,
+            "value": -2.0,
+            "mode": 0
+          }
+        ],
         "resources": [],
         "events": [],
         "reputation": 0,
@@ -23551,14 +23581,20 @@
       },
       "dependencies": [],
       "nation": {
-        "happiness": 0.0,
+        "happiness": 0.3,
         "science": 0.0,
         "finance": [],
         "military": {
           "defence": 0,
           "manPower": 0.0
         },
-        "parameters": [],
+        "parameters": [
+          {
+            "id": 13,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
         "resources": [],
         "events": [],
         "reputation": 0,
@@ -92678,7 +92714,7 @@
       "id": 140
     },
     {
-      "population": 0.0,
+      "population": 3.69,
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
@@ -92713,7 +92749,7 @@
       "id": 141
     },
     {
-      "population": 0.0,
+      "population": 1.72,
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
@@ -92748,7 +92784,7 @@
       "id": 142
     },
     {
-      "population": 0.0,
+      "population": 2.15,
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
@@ -92785,7 +92821,7 @@
       "id": 143
     },
     {
-      "population": 2.0,
+      "population": 0.47,
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
@@ -92820,7 +92856,7 @@
       "id": 144
     },
     {
-      "population": 0.0,
+      "population": 0.49,
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
@@ -92855,7 +92891,7 @@
       "id": 145
     },
     {
-      "population": 0.0,
+      "population": 0.25,
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
@@ -92890,7 +92926,7 @@
       "id": 146
     },
     {
-      "population": 0.0,
+      "population": 0.24,
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
@@ -92925,10 +92961,10 @@
       "id": 147
     },
     {
-      "population": 0.0,
+      "population": 2.87,
       "gdpCapita": 0.0,
       "area": 0.0,
-      "code": "",
+      "code": "WA",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
@@ -92977,10 +93013,10 @@
       "id": 148
     },
     {
-      "population": 0.0,
+      "population": 1.85,
       "gdpCapita": 0.0,
       "area": 0.0,
-      "code": "",
+      "code": "SA",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
@@ -93023,10 +93059,10 @@
       "id": 149
     },
     {
-      "population": 0.0,
+      "population": 0.25,
       "gdpCapita": 0.0,
       "area": 0.0,
-      "code": "",
+      "code": "NT",
       "identity": 14,
       "mountainous": 0,
       "fertility": 0,
@@ -93061,10 +93097,10 @@
       "id": 150
     },
     {
-      "population": 0.0,
+      "population": 0.57,
       "gdpCapita": 0.0,
       "area": 0.0,
-      "code": "",
+      "code": "TAS",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
@@ -93102,10 +93138,10 @@
       "id": 151
     },
     {
-      "population": 0.0,
+      "population": 6.8,
       "gdpCapita": 0.0,
       "area": 0.0,
-      "code": "",
+      "code": "VIC",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
@@ -93151,7 +93187,9 @@
         5517,
         5518
       ],
-      "cities": [],
+      "cities": [
+        79
+      ],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -93177,10 +93215,10 @@
       "id": 152
     },
     {
-      "population": 2.0,
+      "population": 0.46,
       "gdpCapita": 0.0,
       "area": 0.0,
-      "code": "",
+      "code": "ACT",
       "identity": 14,
       "mountainous": 0,
       "fertility": 0,
@@ -93218,10 +93256,10 @@
       "id": 153
     },
     {
-      "population": 0.0,
+      "population": 8.16,
       "gdpCapita": 0.0,
       "area": 0.0,
-      "code": "",
+      "code": "NSW",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
@@ -93270,7 +93308,9 @@
         5546,
         5547
       ],
-      "cities": [],
+      "cities": [
+        78
+      ],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -93296,10 +93336,10 @@
       "id": 154
     },
     {
-      "population": 0.0,
+      "population": 5.45,
       "gdpCapita": 0.0,
       "area": 0.0,
-      "code": "",
+      "code": "QLD",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
