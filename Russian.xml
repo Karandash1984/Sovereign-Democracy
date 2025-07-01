@@ -32,6 +32,7 @@
     <Amendment>Поправка</Amendment>
     <Amount>Количество</Amount>
     <Annexation>Аннексия</Annexation>
+    <Annual>Аннуальный</Annual>
     <Antialiasing>Сглаживание</Antialiasing>
     <Appearance>Появление</Appearance>
     <Approval>Одобрение</Approval>
@@ -66,6 +67,7 @@
     <Bipolar>Биполярный</Bipolar>
     <Bill>Законопроект</Bill>
     <Bills>Законопроекты</Bills>
+    <Bimestral>Bimestral</Bimestral>
     <Births>Рождения</Births>
     <Black>Грязные деньги</Black>
     <Body>Тело</Body>
@@ -126,6 +128,7 @@
     <Compare>Сравнить</Compare>
     <Complete>Завершить</Complete>
     <Concept>Концепция</Concept>
+    <Condemn>Condemn</Condemn>
     <Condition>Условие</Condition>
     <Conditions>Условия</Conditions>
     <Confidence>Уверенность</Confidence>
@@ -4216,6 +4219,12 @@
       <text>
         <string>Конфликт интересов</string>
         <string>Человек был уличён в конфликте интересов, что поставило под сомнение его способность принимать беспристрастные решения.</string>
+      </text>
+      </Item>
+    <Item>
+      <text>
+        <string>Попытка подкупить судью</string>
+        <string>Партия была поймана при давлении на судей.</string>
       </text>
     </Item>
   </Scandals>
