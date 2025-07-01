@@ -32,6 +32,7 @@
     <Amendment>Amendment</Amendment>
     <Amount>Amount</Amount>
     <Annexation>Annexation</Annexation>
+    <Annual>Annual</Annual>
     <Antialiasing>Anti-Aliasing</Antialiasing>
     <Appearance>Appearance</Appearance>
     <Approval>Approval</Approval>
@@ -66,6 +67,7 @@
     <Bipolar>Bipolar</Bipolar>
     <Bill>Bill</Bill>
     <Bills>Bills</Bills>
+    <Bimestral>Bimestral</Bimestral>
     <Births>Births</Births>
     <Black>Black Money</Black>
     <Body>Body</Body>
@@ -126,6 +128,7 @@
     <Compare>Compare</Compare>
     <Complete>Complete</Complete>
     <Concept>Concept</Concept>
+    <Condemn>Condemn</Condemn>
     <Condition>Condition</Condition>
     <Conditions>Conditions</Conditions>
     <Confidence>Confidence</Confidence>
@@ -575,8 +578,8 @@
     <Round>Round</Round>
     <Rules>Rules</Rules>
     <Runoff>Runoff</Runoff>
-    <Sales>Sales</Sales>
     <Salary>Salary</Salary>
+    <Sales>Sales</Sales>
     <Same>Same</Same>
     <Sample>Sample</Sample>
     <Sandbox>Sandbox</Sandbox>
@@ -586,31 +589,32 @@
     <Scenario>Scenario</Scenario>
     <Scenarios>Scenarios</Scenarios>
     <Science>Science</Science>
-    <Search>Search</Search>
     <Sea>Sea</Sea>
+    <Search>Search</Search>
     <Seats>Seats</Seats>
     <SecretVote>Secret vote</SecretVote>
     <Secretaries>Secretaries</Secretaries>
     <Secretary>Secretary</Secretary>
     <Sections>Sections</Sections>
     <Select>Select</Select>
-    <Selection>Selection</Selection>
     <SelectLanguage>Select language</SelectLanguage>
+    <Selection>Selection</Selection>
     <Senate>Senate</Senate>
     <Senator>Senator</Senator>
     <Senators>Senators</Senators>
     <Send>Send</Send>
+    <Semestral>Semetral</Semestral>
     <Sentence>Sentence</Sentence>
     <Sentences>Sentences</Sentences>
     <Server>Server</Server>
     <Servers>Servers</Servers>
     <Settings>Settings</Settings>
+    <Share>Share</Share>
+    <Shop>Shop</Shop>
     <Significant>Significant</Significant>
     <Simple>Simple</Simple>
     <Singleplayer>Singleplayer</Singleplayer>
     <Size>Size</Size>
-    <Share>Share</Share>
-    <Shop>Shop</Shop>
     <Slow>Slow</Slow>
     <Small>Small</Small>
     <SocialNetwork>Social Network</SocialNetwork>
@@ -619,8 +623,9 @@
     <Speaker>Speaker</Speaker>
     <Spectator>Spectator</Spectator>
     <Speed>Speed</Speed>
-    <Standard>Standard</Standard>
+    <Stabilize>Stabilize</Stabilize>
     <Stability>Stability</Stability>
+    <Standard>Standard</Standard>
     <Start>Start</Start>
     <State>State</State>
     <Statement>Statement</Statement>
@@ -628,7 +633,6 @@
     <States>States</States>
     <Statistics>Statistics</Statistics>
     <Status>Status</Status>
-    <Stabilize>Stabilize</Stabilize>
     <Steal>Steal</Steal>
     <Stenographer>Stenographer</Stenographer>
     <Strength>Strength</Strength>
@@ -726,6 +730,7 @@
     <Weapons>Weapons</Weapons>
     <WebSurfers>Web surfers</WebSurfers>
     <Week>Week</Week>
+    <Weekly>Weekly</Weekly>
     <WeeklyCost>Weekly cost</WeeklyCost>
     <Weeks>Weeks</Weeks>
     <Winner>Winner</Winner>
@@ -2997,73 +3002,41 @@
     <Item>
       <text>
         <string>Italy</string>
-        <string>Palazzo del Quirinale</string>
-        <string>Palazzo Chigi</string>
-        <string>Palazzo Montecitorio</string>
-        <string>Palazzo Madama</string>
       </text>
     </Item>
     <Item>
       <text>
         <string>Spain</string>
-        <string>Palacio de la Zarzuela</string>
-        <string>Palacio de la Moncloa</string>
-        <string>Palacio de las Cortes</string>
-        <string>Senado</string>
       </text>
     </Item>
     <Item>
       <text>
         <string>France</string>
-        <string>Palais de l'Élysée</string>
-        <string>Hôtel Matignon</string>
-        <string>Assemblée nationale</string>
-        <string>Senate</string>
       </text>
     </Item>
     <Item>
       <text>
         <string>United Kingdom</string>
-        <string>Buckingham Palace</string>
-        <string>Palace of Westminster</string>
-        <string>House of Commons</string>
-        <string>House of Lords</string>
       </text>
     </Item>
     <Item>
       <text>
         <string>United States</string>
-        <string>White House</string>
-        <string>Capitol</string>
-        <string>House of Representatives</string>
-        <string>Senate</string>
       </text>
     </Item>
     <Item>
       <text>
         <string>Germany</string>
-        <string>Bellevue Palace</string>
-        <string>Bundeskanzleramt</string>
-        <string>Bundestag</string>
-        <string>Bundesrat</string>
       </text>
     </Item>
     <Item>
       <text>
         <string>Russia</string>
-        <string>Kremlin</string>
-        <string>House of the Government</string>
-        <string>State Duma</string>
-        <string>Federal council</string>
       </text>
     </Item>
     <Item>
       <text>
         <string>Canada</string>
-        <string>Rideau Hall</string>
-        <string>24 Sussex Drive</string>
-        <string>House of Commons</string>
-        <string>Senate</string>
       </text>
     </Item>
     <Item>
@@ -3594,10 +3567,6 @@
     <Item>
       <text>
         <string>Japan</string>
-        <string>Imperial Palace</string>
-        <string>Prime Minister's Office</string>
-        <string>House of Representatives</string>
-        <string>House of Councillors</string>
       </text>
     </Item>
     <Item>
@@ -3608,10 +3577,6 @@
     <Item>
       <text>
         <string>South Korea</string>
-        <string>Blue House</string>
-        <string>Prime Minister's Office</string>
-        <string>National Assembly</string>
-        <string>Senate</string>
       </text>
     </Item>
     <Item>
@@ -3627,10 +3592,6 @@
     <Item>
       <text>
         <string>Turkey</string>
-        <string>Presidential Complex</string>
-        <string>Grand National Assembly of Turkey</string>
-        <string>Assembly Hall</string>
-        <string>Senate of republic</string>
       </text>
     </Item>
     <Item>
@@ -3726,10 +3687,6 @@
     <Item>
       <text>
         <string>Poland</string>
-        <string>Presidential Palace</string>
-        <string>Prime Minister's Office</string>
-        <string>Sejm Building</string>
-        <string>Senate Building</string>
       </text>
     </Item>
     <Item>
@@ -4279,6 +4236,12 @@
       <text>
         <string>Conflict of interest</string>
         <string>A person was caught engaging in a conflict of interest, compromising their ability to make impartial decisions.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Attempt to corrupt a judge</string>
+        <string>The party was caught putting pressure on judges.</string>
       </text>
     </Item>
   </Scandals>
@@ -4915,6 +4878,7 @@
     <string>Invite citizens to join the party</string>
     <string>Endorse a candidate</string>
     <string>Endorse a party</string>
+    <string>Underline the importance to approve this law</string>
   </Statements>
   <Thoughts>
     <string />
@@ -5344,10 +5308,10 @@
     <string>Region occupied</string>
     <string>Publish electoral program</string>
     <string>Promise actions to your citizens or improve relations with parties.</string>
-    <string>Choose a party member to write a new bill. After completing the writing process, the bill can be submitted to committees for approval.</string>
+    <string>Choose a party member to write a new bill. After completing the writing process, the bill can be submitted to institutions for approval.</string>
     <string>Learn more about your citizen's needs and preferences.</string>
-    <string>Select a bill and initiate the approval process at the relevant committee.</string>
-    <string>Select a bill and initiate the removal process at the relevant committee.</string>
+    <string>Select a bill and initiate the approval process at the relevant institution.</string>
+    <string>Select a bill and initiate the removal process at the relevant institution.</string>
     <string>Special action that needs approval of the parliament.</string>
     <string>Propose to share government responsabilities among parties of the parliament.</string>
     <string>Special actions to perform with the speaker of the house.</string>
@@ -5502,5 +5466,9 @@
     <string>Monarch resolution</string>
     <string>Budget law</string>
     <string>Disable local elections</string>
+    <string>Plan a event to stabilize or destabilize nation</string>
+    <string>Law not suspended anymore</string>
+    <string>An important organization will give an award to the region with the best results.</string>
+    <string>This institution received an award from a respected organization</string>
   </Text>
 </Data>
