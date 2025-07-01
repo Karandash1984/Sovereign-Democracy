@@ -2997,73 +2997,41 @@
     <Item>
       <text>
         <string>Italy</string>
-        <string>Palazzo del Quirinale</string>
-        <string>Palazzo Chigi</string>
-        <string>Palazzo Montecitorio</string>
-        <string>Palazzo Madama</string>
       </text>
     </Item>
     <Item>
       <text>
         <string>Spain</string>
-        <string>Palacio de la Zarzuela</string>
-        <string>Palacio de la Moncloa</string>
-        <string>Palacio de las Cortes</string>
-        <string>Senado</string>
       </text>
     </Item>
     <Item>
       <text>
         <string>France</string>
-        <string>Palais de l'Élysée</string>
-        <string>Hôtel Matignon</string>
-        <string>Assemblée nationale</string>
-        <string>Senate</string>
       </text>
     </Item>
     <Item>
       <text>
         <string>United Kingdom</string>
-        <string>Buckingham Palace</string>
-        <string>Palace of Westminster</string>
-        <string>House of Commons</string>
-        <string>House of Lords</string>
       </text>
     </Item>
     <Item>
       <text>
         <string>United States</string>
-        <string>White House</string>
-        <string>Capitol</string>
-        <string>House of Representatives</string>
-        <string>Senate</string>
       </text>
     </Item>
     <Item>
       <text>
         <string>Germany</string>
-        <string>Bellevue Palace</string>
-        <string>Bundeskanzleramt</string>
-        <string>Bundestag</string>
-        <string>Bundesrat</string>
       </text>
     </Item>
     <Item>
       <text>
         <string>Russia</string>
-        <string>Kremlin</string>
-        <string>House of the Government</string>
-        <string>State Duma</string>
-        <string>Federal council</string>
       </text>
     </Item>
     <Item>
       <text>
         <string>Canada</string>
-        <string>Rideau Hall</string>
-        <string>24 Sussex Drive</string>
-        <string>House of Commons</string>
-        <string>Senate</string>
       </text>
     </Item>
     <Item>
@@ -3594,10 +3562,6 @@
     <Item>
       <text>
         <string>Japan</string>
-        <string>Imperial Palace</string>
-        <string>Prime Minister's Office</string>
-        <string>House of Representatives</string>
-        <string>House of Councillors</string>
       </text>
     </Item>
     <Item>
@@ -3608,10 +3572,6 @@
     <Item>
       <text>
         <string>South Korea</string>
-        <string>Blue House</string>
-        <string>Prime Minister's Office</string>
-        <string>National Assembly</string>
-        <string>Senate</string>
       </text>
     </Item>
     <Item>
@@ -3627,10 +3587,6 @@
     <Item>
       <text>
         <string>Turkey</string>
-        <string>Presidential Complex</string>
-        <string>Grand National Assembly of Turkey</string>
-        <string>Assembly Hall</string>
-        <string>Senate of republic</string>
       </text>
     </Item>
     <Item>
@@ -3726,10 +3682,6 @@
     <Item>
       <text>
         <string>Poland</string>
-        <string>Presidential Palace</string>
-        <string>Prime Minister's Office</string>
-        <string>Sejm Building</string>
-        <string>Senate Building</string>
       </text>
     </Item>
     <Item>
