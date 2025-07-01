@@ -5344,10 +5344,10 @@
     <string>Region occupied</string>
     <string>Publish electoral program</string>
     <string>Promise actions to your citizens or improve relations with parties.</string>
-    <string>Choose a party member to write a new bill. After completing the writing process, the bill can be submitted to committees for approval.</string>
+    <string>Choose a party member to write a new bill. After completing the writing process, the bill can be submitted to institutions for approval.</string>
     <string>Learn more about your citizen's needs and preferences.</string>
-    <string>Select a bill and initiate the approval process at the relevant committee.</string>
-    <string>Select a bill and initiate the removal process at the relevant committee.</string>
+    <string>Select a bill and initiate the approval process at the relevant institution.</string>
+    <string>Select a bill and initiate the removal process at the relevant institution.</string>
     <string>Special action that needs approval of the parliament.</string>
     <string>Propose to share government responsabilities among parties of the parliament.</string>
     <string>Special actions to perform with the speaker of the house.</string>
