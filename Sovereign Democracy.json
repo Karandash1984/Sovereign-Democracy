@@ -19374,7 +19374,7 @@
       },
       "dependencies": [],
       "nation": {
-        "happiness": 0.0,
+        "happiness": -0.3,
         "science": 0.0,
         "finance": [],
         "military": {
@@ -19383,8 +19383,8 @@
         },
         "parameters": [
           {
-            "id": 36,
-            "value": 0.5,
+            "id": 38,
+            "value": -0.3,
             "mode": 0
           },
           {
@@ -23690,6 +23690,53 @@
       "change": 0,
       "proposable": 0,
       "id": 245
+    },
+    {
+      "type": 1,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [
+        {
+          "id": 129,
+          "articles": [],
+          "commas": []
+        },
+        {
+          "id": 130,
+          "articles": [],
+          "commas": []
+        },
+        {
+          "id": 131,
+          "articles": [],
+          "commas": []
+        }
+      ],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 246
     }
   ],
   "lawCommas": [
@@ -102911,6 +102958,17 @@
       "id": 6
     },
     {
+      "target": 1,
+      "change": 0.0,
+      "order": 0,
+      "useNationalMedia": true,
+      "useRegionalMedia": false,
+      "targetEffects": [
+        11
+      ],
+      "id": 9
+    },
+    {
       "target": 7,
       "change": 0.0,
       "order": 101,
@@ -103000,6 +103058,17 @@
       "id": 18
     },
     {
+      "target": 0,
+      "change": 0.0,
+      "order": 0,
+      "useNationalMedia": true,
+      "useRegionalMedia": false,
+      "targetEffects": [
+        9
+      ],
+      "id": 19
+    },
+    {
       "target": 10,
       "change": 0.0,
       "order": 3,
@@ -103053,6 +103122,17 @@
         4
       ],
       "id": 25
+    },
+    {
+      "target": 11,
+      "change": 0.0,
+      "order": 0,
+      "useNationalMedia": true,
+      "useRegionalMedia": false,
+      "targetEffects": [
+        12
+      ],
+      "id": 26
     }
   ],
   "thoughts": [
