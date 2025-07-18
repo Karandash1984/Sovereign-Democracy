@@ -497,6 +497,8 @@
     <Power>Power</Power>
     <Prefecture>Prefecture</Prefecture>
     <Prefectures>Prefectures</Prefectures>
+    <Premier>Premier</Premier>
+    <Premiers>Premiers</Premiers>
     <President>President</President>
     <Presence>Presence</Presence>
     <Present>Present</Present>
@@ -603,7 +605,7 @@
     <Senator>Senator</Senator>
     <Senators>Senators</Senators>
     <Send>Send</Send>
-    <Semestral>Semetral</Semestral>
+    <Semestral>Semestral</Semestral>
     <Sentence>Sentence</Sentence>
     <Sentences>Sentences</Sentences>
     <Server>Server</Server>
@@ -2777,6 +2779,7 @@
     <string>Nighttime Noise Restriction</string>
     <string>Conserve heritage buildings</string>
     <string>Designate archeological sites</string>
+    <string>Quantitative easing</string>
   </LawArticles>
   <LawCommas>
     <string />
@@ -2908,6 +2911,9 @@
     <string>Low</string>
     <string>Average</string>
     <string>High</string>
+    <string>Low</string>
+    <string>Moderate</string>
+    <string>Strong</string>
   </LawCommas>
   <Media>
     <string />
@@ -4878,7 +4884,7 @@
     <string>Invite citizens to join the party</string>
     <string>Endorse a candidate</string>
     <string>Endorse a party</string>
-    <string>Underline the importance to approve this law</string>
+    <string>Emphasize the necessity of passing this law</string>
   </Statements>
   <Thoughts>
     <string />
@@ -5470,5 +5476,8 @@
     <string>Law not suspended anymore</string>
     <string>An important organization will give an award to the region with the best results.</string>
     <string>This institution received an award from a respected organization</string>
+    <string>Power saving mode</string>
+    <string>Change name, color or ideologies of your party. Beware the consequences might be voters loss and reputation reset.</string>
+    <string>This party has changed name, color or ideologies.</string>
   </Text>
 </Data>
