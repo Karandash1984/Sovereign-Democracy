@@ -32,7 +32,7 @@
     <Amendment>Поправка</Amendment>
     <Amount>Количество</Amount>
     <Annexation>Аннексия</Annexation>
-    <Annual>Аннуальный</Annual>
+    <Annual>Годовой</Annual>
     <Antialiasing>Сглаживание</Antialiasing>
     <Appearance>Появление</Appearance>
     <Approval>Одобрение</Approval>
@@ -67,7 +67,7 @@
     <Bipolar>Биполярный</Bipolar>
     <Bill>Законопроект</Bill>
     <Bills>Законопроекты</Bills>
-    <Bimestral>Bimestral</Bimestral>
+    <Bimestral>Двухмесячный</Bimestral>
     <Births>Рождения</Births>
     <Black>Грязные деньги</Black>
     <Body>Тело</Body>
@@ -128,7 +128,7 @@
     <Compare>Сравнить</Compare>
     <Complete>Завершить</Complete>
     <Concept>Концепция</Concept>
-    <Condemn>Condemn</Condemn>
+    <Condemn>Осудить</Condemn>
     <Condition>Условие</Condition>
     <Conditions>Условия</Conditions>
     <Confidence>Уверенность</Confidence>
@@ -497,6 +497,8 @@
     <Power>Власть</Power>
     <Prefecture>Префектура</Prefecture>
     <Prefectures>Префектуры</Prefectures>
+    <Premier>Premier</Premier>
+    <Premiers>Premiers</Premiers>
     <President>Президент</President>
     <Presence>Присутствие</Presence>
     <Present>Настоящий</Present>
@@ -578,8 +580,8 @@
     <Round>Раунд</Round>
     <Rules>Правила</Rules>
     <Runoff>Сточные воды</Runoff>
-    <Sales>Продажи</Sales>
     <Salary>Зарплата</Salary>
+    <Sales>Продажи</Sales>
     <Same>То же</Same>
     <Sample>Образец</Sample>
     <Sandbox>Песочница</Sandbox>
@@ -589,31 +591,32 @@
     <Scenario>Сценарий</Scenario>
     <Scenarios>Сценарии</Scenarios>
     <Science>Наука</Science>
-    <Search>Поиск</Search>
     <Sea>Моря</Sea>
+    <Search>Поиск</Search>
     <Seats>Места</Seats>
     <SecretVote>Тайное голосование</SecretVote>
     <Secretaries>Секретари</Secretaries>
     <Secretary>Секретарь</Secretary>
     <Sections>Провинции</Sections>
     <Select>Выбрать</Select>
-    <Selection>Выбор</Selection>
     <SelectLanguage>Выберите язык</SelectLanguage>
+    <Selection>Выбор</Selection>
     <Senate>Сенат</Senate>
     <Senator>Сенатор</Senator>
     <Senators>Сенаторы</Senators>
     <Send>Отправить</Send>
+    <Semestral>Полугодовой</Semestral>
     <Sentence>Приговор</Sentence>
     <Sentences>Приговоры</Sentences>
     <Server>Сервер</Server>
     <Servers>Сервера</Servers>
     <Settings>Настройки</Settings>
+    <Share>Поделиться</Share>
+    <Shop>Магазин</Shop>
     <Significant>Значительный</Significant>
     <Simple>Простой</Simple>
     <Singleplayer>Одиночная игра</Singleplayer>
     <Size>Размер</Size>
-    <Share>Поделиться</Share>
-    <Shop>Магазин</Shop>
     <Slow>Медленно</Slow>
     <Small>Малый</Small>
     <SocialNetwork>Социальная сеть</SocialNetwork>
@@ -622,8 +625,9 @@
     <Speaker>Спикер</Speaker>
     <Spectator>Наблюдатель</Spectator>
     <Speed>Скорость</Speed>
-    <Standard>Стандарт</Standard>
+    <Stabilize>Стабилизировать</Stabilize>
     <Stability>Стабильность</Stability>
+    <Standard>Стандарт</Standard>
     <Start>Старт</Start>
     <State>Государство</State>
     <Statement>Заявление</Statement>
@@ -631,7 +635,6 @@
     <States>Государства</States>
     <Statistics>Статистика</Statistics>
     <Status>Статус</Status>
-    <Stabilize>Стабилизировать</Stabilize>
     <Steal>Украсть</Steal>
     <Stenographer>Стенографист</Stenographer>
     <Strength>Сила</Strength>
@@ -729,6 +732,7 @@
     <Weapons>Оружие</Weapons>
     <WebSurfers>Интернет-пользователи</WebSurfers>
     <Week>Неделя</Week>
+    <Weekly>Еженедельный</Weekly>
     <WeeklyCost>Недельная стоимость</WeeklyCost>
     <Weeks>Недели</Weeks>
     <Winner>Победитель</Winner>
@@ -2775,6 +2779,7 @@
     <string>Ограничение ночного шума</string>
     <string>Сохранение исторических зданий</string>
     <string>Определение археологических памятников</string>
+    <string>Количественное смягчение</string>
   </LawArticles>
   <LawCommas>
     <string />
@@ -2906,6 +2911,9 @@
     <string>Низкий</string>
     <string>Средний</string>
     <string>Высокий</string>
+    <string>Низкий</string>
+    <string>Умеренный</string>
+    <string>Сильный</string>
   </LawCommas>
   <Media>
     <string />
@@ -4224,7 +4232,7 @@
     <Item>
       <text>
         <string>Попытка подкупить судью</string>
-        <string>Партия была поймана при давлении на судей.</string>
+        <string>Партию уличили в оказании давления на судей.</string>
       </text>
     </Item>
   </Scandals>
@@ -4861,6 +4869,7 @@
     <string>Пригласить граждан присоединиться к партии</string>
     <string>Поддержать кандидата</string>
     <string>Поддержать партию</string>
+    <string>Подчеркнуть необходимость принятия этого закона</string>
   </Statements>
   <Thoughts>
     <string />
@@ -5290,10 +5299,10 @@
     <string>Регион занят</string>
     <string>Опубликовать электоральную программу</string>
     <string>Пообещайте действия своим гражданам или улучшите отношения с партиями.</string>
-    <string>Выберите члена партии для написания нового закона. После завершения написания закон может быть подан в комитеты для утверждения.</string>
+    <string>Выберите члена партии для написания нового законопроекта. После завершения написания, законопроект можно подать в учреждения для одобрения.</string>
     <string>Узнайте больше о потребностях и предпочтениях ваших граждан.</string>
-    <string>Выберите закон и начните процесс утверждения в соответствующем комитете.</string>
-    <string>Выберите закон и начните процесс его отмены в соответствующем комитете.</string>
+    <string>Выберите законопроект и начните процесс одобрения в соответствующем учреждении.</string>
+    <string>Выберите законопроект и начните процесс удаления в соответствующем учреждении.</string>
     <string>Специальное действие, требующее одобрения парламента.</string>
     <string>Предложить разделить правительственные обязанности между партиями парламента.</string>
     <string>Специальные действия с председателем парламента.</string>
@@ -5452,5 +5461,8 @@
     <string>Закон больше не приостановлен</string>
     <string>Важная организация вручит награду региону с лучшими результатами.</string>
     <string>Это учреждение получило награду от уважаемой организации</string>
+    <string>Режим энергосбережения</string>
+    <string>Измените название, цвет или идеологию вашей партии. Осторожно: это может привести к потере избирателей и сбросу репутации.</string>
+    <string>Эта партия изменила название, цвет или идеологию.</string>
   </Text>
 </Data>
