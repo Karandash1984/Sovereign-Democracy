@@ -12693,6 +12693,14 @@
           "articles": [],
           "commas": [],
           "commasUnavailable": []
+        },
+        {
+          "id": 246,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
         }
       ],
       "minArticles": 0,
@@ -26984,6 +26992,122 @@
       "change": 0,
       "proposable": 0,
       "id": 128
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 36,
+            "value": -1.0,
+            "mode": 0
+          },
+          {
+            "id": 34,
+            "value": 0.5,
+            "mode": 0
+          },
+          {
+            "id": 8,
+            "value": 0.5,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 129
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": -0.2,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 36,
+            "value": -3.0,
+            "mode": 0
+          },
+          {
+            "id": 34,
+            "value": 2.0,
+            "mode": 0
+          },
+          {
+            "id": 8,
+            "value": 2.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 130
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": -2.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 36,
+            "value": -5.0,
+            "mode": 0
+          },
+          {
+            "id": 34,
+            "value": 3.0,
+            "mode": 0
+          },
+          {
+            "id": 8,
+            "value": 3.0,
+            "mode": 0
+          },
+          {
+            "id": 28,
+            "value": -2.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 131
     }
   ],
   "media": [
