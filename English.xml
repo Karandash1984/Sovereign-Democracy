@@ -60,6 +60,7 @@
     <Balance>Balance</Balance>
     <Bank>Bank</Bank>
     <Banks>Banks</Banks>
+    <Basic>Basic</Basic>
     <Battle>Battle</Battle>
     <Battles>Battles</Battles>
     <Benchmark>Benchmark</Benchmark>
@@ -278,6 +279,7 @@
     <Front>Front</Front>
     <Frontrunner>Frontrunner</Frontrunner>
     <Frontrunners>Frontrunners</Frontrunners>
+    <Full>Full</Full>
     <Fullscreen>Fullscreen</Fullscreen>
     <Fundraise>Fundraise</Fundraise>
     <Gap>Gap</Gap>
@@ -402,6 +404,7 @@
     <Minor>Minor</Minor>
     <MinorPower>Minor power</MinorPower>
     <Min>Min</Min>
+    <Minimal>Minimal</Minimal>
     <Minimum>Minimum</Minimum>
     <Minister>Minister</Minister>
     <Ministers>Ministers</Ministers>
@@ -526,6 +529,7 @@
     <Province>Province</Province>
     <Provinces>Provinces</Provinces>
     <Provincial>Provincial</Provincial>
+    <Public>Public</Public>
     <Quality>Quality</Quality>
     <Quarter>Quarter</Quarter>
     <Queen>Queen</Queen>
@@ -641,6 +645,7 @@
     <Strong>Strong</Strong>
     <Strongest>Strongest</Strongest>
     <Students>Students</Students>
+    <Substantial>Substantial</Substantial>
     <Success>Success</Success>
     <Successor>Successor</Successor>
     <Suffrage>Suffrage</Suffrage>
@@ -715,6 +720,7 @@
     <ViceSpeaker>Vice Speaker</ViceSpeaker>
     <Video>Video</Video>
     <View>View</View>
+    <Visibility>Visibility</Visibility>
     <Visit>Visit</Visit>
     <Volume>Volume</Volume>
     <Vote>Vote</Vote>
@@ -1001,6 +1007,40 @@
     <string>Singaporean</string>
     <string>Arab</string>
     <string>Greek</string>
+    <string>Irish</string>
+    <string>Ukrainian</string>
+    <string>Danish</string>
+    <string>Norwegian</string>
+    <string>Finnish</string>
+    <string>Slovak</string>
+    <string>Czech</string>
+    <string>Romanian</string>
+    <string>Bulgarian</string>
+    <string>Israeli</string>
+    <string>Vietnamese</string>
+    <string>Egyptian</string>
+    <string>Nigerian</string>
+    <string>Iranian</string>
+    <string>Filipino</string>
+    <string>Pakistani</string>
+    <string>Ethiopian</string>
+    <string>Colombian</string>
+    <string>Cuban</string>
+    <string>Bangladeshi</string>
+    <string>South African</string>
+    <string>Moroccan</string>
+    <string>Tunisian</string>
+    <string>Mongolian</string>
+    <string>Peruvian</string>
+    <string>Kazakh</string>
+    <string>Berber</string>
+    <string>Kenyan</string>
+    <string>Ghanaian</string>
+    <string>Somali</string>
+    <string>Chilean</string>
+    <string>Nepali</string>
+    <string>Uzbek</string>
+    <string>Guatemalan</string>
   </Culture>
   <Currencies>
     <string />
@@ -2780,6 +2820,10 @@
     <string>Conserve heritage buildings</string>
     <string>Designate archeological sites</string>
     <string>Quantitative easing</string>
+    <string>Simplified divorce</string>
+    <string>Music festivals</string>
+    <string>Aid</string>
+    <string>Standard lease term</string>
   </LawArticles>
   <LawCommas>
     <string />
@@ -5029,6 +5073,7 @@
         <string>Open calendar on week 33</string>
         <string>Select the bill "Police regulation" and add at least one article</string>
         <string>Select a lawmaker to write this bill</string>
+        <string>Confirm to add to calendar</string>
       </text>
     </Item>
     <Item>
@@ -5459,5 +5504,6 @@
     <string>Power saving mode</string>
     <string>Change name, color or ideologies of your party. Beware the consequences might be voters loss and reputation reset.</string>
     <string>This party has changed name, color or ideologies.</string>
+    <string>Scandal probability</string>
   </Text>
 </Data>

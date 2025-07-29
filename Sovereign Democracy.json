@@ -5,7 +5,7 @@
     "author": "Karandash/PAKMAN",
     "version": "1.6",
     "fileVersion": 2,
-    "build": 4283
+    "build": 4398
   },
   "years": [
     1992,
@@ -8081,6 +8081,14 @@
           "articles": [],
           "commas": [],
           "commasUnavailable": []
+        },
+        {
+          "id": 250,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
         }
       ],
       "minArticles": 1,
@@ -8715,7 +8723,7 @@
           "commasUnavailable": []
         }
       ],
-      "minArticles": 0,
+      "minArticles": 1,
       "relation": {
         "cooperation": 0,
         "science": 0,
@@ -8772,6 +8780,14 @@
         },
         {
           "id": 60,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 248,
           "required": false,
           "limit": 1,
           "articles": [],
@@ -9155,7 +9171,7 @@
           "commasUnavailable": []
         }
       ],
-      "minArticles": 0,
+      "minArticles": 1,
       "relation": {
         "cooperation": 0,
         "science": 0,
@@ -10409,6 +10425,14 @@
           "articles": [],
           "commas": [],
           "commasUnavailable": []
+        },
+        {
+          "id": 247,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
         }
       ],
       "minArticles": 1,
@@ -10721,7 +10745,7 @@
           },
           {
             "id": 24,
-            "value": -1.0,
+            "value": 1.0,
             "mode": 0
           }
         ],
@@ -11883,7 +11907,7 @@
         {
           "id": 145,
           "required": false,
-          "limit": 5,
+          "limit": 3,
           "articles": [],
           "commas": [],
           "commasUnavailable": []
@@ -13042,6 +13066,54 @@
     {
       "required": false,
       "order": 1000,
+      "level": 0,
+      "type": 1,
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "competence": 1,
+      "name": 0,
+      "articles": [
+        {
+          "id": 249,
+          "required": false,
+          "limit": 3,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        }
+      ],
+      "minArticles": 1,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 105
+    },
+    {
+      "required": false,
+      "order": 1000,
       "level": 2,
       "type": 1,
       "research": {
@@ -14054,7 +14126,7 @@
       },
       "dependencies": [],
       "nation": {
-        "happiness": 0.0,
+        "happiness": -0.2,
         "science": 0.0,
         "finance": [],
         "military": {
@@ -15892,7 +15964,7 @@
         },
         "parameters": [
           {
-            "id": 13,
+            "id": 10,
             "value": 1.0,
             "mode": 0
           }
@@ -16342,16 +16414,6 @@
             "id": 23,
             "value": 1.0,
             "mode": 0
-          },
-          {
-            "id": 34,
-            "value": -1.0,
-            "mode": 0
-          },
-          {
-            "id": 16,
-            "value": 1.0,
-            "mode": 0
           }
         ],
         "resources": [],
@@ -16398,7 +16460,7 @@
           },
           {
             "id": 34,
-            "value": -2.0,
+            "value": -0.5,
             "mode": 0
           }
         ],
@@ -17202,7 +17264,7 @@
         "parameters": [
           {
             "id": 14,
-            "value": 1.0,
+            "value": 0.5,
             "mode": 0
           }
         ],
@@ -17875,7 +17937,12 @@
         "parameters": [
           {
             "id": 25,
-            "value": -2.0,
+            "value": -1.0,
+            "mode": 0
+          },
+          {
+            "id": 37,
+            "value": 0.5,
             "mode": 0
           }
         ],
@@ -18276,7 +18343,7 @@
       "dependencies": [],
       "nation": {
         "happiness": 1.0,
-        "science": 0.5,
+        "science": -0.5,
         "finance": [],
         "military": {
           "defence": 0,
@@ -18359,7 +18426,7 @@
         "parameters": [
           {
             "id": 24,
-            "value": -1.0,
+            "value": 1.0,
             "mode": 0
           }
         ],
@@ -18430,7 +18497,13 @@
           "defence": 0,
           "manPower": 0.0
         },
-        "parameters": [],
+        "parameters": [
+          {
+            "id": 28,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
         "resources": [],
         "events": [],
         "reputation": 0,
@@ -19466,7 +19539,7 @@
     },
     {
       "type": 20,
-      "modifiers": 1,
+      "modifiers": 3,
       "defaultValue": 0,
       "commas": [],
       "subdivisions": 3,
@@ -19489,7 +19562,7 @@
           {
             "type": 0,
             "reference": 0,
-            "value": -0.2
+            "value": -2.0
           }
         ],
         "military": {
@@ -19499,7 +19572,7 @@
         "parameters": [
           {
             "id": 38,
-            "value": 1.0,
+            "value": 0.1,
             "mode": 0
           }
         ],
@@ -19832,17 +19905,9 @@
         },
         "parameters": [],
         "resources": [],
-        "events": [
-          {
-            "id": 8,
-            "value": -1.0,
-            "mode": 0
-          }
-        ],
+        "events": [],
         "reputation": 0,
-        "specials": [
-          6
-        ]
+        "specials": []
       },
       "common": 0,
       "change": 10,
@@ -19959,7 +20024,13 @@
       "nation": {
         "happiness": 0.0,
         "science": 0.0,
-        "finance": [],
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -1.0
+          }
+        ],
         "military": {
           "defence": 0,
           "manPower": 0.0
@@ -20700,7 +20771,7 @@
         "parameters": [
           {
             "id": 24,
-            "value": -2.0,
+            "value": -1.5,
             "mode": 0
           }
         ],
@@ -21465,7 +21536,7 @@
         "parameters": [
           {
             "id": 34,
-            "value": -1.0,
+            "value": -0.5,
             "mode": 0
           },
           {
@@ -21475,7 +21546,7 @@
           },
           {
             "id": 23,
-            "value": 1.0,
+            "value": 0.5,
             "mode": 0
           }
         ],
@@ -23745,6 +23816,180 @@
       "change": 0,
       "proposable": 0,
       "id": 246
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -0.8
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 24,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 247
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -0.5
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 13,
+            "value": 1.5,
+            "mode": 0
+          },
+          {
+            "id": 1,
+            "value": 0.5,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 248
+    },
+    {
+      "type": 21,
+      "modifiers": 3,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 3,
+      "data": [
+        1.0,
+        2.0,
+        3.0
+      ],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -2.0
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 249
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 9,
+            "value": -2.0,
+            "mode": 0
+          },
+          {
+            "id": 38,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 250
     }
   ],
   "lawCommas": [
@@ -26321,7 +26566,13 @@
         },
         "parameters": [],
         "resources": [],
-        "events": [],
+        "events": [
+          {
+            "id": 8,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
         "reputation": 0,
         "specials": []
       },
@@ -26344,7 +26595,9 @@
         "resources": [],
         "events": [],
         "reputation": 0,
-        "specials": []
+        "specials": [
+          7
+        ]
       },
       "common": 0,
       "change": 0,
@@ -26365,7 +26618,9 @@
         "resources": [],
         "events": [],
         "reputation": 0,
-        "specials": []
+        "specials": [
+          13
+        ]
       },
       "common": 0,
       "change": 0,
@@ -26512,7 +26767,7 @@
         "parameters": [
           {
             "id": 34,
-            "value": 1.0,
+            "value": -1.0,
             "mode": 0
           },
           {
@@ -26549,7 +26804,7 @@
           },
           {
             "id": 34,
-            "value": -1.0,
+            "value": 1.0,
             "mode": 0
           }
         ],
