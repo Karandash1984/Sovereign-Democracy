@@ -6315,7 +6315,9 @@
           "limit": 1,
           "articles": [],
           "commas": [],
-          "commasUnavailable": []
+          "commasUnavailable": [
+            132
+          ]
         },
         {
           "id": 4,
@@ -9742,6 +9744,14 @@
           "articles": [],
           "commas": [],
           "commasUnavailable": []
+        },
+        {
+          "id": 253,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
         }
       ],
       "minArticles": 0,
@@ -11348,6 +11358,14 @@
           "articles": [],
           "commas": [],
           "commasUnavailable": []
+        },
+        {
+          "id": 252,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
         }
       ],
       "minArticles": 1,
@@ -12613,6 +12631,14 @@
           "articles": [],
           "commas": [],
           "commasUnavailable": []
+        },
+        {
+          "id": 251,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
         }
       ],
       "minArticles": 0,
@@ -13104,7 +13130,9 @@
         "resources": [],
         "events": [],
         "reputation": 0,
-        "specials": []
+        "specials": [
+          14
+        ]
       },
       "common": 0,
       "change": 0,
@@ -13557,6 +13585,13 @@
           "id": 73,
           "articles": [],
           "commas": []
+        },
+        {
+          "id": 132,
+          "articles": [],
+          "commas": [
+            89
+          ]
         }
       ],
       "subdivisions": 0,
@@ -23990,6 +24025,133 @@
       "change": 0,
       "proposable": 0,
       "id": 250
+    },
+    {
+      "type": 21,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 10,
+      "proposable": 0,
+      "id": 251
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -1.3
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [
+          {
+            "id": 2,
+            "value": -0.5,
+            "mode": 0
+          },
+          {
+            "id": 4,
+            "value": -0.5,
+            "mode": 0
+          }
+        ],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 252
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -3.0
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [
+          {
+            "id": 6,
+            "value": 1.0,
+            "mode": 0
+          },
+          {
+            "id": 7,
+            "value": 1.0,
+            "mode": 0
+          }
+        ],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 253
     }
   ],
   "lawCommas": [
@@ -27363,6 +27525,27 @@
       "change": 0,
       "proposable": 0,
       "id": 131
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 132
     }
   ],
   "media": [
@@ -108549,6 +108732,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 1
     },
     {
@@ -108558,6 +108742,7 @@
       "entrepreneurship": 50,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 2
     },
     {
@@ -108567,6 +108752,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 3
     },
     {
@@ -108576,6 +108762,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 4
     },
     {
@@ -108585,6 +108772,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 5
     },
     {
@@ -108594,6 +108782,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 6
     },
     {
@@ -108603,6 +108792,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 7
     },
     {
@@ -108612,6 +108802,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 8
     },
     {
@@ -108621,6 +108812,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 9
     },
     {
@@ -108630,6 +108822,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 10
     },
     {
@@ -108639,6 +108832,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 11
     },
     {
@@ -108648,6 +108842,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 12
     },
     {
@@ -108657,6 +108852,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 13
     },
     {
@@ -108666,6 +108862,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 14
     },
     {
@@ -108675,6 +108872,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 15
     },
     {
@@ -108684,6 +108882,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 16
     },
     {
@@ -108693,6 +108892,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 17
     },
     {
@@ -108702,6 +108902,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 18
     },
     {
@@ -108711,6 +108912,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 19
     },
     {
@@ -108720,6 +108922,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 20
     },
     {
@@ -108729,6 +108932,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 21
     },
     {
@@ -108738,6 +108942,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 22
     },
     {
@@ -108747,6 +108952,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 23
     },
     {
@@ -108756,6 +108962,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 24
     },
     {
@@ -108765,6 +108972,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 25
     },
     {
@@ -108774,6 +108982,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 26
     },
     {
@@ -108783,6 +108992,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 27
     },
     {
@@ -108792,6 +109002,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 28
     },
     {
@@ -108801,6 +109012,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 29
     },
     {
@@ -108810,6 +109022,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 30
     },
     {
@@ -108819,6 +109032,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 31
     },
     {
@@ -108828,6 +109042,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 32
     },
     {
@@ -108837,6 +109052,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 33
     },
     {
@@ -108846,6 +109062,7 @@
       "entrepreneurship": 0,
       "type": 1,
       "ideologies": [],
+      "education": 1,
       "id": 34
     },
     {
@@ -108855,6 +109072,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 35
     },
     {
@@ -108864,6 +109082,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 36
     },
     {
@@ -108873,6 +109092,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 37
     },
     {
@@ -108882,6 +109102,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 38
     },
     {
@@ -108891,6 +109112,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 39
     },
     {
@@ -108900,6 +109122,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 40
     },
     {
@@ -108909,6 +109132,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 41
     },
     {
@@ -108918,6 +109142,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 42
     },
     {
@@ -108927,6 +109152,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 43
     },
     {
@@ -108936,6 +109162,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 44
     },
     {
@@ -108945,6 +109172,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 45
     },
     {
@@ -108954,6 +109182,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 46
     },
     {
@@ -108963,6 +109192,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 47
     },
     {
@@ -108972,6 +109202,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 48
     },
     {
@@ -108981,6 +109212,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 49
     },
     {
@@ -108990,6 +109222,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 50
     },
     {
@@ -108999,6 +109232,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 51
     },
     {
@@ -109008,6 +109242,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 52
     },
     {
@@ -109017,6 +109252,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 53
     },
     {
@@ -109026,6 +109262,7 @@
       "entrepreneurship": 50,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 54
     },
     {
@@ -109035,6 +109272,7 @@
       "entrepreneurship": 60,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 55
     },
     {
@@ -109044,6 +109282,7 @@
       "entrepreneurship": 20,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 56
     },
     {
@@ -109053,6 +109292,7 @@
       "entrepreneurship": 10,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 57
     },
     {
@@ -109062,6 +109302,7 @@
       "entrepreneurship": 30,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 58
     },
     {
@@ -109071,6 +109312,7 @@
       "entrepreneurship": 30,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 59
     },
     {
@@ -109080,6 +109322,7 @@
       "entrepreneurship": 30,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 60
     },
     {
@@ -109089,6 +109332,7 @@
       "entrepreneurship": 50,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 61
     },
     {
@@ -109098,6 +109342,7 @@
       "entrepreneurship": 10,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 62
     },
     {
@@ -109107,6 +109352,7 @@
       "entrepreneurship": 100,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 63
     },
     {
@@ -109116,6 +109362,7 @@
       "entrepreneurship": 10,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 64
     },
     {
@@ -109125,6 +109372,7 @@
       "entrepreneurship": 10,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 65
     },
     {
@@ -109134,6 +109382,7 @@
       "entrepreneurship": 30,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 66
     },
     {
@@ -109143,6 +109392,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 67
     }
   ],

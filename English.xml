@@ -110,6 +110,7 @@
     <Citizen>Citizen</Citizen>
     <Citizens>Citizens</Citizens>
     <Citizenship>Citizenship</Citizenship>
+    <CivilWar>Civil War</CivilWar>
     <Clock>Clock</Clock>
     <Close>Close</Close>
     <Cloths>Clothes</Cloths>
@@ -674,6 +675,8 @@
     <Timeline>Timeline</Timeline>
     <Timeout>Timeout</Timeout>
     <Timer>Timer</Timer>
+    <Tip>Tip</Tip>
+    <Tips>Tips</Tips>
     <Title>Title</Title>
     <Total>Total</Total>
     <TotalCost>Total cost</TotalCost>
@@ -1537,7 +1540,7 @@
     <Item>
       <text>
         <string>Government</string>
-        <string>The government $i4.3 is the executive branch of the nation and it's role is to establish and enforce laws, provide public services, and protect the rights and well-being of its citizens.\n\nThe government is comprised of various departments, each headed by a secretary or minister, responsible for overseeing specific areas of governance and administration.</string>
+        <string>The government $i4.3 is the executive branch of the nation and it's role is to establish and enforce laws, provide public services, and protect the rights and well-being of its citizens.\n\nThe government is comprised of various departments, each headed by a secretary or minister, responsible for overseeing specific areas of governance and administration.\n\nThe governmend needs to approve the budget law $i6.44 every year.</string>
       </text>
     </Item>
     <Item>
@@ -1579,7 +1582,7 @@
     <Item>
       <text>
         <string>Elections</string>
-        <string>An election $i4.0 is a formal process where people vote to choose leaders or make decisions on specific issues. It's a fundamental part of democracy, allowing citizens to have a say in governance.\n\nElections often involve campaigns, during which candidates or groups promote their ideas, values, and plans for the future. This communication helps voters make informed decisions.\n\nElections can be held at various levels, from local community decisions to national leadership choices. They are a vital way for people to participate in shaping the policies and direction of their society.</string>
+        <string>An election $i4.0 is a formal process where people vote to choose leaders or make decisions on specific issues. It's a fundamental part of democracy, allowing citizens to have a say in governance.\n\nElections often involve campaigns $i4.32, during which candidates or groups promote their ideas, values, and plans for the future. This communication helps voters make informed decisions.\n\nElections can be held at various levels, from local community decisions to national leadership choices. They are a vital way for people to participate in shaping the policies and direction of their society.</string>
       </text>
     </Item>
     <Item>
@@ -1693,7 +1696,7 @@
     <Item>
       <text>
         <string>Actions</string>
-        <string>Actions $i9.9 are consumed when planning an event on the calendar, performing a special action with your party, or carrying out a special action with a person.\n\nAction points are earned every turn according to game rules.</string>
+        <string>Actions $i9.9 are consumed when planning an event on the calendar, performing a special action with your party, or carrying out a special action with a person.\n\nAction points are earned every turn $i1.0 according to game rules.</string>
       </text>
     </Item>
     <Item>
@@ -1705,13 +1708,19 @@
     <Item>
       <text>
         <string>Stability</string>
-        <string>Low stability $i5.9 increases the likelihood of protests $i4.13 and, if prolonged, heightens the risk of revolution $i4.7.</string>
+        <string>Low stability $i5.9 increases the likelihood of protests $i4.13 and, if prolonged, heightens the risk of revolution $i4.7.\n\nFurthermore, low stability may lead a region to break away.</string>
       </text>
     </Item>
     <Item>
       <text>
         <string>Filibustering</string>
-        <string>A political tactic where lawmakers delay or block legislative action, often by making prolonged speeches, to prevent a vote from taking place.\n\nLawmakers participating in Filibustering will loose a lot of energy.</string>
+        <string>A political tactic where lawmakers delay or block legislative action, often by making prolonged speeches, to prevent a vote from taking place.\n\nLawmakers participating in Filibustering will loose a lot of energy $i10.11</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Party</string>
+        <string>A political party $i9.0 is an organized group of people who share similar political beliefs and work together to influence government policy, gain political power, and win elections. Parties typically promote a specific set of ideas and support candidates who represent their platform.\n\nEach party has a secretary $i8.6 who holds the most influence within the party.\n\nThe more influence you gain, the more actions you can take in-game.</string>
       </text>
     </Item>
   </Encyclopedia>
@@ -2571,6 +2580,12 @@
         <string>Protects buildings, sites, and landscapes of historical, cultural, or architectural significance from alteration or destruction.</string>
       </text>
     </Item>
+    <Item>
+      <text>
+        <string>Tariffs regulation</string>
+        <string>Imposes taxes or duties on imported or exported goods to control trade, protect domestic industries, or generate government revenue.</string>
+      </text>
+    </Item>
   </Laws>
   <LawArticles>
     <string />
@@ -2824,6 +2839,10 @@
     <string>Music festivals</string>
     <string>Aid</string>
     <string>Standard lease term</string>
+    <string>Foreign sovereign</string>
+    <string>Incentivize anti-seismic material</string>
+    <string>Mars exploration</string>
+    <string>Tariff</string>
   </LawArticles>
   <LawCommas>
     <string />
@@ -2958,6 +2977,7 @@
     <string>Low</string>
     <string>Moderate</string>
     <string>Strong</string>
+    <string>Lifetime appointment</string>
   </LawCommas>
   <Media>
     <string />
@@ -5505,5 +5525,7 @@
     <string>Change name, color or ideologies of your party. Beware the consequences might be voters loss and reputation reset.</string>
     <string>This party has changed name, color or ideologies.</string>
     <string>Scandal probability</string>
+    <string>Region breakaway</string>
+    <string>Improve relations between nations</string>
   </Text>
 </Data>
