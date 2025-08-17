@@ -3,9 +3,9 @@
     "name": "Sovereign Democracy",
     "description": "Russia mod",
     "author": "Karandash/PAKMAN",
-    "version": "1.6",
+    "version": "1.6b",
     "fileVersion": 2,
-    "build": 4283
+    "build": 4604
   },
   "years": [
     1992,
@@ -37,7 +37,9 @@
     "disableWar": false,
     "disableAI": false,
     "disableLocalElections": false,
-    "notLawImplementationTime": false
+    "noLawImplementationTime": false,
+    "shortElectionFrequency": false,
+    "noPresidentLawSignature": false
   },
   "banks": [],
   "buildings": [
@@ -6315,7 +6317,9 @@
           "limit": 1,
           "articles": [],
           "commas": [],
-          "commasUnavailable": []
+          "commasUnavailable": [
+            132
+          ]
         },
         {
           "id": 4,
@@ -7756,6 +7760,14 @@
           "articles": [],
           "commas": [],
           "commasUnavailable": []
+        },
+        {
+          "id": 256,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
         }
       ],
       "minArticles": 1,
@@ -8076,6 +8088,14 @@
       "articles": [
         {
           "id": 144,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 250,
           "required": false,
           "limit": 1,
           "articles": [],
@@ -8715,7 +8735,7 @@
           "commasUnavailable": []
         }
       ],
-      "minArticles": 0,
+      "minArticles": 1,
       "relation": {
         "cooperation": 0,
         "science": 0,
@@ -8772,6 +8792,14 @@
         },
         {
           "id": 60,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 248,
           "required": false,
           "limit": 1,
           "articles": [],
@@ -9155,7 +9183,7 @@
           "commasUnavailable": []
         }
       ],
-      "minArticles": 0,
+      "minArticles": 1,
       "relation": {
         "cooperation": 0,
         "science": 0,
@@ -9664,6 +9692,14 @@
           "articles": [],
           "commas": [],
           "commasUnavailable": []
+        },
+        {
+          "id": 255,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
         }
       ],
       "minArticles": 0,
@@ -9721,6 +9757,14 @@
         },
         {
           "id": 156,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 253,
           "required": false,
           "limit": 1,
           "articles": [],
@@ -10409,6 +10453,14 @@
           "articles": [],
           "commas": [],
           "commasUnavailable": []
+        },
+        {
+          "id": 247,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
         }
       ],
       "minArticles": 1,
@@ -10721,7 +10773,7 @@
           },
           {
             "id": 24,
-            "value": -1.0,
+            "value": 1.0,
             "mode": 0
           }
         ],
@@ -11324,6 +11376,14 @@
           "articles": [],
           "commas": [],
           "commasUnavailable": []
+        },
+        {
+          "id": 252,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
         }
       ],
       "minArticles": 1,
@@ -11883,7 +11943,7 @@
         {
           "id": 145,
           "required": false,
-          "limit": 5,
+          "limit": 3,
           "articles": [],
           "commas": [],
           "commasUnavailable": []
@@ -12589,6 +12649,14 @@
           "articles": [],
           "commas": [],
           "commasUnavailable": []
+        },
+        {
+          "id": 251,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
         }
       ],
       "minArticles": 0,
@@ -13042,6 +13110,56 @@
     {
       "required": false,
       "order": 1000,
+      "level": 0,
+      "type": 1,
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "competence": 1,
+      "name": 0,
+      "articles": [
+        {
+          "id": 249,
+          "required": false,
+          "limit": 3,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        }
+      ],
+      "minArticles": 1,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": [
+          14
+        ]
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 105
+    },
+    {
+      "required": false,
+      "order": 1000,
       "level": 2,
       "type": 1,
       "research": {
@@ -13350,6 +13468,56 @@
       "change": 0,
       "proposable": 0,
       "id": 111
+    },
+    {
+      "required": false,
+      "order": 1000,
+      "level": 0,
+      "type": 1,
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "competence": 1,
+      "name": 0,
+      "articles": [
+        {
+          "id": 254,
+          "required": false,
+          "limit": 3,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        }
+      ],
+      "minArticles": 1,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": [
+          15
+        ]
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 112
     }
   ],
   "lawArticles": [
@@ -13428,6 +13596,11 @@
           "id": 123,
           "articles": [],
           "commas": []
+        },
+        {
+          "id": 135,
+          "articles": [],
+          "commas": []
         }
       ],
       "subdivisions": 0,
@@ -13485,6 +13658,13 @@
           "id": 73,
           "articles": [],
           "commas": []
+        },
+        {
+          "id": 132,
+          "articles": [],
+          "commas": [
+            89
+          ]
         }
       ],
       "subdivisions": 0,
@@ -13729,7 +13909,9 @@
         {
           "id": 12,
           "articles": [],
-          "commas": []
+          "commas": [
+            8
+          ]
         },
         {
           "id": 13,
@@ -13858,6 +14040,11 @@
         },
         {
           "id": 74,
+          "articles": [],
+          "commas": []
+        },
+        {
+          "id": 1,
           "articles": [],
           "commas": []
         }
@@ -14054,7 +14241,7 @@
       },
       "dependencies": [],
       "nation": {
-        "happiness": 0.0,
+        "happiness": -0.2,
         "science": 0.0,
         "finance": [],
         "military": {
@@ -15892,7 +16079,7 @@
         },
         "parameters": [
           {
-            "id": 13,
+            "id": 10,
             "value": 1.0,
             "mode": 0
           }
@@ -16342,16 +16529,6 @@
             "id": 23,
             "value": 1.0,
             "mode": 0
-          },
-          {
-            "id": 34,
-            "value": -1.0,
-            "mode": 0
-          },
-          {
-            "id": 16,
-            "value": 1.0,
-            "mode": 0
           }
         ],
         "resources": [],
@@ -16398,7 +16575,7 @@
           },
           {
             "id": 34,
-            "value": -2.0,
+            "value": -0.5,
             "mode": 0
           }
         ],
@@ -17202,7 +17379,7 @@
         "parameters": [
           {
             "id": 14,
-            "value": 1.0,
+            "value": 0.5,
             "mode": 0
           }
         ],
@@ -17513,7 +17690,13 @@
       "nation": {
         "happiness": 0.2,
         "science": 0.0,
-        "finance": [],
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -0.2
+          }
+        ],
         "military": {
           "defence": 0,
           "manPower": 0.0
@@ -17875,7 +18058,12 @@
         "parameters": [
           {
             "id": 25,
-            "value": -2.0,
+            "value": -1.0,
+            "mode": 0
+          },
+          {
+            "id": 37,
+            "value": 0.5,
             "mode": 0
           }
         ],
@@ -18276,7 +18464,7 @@
       "dependencies": [],
       "nation": {
         "happiness": 1.0,
-        "science": 0.5,
+        "science": -0.5,
         "finance": [],
         "military": {
           "defence": 0,
@@ -18359,7 +18547,7 @@
         "parameters": [
           {
             "id": 24,
-            "value": -1.0,
+            "value": 1.0,
             "mode": 0
           }
         ],
@@ -18430,7 +18618,13 @@
           "defence": 0,
           "manPower": 0.0
         },
-        "parameters": [],
+        "parameters": [
+          {
+            "id": 28,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
         "resources": [],
         "events": [],
         "reputation": 0,
@@ -19466,7 +19660,7 @@
     },
     {
       "type": 20,
-      "modifiers": 1,
+      "modifiers": 3,
       "defaultValue": 0,
       "commas": [],
       "subdivisions": 3,
@@ -19489,7 +19683,7 @@
           {
             "type": 0,
             "reference": 0,
-            "value": -0.2
+            "value": -2.0
           }
         ],
         "military": {
@@ -19499,7 +19693,7 @@
         "parameters": [
           {
             "id": 38,
-            "value": 1.0,
+            "value": 0.1,
             "mode": 0
           }
         ],
@@ -19832,17 +20026,9 @@
         },
         "parameters": [],
         "resources": [],
-        "events": [
-          {
-            "id": 8,
-            "value": -1.0,
-            "mode": 0
-          }
-        ],
+        "events": [],
         "reputation": 0,
-        "specials": [
-          6
-        ]
+        "specials": []
       },
       "common": 0,
       "change": 10,
@@ -19959,7 +20145,13 @@
       "nation": {
         "happiness": 0.0,
         "science": 0.0,
-        "finance": [],
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -1.0
+          }
+        ],
         "military": {
           "defence": 0,
           "manPower": 0.0
@@ -20700,7 +20892,7 @@
         "parameters": [
           {
             "id": 24,
-            "value": -2.0,
+            "value": -1.5,
             "mode": 0
           }
         ],
@@ -21465,7 +21657,7 @@
         "parameters": [
           {
             "id": 34,
-            "value": -1.0,
+            "value": -0.5,
             "mode": 0
           },
           {
@@ -21475,7 +21667,7 @@
           },
           {
             "id": 23,
-            "value": 1.0,
+            "value": 0.5,
             "mode": 0
           }
         ],
@@ -23745,6 +23937,518 @@
       "change": 0,
       "proposable": 0,
       "id": 246
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -0.8
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 24,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 247
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -0.5
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 13,
+            "value": 1.5,
+            "mode": 0
+          },
+          {
+            "id": 1,
+            "value": 0.5,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 248
+    },
+    {
+      "type": 21,
+      "modifiers": 3,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 3,
+      "data": [
+        1.0,
+        2.0,
+        3.0
+      ],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -2.0
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 249
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 9,
+            "value": -2.0,
+            "mode": 0
+          },
+          {
+            "id": 38,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 250
+    },
+    {
+      "type": 21,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 10,
+      "proposable": 0,
+      "id": 251
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -1.3
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [
+          {
+            "id": 2,
+            "value": -0.5,
+            "mode": 0
+          },
+          {
+            "id": 4,
+            "value": -0.5,
+            "mode": 0
+          }
+        ],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 252
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -3.0
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [
+          {
+            "id": 6,
+            "value": 1.0,
+            "mode": 0
+          },
+          {
+            "id": 7,
+            "value": 1.0,
+            "mode": 0
+          }
+        ],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 253
+    },
+    {
+      "type": 21,
+      "modifiers": 3,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [
+        1.0,
+        2.0,
+        3.0
+      ],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": 2.0
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 254
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -0.5
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [
+          {
+            "id": 6,
+            "value": 1.0,
+            "mode": 0
+          }
+        ],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 255
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -1.4
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 7,
+            "value": 1.0,
+            "mode": 0
+          },
+          {
+            "id": 36,
+            "value": 0.5,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 256
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -1.0
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.5
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 257
+    },
+    {
+      "type": 1,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [
+        {
+          "id": 133,
+          "articles": [],
+          "commas": []
+        },
+        {
+          "id": 134,
+          "articles": [],
+          "commas": []
+        }
+      ],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 258
     }
   ],
   "lawCommas": [
@@ -26321,7 +27025,13 @@
         },
         "parameters": [],
         "resources": [],
-        "events": [],
+        "events": [
+          {
+            "id": 8,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
         "reputation": 0,
         "specials": []
       },
@@ -26344,7 +27054,9 @@
         "resources": [],
         "events": [],
         "reputation": 0,
-        "specials": []
+        "specials": [
+          7
+        ]
       },
       "common": 0,
       "change": 0,
@@ -26365,7 +27077,9 @@
         "resources": [],
         "events": [],
         "reputation": 0,
-        "specials": []
+        "specials": [
+          13
+        ]
       },
       "common": 0,
       "change": 0,
@@ -26512,7 +27226,7 @@
         "parameters": [
           {
             "id": 34,
-            "value": 1.0,
+            "value": -1.0,
             "mode": 0
           },
           {
@@ -26549,7 +27263,7 @@
           },
           {
             "id": 34,
-            "value": -1.0,
+            "value": 1.0,
             "mode": 0
           }
         ],
@@ -27108,6 +27822,27 @@
       "change": 0,
       "proposable": 0,
       "id": 131
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 132
     }
   ],
   "media": [
@@ -28640,7 +29375,7 @@
             },
             {
               "id": 46,
-              "intValue": 48,
+              "intValue": 96,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
@@ -28713,21 +29448,7 @@
               "id": 9,
               "intValue": 0,
               "floatValue": 0.0,
-              "stringValue": "Quirinal Palace",
-              "boolValue": false
-            },
-			{
-              "id": 195,
-              "intValue": 0,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-			{
-              "id": 203,
-              "intValue": 0,
-              "floatValue": 0.0,
-              "stringValue": "",
+              "stringValue": "$1",
               "boolValue": false
             },
             {
@@ -28767,21 +29488,7 @@
               "id": 9,
               "intValue": 10,
               "floatValue": 0.0,
-              "stringValue": "Palazzo Chigi",
-              "boolValue": false
-            },
-			{
-              "id": 43,
-              "intValue": 45,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 29,
-              "intValue": 31,
-              "floatValue": 0.0,
-              "stringValue": "",
+              "stringValue": "$2",
               "boolValue": false
             },
             {
@@ -28793,7 +29500,7 @@
             },
             {
               "id": 38,
-              "intValue": 121,
+              "intValue": 37,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
@@ -28807,42 +29514,7 @@
               "id": 9,
               "intValue": 3,
               "floatValue": 0.0,
-              "stringValue": "Chamber of Deputies",
-              "boolValue": false
-            },
-			{
-              "id": 4,
-              "intValue": 0,
-              "floatValue": 3.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-			{
-              "id": 42,
-              "intValue": 4,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-			{
-              "id": 128,
-              "intValue": 85,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-			{                    
-			"id": 87,
-            "intValue": 67,
-            "floatValue": 0.0,
-            "stringValue": "",
-            "boolValue": false
-            },
-			{
-              "id": 67,
-              "intValue": 0,
-              "floatValue": 0.0,
-              "stringValue": "",
+              "stringValue": "$3",
               "boolValue": false
             },
             {
@@ -28854,14 +29526,14 @@
             },
             {
               "id": 3,
-              "intValue": 54,
+              "intValue": 15,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
             },
             {
               "id": 19,
-              "intValue": 25,
+              "intValue": 18,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
@@ -28896,14 +29568,14 @@
             },
             {
               "id": 136,
-              "intValue": 92,
+              "intValue": 91,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
             },
             {
               "id": 1,
-              "intValue": 400,
+              "intValue": 300,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
@@ -28917,47 +29589,40 @@
               "id": 9,
               "intValue": 0,
               "floatValue": 0.0,
-              "stringValue": "Senate of the Republic",
+              "stringValue": "$4",
               "boolValue": false
             },
 			{
-              "id": 4,
-              "intValue": 0,
-              "floatValue": 3.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-			{
-              "id": 1,
-              "intValue": 205,
+              "id": 2,
+              "intValue": 82,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
             },
 			{
-              "id": 22,
-              "intValue": 3,
+              "id": 21,
+              "intValue": 21,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
             },
 			{
-              "id": 128,
-              "intValue": 85,
+              "id": 136,
+              "intValue": 93,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
             },
 			{
-              "id": 19,
-              "intValue": 25,
+              "id": 42,
+              "intValue": 5,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
             },
             {
-              "id": 20,
-              "intValue": 18,
+              "id": 3,
+              "intValue": 15,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
@@ -29086,70 +29751,7 @@
       "predecessor": 0,
       "parameters": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 0,
-          "data": 0,
-          "turnout": 78.0,
-          "parties": [
-            {
-              "id": 285,
-              "electors": 0,
-              "percentage": 36.0,
-              "districts": 0
-            },
-            {
-              "id": 286,
-              "electors": 0,
-              "percentage": 12.5,
-              "districts": 0
-            },
-            {
-              "id": 287,
-              "electors": 0,
-              "percentage": 10.0,
-              "districts": 0
-            },
-            {
-              "id": 288,
-              "electors": 0,
-              "percentage": 5.0,
-              "districts": 0
-            },
-            {
-              "id": 289,
-              "electors": 0,
-              "percentage": 12.5,
-              "districts": 0
-            },
-            {
-              "id": 290,
-              "electors": 0,
-              "percentage": 10.5,
-              "districts": 0
-            },
-            {
-              "id": 291,
-              "electors": 0,
-              "percentage": 5.0,
-              "districts": 0
-            },
-            {
-              "id": 292,
-              "electors": 0,
-              "percentage": 5.0,
-              "districts": 0
-            },
-            {
-              "id": 293,
-              "electors": 0,
-              "percentage": 3.0,
-              "districts": 0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "organizations": [],
       "maps": [],
       "partiesRelations": {
@@ -29297,21 +29899,7 @@
               "id": 9,
               "intValue": 10,
               "floatValue": 0.0,
-              "stringValue": "Moncloa Palace",
-              "boolValue": false
-            },
-			{
-              "id": 29,
-              "intValue": 31,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-			{
-              "id": 43,
-              "intValue": 45,
-              "floatValue": 0.0,
-              "stringValue": "",
+              "stringValue": "$2",
               "boolValue": false
             },
             {
@@ -29323,7 +29911,7 @@
             },
             {
               "id": 38,
-              "intValue": 121,
+              "intValue": 37,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
@@ -29337,35 +29925,7 @@
               "id": 9,
               "intValue": 3,
               "floatValue": 0.0,
-              "stringValue": "Congress of Deputies",
-              "boolValue": false
-            },
-			{
-              "id": 4,
-              "intValue": 0,
-              "floatValue": 3.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-			{
-              "id": 42,
-              "intValue": 4,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-			{
-              "id": 128,
-              "intValue": 85,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-			{
-              "id": 87,
-              "intValue": 67,
-              "floatValue": 0.0,
-              "stringValue": "",
+              "stringValue": "$3",
               "boolValue": false
             },
             {
@@ -29419,14 +29979,14 @@
             },
             {
               "id": 136,
-              "intValue": 92,
+              "intValue": 91,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
             },
             {
               "id": 1,
-              "intValue": 350,
+              "intValue": 300,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
@@ -29440,40 +30000,12 @@
               "id": 9,
               "intValue": 0,
               "floatValue": 0.0,
-              "stringValue": "Senate",
-              "boolValue": false
-            },
-			{
-              "id": 22,
-              "intValue": 3,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-			{
-              "id": 1,
-              "intValue": 266,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-			{
-              "id": 128,
-              "intValue": 85,
-              "floatValue": 0.0,
-              "stringValue": "",
+              "stringValue": "$4",
               "boolValue": false
             },
 			{
               "id": 2,
               "intValue": 82,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 2,
-              "intValue": 123,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
@@ -29508,7 +30040,7 @@
             },
             {
               "id": 19,
-              "intValue": 21,
+              "intValue": 18,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
@@ -29780,7 +30312,7 @@
             },
             {
               "id": 46,
-              "intValue": 48,
+              "intValue": 96,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
@@ -29853,19 +30385,12 @@
               "id": 9,
               "intValue": 0,
               "floatValue": 0.0,
-              "stringValue": "Élysée Palace",
-              "boolValue": false
-            },
-			{
-              "id": 39,
-              "intValue": 39,
-              "floatValue": 0.0,
-              "stringValue": "",
+              "stringValue": "$1",
               "boolValue": false
             },
             {
               "id": 161,
-              "intValue": 18,
+              "intValue": 24,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
@@ -29942,7 +30467,7 @@
               "id": 9,
               "intValue": 0,
               "floatValue": 0.0,
-              "stringValue": "Hôtel de Matignon",
+              "stringValue": "$2",
               "boolValue": false
             }
           ]
@@ -29954,19 +30479,19 @@
               "id": 9,
               "intValue": 4,
               "floatValue": 0.0,
-              "stringValue": "National Assembly",
+              "stringValue": "$3",
               "boolValue": false
             },
             {
               "id": 2,
-              "intValue": 5,
+              "intValue": 120,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
             },
             {
               "id": 1,
-              "intValue": 577,
+              "intValue": 400,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
@@ -30043,54 +30568,12 @@
               "id": 9,
               "intValue": 0,
               "floatValue": 0.0,
-              "stringValue": "Senate",
-              "boolValue": false
-            },
-		    {
-              "id": 1,
-              "intValue": 348,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-			{
-              "id": 19,
-              "intValue": 24,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 20,
-              "intValue": 18,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-			{
-              "id": 22,
-              "intValue": 3,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-			{
-			"id": 127,
-            "intValue": 83,
-            "floatValue": 0.0,
-            "stringValue": "",
-            "boolValue": false
-            },
-			{
-              "id": 128,
-              "intValue": 85,
-              "floatValue": 0.0,
-              "stringValue": "",
+              "stringValue": "$4",
               "boolValue": false
             },
             {
               "id": 2,
-              "intValue": 82,
+              "intValue": 100,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
@@ -42993,52 +43476,7 @@
       "predecessor": 0,
       "parameters": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 0,
-          "data": 0,
-          "turnout": 90.0,
-          "parties": [
-            {
-              "id": 406,
-              "electors": 0,
-              "percentage": 51.0,
-              "districts": 0
-            },
-            {
-              "id": 407,
-              "electors": 0,
-              "percentage": 12.5,
-              "districts": 0
-            },
-            {
-              "id": 408,
-              "electors": 0,
-              "percentage": 9.0,
-              "districts": 0
-            },
-            {
-              "id": 409,
-              "electors": 0,
-              "percentage": 15.5,
-              "districts": 0
-            },
-            {
-              "id": 410,
-              "electors": 0,
-              "percentage": 7.0,
-              "districts": 0
-            },
-            {
-              "id": 411,
-              "electors": 0,
-              "percentage": 5.0,
-              "districts": 0
-            }
-            ]
-        }
-      ],
+      "elections": [],
       "organizations": [],
       "maps": [],
       "partiesRelations": {
@@ -43490,58 +43928,7 @@
       "predecessor": 0,
       "parameters": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "data": 0,
-          "turnout": 75.0,
-          "parties": [
-            {
-              "id": 148,
-              "electors": 0,
-              "percentage": 30.0,
-              "districts": 0
-            },
-            {
-              "id": 149,
-              "electors": 0,
-              "percentage": 25.0,
-              "districts": 0
-            },
-            {
-              "id": 150,
-              "electors": 0,
-              "percentage": 20.0,
-              "districts": 0
-            },
-            {
-              "id": 151,
-              "electors": 0,
-              "percentage": 8.0,
-              "districts": 0
-            },
-            {
-              "id": 152,
-              "electors": 0,
-              "percentage": 8.0,
-              "districts": 0
-            },
-            {
-              "id": 153,
-              "electors": 0,
-              "percentage": 4.0,
-              "districts": 0
-            },
-            {
-              "id": 154,
-              "electors": 0,
-              "percentage": 4.0,
-              "districts": 0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "organizations": [],
       "maps": [],
       "partiesRelations": {
@@ -44005,106 +44392,7 @@
       "predecessor": 0,
       "parameters": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "data": 0,
-          "turnout": 75.0,
-          "parties": [
-            {
-              "id": 120,
-              "electors": 0,
-              "percentage": 23.5,
-              "districts": 0
-            },
-            {
-              "id": 121,
-              "electors": 0,
-              "percentage": 15.5,
-              "districts": 0
-            },
-            {
-              "id": 122,
-              "electors": 0,
-              "percentage": 15.0,
-              "districts": 0
-            },
-            {
-              "id": 123,
-              "electors": 0,
-              "percentage": 12.8,
-              "districts": 0
-            },
-            {
-              "id": 124,
-              "electors": 0,
-              "percentage": 6.0,
-              "districts": 0
-            },
-            {
-              "id": 125,
-              "electors": 0,
-              "percentage": 4.5,
-              "districts": 0
-            },
-            {
-              "id": 126,
-              "electors": 0,
-              "percentage": 3.0,
-              "districts": 0
-            },
-            {
-              "id": 127,
-              "electors": 0,
-              "percentage": 3.0,
-              "districts": 0
-            },
-            {
-              "id": 128,
-              "electors": 0,
-              "percentage": 2.0,
-              "districts": 0
-            },
-            {
-              "id": 129,
-              "electors": 0,
-              "percentage": 2.0,
-              "districts": 0
-            },
-            {
-              "id": 130,
-              "electors": 0,
-              "percentage": 2.0,
-              "districts": 0
-            },
-            {
-              "id": 131,
-              "electors": 0,
-              "percentage": 2.0,
-              "districts": 0
-            },
-            {
-              "id": 132,
-              "electors": 0,
-              "percentage": 2.0,
-              "districts": 0
-            },
-            {
-              "id": 133,
-              "electors": 0,
-              "percentage": 2.0,
-              "districts": 0
-            },
-            {
-              "id": 134,
-              "electors": 0,
-              "percentage": 0.8,
-              "districts": 0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "organizations": [],
       "maps": [],
       "partiesRelations": {
@@ -44606,46 +44894,7 @@
       "predecessor": 0,
       "parameters": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "data": 0,
-          "turnout": 75.0,
-          "parties": [
-            {
-              "id": 167,
-              "electors": 0,
-              "percentage": 32.0,
-              "districts": 0
-            },
-            {
-              "id": 168,
-              "electors": 0,
-              "percentage": 20.0,
-              "districts": 0
-            },
-            {
-              "id": 169,
-              "electors": 0,
-              "percentage": 7.0,
-              "districts": 0
-            },
-            {
-              "id": 171,
-              "electors": 0,
-              "percentage": 6.0,
-              "districts": 0
-            },
-            {
-              "id": 170,
-              "electors": 0,
-              "percentage": 35.0,
-              "districts": 0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "organizations": [],
       "maps": [],
       "partiesRelations": {
@@ -45161,88 +45410,7 @@
       "predecessor": 0,
       "parameters": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "data": 0,
-          "turnout": 75.0,
-          "parties": [
-            {
-              "id": 135,
-              "electors": 0,
-              "percentage": 15.0,
-              "districts": 0
-            },
-            {
-              "id": 136,
-              "electors": 0,
-              "percentage": 12.0,
-              "districts": 0
-            },
-            {
-              "id": 137,
-              "electors": 0,
-              "percentage": 8.0,
-              "districts": 0
-            },
-            {
-              "id": 138,
-              "electors": 0,
-              "percentage": 8.0,
-              "districts": 0
-            },
-            {
-              "id": 139,
-              "electors": 0,
-              "percentage": 8.0,
-              "districts": 0
-            },
-            {
-              "id": 140,
-              "electors": 0,
-              "percentage": 12.0,
-              "districts": 0
-            },
-            {
-              "id": 141,
-              "electors": 0,
-              "percentage": 9.0,
-              "districts": 0
-            },
-            {
-              "id": 142,
-              "electors": 0,
-              "percentage": 8.0,
-              "districts": 0
-            },
-            {
-              "id": 143,
-              "electors": 0,
-              "percentage": 6.0,
-              "districts": 0
-            },
-            {
-              "id": 144,
-              "electors": 0,
-              "percentage": 6.0,
-              "districts": 0
-            },
-            {
-              "id": 145,
-              "electors": 0,
-              "percentage": 4.0,
-              "districts": 0
-            },
-            {
-              "id": 143,
-              "electors": 0,
-              "percentage": 4.0,
-              "districts": 0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "organizations": [],
       "maps": [],
       "partiesRelations": {
@@ -45360,7 +45528,22 @@
         }
       ],
       "nations": [],
-      "regions": [],
+      "regions": [
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509
+      ],
       "events": [],
       "culture": 0,
       "predecessor": 0,
@@ -50385,70 +50568,7 @@
       "predecessor": 0,
       "parameters": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "data": 0,
-          "turnout": 75.0,
-          "parties": [
-            {
-              "id": 172,
-              "electors": 0,
-              "percentage": 53.0,
-              "districts": 0
-            },
-            {
-              "id": 173,
-              "electors": 0,
-              "percentage": 9.0,
-              "districts": 0
-            },
-            {
-              "id": 174,
-              "electors": 0,
-              "percentage": 8.0,
-              "districts": 0
-            },
-            {
-              "id": 175,
-              "electors": 0,
-              "percentage": 7.0,
-              "districts": 0
-            },
-            {
-              "id": 176,
-              "electors": 0,
-              "percentage": 6.0,
-              "districts": 0
-            },
-            {
-              "id": 177,
-              "electors": 0,
-              "percentage": 5.0,
-              "districts": 0
-            },
-            {
-              "id": 178,
-              "electors": 0,
-              "percentage": 5.0,
-              "districts": 0
-            },
-            {
-              "id": 179,
-              "electors": 0,
-              "percentage": 3.5,
-              "districts": 0
-            },
-            {
-              "id": 180,
-              "electors": 0,
-              "percentage": 3.5,
-              "districts": 0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "organizations": [],
       "maps": [],
       "partiesRelations": {
@@ -50876,7 +50996,15 @@
         }
       ],
       "nations": [],
-      "regions": [],
+      "regions": [
+        628,
+        629,
+        630,
+        631,
+        632,
+        633,
+        634
+      ],
       "events": [],
       "culture": 0,
       "predecessor": 0,
@@ -51496,7 +51624,19 @@
         }
       ],
       "nations": [],
-      "regions": [],
+      "regions": [
+        617,
+        618,
+        619,
+        620,
+        621,
+        622,
+        623,
+        624,
+        625,
+        626,
+        627
+      ],
       "events": [],
       "culture": 0,
       "predecessor": 0,
@@ -58078,76 +58218,7 @@
       "predecessor": 0,
       "parameters": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 0,
-          "data": 0,
-          "turnout": 90.0,
-          "parties": [
-            {
-              "id": 382,
-              "electors": 0,
-              "percentage": 92.0,
-              "districts": 0
-            },
-            {
-              "id": 383,
-              "electors": 0,
-              "percentage": 1.5,
-              "districts": 0
-            },
-            {
-              "id": 384,
-              "electors": 0,
-              "percentage": 1.5,
-              "districts": 0
-            },
-            {
-              "id": 385,
-              "electors": 0,
-              "percentage": 1.5,
-              "districts": 0
-            },
-            {
-              "id": 386,
-              "electors": 0,
-              "percentage": 1.5,
-              "districts": 0
-            },
-            {
-              "id": 387,
-              "electors": 0,
-              "percentage": 1.5,
-              "districts": 0
-            },
-            {
-              "id": 388,
-              "electors": 0,
-              "percentage": 1.5,
-              "districts": 0
-            },
-            {
-              "id": 389,
-              "electors": 0,
-              "percentage": 1.5,
-              "districts": 0
-            },
-            {
-              "id": 390,
-              "electors": 0,
-              "percentage": 0.5,
-              "districts": 0
-            },
-            {
-              "id": 381,
-              "electors": 0,
-              "percentage": 0.1,
-              "districts": 0
-            }
-            ]
-        }
-      ],
+      "elections": [],
       "organizations": [],
       "maps": [],
       "partiesRelations": {
@@ -58516,57 +58587,8 @@
           "id": 5,
           "articles": [
             {
-              "id": 47,
-              "intValue": 0,
-              "floatValue": 0.0,
-              "stringValue": "$0",
-              "boolValue": false
-            },
-            {
-              "id": 14,
-              "intValue": 3,
-              "floatValue": 0.0,
-              "stringValue": "xxx",
-              "boolValue": false
-            },
-            {
-              "id": 10,
-              "intValue": 4,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
               "id": 13,
               "intValue": 3,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 15,
-              "intValue": 12,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 7,
-              "intValue": 10,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 17,
-              "intValue": 20,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 46,
-              "intValue": 96,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
@@ -59374,57 +59396,8 @@
           "id": 5,
           "articles": [
             {
-              "id": 47,
-              "intValue": 0,
-              "floatValue": 0.0,
-              "stringValue": "$0",
-              "boolValue": false
-            },
-            {
-              "id": 14,
-              "intValue": 3,
-              "floatValue": 0.0,
-              "stringValue": "xxx",
-              "boolValue": false
-            },
-            {
-              "id": 10,
-              "intValue": 4,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
               "id": 13,
               "intValue": 3,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 15,
-              "intValue": 12,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 7,
-              "intValue": 10,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 17,
-              "intValue": 20,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 46,
-              "intValue": 96,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
@@ -59801,57 +59774,8 @@
           "id": 5,
           "articles": [
             {
-              "id": 47,
-              "intValue": 0,
-              "floatValue": 0.0,
-              "stringValue": "$0",
-              "boolValue": false
-            },
-            {
-              "id": 14,
-              "intValue": 3,
-              "floatValue": 0.0,
-              "stringValue": "xxx",
-              "boolValue": false
-            },
-            {
-              "id": 10,
-              "intValue": 4,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
               "id": 13,
               "intValue": 3,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 15,
-              "intValue": 12,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 7,
-              "intValue": 10,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 17,
-              "intValue": 20,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 46,
-              "intValue": 96,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
@@ -81232,6 +81156,76 @@
       "id": 75
     },
     {
+      "population": 1.5,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 76
+    },
+    {
+      "population": 1.02,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 77
+    },
+    {
       "population": 39.51,
       "gdpCapita": 79.26,
       "area": 0.0,
@@ -98190,6 +98184,41 @@
       "id": 365
     },
     {
+      "population": 1.91,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 0,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 366
+    },
+    {
       "population": 4.19,
       "gdpCapita": 0.0,
       "area": 0.0,
@@ -101950,6 +101979,1841 @@
       "id": 473
     },
     {
+      "population": 3.14,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 474
+    },
+    {
+      "population": 4.1,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 475
+    },
+    {
+      "population": 1.19,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 476
+    },
+    {
+      "population": 1.25,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 477
+    },
+    {
+      "population": 1.66,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 478
+    },
+    {
+      "population": 1.36,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 479
+    },
+    {
+      "population": 1.78,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 480
+    },
+    {
+      "population": 0.92,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 481
+    },
+    {
+      "population": 2.12,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 482
+    },
+    {
+      "population": 2.49,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 483
+    },
+    {
+      "population": 1.1,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 484
+    },
+    {
+      "population": 2.36,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 485
+    },
+    {
+      "population": 1.37,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 486
+    },
+    {
+      "population": 1.14,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 487
+    },
+    {
+      "population": 1.05,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 488
+    },
+    {
+      "population": 1.0,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 489
+    },
+    {
+      "population": 2.63,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 490
+    },
+    {
+      "population": 1.0,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 491
+    },
+    {
+      "population": 1.24,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 492
+    },
+    {
+      "population": 1.17,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 493
+    },
+    {
+      "population": 0.89,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 494
+    },
+    {
+      "population": 0.97,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 3,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 495
+    },
+    {
+      "population": 1.38,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 9,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 496
+    },
+    {
+      "population": 1.45,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 9,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 497
+    },
+    {
+      "population": 0.65,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 9,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 498
+    },
+    {
+      "population": 0.61,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 9,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 499
+    },
+    {
+      "population": 0.29,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 9,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 500
+    },
+    {
+      "population": 0.81,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 9,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 501
+    },
+    {
+      "population": 0.45,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 9,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 502
+    },
+    {
+      "population": 0.55,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 9,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 503
+    },
+    {
+      "population": 0.53,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 9,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 504
+    },
+    {
+      "population": 0.51,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 9,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 505
+    },
+    {
+      "population": 1.22,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 9,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 506
+    },
+    {
+      "population": 0.63,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 9,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 507
+    },
+    {
+      "population": 0.58,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 9,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 508
+    },
+    {
+      "population": 1.18,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 9,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 509
+    },
+    {
+      "population": 5.1,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 6,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5548,
+        5549,
+        5550,
+        5551,
+        5552,
+        5553,
+        5554,
+        5555,
+        5556,
+        5557,
+        5558,
+        5559
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 510
+    },
+    {
+      "population": 8.9,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 6,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5632,
+        5633,
+        5634,
+        5635,
+        5636,
+        5637,
+        5638,
+        5639,
+        5640,
+        5641,
+        5642,
+        5643,
+        5644,
+        5645,
+        5646,
+        5647,
+        5648,
+        5649,
+        5650,
+        5651,
+        5652,
+        5653
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 511
+    },
+    {
+      "population": 43.3,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 6,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5602,
+        5603,
+        5604,
+        5605,
+        5606,
+        5607,
+        5608,
+        5609,
+        5610,
+        5611,
+        5612,
+        5613,
+        5614,
+        5615,
+        5616,
+        5617,
+        5618,
+        5619,
+        5620,
+        5621,
+        5622,
+        5623,
+        5624,
+        5625,
+        5626,
+        5627,
+        5628,
+        5629,
+        5630,
+        5631,
+        5654,
+        5655,
+        5656,
+        5657,
+        5658,
+        5659,
+        5660,
+        5661,
+        5662,
+        5663,
+        5664,
+        5665,
+        5666,
+        5667,
+        5668,
+        5669,
+        5670,
+        5671,
+        5672,
+        5673,
+        5674,
+        5675,
+        5676,
+        5677,
+        5678,
+        5679,
+        5680,
+        5681,
+        5682,
+        5683,
+        5684,
+        5685,
+        5686,
+        5687,
+        5688,
+        5689,
+        5690,
+        5691,
+        5692,
+        5693,
+        5694,
+        5695,
+        5696,
+        5697,
+        5698,
+        5699,
+        5700,
+        5701,
+        5702,
+        5703,
+        5704,
+        5705,
+        5706,
+        5707
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 512
+    },
+    {
+      "population": 21.4,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 6,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5708,
+        5709,
+        5710,
+        5711,
+        5712,
+        5713,
+        5714,
+        5715,
+        5716,
+        5717,
+        5718,
+        5719,
+        5720,
+        5721,
+        5722,
+        5723,
+        5724,
+        5725,
+        5726,
+        5727,
+        5728,
+        5729,
+        5730,
+        5731,
+        5732,
+        5733,
+        5734,
+        5735,
+        5736,
+        5737,
+        5738,
+        5739,
+        5740,
+        5741,
+        5742,
+        5743,
+        5744,
+        5745,
+        5746,
+        5747,
+        5748,
+        5749,
+        5750,
+        5751,
+        5752,
+        5753,
+        5754
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 513
+    },
+    {
+      "population": 22.5,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 6,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5584,
+        5585,
+        5586,
+        5587,
+        5588,
+        5589,
+        5590,
+        5591,
+        5592,
+        5593,
+        5594,
+        5595,
+        5596,
+        5597,
+        5598,
+        5599,
+        5600,
+        5601,
+        5755,
+        5756,
+        5757,
+        5758,
+        5759,
+        5760,
+        5761,
+        5762,
+        5763,
+        5764,
+        5765,
+        5766,
+        5767,
+        5768,
+        5769,
+        5770,
+        5771,
+        5772,
+        5773,
+        5774,
+        5775,
+        5776,
+        5777,
+        5778,
+        5779,
+        5780,
+        5781,
+        5782,
+        5783,
+        5784,
+        5785,
+        5786,
+        5787,
+        5788,
+        5789,
+        5790
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 514
+    },
+    {
+      "population": 7.3,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 6,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5791,
+        5792,
+        5793,
+        5794,
+        5795,
+        5796,
+        5797,
+        5798,
+        5799,
+        5800,
+        5801,
+        5802,
+        5803,
+        5804,
+        5805,
+        5806,
+        5807,
+        5808,
+        5809,
+        5810
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 515
+    },
+    {
+      "population": 3.8,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 6,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5811,
+        5812,
+        5813,
+        5814,
+        5815,
+        5816,
+        5817,
+        5818,
+        5819,
+        5820,
+        5821,
+        5822
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 516
+    },
+    {
+      "population": 14.3,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 6,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [
+        5560,
+        5561,
+        5562,
+        5563,
+        5564,
+        5565,
+        5566,
+        5567,
+        5568,
+        5569,
+        5570,
+        5571,
+        5572,
+        5573,
+        5574,
+        5575,
+        5576,
+        5577,
+        5578,
+        5579,
+        5580,
+        5581,
+        5582,
+        5583,
+        5823,
+        5824,
+        5825,
+        5826,
+        5827,
+        5828,
+        5829,
+        5830,
+        5831,
+        5832,
+        5833,
+        5834
+      ],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [
+        {
+          "id": 40,
+          "articles": [
+            {
+              "id": 3,
+              "intValue": 15,
+              "floatValue": 0.0,
+              "stringValue": "",
+              "boolValue": false
+            }
+          ]
+        }
+      ],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": true,
+      "id": 517
+    },
+    {
       "population": 9.5,
       "gdpCapita": 0.0,
       "area": 0.0,
@@ -102820,6 +104684,138 @@
       "events": [],
       "sea": true,
       "id": 534
+    },
+    {
+      "population": 1.3,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 0,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 611
+    },
+    {
+      "population": 1.33,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 0,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 612
+    },
+    {
+      "population": 0.99,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 0,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 613
+    },
+    {
+      "population": 1.46,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 0,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 614
+    },
+    {
+      "population": 0.98,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 0,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 615
+    },
+    {
+      "population": 1.08,
+      "gdpCapita": 0.0,
+      "area": 0.0,
+      "code": "",
+      "identity": 0,
+      "mountainous": 0,
+      "fertility": 0,
+      "climate": 0,
+      "districts": [],
+      "cities": [],
+      "culture": [],
+      "constitution": [],
+      "laws": [],
+      "resources": [],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
+      "events": [],
+      "sea": false,
+      "id": 616
     }
   ],
   "religions": [],
@@ -108294,6 +110290,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 1
     },
     {
@@ -108303,6 +110300,7 @@
       "entrepreneurship": 50,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 2
     },
     {
@@ -108312,6 +110310,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 3
     },
     {
@@ -108321,6 +110320,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 4
     },
     {
@@ -108330,6 +110330,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 5
     },
     {
@@ -108339,6 +110340,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 6
     },
     {
@@ -108348,6 +110350,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 7
     },
     {
@@ -108357,6 +110360,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 8
     },
     {
@@ -108366,6 +110370,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 9
     },
     {
@@ -108375,6 +110380,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 10
     },
     {
@@ -108384,6 +110390,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 11
     },
     {
@@ -108393,6 +110400,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 12
     },
     {
@@ -108402,6 +110410,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 13
     },
     {
@@ -108411,6 +110420,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 14
     },
     {
@@ -108420,6 +110430,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 15
     },
     {
@@ -108429,6 +110440,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 16
     },
     {
@@ -108438,6 +110450,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 17
     },
     {
@@ -108447,6 +110460,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 18
     },
     {
@@ -108456,6 +110470,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 19
     },
     {
@@ -108465,6 +110480,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 20
     },
     {
@@ -108474,6 +110490,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 21
     },
     {
@@ -108483,6 +110500,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 22
     },
     {
@@ -108492,6 +110510,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 23
     },
     {
@@ -108501,6 +110520,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 24
     },
     {
@@ -108510,6 +110530,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 25
     },
     {
@@ -108519,6 +110540,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 26
     },
     {
@@ -108528,6 +110550,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 27
     },
     {
@@ -108537,6 +110560,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 28
     },
     {
@@ -108546,6 +110570,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 29
     },
     {
@@ -108555,6 +110580,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 30
     },
     {
@@ -108564,6 +110590,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 31
     },
     {
@@ -108573,6 +110600,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 32
     },
     {
@@ -108582,6 +110610,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 33
     },
     {
@@ -108591,6 +110620,7 @@
       "entrepreneurship": 0,
       "type": 1,
       "ideologies": [],
+      "education": 1,
       "id": 34
     },
     {
@@ -108600,6 +110630,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 35
     },
     {
@@ -108609,6 +110640,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 36
     },
     {
@@ -108618,6 +110650,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 37
     },
     {
@@ -108627,6 +110660,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 38
     },
     {
@@ -108636,6 +110670,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 39
     },
     {
@@ -108645,6 +110680,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 40
     },
     {
@@ -108654,6 +110690,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 41
     },
     {
@@ -108663,6 +110700,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 42
     },
     {
@@ -108672,6 +110710,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 43
     },
     {
@@ -108681,6 +110720,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 44
     },
     {
@@ -108690,6 +110730,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 45
     },
     {
@@ -108699,6 +110740,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 46
     },
     {
@@ -108708,6 +110750,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 47
     },
     {
@@ -108717,6 +110760,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 48
     },
     {
@@ -108726,6 +110770,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 49
     },
     {
@@ -108735,6 +110780,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 50
     },
     {
@@ -108744,6 +110790,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 51
     },
     {
@@ -108753,6 +110800,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 52
     },
     {
@@ -108762,6 +110810,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 53
     },
     {
@@ -108771,6 +110820,7 @@
       "entrepreneurship": 50,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 54
     },
     {
@@ -108780,6 +110830,7 @@
       "entrepreneurship": 60,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 55
     },
     {
@@ -108789,6 +110840,7 @@
       "entrepreneurship": 20,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 56
     },
     {
@@ -108798,6 +110850,7 @@
       "entrepreneurship": 10,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 57
     },
     {
@@ -108807,6 +110860,7 @@
       "entrepreneurship": 30,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 58
     },
     {
@@ -108816,6 +110870,7 @@
       "entrepreneurship": 30,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 59
     },
     {
@@ -108825,6 +110880,7 @@
       "entrepreneurship": 30,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 60
     },
     {
@@ -108834,6 +110890,7 @@
       "entrepreneurship": 50,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 61
     },
     {
@@ -108843,6 +110900,7 @@
       "entrepreneurship": 10,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 62
     },
     {
@@ -108852,6 +110910,7 @@
       "entrepreneurship": 100,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 63
     },
     {
@@ -108861,6 +110920,7 @@
       "entrepreneurship": 10,
       "type": 0,
       "ideologies": [],
+      "education": 1,
       "id": 64
     },
     {
@@ -108870,6 +110930,7 @@
       "entrepreneurship": 10,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 65
     },
     {
@@ -108879,6 +110940,7 @@
       "entrepreneurship": 30,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 66
     },
     {
@@ -108888,6 +110950,7 @@
       "entrepreneurship": 0,
       "type": 0,
       "ideologies": [],
+      "education": 0,
       "id": 67
     }
   ],

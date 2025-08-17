@@ -60,6 +60,7 @@
     <Balance>Bilans</Balance>
     <Bank>Bank</Bank>
     <Banks>Banki</Banks>
+    <Basic>Podstawowy</Basic>
     <Battle>Bitwa</Battle>
     <Battles>Bitwy</Battles>
     <Benchmark>Wskaźnik</Benchmark>
@@ -109,6 +110,7 @@
     <Citizen>Obywatel</Citizen>
     <Citizens>Obywatele</Citizens>
     <Citizenship>Obywatelstwo</Citizenship>
+    <CivilWar>Wojna domowa</CivilWar>
     <Clock>Zegar</Clock>
     <Close>Zamknij</Close>
     <Cloths>Ubrania</Cloths>
@@ -278,6 +280,7 @@
     <Front>Przód</Front>
     <Frontrunner>Lider</Frontrunner>
     <Frontrunners>Liderzy</Frontrunners>
+    <Full>Pełny</Full>
     <Fullscreen>Pełny ekran</Fullscreen>
     <Fundraise>Zbiórka funduszy</Fundraise>
     <Gap>Przerwa</Gap>
@@ -402,6 +405,7 @@
     <Minor>Małe</Minor>
     <MinorPower>Mała potęga</MinorPower>
     <Min>Min</Min>
+    <Minimal>Minimalny</Minimal>
     <Minimum>Minimalny</Minimum>
     <Minister>Minister</Minister>
     <Ministers>Ministrowie</Ministers>
@@ -495,10 +499,11 @@
     <Position>Pozycja</Position>
     <Positive>Pozytywny</Positive>
     <Power>Władza</Power>
+    <Predecessor>Poprzednik</Predecessor>
     <Prefecture>Prefektura</Prefecture>
     <Prefectures>Prefektury</Prefectures>
     <Premier>Premier</Premier>
-    <Premiers>Premiers</Premiers>
+    <Premiers>Premierzy</Premiers>
     <President>Prezydent</President>
     <Presence>Obecność</Presence>
     <Present>Obecny</Present>
@@ -526,6 +531,7 @@
     <Province>Województwo</Province>
     <Provinces>Województwa</Provinces>
     <Provincial>Wojewódzki</Provincial>
+    <Public>Publiczny</Public>
     <Quality>Jakość</Quality>
     <Quarter>Kwartał</Quarter>
     <Queen>Królowa</Queen>
@@ -641,6 +647,7 @@
     <Strong>Silny</Strong>
     <Strongest>Najsilniejszy</Strongest>
     <Students>Studenci</Students>
+    <Substantial>Znaczący</Substantial>
     <Success>Sukces</Success>
     <Successor>Sukcesor</Successor>
     <Suffrage>Prawo wyborcze</Suffrage>
@@ -669,6 +676,8 @@
     <Timeline>Oś czasu</Timeline>
     <Timeout>Czas oczekiwania</Timeout>
     <Timer>Timer</Timer>
+    <Tip>Wskazówka</Tip>
+    <Tips>Wskazówki</Tips>
     <Title>Tytuł</Title>
     <Total>Całkowity</Total>
     <TotalCost>Całkowity koszt</TotalCost>
@@ -715,6 +724,7 @@
     <ViceSpeaker>Wiceprzewodniczący</ViceSpeaker>
     <Video>Wideo</Video>
     <View>Widok</View>
+    <Visibility>Widoczność</Visibility>
     <Visit>Odwiedź</Visit>
     <Volume>Głośność</Volume>
     <Vote>Głosuj</Vote>
@@ -1699,13 +1709,19 @@
     <Item>
       <text>
         <string>Stabilność</string>
-        <string>Niska stabilność $i5.9 zwiększa prawdopodobieństwo protestów $i4.13, a w przypadku przedłużenia, podnosi ryzyko rewolucji $i4.7.</string>
+        <string>Niska stabilność $i5.9 zwiększa prawdopodobieństwo protestów $i4.13, a jeśli się przedłuża, zwiększa ryzyko rewolucji $i4.7.\n\nPonadto niska stabilność może doprowadzić do oderwania się regionu.</string>
       </text>
     </Item>
     <Item>
       <text>
         <string>Obstrukcja parlamentarna</string>
         <string>Taktyka polityczna, w której ustawodawcy opóźniają lub blokują działania ustawodawcze, często wygłaszając długie przemówienia, aby uniemożliwić głosowanie.\n\nUstawodawcy uczestniczący w obstrukcji parlamentarnych stracą dużo energii.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Partia</string>
+        <string>Partia polityczna $i9.0 to zorganizowana grupa osób o podobnych poglądach politycznych, współpracująca w celu wpływania na politykę rządu, zdobycia władzy i wygrywania wyborów. Partie zazwyczaj promują określony zestaw idei i wspierają kandydatów reprezentujących ich program.\n\nKażda partia ma sekretarza $i8.6, który posiada największy wpływ w partii.\n\nIm więcej wpływów zdobędziesz, tym więcej działań będziesz mógł podjąć w grze.</string>
       </text>
     </Item>
   </Encyclopedia>
@@ -2565,6 +2581,18 @@
         <string>Chroni budynki, miejsca i krajobrazy o znaczeniu historycznym, kulturowym lub architektonicznym przed zmianą lub zniszczeniem.</string>
       </text>
     </Item>
+    <Item>
+      <text>
+        <string>Regulacja taryf</string>
+        <string>Nakłada podatki lub opłaty na towary importowane lub eksportowane w celu kontrolowania handlu, ochrony krajowych branż lub generowania dochodów dla rządu.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Regulacja cmentarzy i pochówków</string>
+        <string>Reguluje funkcjonowanie cmentarzy oraz ustala zasady pochówków, kremacji i ekshumacji ludzkich szczątków.</string>
+      </text>
+    </Item>
   </Laws>
   <LawArticles>
     <string />
@@ -2814,6 +2842,18 @@
     <string>Zachować zabytkowe budynki</string>
     <string>Wyznaczyć miejsca archeologiczne</string>
     <string>Łagodzenie ilościowe</string>
+    <string>Uproszczony rozwód</string>
+    <string>Festiwale muzyczne</string>
+    <string>Pomoc</string>
+    <string>Standardowy okres najmu</string>
+    <string>Obcy suweren</string>
+    <string>Zachęcanie do użycia materiałów antysejsmicznych</string>
+    <string>Eksploracja Marsa</string>
+    <string>Taryfa</string>
+    <string>Wyprawy na Antarktydę</string>
+    <string>Subwencjonowane pożyczki dla pierwszych nabywców domów</string>
+    <string>Groby bohaterów wojennych</string>
+    <string>Preferowana metoda pochówku</string>
   </LawArticles>
   <LawCommas>
     <string />
@@ -2948,6 +2988,10 @@
     <string>Niski</string>
     <string>Umiarkowany</string>
     <string>Silny</string>
+    <string>Dożywotnia nominacja</string>
+    <string>Pochówek w ziemi</string>
+    <string>Kremacja</string>
+    <string>Natychmiastowe głosowanie eliminacyjne</string>
   </LawCommas>
   <Media>
     <string />
@@ -4801,6 +4845,129 @@
     <string>Gyeongsangbuk-do</string>
     <string>Gyeongsangnam-do</string>
     <string>Jeju</string>
+    <string>Amnat Charoen</string>
+    <string>Ang Thong</string>
+    <string>Ayutthaya</string>
+    <string>Bueng Kan</string>
+    <string>Buri Ram</string>
+    <string>Chachoengsao</string>
+    <string>Chai Nat</string>
+    <string>Chaiyaphum</string>
+    <string>Chanthaburi</string>
+    <string>Chiang Mai</string>
+    <string>Chiang Rai</string>
+    <string>Chonburi</string>
+    <string>Chumphon</string>
+    <string>Kalasin</string>
+    <string>Kamphaeng Phet</string>
+    <string>Kanchanaburi</string>
+    <string>Khon Kaen</string>
+    <string>Krabi</string>
+    <string>Lampang</string>
+    <string>Lamphun</string>
+    <string>Loei</string>
+    <string>Lopburi</string>
+    <string>Mae Hong Son</string>
+    <string>Maha Sarakham</string>
+    <string>Mukdahan</string>
+    <string>Nakhon Nayok</string>
+    <string>Nakhon Pathom</string>
+    <string>Nakhon Phanom</string>
+    <string>Nakhon Ratchasima</string>
+    <string>Nakhon Sawan</string>
+    <string>Nakhon Si Thammarat</string>
+    <string>Nan</string>
+    <string>Narathiwat</string>
+    <string>Nong Bua Lamphu</string>
+    <string>Nong Khai</string>
+    <string>Nonthaburi</string>
+    <string>Pathum Thani</string>
+    <string>Pattani</string>
+    <string>Phang Nga</string>
+    <string>Phatthalung</string>
+    <string>Phayao</string>
+    <string>Phetchabun</string>
+    <string>Phetchaburi</string>
+    <string>Phichit</string>
+    <string>Phitsanulok</string>
+    <string>Phrae</string>
+    <string>Phuket</string>
+    <string>Prachinburi</string>
+    <string>Prachuap Khiri Khan</string>
+    <string>Ranong</string>
+    <string>Ratchaburi</string>
+    <string>Rayong</string>
+    <string>Roi Et</string>
+    <string>Sa Kaeo</string>
+    <string>Sakon Nakhon</string>
+    <string>Samut Prakan</string>
+    <string>Samut Sakhon</string>
+    <string>Samut Songkhram</string>
+    <string>Saraburi</string>
+    <string>Satun</string>
+    <string>Sing Buri</string>
+    <string>Sisaket</string>
+    <string>Songkhla</string>
+    <string>Sukhothai</string>
+    <string>Suphan Buri</string>
+    <string>Surat Thani</string>
+    <string>Surin</string>
+    <string>Tak</string>
+    <string>Trang</string>
+    <string>Trat</string>
+    <string>Ubon Ratchathani</string>
+    <string>Udon Thani</string>
+    <string>Uthai Thani</string>
+    <string>Uttaradit</string>
+    <string>Yala</string>
+    <string>Yasothon</string>
+    <string>Brest</string>
+    <string>Gomel</string>
+    <string>Grodno</string>
+    <string>Minsk</string>
+    <string>Mogilev</string>
+    <string>Vitebsk</string>
+    <string>Viken</string>
+    <string>Oslo</string>
+    <string>Innlandet</string>
+    <string>Vestfold og Telemark</string>
+    <string>Agder</string>
+    <string>Rogaland</string>
+    <string>Vestland</string>
+    <string>Møre og Romsdal</string>
+    <string>Trøndelag</string>
+    <string>Nordland</string>
+    <string>Troms og Finnmark</string>
+    <string>Węgierska Centralna</string>
+    <string>Transdanubia Centralna</string>
+    <string>Transdanubia Zachodnia</string>
+    <string>Transdanubia Południowa</string>
+    <string>Północne Węgry</string>
+    <string>Wielka Nizina Północna</string>
+    <string>Wielka Nizina Południowa</string>
+    <string>Buenos Aires</string>
+    <string>Catamarca</string>
+    <string>Chaco</string>
+    <string>Chubut</string>
+    <string>Córdoba</string>
+    <string>Corrientes</string>
+    <string>Entre Ríos</string>
+    <string>Formosa</string>
+    <string>Jujuy</string>
+    <string>La Pampa</string>
+    <string>La Rioja</string>
+    <string>Mendoza</string>
+    <string>Misiones</string>
+    <string>Neuquén</string>
+    <string>Río Negro</string>
+    <string>Salta</string>
+    <string>San Juan</string>
+    <string>San Luis</string>
+    <string>Santa Cruz</string>
+    <string>Santa Fe</string>
+    <string>Santiago del Estero</string>
+    <string>Ziemia Ognia</string>
+    <string>Tucumán</string>
   </Regions>
   <Religions>
     <string />
@@ -5063,6 +5230,7 @@
         <string>Otwórz kalendarz w tygodniu 33</string>
         <string>Wybierz ustawę "Regulacja policji" i dodaj przynajmniej jeden artykuł</string>
         <string>Wybierz ustawodawcę do napisania tej ustawy</string>
+        <string>Potwierdź dodanie do kalendarza</string>
       </text>
     </Item>
     <Item>
@@ -5493,5 +5661,9 @@
     <string>Tryb oszczędzania energii</string>
     <string>Zmień nazwę, kolor lub ideologię swojej partii. Uważaj — możesz stracić wyborców i zresetować reputację.</string>
     <string>Ta partia zmieniła nazwę, kolor lub ideologie.</string>
+    <string>Prawdopodobieństwo skandalu</string>
+    <string>Oderwanie regionu</string>
+    <string>Poprawa stosunków między narodami</string>
+    <string>Pogorszenie relacji między narodami</string>
   </Text>
 </Data>
