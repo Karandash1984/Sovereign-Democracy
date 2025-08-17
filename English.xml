@@ -499,6 +499,7 @@
     <Position>Position</Position>
     <Positive>Positive</Positive>
     <Power>Power</Power>
+    <Predecessor>Predecessor</Predecessor>
     <Prefecture>Prefecture</Prefecture>
     <Prefectures>Prefectures</Prefectures>
     <Premier>Premier</Premier>
@@ -2586,6 +2587,12 @@
         <string>Imposes taxes or duties on imported or exported goods to control trade, protect domestic industries, or generate government revenue.</string>
       </text>
     </Item>
+    <Item>
+      <text>
+        <string>Cementary and burial regulation</string>
+        <string>Governs the operation of cemeteries and sets rules for burial, cremation, and exhumation of human remains.</string>
+      </text>
+    </Item>
   </Laws>
   <LawArticles>
     <string />
@@ -2843,6 +2850,10 @@
     <string>Incentivize anti-seismic material</string>
     <string>Mars exploration</string>
     <string>Tariff</string>
+    <string>Antarctic expeditions</string>
+    <string>Subsidized loans for first-time homebuyers</string>
+    <string>War Heroes Graves</string>
+    <string>Preferred burial method</string>
   </LawArticles>
   <LawCommas>
     <string />
@@ -2978,6 +2989,9 @@
     <string>Moderate</string>
     <string>Strong</string>
     <string>Lifetime appointment</string>
+    <string>In-ground burial</string>
+    <string>Cremation</string>
+    <string>Instant RunOff</string>
   </LawCommas>
   <Media>
     <string />
@@ -4831,6 +4845,129 @@
     <string>Gyeongsangbuk-do</string>
     <string>Gyeongsangnam-do</string>
     <string>Jeju</string>
+    <string>Amnat Charoen</string>
+    <string>Ang Thong</string>
+    <string>Ayutthaya</string>
+    <string>Bueng Kan</string>
+    <string>Buri Ram</string>
+    <string>Chachoengsao</string>
+    <string>Chai Nat</string>
+    <string>Chaiyaphum</string>
+    <string>Chanthaburi</string>
+    <string>Chiang Mai</string>
+    <string>Chiang Rai</string>
+    <string>Chonburi</string>
+    <string>Chumphon</string>
+    <string>Kalasin</string>
+    <string>Kamphaeng Phet</string>
+    <string>Kanchanaburi</string>
+    <string>Khon Kaen</string>
+    <string>Krabi</string>
+    <string>Lampang</string>
+    <string>Lamphun</string>
+    <string>Loei</string>
+    <string>Lopburi</string>
+    <string>Mae Hong Son</string>
+    <string>Maha Sarakham</string>
+    <string>Mukdahan</string>
+    <string>Nakhon Nayok</string>
+    <string>Nakhon Pathom</string>
+    <string>Nakhon Phanom</string>
+    <string>Nakhon Ratchasima</string>
+    <string>Nakhon Sawan</string>
+    <string>Nakhon Si Thammarat</string>
+    <string>Nan</string>
+    <string>Narathiwat</string>
+    <string>Nong Bua Lamphu</string>
+    <string>Nong Khai</string>
+    <string>Nonthaburi</string>
+    <string>Pathum Thani</string>
+    <string>Pattani</string>
+    <string>Phang Nga</string>
+    <string>Phatthalung</string>
+    <string>Phayao</string>
+    <string>Phetchabun</string>
+    <string>Phetchaburi</string>
+    <string>Phichit</string>
+    <string>Phitsanulok</string>
+    <string>Phrae</string>
+    <string>Phuket</string>
+    <string>Prachinburi</string>
+    <string>Prachuap Khiri Khan</string>
+    <string>Ranong</string>
+    <string>Ratchaburi</string>
+    <string>Rayong</string>
+    <string>Roi Et</string>
+    <string>Sa Kaeo</string>
+    <string>Sakon Nakhon</string>
+    <string>Samut Prakan</string>
+    <string>Samut Sakhon</string>
+    <string>Samut Songkhram</string>
+    <string>Saraburi</string>
+    <string>Satun</string>
+    <string>Sing Buri</string>
+    <string>Sisaket</string>
+    <string>Songkhla</string>
+    <string>Sukhothai</string>
+    <string>Suphan Buri</string>
+    <string>Surat Thani</string>
+    <string>Surin</string>
+    <string>Tak</string>
+    <string>Trang</string>
+    <string>Trat</string>
+    <string>Ubon Ratchathani</string>
+    <string>Udon Thani</string>
+    <string>Uthai Thani</string>
+    <string>Uttaradit</string>
+    <string>Yala</string>
+    <string>Yasothon</string>
+    <string>Brest</string>
+    <string>Gomel</string>
+    <string>Grodno</string>
+    <string>Minsk</string>
+    <string>Mogilev</string>
+    <string>Vitebsk</string>
+    <string>Viken</string>
+    <string>Oslo</string>
+    <string>Innlandet</string>
+    <string>Vestfold og Telemark</string>
+    <string>Agder</string>
+    <string>Rogaland</string>
+    <string>Vestland</string>
+    <string>Møre og Romsdal</string>
+    <string>Trøndelag</string>
+    <string>Nordland</string>
+    <string>Troms og Finnmark</string>
+    <string>Central Hungary</string>
+    <string>Central Transdanubia</string>
+    <string>Western Transdanubia</string>
+    <string>Southern Transdanubia</string>
+    <string>Northern Hungary</string>
+    <string>Northern Great Plain</string>
+    <string>Southern Great Plain</string>
+    <string>Buenos Aires</string>
+    <string>Catamarca</string>
+    <string>Chaco</string>
+    <string>Chubut</string>
+    <string>Córdoba</string>
+    <string>Corrientes</string>
+    <string>Entre Ríos</string>
+    <string>Formosa</string>
+    <string>Jujuy</string>
+    <string>La Pampa</string>
+    <string>La Rioja</string>
+    <string>Mendoza</string>
+    <string>Misiones</string>
+    <string>Neuquén</string>
+    <string>Río Negro</string>
+    <string>Salta</string>
+    <string>San Juan</string>
+    <string>San Luis</string>
+    <string>Santa Cruz</string>
+    <string>Santa Fe</string>
+    <string>Santiago del Estero</string>
+    <string>Tierra del Fuego</string>
+    <string>Tucumán</string>
   </Regions>
   <Religions>
     <string />
@@ -5527,5 +5664,7 @@
     <string>Scandal probability</string>
     <string>Region breakaway</string>
     <string>Improve relations between nations</string>
+    <string>Deteriorate relations between nations</string>
+    <string>Only during general election</string>
   </Text>
 </Data>

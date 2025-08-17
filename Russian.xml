@@ -60,6 +60,7 @@
     <Balance>Баланс</Balance>
     <Bank>Банк</Bank>
     <Banks>Банки</Banks>
+    <Basic>Базовый</Basic>
     <Battle>Бой</Battle>
     <Battles>Бои</Battles>
     <Benchmark>Производительность</Benchmark>
@@ -109,6 +110,7 @@
     <Citizen>Гражданин</Citizen>
     <Citizens>Граждане</Citizens>
     <Citizenship>Гражданство</Citizenship>
+    <CivilWar>Гражданская война</CivilWar>
     <Clock>Часы</Clock>
     <Close>Закрыть</Close>
     <Cloths>Одежда</Cloths>
@@ -278,6 +280,7 @@
     <Front>Фронт</Front>
     <Frontrunner>Лидер</Frontrunner>
     <Frontrunners>Лидеры</Frontrunners>
+    <Full>Полный</Full>
     <Fullscreen>Полноэкранный режим</Fullscreen>
     <Fundraise>Сбор средств</Fundraise>
     <Gap>Разрыв</Gap>
@@ -402,6 +405,7 @@
     <Minor>Малые партии</Minor>
     <MinorPower>Малая держава</MinorPower>
     <Min>Мин</Min>
+    <Minimal>Минимальный</Minimal>
     <Minimum>Минимум</Minimum>
     <Minister>Министр</Minister>
     <Ministers>Министры</Ministers>
@@ -495,10 +499,11 @@
     <Position>Позиция</Position>
     <Positive>Положительный</Positive>
     <Power>Власть</Power>
+    <Predecessor>Предшественник</Predecessor>
     <Prefecture>Префектура</Prefecture>
     <Prefectures>Префектуры</Prefectures>
-    <Premier>Premier</Premier>
-    <Premiers>Premiers</Premiers>
+    <Premier>Премьер-министр</Premier>
+    <Premiers>Премьер-министры</Premiers>
     <President>Президент</President>
     <Presence>Присутствие</Presence>
     <Present>Настоящий</Present>
@@ -526,6 +531,7 @@
     <Province>Провинция</Province>
     <Provinces>Провинции</Provinces>
     <Provincial>Провинциальный</Provincial>
+    <Public>Публичный</Public>
     <Quality>Качество</Quality>
     <Quarter>Четверть</Quarter>
     <Queen>Королева</Queen>
@@ -641,6 +647,7 @@
     <Strong>Сильный</Strong>
     <Strongest>Самый сильный</Strongest>
     <Students>Студенты</Students>
+    <Substantial>Значительный</Substantial>
     <Success>Успех</Success>
     <Successor>Наследник</Successor>
     <Suffrage>Избирательное право</Suffrage>
@@ -669,6 +676,8 @@
     <Timeline>Хронология</Timeline>
     <Timeout>Тайм-аут</Timeout>
     <Timer>Таймер</Timer>
+    <Tip>Совет</Tip>
+    <Tips>Советы</Tips>
     <Title>Должность</Title>
     <Total>Суммарно</Total>
     <TotalCost>Общая стоимость</TotalCost>
@@ -715,6 +724,7 @@
     <ViceSpeaker>Вице-спикер</ViceSpeaker>
     <Video>Видео</Video>
     <View>Просмотр</View>
+    <Visibility>Видимость</Visibility>
     <Visit>Посетить</Visit>
     <Volume>Звук</Volume>
     <Vote>Голосовать</Vote>
@@ -1001,6 +1011,40 @@
     <string>Сингапурская</string>
     <string>Арабский</string>
     <string>Греческий</string>
+    <string>Ирландец</string>
+    <string>Украинец</string>
+    <string>Датчанин</string>
+    <string>Норвежец</string>
+    <string>Финн</string>
+    <string>Словацкий</string>
+    <string>Чех</string>
+    <string>Румын</string>
+    <string>Болгарин</string>
+    <string>Израильтянин</string>
+    <string>Вьетнамец</string>
+    <string>Египтянин</string>
+    <string>Нигериец</string>
+    <string>Иранец</string>
+    <string>Филиппинец</string>
+    <string>Пакистанец</string>
+    <string>Эфиоп</string>
+    <string>Колумбиец</string>
+    <string>Кубинец</string>
+    <string>Бангладешец</string>
+    <string>Южноафриканец</string>
+    <string>Марокканец</string>
+    <string>Тунисец</string>
+    <string>Монгол</string>
+    <string>Перуанец</string>
+    <string>Казах</string>
+    <string>Бербер</string>
+    <string>Кениец</string>
+    <string>Ганец</string>
+    <string>Сомалиец</string>
+    <string>Чилиец</string>
+    <string>Непалец</string>
+    <string>Узбек</string>
+    <string>Гватемалец</string>
   </Culture>
   <Currencies>
     <string />
@@ -1665,13 +1709,19 @@
     <Item>
       <text>
         <string>Стабильность</string>
-        <string>Низкая стабильность $i5.9 увеличивает вероятность протестов и, если она длится долго, повышает риск революции.</string>
+        <string>Низкая стабильность $i5.9 увеличивает вероятность протестов $i4.13, а при длительном воздействии повышает риск революции $i4.7.\n\nКроме того, низкая стабильность может привести к выходу региона.</string>
         </text>
     </Item>
     <Item>
       <text>
         <string>Филибастерство</string>
         <string>Политическая тактика, при которой законодатели задерживают или блокируют законодательные действия, часто с помощью затяжных речей, чтобы помешать голосованию.\n\nЗаконодатели, участвующие в филибастерстве, потеряют много энергии.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Партия</string>
+        <string>Политическая партия $i9.0 — это организованная группа людей с общими политическими убеждениями, которые работают вместе, чтобы влиять на политику, получить власть и победить на выборах. Партии обычно продвигают определённый набор идей и поддерживают кандидатов, представляющих их программу.\n\nВ каждой партии есть секретарь $i8.6, обладающий наибольшим влиянием.\n\nЧем больше влияния вы получите, тем больше действий сможете предпринять в игре.</string>
       </text>
     </Item>
   </Encyclopedia>
@@ -2486,7 +2536,7 @@
     <Item>
       <text>
         <string>Фондовая биржа</string>
-        <string>Регулирует эмиссию, торговлю и раскрытие информации о ценных бумагах для защиты инвесторов и обеспечения справедливых рыночных практик.</string>
+        <string>Регулирует выпуск, торговлю и раскрытие информации о ценных бумагах для защиты инвесторов и обеспечения честной рыночной практики.</string>
               </text>
     </Item>
     <Item>
@@ -2529,6 +2579,18 @@
       <text>
         <string>Закон о сохранении исторического наследия</string>
         <string>Охраняет здания, памятники и ландшафты исторической, культурной или архитектурной значимости от изменений или разрушений.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Регулирование тарифов</string>
+        <string>Налагает налоги или пошлины на импортируемые или экспортируемые товары для контроля торговли, защиты отечественных отраслей или генерирования доходов для правительства.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Регулирование кладбищ и похорон</string>
+        <string>Регулирует работу кладбищ и устанавливает правила для захоронений, кремации и эксгумации человеческих останков.</string>
       </text>
     </Item>
   </Laws>
@@ -2780,6 +2842,18 @@
     <string>Сохранение исторических зданий</string>
     <string>Определение археологических памятников</string>
     <string>Количественное смягчение</string>
+    <string>Упрощённый развод</string>
+    <string>Музыкальные фестивали</string>
+    <string>Помощь</string>
+    <string>Стандартный срок аренды</string>
+    <string>Иностранный суверен</string>
+    <string>Стимулировать использование противосейсмических материалов</string>
+    <string>Исследование Марса</string>
+    <string>Тариф</string>
+    <string>Экспедиции в Антарктиду</string>
+    <string>Субсидированные кредиты для покупателей первого жилья</string>
+    <string>Могилы героев войны</string>
+    <string>Предпочтительный метод захоронения</string>
   </LawArticles>
   <LawCommas>
     <string />
@@ -2914,6 +2988,10 @@
     <string>Низкий</string>
     <string>Умеренный</string>
     <string>Сильный</string>
+    <string>Пожизненное назначение</string>
+    <string>Захоронение в земле</string>
+    <string>Кремация</string>
+    <string>Мгновенное голосование с выбыванием</string>
   </LawCommas>
   <Media>
     <string />
@@ -4772,6 +4850,129 @@
     <string>Кёнсан-Пукто</string>
     <string>Кёнсан-Намдо</string>
     <string>Чеджу</string>
+    <string>Амнат Чароен</string>
+    <string>Анг Тхонг</string>
+    <string>Аюттхая</string>
+    <string>Буэнг Кан</string>
+    <string>Бури Рам</string>
+    <string>Чачоенгсао</string>
+    <string>Чай Нат</string>
+    <string>Чайяфум</string>
+    <string>Чантхабури</string>
+    <string>Чианг Май</string>
+    <string>Чианг Рай</string>
+    <string>Чонбури</string>
+    <string>Чумпхон</string>
+    <string>Каласин</string>
+    <string>Кампхенг Пхет</string>
+    <string>Канчанабури</string>
+    <string>Хон Каен</string>
+    <string>Краби</string>
+    <string>Лампанг</string>
+    <string>Лампхун</string>
+    <string>Лои</string>
+    <string>Лопбури</string>
+    <string>Мае Хонг Сон</string>
+    <string>Маха Саракхам</string>
+    <string>Мукдахан</string>
+    <string>Након Нойок</string>
+    <string>Након Патхом</string>
+    <string>Након Пханом</string>
+    <string>Након Ратчасима</string>
+    <string>Након Саван</string>
+    <string>Након Си Тамарат</string>
+    <string>Нан</string>
+    <string>Наратиуат</string>
+    <string>Нонг Буа Лампу</string>
+    <string>Нонг Кхай</string>
+    <string>Нонтхабури</string>
+    <string>Патум Тхани</string>
+    <string>Паттани</string>
+    <string>Фанг Нга</string>
+    <string>Фатталунг</string>
+    <string>Фаяо</string>
+    <string>Фетчабун</string>
+    <string>Фетчабури</string>
+    <string>Фичит</string>
+    <string>Фитсанулок</string>
+    <string>Фрей</string>
+    <string>Пхукет</string>
+    <string>Прачинбури</string>
+    <string>Прахуап Хири Хан</string>
+    <string>Ранонг</string>
+    <string>Ратчабури</string>
+    <string>Районг</string>
+    <string>Рой Эт</string>
+    <string>Са Каео</string>
+    <string>Сакон Накхон</string>
+    <string>Самут Пракан</string>
+    <string>Самут Сакон</string>
+    <string>Самут Сонгкхрам</string>
+    <string>Сарабури</string>
+    <string>Сатун</string>
+    <string>Синг Бури</string>
+    <string>Сисаки</string>
+    <string>Сонгкхла</string>
+    <string>Сукхотай</string>
+    <string>Супхан Бури</string>
+    <string>Сураттани</string>
+    <string>Сурин</string>
+    <string>Так</string>
+    <string>Транг</string>
+    <string>Трат</string>
+    <string>Убон Ратчасхани</string>
+    <string>Удон Тхани</string>
+    <string>Утай Тхани</string>
+    <string>Уттарадит</string>
+    <string>Яла</string>
+    <string>Ясотхон</string>
+    <string>Брест</string>
+    <string>Гомель</string>
+    <string>Гродно</string>
+    <string>Минск</string>
+    <string>Могилев</string>
+    <string>Витебск</string>
+    <string>Викен</string>
+    <string>Осло</string>
+    <string>Иннландет</string>
+    <string>Вестфолд и Телемарк</string>
+    <string>Агдер</string>
+    <string>Рогалан</string>
+    <string>Вестланд</string>
+    <string>Мере и Ромсдал</string>
+    <string>Трёнделаг</string>
+    <string>Нордланд</string>
+    <string>Тромс и Финнмарк</string>
+    <string>Центральная Венгрия</string>
+    <string>Центральная Трансданубия</string>
+    <string>Западная Трансданубия</string>
+    <string>Южная Трансданубия</string>
+    <string>Северная Венгрия</string>
+    <string>Северная Великая Равнина</string>
+    <string>Южная Великая Равнина</string>
+    <string>Буэнос-Айрес</string>
+    <string>Катамарка</string>
+    <string>Чако</string>
+    <string>Чубут</string>
+    <string>Кордова</string>
+    <string>Корриентес</string>
+    <string>Энтре-Риос</string>
+    <string>Формоса</string>
+    <string>Жужуй</string>
+    <string>Ла-Пампа</string>
+    <string>Ла-Риоха</string>
+    <string>Мендоса</string>
+    <string>Мисьонес</string>
+    <string>Невкен</string>
+    <string>Рио Негро</string>
+    <string>Сальта</string>
+    <string>Сан-Хуан</string>
+    <string>Сан-Луис</string>
+    <string>Санта-Крус</string>
+    <string>Санта-Фе</string>
+    <string>Сантьяго-дель-Эстеро</string>
+    <string>Огненная Земля</string>
+    <string>Тукуман</string>
   </Regions>
   <Religions>
     <string />
@@ -5034,6 +5235,7 @@
         <string>Откройте календарь на неделю 33</string>
         <string>Выберите законопроект "Регулирование полиции" и добавьте хотя бы одну статью</string>
         <string>Выберите законодателя для написания этого законопроекта</string>
+        <string>Подтвердите добавление в календарь</string>
       </text>
     </Item>
     <Item>
@@ -5464,5 +5666,9 @@
     <string>Режим энергосбережения</string>
     <string>Измените название, цвет или идеологию вашей партии. Осторожно: это может привести к потере избирателей и сбросу репутации.</string>
     <string>Эта партия изменила название, цвет или идеологию.</string>
+    <string>Вероятность скандала</string>
+    <string>Отделение региона</string>
+    <string>Улучшение отношений между государствами</string>
+    <string>Ухудшение отношений между странами</string>
   </Text>
 </Data>
