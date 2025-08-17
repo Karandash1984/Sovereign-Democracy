@@ -37,7 +37,9 @@
     "disableWar": false,
     "disableAI": false,
     "disableLocalElections": false,
-    "notLawImplementationTime": false
+    "noLawImplementationTime": false,
+    "shortElectionFrequency": false,
+    "noPresidentLawSignature": false
   },
   "banks": [],
   "buildings": [
@@ -13594,6 +13596,11 @@
           "id": 123,
           "articles": [],
           "commas": []
+        },
+        {
+          "id": 135,
+          "articles": [],
+          "commas": []
         }
       ],
       "subdivisions": 0,
@@ -13902,7 +13909,9 @@
         {
           "id": 12,
           "articles": [],
-          "commas": []
+          "commas": [
+            8
+          ]
         },
         {
           "id": 13,
@@ -14031,6 +14040,11 @@
         },
         {
           "id": 74,
+          "articles": [],
+          "commas": []
+        },
+        {
+          "id": 1,
           "articles": [],
           "commas": []
         }
@@ -43462,52 +43476,7 @@
       "predecessor": 0,
       "parameters": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 0,
-          "data": 0,
-          "turnout": 90.0,
-          "parties": [
-            {
-              "id": 406,
-              "electors": 0,
-              "percentage": 51.0,
-              "districts": 0
-            },
-            {
-              "id": 407,
-              "electors": 0,
-              "percentage": 12.5,
-              "districts": 0
-            },
-            {
-              "id": 408,
-              "electors": 0,
-              "percentage": 9.0,
-              "districts": 0
-            },
-            {
-              "id": 409,
-              "electors": 0,
-              "percentage": 15.5,
-              "districts": 0
-            },
-            {
-              "id": 410,
-              "electors": 0,
-              "percentage": 7.0,
-              "districts": 0
-            },
-            {
-              "id": 411,
-              "electors": 0,
-              "percentage": 5.0,
-              "districts": 0
-            }
-            ]
-        }
-      ],
+      "elections": [],
       "organizations": [],
       "maps": [],
       "partiesRelations": {
@@ -43959,58 +43928,7 @@
       "predecessor": 0,
       "parameters": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "data": 0,
-          "turnout": 75.0,
-          "parties": [
-            {
-              "id": 148,
-              "electors": 0,
-              "percentage": 30.0,
-              "districts": 0
-            },
-            {
-              "id": 149,
-              "electors": 0,
-              "percentage": 25.0,
-              "districts": 0
-            },
-            {
-              "id": 150,
-              "electors": 0,
-              "percentage": 20.0,
-              "districts": 0
-            },
-            {
-              "id": 151,
-              "electors": 0,
-              "percentage": 8.0,
-              "districts": 0
-            },
-            {
-              "id": 152,
-              "electors": 0,
-              "percentage": 8.0,
-              "districts": 0
-            },
-            {
-              "id": 153,
-              "electors": 0,
-              "percentage": 4.0,
-              "districts": 0
-            },
-            {
-              "id": 154,
-              "electors": 0,
-              "percentage": 4.0,
-              "districts": 0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "organizations": [],
       "maps": [],
       "partiesRelations": {
@@ -44474,106 +44392,7 @@
       "predecessor": 0,
       "parameters": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "data": 0,
-          "turnout": 75.0,
-          "parties": [
-            {
-              "id": 120,
-              "electors": 0,
-              "percentage": 23.5,
-              "districts": 0
-            },
-            {
-              "id": 121,
-              "electors": 0,
-              "percentage": 15.5,
-              "districts": 0
-            },
-            {
-              "id": 122,
-              "electors": 0,
-              "percentage": 15.0,
-              "districts": 0
-            },
-            {
-              "id": 123,
-              "electors": 0,
-              "percentage": 12.8,
-              "districts": 0
-            },
-            {
-              "id": 124,
-              "electors": 0,
-              "percentage": 6.0,
-              "districts": 0
-            },
-            {
-              "id": 125,
-              "electors": 0,
-              "percentage": 4.5,
-              "districts": 0
-            },
-            {
-              "id": 126,
-              "electors": 0,
-              "percentage": 3.0,
-              "districts": 0
-            },
-            {
-              "id": 127,
-              "electors": 0,
-              "percentage": 3.0,
-              "districts": 0
-            },
-            {
-              "id": 128,
-              "electors": 0,
-              "percentage": 2.0,
-              "districts": 0
-            },
-            {
-              "id": 129,
-              "electors": 0,
-              "percentage": 2.0,
-              "districts": 0
-            },
-            {
-              "id": 130,
-              "electors": 0,
-              "percentage": 2.0,
-              "districts": 0
-            },
-            {
-              "id": 131,
-              "electors": 0,
-              "percentage": 2.0,
-              "districts": 0
-            },
-            {
-              "id": 132,
-              "electors": 0,
-              "percentage": 2.0,
-              "districts": 0
-            },
-            {
-              "id": 133,
-              "electors": 0,
-              "percentage": 2.0,
-              "districts": 0
-            },
-            {
-              "id": 134,
-              "electors": 0,
-              "percentage": 0.8,
-              "districts": 0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "organizations": [],
       "maps": [],
       "partiesRelations": {
@@ -45075,46 +44894,7 @@
       "predecessor": 0,
       "parameters": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "data": 0,
-          "turnout": 75.0,
-          "parties": [
-            {
-              "id": 167,
-              "electors": 0,
-              "percentage": 32.0,
-              "districts": 0
-            },
-            {
-              "id": 168,
-              "electors": 0,
-              "percentage": 20.0,
-              "districts": 0
-            },
-            {
-              "id": 169,
-              "electors": 0,
-              "percentage": 7.0,
-              "districts": 0
-            },
-            {
-              "id": 171,
-              "electors": 0,
-              "percentage": 6.0,
-              "districts": 0
-            },
-            {
-              "id": 170,
-              "electors": 0,
-              "percentage": 35.0,
-              "districts": 0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "organizations": [],
       "maps": [],
       "partiesRelations": {
@@ -45630,88 +45410,7 @@
       "predecessor": 0,
       "parameters": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "data": 0,
-          "turnout": 75.0,
-          "parties": [
-            {
-              "id": 135,
-              "electors": 0,
-              "percentage": 15.0,
-              "districts": 0
-            },
-            {
-              "id": 136,
-              "electors": 0,
-              "percentage": 12.0,
-              "districts": 0
-            },
-            {
-              "id": 137,
-              "electors": 0,
-              "percentage": 8.0,
-              "districts": 0
-            },
-            {
-              "id": 138,
-              "electors": 0,
-              "percentage": 8.0,
-              "districts": 0
-            },
-            {
-              "id": 139,
-              "electors": 0,
-              "percentage": 8.0,
-              "districts": 0
-            },
-            {
-              "id": 140,
-              "electors": 0,
-              "percentage": 12.0,
-              "districts": 0
-            },
-            {
-              "id": 141,
-              "electors": 0,
-              "percentage": 9.0,
-              "districts": 0
-            },
-            {
-              "id": 142,
-              "electors": 0,
-              "percentage": 8.0,
-              "districts": 0
-            },
-            {
-              "id": 143,
-              "electors": 0,
-              "percentage": 6.0,
-              "districts": 0
-            },
-            {
-              "id": 144,
-              "electors": 0,
-              "percentage": 6.0,
-              "districts": 0
-            },
-            {
-              "id": 145,
-              "electors": 0,
-              "percentage": 4.0,
-              "districts": 0
-            },
-            {
-              "id": 143,
-              "electors": 0,
-              "percentage": 4.0,
-              "districts": 0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "organizations": [],
       "maps": [],
       "partiesRelations": {
@@ -45829,7 +45528,22 @@
         }
       ],
       "nations": [],
-      "regions": [],
+      "regions": [
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509
+      ],
       "events": [],
       "culture": 0,
       "predecessor": 0,
@@ -50854,70 +50568,7 @@
       "predecessor": 0,
       "parameters": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "data": 0,
-          "turnout": 75.0,
-          "parties": [
-            {
-              "id": 172,
-              "electors": 0,
-              "percentage": 53.0,
-              "districts": 0
-            },
-            {
-              "id": 173,
-              "electors": 0,
-              "percentage": 9.0,
-              "districts": 0
-            },
-            {
-              "id": 174,
-              "electors": 0,
-              "percentage": 8.0,
-              "districts": 0
-            },
-            {
-              "id": 175,
-              "electors": 0,
-              "percentage": 7.0,
-              "districts": 0
-            },
-            {
-              "id": 176,
-              "electors": 0,
-              "percentage": 6.0,
-              "districts": 0
-            },
-            {
-              "id": 177,
-              "electors": 0,
-              "percentage": 5.0,
-              "districts": 0
-            },
-            {
-              "id": 178,
-              "electors": 0,
-              "percentage": 5.0,
-              "districts": 0
-            },
-            {
-              "id": 179,
-              "electors": 0,
-              "percentage": 3.5,
-              "districts": 0
-            },
-            {
-              "id": 180,
-              "electors": 0,
-              "percentage": 3.5,
-              "districts": 0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "organizations": [],
       "maps": [],
       "partiesRelations": {
@@ -51345,7 +50996,15 @@
         }
       ],
       "nations": [],
-      "regions": [],
+      "regions": [
+        628,
+        629,
+        630,
+        631,
+        632,
+        633,
+        634
+      ],
       "events": [],
       "culture": 0,
       "predecessor": 0,
@@ -51965,7 +51624,19 @@
         }
       ],
       "nations": [],
-      "regions": [],
+      "regions": [
+        617,
+        618,
+        619,
+        620,
+        621,
+        622,
+        623,
+        624,
+        625,
+        626,
+        627
+      ],
       "events": [],
       "culture": 0,
       "predecessor": 0,
@@ -58547,76 +58218,7 @@
       "predecessor": 0,
       "parameters": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 0,
-          "data": 0,
-          "turnout": 90.0,
-          "parties": [
-            {
-              "id": 382,
-              "electors": 0,
-              "percentage": 92.0,
-              "districts": 0
-            },
-            {
-              "id": 383,
-              "electors": 0,
-              "percentage": 1.5,
-              "districts": 0
-            },
-            {
-              "id": 384,
-              "electors": 0,
-              "percentage": 1.5,
-              "districts": 0
-            },
-            {
-              "id": 385,
-              "electors": 0,
-              "percentage": 1.5,
-              "districts": 0
-            },
-            {
-              "id": 386,
-              "electors": 0,
-              "percentage": 1.5,
-              "districts": 0
-            },
-            {
-              "id": 387,
-              "electors": 0,
-              "percentage": 1.5,
-              "districts": 0
-            },
-            {
-              "id": 388,
-              "electors": 0,
-              "percentage": 1.5,
-              "districts": 0
-            },
-            {
-              "id": 389,
-              "electors": 0,
-              "percentage": 1.5,
-              "districts": 0
-            },
-            {
-              "id": 390,
-              "electors": 0,
-              "percentage": 0.5,
-              "districts": 0
-            },
-            {
-              "id": 381,
-              "electors": 0,
-              "percentage": 0.1,
-              "districts": 0
-            }
-            ]
-        }
-      ],
+      "elections": [],
       "organizations": [],
       "maps": [],
       "partiesRelations": {
@@ -58985,57 +58587,8 @@
           "id": 5,
           "articles": [
             {
-              "id": 47,
-              "intValue": 0,
-              "floatValue": 0.0,
-              "stringValue": "$0",
-              "boolValue": false
-            },
-            {
-              "id": 14,
-              "intValue": 3,
-              "floatValue": 0.0,
-              "stringValue": "xxx",
-              "boolValue": false
-            },
-            {
-              "id": 10,
-              "intValue": 4,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
               "id": 13,
               "intValue": 3,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 15,
-              "intValue": 12,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 7,
-              "intValue": 10,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 17,
-              "intValue": 20,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 46,
-              "intValue": 96,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
@@ -59843,57 +59396,8 @@
           "id": 5,
           "articles": [
             {
-              "id": 47,
-              "intValue": 0,
-              "floatValue": 0.0,
-              "stringValue": "$0",
-              "boolValue": false
-            },
-            {
-              "id": 14,
-              "intValue": 3,
-              "floatValue": 0.0,
-              "stringValue": "xxx",
-              "boolValue": false
-            },
-            {
-              "id": 10,
-              "intValue": 4,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
               "id": 13,
               "intValue": 3,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 15,
-              "intValue": 12,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 7,
-              "intValue": 10,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 17,
-              "intValue": 20,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 46,
-              "intValue": 96,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
@@ -60270,57 +59774,8 @@
           "id": 5,
           "articles": [
             {
-              "id": 47,
-              "intValue": 0,
-              "floatValue": 0.0,
-              "stringValue": "$0",
-              "boolValue": false
-            },
-            {
-              "id": 14,
-              "intValue": 3,
-              "floatValue": 0.0,
-              "stringValue": "xxx",
-              "boolValue": false
-            },
-            {
-              "id": 10,
-              "intValue": 4,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
               "id": 13,
               "intValue": 3,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 15,
-              "intValue": 12,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 7,
-              "intValue": 10,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 17,
-              "intValue": 20,
-              "floatValue": 0.0,
-              "stringValue": "",
-              "boolValue": false
-            },
-            {
-              "id": 46,
-              "intValue": 96,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
