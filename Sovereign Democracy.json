@@ -3,9 +3,9 @@
     "name": "Sovereign Democracy",
     "description": "Russia mod",
     "author": "Karandash/PAKMAN",
-    "version": "1.6b",
+    "version": "1.6с",
     "fileVersion": 2,
-    "build": 4604
+    "build": 4863
   },
   "years": [
     1992,
@@ -37,9 +37,11 @@
     "disableWar": false,
     "disableAI": false,
     "disableLocalElections": false,
-    "noLawImplementationTime": false,
-    "shortElectionFrequency": false,
-    "noPresidentLawSignature": false
+    "arcadeMode": false,
+    "disableImplementationTime": false,
+    "increasedElectionFrequency": false,
+    "disableHeadOfStateSignature": false,
+    "disableIdeologicalTrends": false
   },
   "banks": [],
   "buildings": [
@@ -3781,14 +3783,20 @@
         "value": 0
       },
       "nation": {
-        "happiness": -2.0,
+        "happiness": -3.0,
         "science": 0.0,
         "finance": [],
         "military": {
           "defence": 0,
           "manPower": 0.0
         },
-        "parameters": [],
+        "parameters": [
+          {
+            "id": 38,
+            "value": -3.0,
+            "mode": 0
+          }
+        ],
         "resources": [],
         "events": [],
         "reputation": 0,
@@ -6654,6 +6662,14 @@
           "articles": [],
           "commas": [],
           "commasUnavailable": []
+        },
+        {
+          "id": 259,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
         }
       ],
       "minArticles": 0,
@@ -7827,6 +7843,14 @@
         },
         {
           "id": 232,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 262,
           "required": false,
           "limit": 1,
           "articles": [],
@@ -9521,14 +9545,20 @@
           {
             "type": 0,
             "reference": 0,
-            "value": -4.0
+            "value": -3.0
           }
         ],
         "military": {
           "defence": 0,
           "manPower": 0.0
         },
-        "parameters": [],
+        "parameters": [
+          {
+            "id": 13,
+            "value": 1.0,
+            "mode": 0
+          }
+        ],
         "resources": [],
         "events": [],
         "reputation": 0,
@@ -10942,6 +10972,14 @@
           "articles": [],
           "commas": [],
           "commasUnavailable": []
+        },
+        {
+          "id": 264,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
         }
       ],
       "minArticles": 1,
@@ -11032,7 +11070,7 @@
       },
       "common": 0,
       "change": 0,
-      "proposable": 1,
+      "proposable": 0,
       "id": 68
     },
     {
@@ -11944,6 +11982,14 @@
           "id": 145,
           "required": false,
           "limit": 3,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 260,
+          "required": false,
+          "limit": 1,
           "articles": [],
           "commas": [],
           "commasUnavailable": []
@@ -12901,6 +12947,14 @@
           "articles": [],
           "commas": [],
           "commasUnavailable": []
+        },
+        {
+          "id": 263,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
         }
       ],
       "minArticles": 1,
@@ -13518,6 +13572,176 @@
       "change": 0,
       "proposable": 0,
       "id": 112
+    },
+    {
+      "required": false,
+      "order": 1000,
+      "level": 0,
+      "type": 1,
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "competence": 21,
+      "name": 0,
+      "articles": [
+        {
+          "id": 261,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        }
+      ],
+      "minArticles": 0,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -1.3
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": [
+          16
+        ]
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 114
+    },
+    {
+      "required": false,
+      "order": 1000,
+      "level": 0,
+      "type": 1,
+      "research": {
+        "year": 2000,
+        "priority": 5
+      },
+      "competence": 3,
+      "name": 0,
+      "articles": [],
+      "minArticles": 0,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -7.5
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 34,
+            "value": -1.0,
+            "mode": 0
+          },
+          {
+            "id": 36,
+            "value": -2.0,
+            "mode": 0
+          },
+          {
+            "id": 18,
+            "value": -2.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [
+          {
+            "id": 5,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 115
+    },
+    {
+      "required": false,
+      "order": 1000,
+      "level": 0,
+      "type": 2,
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "competence": 1,
+      "name": 0,
+      "articles": [],
+      "minArticles": 0,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -2.4
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 1.2
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": [
+          10
+        ]
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 116
     }
   ],
   "lawArticles": [
@@ -24449,6 +24673,268 @@
       "change": 0,
       "proposable": 0,
       "id": 258
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 259
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -3.2
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 38,
+            "value": 1.0,
+            "mode": 0
+          },
+          {
+            "id": 34,
+            "value": 1.0,
+            "mode": 0
+          },
+          {
+            "id": 16,
+            "value": 1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [
+          {
+            "id": 5,
+            "value": 0.5,
+            "mode": 0
+          }
+        ],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 260
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -2.0
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": [
+          17
+        ]
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 261
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 25,
+            "value": 1.0,
+            "mode": 0
+          },
+          {
+            "id": 1,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 262
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -1.3
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 25,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 263
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -1.7
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 33,
+            "value": -1.0,
+            "mode": 0
+          },
+          {
+            "id": 4,
+            "value": -0.5,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 264
     }
   ],
   "lawCommas": [
@@ -27843,6 +28329,81 @@
       "change": 0,
       "proposable": 0,
       "id": 132
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.5,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -0.5
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 133
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 12,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 134
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 135
     }
   ],
   "media": [
@@ -29305,6 +29866,13 @@
       ],
       "plannable": true,
       "id": 8
+    },
+    {
+      "target": 1,
+      "order": 0,
+      "targetEffects": [],
+      "plannable": false,
+      "id": 10
     }
   ],
   "movements": [],
@@ -29594,7 +30162,7 @@
             },
 			{
               "id": 2,
-              "intValue": 82,
+              "intValue": 100,
               "floatValue": 0.0,
               "stringValue": "",
               "boolValue": false
@@ -99713,7 +100281,9 @@
       "fertility": 0,
       "climate": 0,
       "districts": [],
-      "cities": [],
+      "cities": [
+        31
+      ],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -99748,7 +100318,9 @@
       "fertility": 0,
       "climate": 0,
       "districts": [],
-      "cities": [],
+      "cities": [
+        75
+      ],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -99818,7 +100390,9 @@
       "fertility": 0,
       "climate": 0,
       "districts": [],
-      "cities": [],
+      "cities": [
+        109
+      ],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -100098,7 +100672,9 @@
       "fertility": 0,
       "climate": 0,
       "districts": [],
-      "cities": [],
+      "cities": [
+        102
+      ],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -101708,7 +102284,9 @@
       "fertility": 0,
       "climate": 0,
       "districts": [],
-      "cities": [],
+      "cities": [
+        108
+      ],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -101953,7 +102531,9 @@
       "fertility": 0,
       "climate": 0,
       "districts": [],
-      "cities": [],
+      "cities": [
+        74
+      ],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -102198,7 +102778,9 @@
       "fertility": 0,
       "climate": 0,
       "districts": [],
-      "cities": [],
+      "cities": [
+        41
+      ],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -102758,7 +103340,9 @@
       "fertility": 0,
       "climate": 0,
       "districts": [],
-      "cities": [],
+      "cities": [
+        59
+      ],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -103261,7 +103845,9 @@
         5558,
         5559
       ],
-      "cities": [],
+      "cities": [
+        97
+      ],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -103439,7 +104025,9 @@
         5706,
         5707
       ],
-      "cities": [],
+      "cities": [
+        32
+      ],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -103522,7 +104110,9 @@
         5753,
         5754
       ],
-      "cities": [],
+      "cities": [
+        96
+      ],
       "culture": [],
       "constitution": [],
       "laws": [
@@ -104761,7 +105351,9 @@
       "fertility": 0,
       "climate": 0,
       "districts": [],
-      "cities": [],
+      "cities": [
+        70
+      ],
       "culture": [],
       "constitution": [],
       "laws": [],
@@ -105078,6 +105670,24 @@
       "id": 6
     },
     {
+      "target": 5,
+      "change": 0.0,
+      "order": 1,
+      "useNationalMedia": true,
+      "useRegionalMedia": false,
+      "targetEffects": [],
+      "id": 7
+    },
+    {
+      "target": 5,
+      "change": 0.0,
+      "order": 1,
+      "useNationalMedia": true,
+      "useRegionalMedia": false,
+      "targetEffects": [],
+      "id": 8
+    },
+    {
       "target": 1,
       "change": 0.0,
       "order": 0,
@@ -105271,6 +105881,7 @@
         "reputation": 0,
         "specials": []
       },
+      "year": 0,
       "id": 1
     },
     {
@@ -105288,6 +105899,7 @@
         "reputation": 0,
         "specials": []
       },
+      "year": 0,
       "id": 2
     },
     {
@@ -105311,6 +105923,7 @@
         "reputation": 0,
         "specials": []
       },
+      "year": 0,
       "id": 3
     },
     {
@@ -105328,6 +105941,7 @@
         "reputation": 0,
         "specials": []
       },
+      "year": 0,
       "id": 4
     },
     {
@@ -105345,6 +105959,7 @@
         "reputation": 0,
         "specials": []
       },
+      "year": 0,
       "id": 5
     },
     {
@@ -105362,6 +105977,7 @@
         "reputation": 0,
         "specials": []
       },
+      "year": 0,
       "id": 6
     },
     {
@@ -105379,6 +105995,7 @@
         "reputation": 0,
         "specials": []
       },
+      "year": 0,
       "id": 7
     },
     {
@@ -105396,6 +106013,7 @@
         "reputation": 0,
         "specials": []
       },
+      "year": 0,
       "id": 8
     },
     {
@@ -105413,6 +106031,7 @@
         "reputation": 0,
         "specials": []
       },
+      "year": 0,
       "id": 9
     },
     {
@@ -105436,6 +106055,7 @@
         "reputation": 0,
         "specials": []
       },
+      "year": 0,
       "id": 10
     },
     {
@@ -105464,6 +106084,7 @@
         "reputation": 0,
         "specials": []
       },
+      "year": 0,
       "id": 11
     },
     {
@@ -105492,7 +106113,44 @@
         "reputation": 0,
         "specials": []
       },
+      "year": 0,
       "id": 12
+    },
+    {
+      "nation": {
+        "happiness": -2.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "year": 0,
+      "id": 13
+    },
+    {
+      "nation": {
+        "happiness": -1.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": -1.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "year": 0,
+      "id": 14
     }
   ],
   "unions": [],
@@ -110307,7 +110965,7 @@
       "politician": 0,
       "menJob": 70,
       "salary": 60,
-      "entrepreneurship": 0,
+      "entrepreneurship": 50,
       "type": 0,
       "ideologies": [],
       "education": 0,
@@ -110347,7 +111005,7 @@
       "politician": 80,
       "menJob": 0,
       "salary": 110,
-      "entrepreneurship": 0,
+      "entrepreneurship": 60,
       "type": 0,
       "ideologies": [],
       "education": 1,
@@ -110357,7 +111015,7 @@
       "politician": 50,
       "menJob": 0,
       "salary": 70,
-      "entrepreneurship": 0,
+      "entrepreneurship": 40,
       "type": 0,
       "ideologies": [],
       "education": 1,
@@ -110367,7 +111025,7 @@
       "politician": 90,
       "menJob": 0,
       "salary": 150,
-      "entrepreneurship": 0,
+      "entrepreneurship": 100,
       "type": 0,
       "ideologies": [],
       "education": 1,
@@ -110377,7 +111035,7 @@
       "politician": 20,
       "menJob": 0,
       "salary": 50,
-      "entrepreneurship": 0,
+      "entrepreneurship": 40,
       "type": 0,
       "ideologies": [],
       "education": 0,
@@ -110387,7 +111045,7 @@
       "politician": 10,
       "menJob": 0,
       "salary": 50,
-      "entrepreneurship": 0,
+      "entrepreneurship": 20,
       "type": 0,
       "ideologies": [],
       "education": 0,
@@ -110417,7 +111075,7 @@
       "politician": 100,
       "menJob": 0,
       "salary": 80,
-      "entrepreneurship": 0,
+      "entrepreneurship": 20,
       "type": 0,
       "ideologies": [],
       "education": 1,
@@ -110437,7 +111095,7 @@
       "politician": 60,
       "menJob": 0,
       "salary": 80,
-      "entrepreneurship": 0,
+      "entrepreneurship": 50,
       "type": 0,
       "ideologies": [],
       "education": 1,
@@ -110457,7 +111115,7 @@
       "politician": 30,
       "menJob": 30,
       "salary": 50,
-      "entrepreneurship": 0,
+      "entrepreneurship": 10,
       "type": 0,
       "ideologies": [],
       "education": 0,
@@ -110467,7 +111125,7 @@
       "politician": 20,
       "menJob": 0,
       "salary": 50,
-      "entrepreneurship": 0,
+      "entrepreneurship": 70,
       "type": 0,
       "ideologies": [],
       "education": 0,
@@ -110477,7 +111135,7 @@
       "politician": 0,
       "menJob": 0,
       "salary": 10,
-      "entrepreneurship": 0,
+      "entrepreneurship": 10,
       "type": 0,
       "ideologies": [],
       "education": 0,
@@ -110487,7 +111145,7 @@
       "politician": 50,
       "menJob": 90,
       "salary": 90,
-      "entrepreneurship": 0,
+      "entrepreneurship": 20,
       "type": 0,
       "ideologies": [],
       "education": 1,
@@ -110497,7 +111155,7 @@
       "politician": 50,
       "menJob": 90,
       "salary": 90,
-      "entrepreneurship": 0,
+      "entrepreneurship": 20,
       "type": 0,
       "ideologies": [],
       "education": 1,
@@ -110507,7 +111165,7 @@
       "politician": 60,
       "menJob": 90,
       "salary": 90,
-      "entrepreneurship": 0,
+      "entrepreneurship": 30,
       "type": 0,
       "ideologies": [],
       "education": 1,
@@ -110517,7 +111175,7 @@
       "politician": 80,
       "menJob": 50,
       "salary": 70,
-      "entrepreneurship": 0,
+      "entrepreneurship": 40,
       "type": 0,
       "ideologies": [],
       "education": 1,
@@ -110527,7 +111185,7 @@
       "politician": 90,
       "menJob": 90,
       "salary": 100,
-      "entrepreneurship": 0,
+      "entrepreneurship": 100,
       "type": 0,
       "ideologies": [],
       "education": 0,
@@ -110547,7 +111205,7 @@
       "politician": 50,
       "menJob": 50,
       "salary": 40,
-      "entrepreneurship": 0,
+      "entrepreneurship": 50,
       "type": 0,
       "ideologies": [],
       "education": 0,
@@ -110567,7 +111225,7 @@
       "politician": 50,
       "menJob": 0,
       "salary": 100,
-      "entrepreneurship": 0,
+      "entrepreneurship": 70,
       "type": 0,
       "ideologies": [],
       "education": 1,
@@ -110627,7 +111285,7 @@
       "politician": 70,
       "menJob": 0,
       "salary": 70,
-      "entrepreneurship": 0,
+      "entrepreneurship": 40,
       "type": 0,
       "ideologies": [],
       "education": 1,
@@ -110637,7 +111295,7 @@
       "politician": 60,
       "menJob": 0,
       "salary": 50,
-      "entrepreneurship": 0,
+      "entrepreneurship": 20,
       "type": 0,
       "ideologies": [],
       "education": 1,
@@ -110647,7 +111305,7 @@
       "politician": 70,
       "menJob": 0,
       "salary": 60,
-      "entrepreneurship": 0,
+      "entrepreneurship": 30,
       "type": 0,
       "ideologies": [],
       "education": 0,
@@ -110657,7 +111315,7 @@
       "politician": 50,
       "menJob": 0,
       "salary": 50,
-      "entrepreneurship": 0,
+      "entrepreneurship": 50,
       "type": 0,
       "ideologies": [],
       "education": 1,
@@ -110677,7 +111335,7 @@
       "politician": 75,
       "menJob": 0,
       "salary": 90,
-      "entrepreneurship": 0,
+      "entrepreneurship": 40,
       "type": 0,
       "ideologies": [],
       "education": 1,
@@ -110697,7 +111355,7 @@
       "politician": 30,
       "menJob": 0,
       "salary": 40,
-      "entrepreneurship": 0,
+      "entrepreneurship": 50,
       "type": 0,
       "ideologies": [],
       "education": 0,
@@ -110707,7 +111365,7 @@
       "politician": 60,
       "menJob": 0,
       "salary": 80,
-      "entrepreneurship": 0,
+      "entrepreneurship": 40,
       "type": 0,
       "ideologies": [],
       "education": 0,
@@ -110717,7 +111375,7 @@
       "politician": 20,
       "menJob": 0,
       "salary": 20,
-      "entrepreneurship": 0,
+      "entrepreneurship": 30,
       "type": 0,
       "ideologies": [],
       "education": 0,
@@ -110747,7 +111405,7 @@
       "politician": 70,
       "menJob": 0,
       "salary": 30,
-      "entrepreneurship": 0,
+      "entrepreneurship": 10,
       "type": 0,
       "ideologies": [],
       "education": 1,
@@ -110757,7 +111415,7 @@
       "politician": 80,
       "menJob": 50,
       "salary": 100,
-      "entrepreneurship": 0,
+      "entrepreneurship": 40,
       "type": 0,
       "ideologies": [],
       "education": 0,
@@ -110777,7 +111435,7 @@
       "politician": 70,
       "menJob": 50,
       "salary": 80,
-      "entrepreneurship": 0,
+      "entrepreneurship": 30,
       "type": 0,
       "ideologies": [],
       "education": 0,

@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <System>
+    <Abrogative>Abrogative</Abrogative>
     <Absences>Absences</Absences>
     <Absent>Absent</Absent>
     <Absolve>Absolve</Absolve>
     <Abstain>Abstain</Abstain>
     <Accept>Accept</Accept>
+    <Accepted>Accepted</Accepted>
     <Achievements>Achievements</Achievements>
     <Acronym>Acronym</Acronym>
     <Action>Action</Action>
@@ -20,6 +22,7 @@
     <Add>Add</Add>
     <Adults>Adults</Adults>
     <Advanced>Advanced</Advanced>
+    <Affinity>Affinity</Affinity>
     <Age>Age</Age>
     <Agreement>Agreement</Agreement>
     <Agreements>Agreements</Agreements>
@@ -38,6 +41,7 @@
     <Approval>Approval</Approval>
     <Approve>Approve</Approve>
     <Approved>Approved</Approved>
+    <Arcade>Arcade</Arcade>
     <Archive>Archive</Archive>
     <Area>Area</Area>
     <Armament>Armament</Armament>
@@ -113,7 +117,7 @@
     <CivilWar>Civil War</CivilWar>
     <Clock>Clock</Clock>
     <Close>Close</Close>
-    <Cloths>Clothes</Cloths>
+    <Clothes>Clothes</Clothes>
     <Coalition>Coalition</Coalition>
     <Coalitions>Coalitions</Coalitions>
     <Color>Color</Color>
@@ -135,7 +139,9 @@
     <Conditions>Conditions</Conditions>
     <Confidence>Confidence</Confidence>
     <Confirm>Confirm</Confirm>
+    <Confirmative>Confirmative</Confirmative>
     <Congress>Congress</Congress>
+    <Considerable>Considerable</Considerable>
     <Constitution>Constitution</Constitution>
     <Constitutional>Constitutional</Constitutional>
     <Constituencies>Constituencies</Constituencies>
@@ -183,6 +189,7 @@
     <Debt>Debt</Debt>
     <DebtToGDP>Debt to GDP</DebtToGDP>
     <Decline>Decline</Decline>
+    <Declined>Declined</Declined>
     <Decrease>Decrease</Decrease>
     <Defence>Defence</Defence>
     <Default>Default</Default>
@@ -216,6 +223,7 @@
     <Draft>Draft</Draft>
     <Duplicate>Duplicate</Duplicate>
     <Duration>Duration</Duration>
+    <Easy>Easy</Easy>
     <Earnings>Earnings</Earnings>
     <Editor>Editor</Editor>
     <Effect>Effect</Effect>
@@ -243,6 +251,7 @@
     <Expected>Expected</Expected>
     <Expenses>Expenses</Expenses>
     <Experience>Experience</Experience>
+    <Expert>Expert</Expert>
     <Export>Export</Export>
     <Eyes>Eyes</Eyes>
     <Factions>Factions</Factions>
@@ -299,6 +308,8 @@
     <Groups>Groups</Groups>
     <Hair>Hair</Hair>
     <Happiness>Happiness</Happiness>
+    <Hard>Hard</Hard>
+    <Hardcore>Hardcore</Hardcore>
     <Headquarter>Headquarter</Headquarter>
     <HeadOfGovernment>Head of government</HeadOfGovernment>
     <HeadOfState>Head of state</HeadOfState>
@@ -504,6 +515,7 @@
     <Prefectures>Prefectures</Prefectures>
     <Premier>Premier</Premier>
     <Premiers>Premiers</Premiers>
+    <Preparedness>Preparedness</Preparedness>
     <President>President</President>
     <Presence>Presence</Presence>
     <Present>Present</Present>
@@ -527,6 +539,7 @@
     <Promises>Promises</Promises>
     <Proposal>Proposal</Proposal>
     <Propose>Propose</Propose>
+    <Propositive>Propositive</Propositive>
     <Protest>Protest</Protest>
     <Province>Province</Province>
     <Provinces>Provinces</Provinces>
@@ -700,12 +713,13 @@
     <Ultra>Ultra</Ultra>
     <Undo>Undo</Undo>
     <Unfriendly>Unfriendly</Unfriendly>
-    <Unknown>Unknown</Unknown>
+    <Unhappiness>Unhappiness</Unhappiness>
     <Unipolar>Unipolar</Unipolar>
     <Unit>Unit</Unit>
     <Units>Units</Units>
     <University>University</University>
     <Universities>Universities</Universities>
+    <Unknown>Unknown</Unknown>
     <Unlock>Unlock</Unlock>
     <Unofficial>Unofficial</Unofficial>
     <Unrepresented>Unrepresented</Unrepresented>
@@ -2593,6 +2607,36 @@
         <string>Governs the operation of cemeteries and sets rules for burial, cremation, and exhumation of human remains.</string>
       </text>
     </Item>
+    <Item>
+      <text>
+        <string>Politician protection act</string>
+        <string>Provides security measures—such as escorts, bodyguards, and safe transport—to safeguard elected officials and political leaders from threats or harm.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Sovereign wealth fund</string>
+        <string>State-owned investment fund built from surplus revenues to support a nation’s long-term stability and growth.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Peacekeeping cooperation</string>
+        <string>Joint effort of states and organizations to maintain peace and stability through shared missions, resources, and mandates.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Tourism ordinance</string>
+        <string>Designed to guide, control, and promote tourism in a defined locality.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Nuclear Non-Proliferation</string>
+        <string>A global pact to stop the spread of nuclear weapons and promote peaceful nuclear cooperation.</string>
+      </text>
+    </Item>
   </Laws>
   <LawArticles>
     <string />
@@ -2854,6 +2898,12 @@
     <string>Subsidized loans for first-time homebuyers</string>
     <string>War Heroes Graves</string>
     <string>Preferred burial method</string>
+    <string>Leader of the Opposition</string>
+    <string>Special economic zones</string>
+    <string>Elite protection unit</string>
+    <string>Allow private police</string>
+    <string>National statistics agency</string>
+    <string>Renewable energy subsidies</string>
   </LawArticles>
   <LawCommas>
     <string />
@@ -3054,6 +3104,11 @@
     <Item>
       <text>
         <string>Promise to mitigate the consequences</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Elect as lawmaker</string>
       </text>
     </Item>
   </Missions>
@@ -4783,7 +4838,7 @@
     <string>Kerala</string>
     <string>Dachang Hui</string>
     <string>Chandigarh</string>
-    <string>Dehli</string>
+    <string>Delhi</string>
     <string>Dnipropetrovsk</string>
     <string>Donetsk</string>
     <string>Zhytomyr</string>
@@ -4991,7 +5046,7 @@
     <string>Steel</string>
     <string>Cars</string>
     <string>Phones</string>
-    <string>Cloths</string>
+    <string>Clothes</string>
     <string>Uranium</string>
     <string>Wood</string>
     <string>Soap</string>
@@ -5081,6 +5136,8 @@
     <string>I believe the taxation system is unfair.</string>
     <string>I wish for more diverse political options.</string>
     <string>Our lives are shaped by decisions made by just one party and system.</string>
+    <string>I think my country should reduce its debt.</string>
+    <string>I think political promises are rarely kept.</string>
   </Thoughts>
   <Traits>
     <string />
@@ -5429,11 +5486,11 @@
     <string>Minor party</string>
     <string>Political movement</string>
     <string>Regional party</string>
-    <string>Distribute government responsabilities and competences among parties.</string>
+    <string>Distribute government responsibilities and competences among parties.</string>
     <string>Random name</string>
     <string>Random appearance</string>
     <string>Random body</string>
-    <string>Random cloths</string>
+    <string>Random clothes</string>
     <string>Government in force</string>
     <string>Government out of force</string>
     <string>Go to current turn</string>
@@ -5463,7 +5520,7 @@
     <string>Propose that this person votes according to your party line.</string>
     <string>Designate a successor to assume your role in the event of leaving politics.</string>
     <string>Raise salary to increase happiness and loyalty towards party or decrease to reduce spending.</string>
-    <string>Assumes responsabilities</string>
+    <string>Assumes responsibilities</string>
     <string>Military intervention</string>
     <string>Dissolution of the government and parliament. Offical dates set for new elections.</string>
     <string>Failed to load scenario</string>
@@ -5501,7 +5558,7 @@
     <string>Select a bill and initiate the approval process at the relevant institution.</string>
     <string>Select a bill and initiate the removal process at the relevant institution.</string>
     <string>Special action that needs approval of the parliament.</string>
-    <string>Propose to share government responsabilities among parties of the parliament.</string>
+    <string>Propose to share government responsibilities among parties of the parliament.</string>
     <string>Special actions to perform with the speaker of the house.</string>
     <string>Government measures are used to swiftly change parameters in your country.</string>
     <string>Remove government measures to restore the budget.</string>
@@ -5579,7 +5636,7 @@
     <string>Already selected</string>
     <string>No action points</string>
     <string>Visit end</string>
-    <string>Person has been found death</string>
+    <string>Person has been found dead</string>
     <string>Missile hit</string>
     <string>Surgery end</string>
     <string>Campaign end</string>
@@ -5666,5 +5723,18 @@
     <string>Improve relations between nations</string>
     <string>Deteriorate relations between nations</string>
     <string>Only during general election</string>
+    <string>Disable law implementation time</string>
+    <string>Disable head of state signature</string>
+    <string>Increased election frequency</string>
+    <string>Leader of the Opposition</string>
+    <string>A leader of the opposition has been appointed</string>
+    <string>Disable ideological trends</string>
+    <string>Failed murder attempt</string>
+    <string>Authorities prevented an attempted murder</string>
+    <string>Raise protection of politicians</string>
+    <string>Additional safety measures</string>
+    <string>Planning too far ahead</string>
+    <string>Annual bonus</string>
+    <string>Provide a monetary bonus to a politician to increase loyalty and motivation.</string>
   </Text>
 </Data>
