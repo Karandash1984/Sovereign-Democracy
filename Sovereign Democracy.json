@@ -3,9 +3,9 @@
     "name": "Sovereign Democracy",
     "description": "Russia mod",
     "author": "Karandash/PAKMAN",
-    "version": "1.6с",
+    "version": "1.7",
     "fileVersion": 2,
-    "build": 4863
+    "build": 5600
   },
   "years": [
     1992,
@@ -2872,117 +2872,7145 @@
         "longitude": 0.0
       },
       "id": 109
+    },
+    {
+      "population": 0.892,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 110
+    },
+    {
+      "population": 2.08,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 111
+    },
+    {
+      "population": 0.29,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 112
+    },
+    {
+      "population": 0.61,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 113
+    },
+    {
+      "population": 1.35,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 114
+    },
+    {
+      "population": 4.3,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 115
+    },
+    {
+      "population": 7.66,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 116
+    },
+    {
+      "population": 2.5,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 117
+    },
+    {
+      "population": 1.06,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 118
+    },
+    {
+      "population": 2.62,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 119
+    },
+    {
+      "population": 4.32,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 120
+    },
+    {
+      "population": 0.638,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 121
+    },
+    {
+      "population": 0.32,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 122
+    },
+    {
+      "population": 0.44,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 123
+    },
+    {
+      "population": 0.69,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 124
+    },
+    {
+      "population": 0.58,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 125
+    },
+    {
+      "population": 3.078,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 126
+    },
+    {
+      "population": 0.45,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 127
+    },
+    {
+      "population": 2.14,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 128
+    },
+    {
+      "population": 0.135,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 129
+    },
+    {
+      "population": 1.67,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 130
+    },
+    {
+      "population": 0.116,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 131
+    },
+    {
+      "population": 1.72,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 132
+    },
+    {
+      "population": 1.74,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 133
+    },
+    {
+      "population": 1.03,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 134
+    },
+    {
+      "population": 3.09,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 135
+    },
+    {
+      "population": 1.22,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 136
+    },
+    {
+      "population": 2.54,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 137
+    },
+    {
+      "population": 1.338,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 138
+    },
+    {
+      "population": 0.567,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 139
+    },
+    {
+      "population": 1.257,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 140
+    },
+    {
+      "population": 0.53,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 141
+    },
+    {
+      "population": 0.17,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 142
+    },
+    {
+      "population": 2.72,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 143
+    },
+    {
+      "population": 1.35,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 144
+    },
+    {
+      "population": 1.2,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 145
+    },
+    {
+      "population": 4.6,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 146
+    },
+    {
+      "population": 1.07,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 147
+    },
+    {
+      "population": 0.948,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 148
+    },
+    {
+      "population": 2.58,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 149
+    },
+    {
+      "population": 14.3,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 150
+    },
+    {
+      "population": 13.7,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 151
+    },
+    {
+      "population": 2.35,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 152
+    },
+    {
+      "population": 1.16,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 153
+    },
+    {
+      "population": 8.46,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 154
+    },
+    {
+      "population": 0.642,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 155
+    },
+    {
+      "population": 13.84,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 156
+    },
+    {
+      "population": 1.014,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 157
+    },
+    {
+      "population": 1.186,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 158
+    },
+    {
+      "population": 1.588,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 159
+    },
+    {
+      "population": 7.13,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 160
+    },
+    {
+      "population": 1.78,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 161
+    },
+    {
+      "population": 0.76,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 162
+    },
+    {
+      "population": 0.487,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 163
+    },
+    {
+      "population": 0.62,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 164
+    },
+    {
+      "population": 0.825,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 165
+    },
+    {
+      "population": 0.32,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 166
+    },
+    {
+      "population": 12.76,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 167
+    },
+    {
+      "population": 10.26,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 168
+    },
+    {
+      "population": 17.85,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 169
+    },
+    {
+      "population": 5.64,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 170
+    },
+    {
+      "population": 8.06,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 171
+    },
+    {
+      "population": 4.39,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 172
+    },
+    {
+      "population": 0.891,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 173
+    },
+    {
+      "population": 0.712,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 174
+    },
+    {
+      "population": 0.729,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 175
+    },
+    {
+      "population": 0.943,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 176
+    },
+    {
+      "population": 1.4,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 177
+    },
+    {
+      "population": 2.45,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 178
+    },
+    {
+      "population": 1.773,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 179
+    },
+    {
+      "population": 13.04,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 180
+    },
+    {
+      "population": 2.38,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 181
+    },
+    {
+      "population": 1.41,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 182
+    },
+    {
+      "population": 1.278,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 183
+    },
+    {
+      "population": 0.28,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 184
+    },
+    {
+      "population": 1.27,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 185
+    },
+    {
+      "population": 0.48,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 186
+    },
+    {
+      "population": 0.755,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 187
+    },
+    {
+      "population": 1.385,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 188
+    },
+    {
+      "population": 1.14,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 189
+    },
+    {
+      "population": 0.92,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 190
+    },
+    {
+      "population": 1.81,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 191
+    },
+    {
+      "population": 0.64,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 192
+    },
+    {
+      "population": 0.749,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 193
+    },
+    {
+      "population": 0.61,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 194
+    },
+    {
+      "population": 1.164,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 195
+    },
+    {
+      "population": 0.83,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 196
+    },
+    {
+      "population": 1.04,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 197
+    },
+    {
+      "population": 0.51,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 198
+    },
+    {
+      "population": 0.59,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 199
+    },
+    {
+      "population": 1.47,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 200
+    },
+    {
+      "population": 2.249,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 201
+    },
+    {
+      "population": 8.46,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 202
+    },
+    {
+      "population": 3.16,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 203
+    },
+    {
+      "population": 3.01,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 204
+    },
+    {
+      "population": 0.65,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 205
+    },
+    {
+      "population": 2.28,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 206
+    },
+    {
+      "population": 7.77,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 207
+    },
+    {
+      "population": 0.41,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 208
+    },
+    {
+      "population": 3.04,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 209
+    },
+    {
+      "population": 1.42,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 210
+    },
+    {
+      "population": 0.72,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 211
+    },
+    {
+      "population": 0.85,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 212
+    },
+    {
+      "population": 0.32,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 213
+    },
+    {
+      "population": 6.2,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 214
+    },
+    {
+      "population": 1.03,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 215
+    },
+    {
+      "population": 1.05,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 216
+    },
+    {
+      "population": 0.66,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 217
+    },
+    {
+      "population": 0.965,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 218
+    },
+    {
+      "population": 0.86,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 219
+    },
+    {
+      "population": 2.36,
+      "gdpCapita": 0.0,
+      "laws": [],
+      "coordinate": {
+        "latitude": 0.0,
+        "longitude": 0.0
+      },
+      "id": 220
     }
   ],
   "competences": [
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 0
+        },
+        {
+          "id": 2,
+          "value": 85
+        },
+        {
+          "id": 3,
+          "value": 10
+        },
+        {
+          "id": 4,
+          "value": 40
+        },
+        {
+          "id": 5,
+          "value": 5
+        },
+        {
+          "id": 6,
+          "value": 20
+        },
+        {
+          "id": 7,
+          "value": 35
+        },
+        {
+          "id": 8,
+          "value": 60
+        },
+        {
+          "id": 9,
+          "value": 75
+        },
+        {
+          "id": 10,
+          "value": 5
+        },
+        {
+          "id": 11,
+          "value": 5
+        },
+        {
+          "id": 12,
+          "value": 25
+        },
+        {
+          "id": 13,
+          "value": 10
+        },
+        {
+          "id": 14,
+          "value": 100
+        },
+        {
+          "id": 15,
+          "value": 55
+        },
+        {
+          "id": 16,
+          "value": 45
+        },
+        {
+          "id": 17,
+          "value": 80
+        },
+        {
+          "id": 18,
+          "value": 25
+        },
+        {
+          "id": 19,
+          "value": 50
+        },
+        {
+          "id": 20,
+          "value": 5
+        },
+        {
+          "id": 21,
+          "value": 40
+        },
+        {
+          "id": 22,
+          "value": 40
+        },
+        {
+          "id": 23,
+          "value": 35
+        },
+        {
+          "id": 24,
+          "value": 85
+        },
+        {
+          "id": 25,
+          "value": 90
+        },
+        {
+          "id": 26,
+          "value": 30
+        },
+        {
+          "id": 27,
+          "value": 5
+        },
+        {
+          "id": 28,
+          "value": 80
+        },
+        {
+          "id": 29,
+          "value": 35
+        },
+        {
+          "id": 30,
+          "value": 50
+        },
+        {
+          "id": 31,
+          "value": 55
+        },
+        {
+          "id": 32,
+          "value": 10
+        },
+        {
+          "id": 33,
+          "value": 60
+        },
+        {
+          "id": 34,
+          "value": 95
+        },
+        {
+          "id": 35,
+          "value": 40
+        },
+        {
+          "id": 36,
+          "value": 25
+        },
+        {
+          "id": 37,
+          "value": 65
+        },
+        {
+          "id": 38,
+          "value": 20
+        },
+        {
+          "id": 39,
+          "value": 50
+        },
+        {
+          "id": 40,
+          "value": 70
+        },
+        {
+          "id": 41,
+          "value": 30
+        },
+        {
+          "id": 42,
+          "value": 25
+        },
+        {
+          "id": 43,
+          "value": 60
+        },
+        {
+          "id": 44,
+          "value": 30
+        },
+        {
+          "id": 45,
+          "value": 35
+        },
+        {
+          "id": 46,
+          "value": 15
+        },
+        {
+          "id": 47,
+          "value": 90
+        },
+        {
+          "id": 48,
+          "value": 20
+        },
+        {
+          "id": 49,
+          "value": 35
+        },
+        {
+          "id": 50,
+          "value": 45
+        },
+        {
+          "id": 51,
+          "value": 25
+        },
+        {
+          "id": 52,
+          "value": 70
+        },
+        {
+          "id": 53,
+          "value": 30
+        },
+        {
+          "id": 54,
+          "value": 5
+        },
+        {
+          "id": 55,
+          "value": 5
+        },
+        {
+          "id": 56,
+          "value": 55
+        },
+        {
+          "id": 57,
+          "value": 85
+        },
+        {
+          "id": 58,
+          "value": 50
+        },
+        {
+          "id": 59,
+          "value": 5
+        },
+        {
+          "id": 60,
+          "value": 5
+        },
+        {
+          "id": 61,
+          "value": 5
+        },
+        {
+          "id": 62,
+          "value": 80
+        },
+        {
+          "id": 63,
+          "value": 95
+        },
+        {
+          "id": 64,
+          "value": 40
+        },
+        {
+          "id": 65,
+          "value": 55
+        },
+        {
+          "id": 66,
+          "value": 35
+        },
+        {
+          "id": 67,
+          "value": 15
+        }
+      ],
       "id": 1
     },
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 0
+        },
+        {
+          "id": 2,
+          "value": 75
+        },
+        {
+          "id": 3,
+          "value": 20
+        },
+        {
+          "id": 4,
+          "value": 35
+        },
+        {
+          "id": 5,
+          "value": 5
+        },
+        {
+          "id": 6,
+          "value": 25
+        },
+        {
+          "id": 7,
+          "value": 40
+        },
+        {
+          "id": 8,
+          "value": 95
+        },
+        {
+          "id": 9,
+          "value": 100
+        },
+        {
+          "id": 10,
+          "value": 5
+        },
+        {
+          "id": 11,
+          "value": 10
+        },
+        {
+          "id": 12,
+          "value": 20
+        },
+        {
+          "id": 13,
+          "value": 10
+        },
+        {
+          "id": 14,
+          "value": 90
+        },
+        {
+          "id": 15,
+          "value": 55
+        },
+        {
+          "id": 16,
+          "value": 60
+        },
+        {
+          "id": 17,
+          "value": 70
+        },
+        {
+          "id": 18,
+          "value": 25
+        },
+        {
+          "id": 19,
+          "value": 85
+        },
+        {
+          "id": 20,
+          "value": 10
+        },
+        {
+          "id": 21,
+          "value": 55
+        },
+        {
+          "id": 22,
+          "value": 55
+        },
+        {
+          "id": 23,
+          "value": 45
+        },
+        {
+          "id": 24,
+          "value": 65
+        },
+        {
+          "id": 25,
+          "value": 100
+        },
+        {
+          "id": 26,
+          "value": 25
+        },
+        {
+          "id": 27,
+          "value": 10
+        },
+        {
+          "id": 28,
+          "value": 70
+        },
+        {
+          "id": 29,
+          "value": 40
+        },
+        {
+          "id": 30,
+          "value": 35
+        },
+        {
+          "id": 31,
+          "value": 45
+        },
+        {
+          "id": 32,
+          "value": 10
+        },
+        {
+          "id": 33,
+          "value": 55
+        },
+        {
+          "id": 34,
+          "value": 85
+        },
+        {
+          "id": 35,
+          "value": 50
+        },
+        {
+          "id": 36,
+          "value": 35
+        },
+        {
+          "id": 37,
+          "value": 90
+        },
+        {
+          "id": 38,
+          "value": 15
+        },
+        {
+          "id": 39,
+          "value": 50
+        },
+        {
+          "id": 40,
+          "value": 95
+        },
+        {
+          "id": 41,
+          "value": 25
+        },
+        {
+          "id": 42,
+          "value": 20
+        },
+        {
+          "id": 43,
+          "value": 80
+        },
+        {
+          "id": 44,
+          "value": 20
+        },
+        {
+          "id": 45,
+          "value": 35
+        },
+        {
+          "id": 46,
+          "value": 10
+        },
+        {
+          "id": 47,
+          "value": 60
+        },
+        {
+          "id": 48,
+          "value": 40
+        },
+        {
+          "id": 49,
+          "value": 40
+        },
+        {
+          "id": 50,
+          "value": 25
+        },
+        {
+          "id": 51,
+          "value": 25
+        },
+        {
+          "id": 52,
+          "value": 65
+        },
+        {
+          "id": 53,
+          "value": 25
+        },
+        {
+          "id": 54,
+          "value": 5
+        },
+        {
+          "id": 55,
+          "value": 30
+        },
+        {
+          "id": 56,
+          "value": 40
+        },
+        {
+          "id": 57,
+          "value": 60
+        },
+        {
+          "id": 58,
+          "value": 85
+        },
+        {
+          "id": 59,
+          "value": 5
+        },
+        {
+          "id": 60,
+          "value": 10
+        },
+        {
+          "id": 61,
+          "value": 10
+        },
+        {
+          "id": 62,
+          "value": 70
+        },
+        {
+          "id": 63,
+          "value": 100
+        },
+        {
+          "id": 64,
+          "value": 35
+        },
+        {
+          "id": 65,
+          "value": 45
+        },
+        {
+          "id": 66,
+          "value": 40
+        },
+        {
+          "id": 67,
+          "value": 15
+        }
+      ],
       "id": 2
     },
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 0
+        },
+        {
+          "id": 2,
+          "value": 80
+        },
+        {
+          "id": 3,
+          "value": 5
+        },
+        {
+          "id": 4,
+          "value": 25
+        },
+        {
+          "id": 5,
+          "value": 5
+        },
+        {
+          "id": 6,
+          "value": 25
+        },
+        {
+          "id": 7,
+          "value": 30
+        },
+        {
+          "id": 8,
+          "value": 100
+        },
+        {
+          "id": 9,
+          "value": 95
+        },
+        {
+          "id": 10,
+          "value": 5
+        },
+        {
+          "id": 11,
+          "value": 5
+        },
+        {
+          "id": 12,
+          "value": 15
+        },
+        {
+          "id": 13,
+          "value": 10
+        },
+        {
+          "id": 14,
+          "value": 90
+        },
+        {
+          "id": 15,
+          "value": 60
+        },
+        {
+          "id": 16,
+          "value": 55
+        },
+        {
+          "id": 17,
+          "value": 75
+        },
+        {
+          "id": 18,
+          "value": 20
+        },
+        {
+          "id": 19,
+          "value": 65
+        },
+        {
+          "id": 20,
+          "value": 5
+        },
+        {
+          "id": 21,
+          "value": 50
+        },
+        {
+          "id": 22,
+          "value": 50
+        },
+        {
+          "id": 23,
+          "value": 45
+        },
+        {
+          "id": 24,
+          "value": 55
+        },
+        {
+          "id": 25,
+          "value": 95
+        },
+        {
+          "id": 26,
+          "value": 20
+        },
+        {
+          "id": 27,
+          "value": 5
+        },
+        {
+          "id": 28,
+          "value": 70
+        },
+        {
+          "id": 29,
+          "value": 40
+        },
+        {
+          "id": 30,
+          "value": 25
+        },
+        {
+          "id": 31,
+          "value": 40
+        },
+        {
+          "id": 32,
+          "value": 10
+        },
+        {
+          "id": 33,
+          "value": 60
+        },
+        {
+          "id": 34,
+          "value": 85
+        },
+        {
+          "id": 35,
+          "value": 40
+        },
+        {
+          "id": 36,
+          "value": 30
+        },
+        {
+          "id": 37,
+          "value": 70
+        },
+        {
+          "id": 38,
+          "value": 15
+        },
+        {
+          "id": 39,
+          "value": 50
+        },
+        {
+          "id": 40,
+          "value": 100
+        },
+        {
+          "id": 41,
+          "value": 20
+        },
+        {
+          "id": 42,
+          "value": 15
+        },
+        {
+          "id": 43,
+          "value": 55
+        },
+        {
+          "id": 44,
+          "value": 15
+        },
+        {
+          "id": 45,
+          "value": 35
+        },
+        {
+          "id": 46,
+          "value": 10
+        },
+        {
+          "id": 47,
+          "value": 45
+        },
+        {
+          "id": 48,
+          "value": 25
+        },
+        {
+          "id": 49,
+          "value": 35
+        },
+        {
+          "id": 50,
+          "value": 20
+        },
+        {
+          "id": 51,
+          "value": 15
+        },
+        {
+          "id": 52,
+          "value": 40
+        },
+        {
+          "id": 53,
+          "value": 20
+        },
+        {
+          "id": 54,
+          "value": 5
+        },
+        {
+          "id": 55,
+          "value": 15
+        },
+        {
+          "id": 56,
+          "value": 35
+        },
+        {
+          "id": 57,
+          "value": 55
+        },
+        {
+          "id": 58,
+          "value": 95
+        },
+        {
+          "id": 59,
+          "value": 5
+        },
+        {
+          "id": 60,
+          "value": 5
+        },
+        {
+          "id": 61,
+          "value": 5
+        },
+        {
+          "id": 62,
+          "value": 65
+        },
+        {
+          "id": 63,
+          "value": 100
+        },
+        {
+          "id": 64,
+          "value": 30
+        },
+        {
+          "id": 65,
+          "value": 40
+        },
+        {
+          "id": 66,
+          "value": 35
+        },
+        {
+          "id": 67,
+          "value": 10
+        }
+      ],
       "id": 3
     },
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 0
+        },
+        {
+          "id": 2,
+          "value": 85
+        },
+        {
+          "id": 3,
+          "value": 5
+        },
+        {
+          "id": 4,
+          "value": 20
+        },
+        {
+          "id": 5,
+          "value": 5
+        },
+        {
+          "id": 6,
+          "value": 20
+        },
+        {
+          "id": 7,
+          "value": 25
+        },
+        {
+          "id": 8,
+          "value": 100
+        },
+        {
+          "id": 9,
+          "value": 95
+        },
+        {
+          "id": 10,
+          "value": 5
+        },
+        {
+          "id": 11,
+          "value": 5
+        },
+        {
+          "id": 12,
+          "value": 10
+        },
+        {
+          "id": 13,
+          "value": 10
+        },
+        {
+          "id": 14,
+          "value": 90
+        },
+        {
+          "id": 15,
+          "value": 55
+        },
+        {
+          "id": 16,
+          "value": 50
+        },
+        {
+          "id": 17,
+          "value": 75
+        },
+        {
+          "id": 18,
+          "value": 15
+        },
+        {
+          "id": 19,
+          "value": 55
+        },
+        {
+          "id": 20,
+          "value": 5
+        },
+        {
+          "id": 21,
+          "value": 45
+        },
+        {
+          "id": 22,
+          "value": 45
+        },
+        {
+          "id": 23,
+          "value": 40
+        },
+        {
+          "id": 24,
+          "value": 50
+        },
+        {
+          "id": 25,
+          "value": 90
+        },
+        {
+          "id": 26,
+          "value": 20
+        },
+        {
+          "id": 27,
+          "value": 5
+        },
+        {
+          "id": 28,
+          "value": 70
+        },
+        {
+          "id": 29,
+          "value": 35
+        },
+        {
+          "id": 30,
+          "value": 25
+        },
+        {
+          "id": 31,
+          "value": 35
+        },
+        {
+          "id": 32,
+          "value": 10
+        },
+        {
+          "id": 33,
+          "value": 55
+        },
+        {
+          "id": 34,
+          "value": 80
+        },
+        {
+          "id": 35,
+          "value": 40
+        },
+        {
+          "id": 36,
+          "value": 25
+        },
+        {
+          "id": 37,
+          "value": 65
+        },
+        {
+          "id": 38,
+          "value": 10
+        },
+        {
+          "id": 39,
+          "value": 45
+        },
+        {
+          "id": 40,
+          "value": 100
+        },
+        {
+          "id": 41,
+          "value": 15
+        },
+        {
+          "id": 42,
+          "value": 10
+        },
+        {
+          "id": 43,
+          "value": 50
+        },
+        {
+          "id": 44,
+          "value": 10
+        },
+        {
+          "id": 45,
+          "value": 30
+        },
+        {
+          "id": 46,
+          "value": 10
+        },
+        {
+          "id": 47,
+          "value": 40
+        },
+        {
+          "id": 48,
+          "value": 20
+        },
+        {
+          "id": 49,
+          "value": 30
+        },
+        {
+          "id": 50,
+          "value": 15
+        },
+        {
+          "id": 51,
+          "value": 10
+        },
+        {
+          "id": 52,
+          "value": 35
+        },
+        {
+          "id": 53,
+          "value": 15
+        },
+        {
+          "id": 54,
+          "value": 5
+        },
+        {
+          "id": 55,
+          "value": 10
+        },
+        {
+          "id": 56,
+          "value": 35
+        },
+        {
+          "id": 57,
+          "value": 50
+        },
+        {
+          "id": 58,
+          "value": 100
+        },
+        {
+          "id": 59,
+          "value": 5
+        },
+        {
+          "id": 60,
+          "value": 5
+        },
+        {
+          "id": 61,
+          "value": 5
+        },
+        {
+          "id": 62,
+          "value": 60
+        },
+        {
+          "id": 63,
+          "value": 95
+        },
+        {
+          "id": 64,
+          "value": 30
+        },
+        {
+          "id": 65,
+          "value": 35
+        },
+        {
+          "id": 66,
+          "value": 30
+        },
+        {
+          "id": 67,
+          "value": 10
+        }
+      ],
       "id": 4
     },
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 0
+        },
+        {
+          "id": 2,
+          "value": 60
+        },
+        {
+          "id": 3,
+          "value": 30
+        },
+        {
+          "id": 4,
+          "value": 35
+        },
+        {
+          "id": 5,
+          "value": 10
+        },
+        {
+          "id": 6,
+          "value": 70
+        },
+        {
+          "id": 7,
+          "value": 55
+        },
+        {
+          "id": 8,
+          "value": 40
+        },
+        {
+          "id": 9,
+          "value": 50
+        },
+        {
+          "id": 10,
+          "value": 20
+        },
+        {
+          "id": 11,
+          "value": 25
+        },
+        {
+          "id": 12,
+          "value": 30
+        },
+        {
+          "id": 13,
+          "value": 10
+        },
+        {
+          "id": 14,
+          "value": 85
+        },
+        {
+          "id": 15,
+          "value": 95
+        },
+        {
+          "id": 16,
+          "value": 80
+        },
+        {
+          "id": 17,
+          "value": 55
+        },
+        {
+          "id": 18,
+          "value": 45
+        },
+        {
+          "id": 19,
+          "value": 40
+        },
+        {
+          "id": 20,
+          "value": 10
+        },
+        {
+          "id": 21,
+          "value": 75
+        },
+        {
+          "id": 22,
+          "value": 75
+        },
+        {
+          "id": 23,
+          "value": 50
+        },
+        {
+          "id": 24,
+          "value": 70
+        },
+        {
+          "id": 25,
+          "value": 60
+        },
+        {
+          "id": 26,
+          "value": 25
+        },
+        {
+          "id": 27,
+          "value": 15
+        },
+        {
+          "id": 28,
+          "value": 85
+        },
+        {
+          "id": 29,
+          "value": 45
+        },
+        {
+          "id": 30,
+          "value": 25
+        },
+        {
+          "id": 31,
+          "value": 65
+        },
+        {
+          "id": 32,
+          "value": 20
+        },
+        {
+          "id": 33,
+          "value": 85
+        },
+        {
+          "id": 34,
+          "value": 70
+        },
+        {
+          "id": 35,
+          "value": 80
+        },
+        {
+          "id": 36,
+          "value": 40
+        },
+        {
+          "id": 37,
+          "value": 55
+        },
+        {
+          "id": 38,
+          "value": 80
+        },
+        {
+          "id": 39,
+          "value": 50
+        },
+        {
+          "id": 40,
+          "value": 45
+        },
+        {
+          "id": 41,
+          "value": 35
+        },
+        {
+          "id": 42,
+          "value": 25
+        },
+        {
+          "id": 43,
+          "value": 40
+        },
+        {
+          "id": 44,
+          "value": 30
+        },
+        {
+          "id": 45,
+          "value": 65
+        },
+        {
+          "id": 46,
+          "value": 35
+        },
+        {
+          "id": 47,
+          "value": 40
+        },
+        {
+          "id": 48,
+          "value": 30
+        },
+        {
+          "id": 49,
+          "value": 95
+        },
+        {
+          "id": 50,
+          "value": 30
+        },
+        {
+          "id": 51,
+          "value": 100
+        },
+        {
+          "id": 52,
+          "value": 80
+        },
+        {
+          "id": 53,
+          "value": 90
+        },
+        {
+          "id": 54,
+          "value": 10
+        },
+        {
+          "id": 55,
+          "value": 85
+        },
+        {
+          "id": 56,
+          "value": 90
+        },
+        {
+          "id": 57,
+          "value": 70
+        },
+        {
+          "id": 58,
+          "value": 40
+        },
+        {
+          "id": 59,
+          "value": 10
+        },
+        {
+          "id": 60,
+          "value": 15
+        },
+        {
+          "id": 61,
+          "value": 15
+        },
+        {
+          "id": 62,
+          "value": 65
+        },
+        {
+          "id": 63,
+          "value": 80
+        },
+        {
+          "id": 64,
+          "value": 85
+        },
+        {
+          "id": 65,
+          "value": 75
+        },
+        {
+          "id": 66,
+          "value": 50
+        },
+        {
+          "id": 67,
+          "value": 20
+        }
+      ],
       "id": 5
     },
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 0
+        },
+        {
+          "id": 2,
+          "value": 55
+        },
+        {
+          "id": 3,
+          "value": 45
+        },
+        {
+          "id": 4,
+          "value": 30
+        },
+        {
+          "id": 5,
+          "value": 10
+        },
+        {
+          "id": 6,
+          "value": 5
+        },
+        {
+          "id": 7,
+          "value": 25
+        },
+        {
+          "id": 8,
+          "value": 50
+        },
+        {
+          "id": 9,
+          "value": 60
+        },
+        {
+          "id": 10,
+          "value": 20
+        },
+        {
+          "id": 11,
+          "value": 40
+        },
+        {
+          "id": 12,
+          "value": 25
+        },
+        {
+          "id": 13,
+          "value": 10
+        },
+        {
+          "id": 14,
+          "value": 90
+        },
+        {
+          "id": 15,
+          "value": 70
+        },
+        {
+          "id": 16,
+          "value": 65
+        },
+        {
+          "id": 17,
+          "value": 50
+        },
+        {
+          "id": 18,
+          "value": 20
+        },
+        {
+          "id": 19,
+          "value": 45
+        },
+        {
+          "id": 20,
+          "value": 10
+        },
+        {
+          "id": 21,
+          "value": 55
+        },
+        {
+          "id": 22,
+          "value": 60
+        },
+        {
+          "id": 23,
+          "value": 40
+        },
+        {
+          "id": 24,
+          "value": 35
+        },
+        {
+          "id": 25,
+          "value": 70
+        },
+        {
+          "id": 26,
+          "value": 25
+        },
+        {
+          "id": 27,
+          "value": 40
+        },
+        {
+          "id": 28,
+          "value": 65
+        },
+        {
+          "id": 29,
+          "value": 35
+        },
+        {
+          "id": 30,
+          "value": 10
+        },
+        {
+          "id": 31,
+          "value": 50
+        },
+        {
+          "id": 32,
+          "value": 15
+        },
+        {
+          "id": 33,
+          "value": 75
+        },
+        {
+          "id": 34,
+          "value": 10
+        },
+        {
+          "id": 35,
+          "value": 50
+        },
+        {
+          "id": 36,
+          "value": 25
+        },
+        {
+          "id": 37,
+          "value": 45
+        },
+        {
+          "id": 38,
+          "value": 85
+        },
+        {
+          "id": 39,
+          "value": 30
+        },
+        {
+          "id": 40,
+          "value": 40
+        },
+        {
+          "id": 41,
+          "value": 5
+        },
+        {
+          "id": 42,
+          "value": 15
+        },
+        {
+          "id": 43,
+          "value": 30
+        },
+        {
+          "id": 44,
+          "value": 5
+        },
+        {
+          "id": 45,
+          "value": 50
+        },
+        {
+          "id": 46,
+          "value": 15
+        },
+        {
+          "id": 47,
+          "value": 10
+        },
+        {
+          "id": 48,
+          "value": 5
+        },
+        {
+          "id": 49,
+          "value": 70
+        },
+        {
+          "id": 50,
+          "value": 5
+        },
+        {
+          "id": 51,
+          "value": 80
+        },
+        {
+          "id": 52,
+          "value": 20
+        },
+        {
+          "id": 53,
+          "value": 60
+        },
+        {
+          "id": 54,
+          "value": 10
+        },
+        {
+          "id": 55,
+          "value": 100
+        },
+        {
+          "id": 56,
+          "value": 55
+        },
+        {
+          "id": 57,
+          "value": 40
+        },
+        {
+          "id": 58,
+          "value": 35
+        },
+        {
+          "id": 59,
+          "value": 25
+        },
+        {
+          "id": 60,
+          "value": 30
+        },
+        {
+          "id": 61,
+          "value": 25
+        },
+        {
+          "id": 62,
+          "value": 35
+        },
+        {
+          "id": 63,
+          "value": 75
+        },
+        {
+          "id": 64,
+          "value": 20
+        },
+        {
+          "id": 65,
+          "value": 45
+        },
+        {
+          "id": 66,
+          "value": 30
+        },
+        {
+          "id": 67,
+          "value": 10
+        }
+      ],
       "id": 6
     },
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 0
+        },
+        {
+          "id": 2,
+          "value": 70
+        },
+        {
+          "id": 3,
+          "value": 15
+        },
+        {
+          "id": 4,
+          "value": 100
+        },
+        {
+          "id": 5,
+          "value": 20
+        },
+        {
+          "id": 6,
+          "value": 85
+        },
+        {
+          "id": 7,
+          "value": 40
+        },
+        {
+          "id": 8,
+          "value": 45
+        },
+        {
+          "id": 9,
+          "value": 55
+        },
+        {
+          "id": 10,
+          "value": 35
+        },
+        {
+          "id": 11,
+          "value": 40
+        },
+        {
+          "id": 12,
+          "value": 50
+        },
+        {
+          "id": 13,
+          "value": 5
+        },
+        {
+          "id": 14,
+          "value": 90
+        },
+        {
+          "id": 15,
+          "value": 60
+        },
+        {
+          "id": 16,
+          "value": 70
+        },
+        {
+          "id": 17,
+          "value": 65
+        },
+        {
+          "id": 18,
+          "value": 25
+        },
+        {
+          "id": 19,
+          "value": 30
+        },
+        {
+          "id": 20,
+          "value": 10
+        },
+        {
+          "id": 21,
+          "value": 60
+        },
+        {
+          "id": 22,
+          "value": 75
+        },
+        {
+          "id": 23,
+          "value": 55
+        },
+        {
+          "id": 24,
+          "value": 45
+        },
+        {
+          "id": 25,
+          "value": 65
+        },
+        {
+          "id": 26,
+          "value": 85
+        },
+        {
+          "id": 27,
+          "value": 10
+        },
+        {
+          "id": 28,
+          "value": 60
+        },
+        {
+          "id": 29,
+          "value": 45
+        },
+        {
+          "id": 30,
+          "value": 5
+        },
+        {
+          "id": 31,
+          "value": 35
+        },
+        {
+          "id": 32,
+          "value": 10
+        },
+        {
+          "id": 33,
+          "value": 65
+        },
+        {
+          "id": 34,
+          "value": 50
+        },
+        {
+          "id": 35,
+          "value": 40
+        },
+        {
+          "id": 36,
+          "value": 25
+        },
+        {
+          "id": 37,
+          "value": 40
+        },
+        {
+          "id": 38,
+          "value": 30
+        },
+        {
+          "id": 39,
+          "value": 20
+        },
+        {
+          "id": 40,
+          "value": 35
+        },
+        {
+          "id": 41,
+          "value": 90
+        },
+        {
+          "id": 42,
+          "value": 25
+        },
+        {
+          "id": 43,
+          "value": 25
+        },
+        {
+          "id": 44,
+          "value": 10
+        },
+        {
+          "id": 45,
+          "value": 55
+        },
+        {
+          "id": 46,
+          "value": 80
+        },
+        {
+          "id": 47,
+          "value": 30
+        },
+        {
+          "id": 48,
+          "value": 5
+        },
+        {
+          "id": 49,
+          "value": 45
+        },
+        {
+          "id": 50,
+          "value": 5
+        },
+        {
+          "id": 51,
+          "value": 30
+        },
+        {
+          "id": 52,
+          "value": 20
+        },
+        {
+          "id": 53,
+          "value": 35
+        },
+        {
+          "id": 54,
+          "value": 20
+        },
+        {
+          "id": 55,
+          "value": 25
+        },
+        {
+          "id": 56,
+          "value": 40
+        },
+        {
+          "id": 57,
+          "value": 50
+        },
+        {
+          "id": 58,
+          "value": 35
+        },
+        {
+          "id": 59,
+          "value": 25
+        },
+        {
+          "id": 60,
+          "value": 25
+        },
+        {
+          "id": 61,
+          "value": 50
+        },
+        {
+          "id": 62,
+          "value": 40
+        },
+        {
+          "id": 63,
+          "value": 70
+        },
+        {
+          "id": 64,
+          "value": 45
+        },
+        {
+          "id": 65,
+          "value": 35
+        },
+        {
+          "id": 66,
+          "value": 60
+        },
+        {
+          "id": 67,
+          "value": 70
+        }
+      ],
       "id": 7
     },
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 15
+        },
+        {
+          "id": 2,
+          "value": 60
+        },
+        {
+          "id": 3,
+          "value": 45
+        },
+        {
+          "id": 4,
+          "value": 25
+        },
+        {
+          "id": 5,
+          "value": 30
+        },
+        {
+          "id": 6,
+          "value": 10
+        },
+        {
+          "id": 7,
+          "value": 85
+        },
+        {
+          "id": 8,
+          "value": 35
+        },
+        {
+          "id": 9,
+          "value": 40
+        },
+        {
+          "id": 10,
+          "value": 25
+        },
+        {
+          "id": 11,
+          "value": 35
+        },
+        {
+          "id": 12,
+          "value": 30
+        },
+        {
+          "id": 13,
+          "value": 20
+        },
+        {
+          "id": 14,
+          "value": 90
+        },
+        {
+          "id": 15,
+          "value": 65
+        },
+        {
+          "id": 16,
+          "value": 45
+        },
+        {
+          "id": 17,
+          "value": 55
+        },
+        {
+          "id": 18,
+          "value": 95
+        },
+        {
+          "id": 19,
+          "value": 35
+        },
+        {
+          "id": 20,
+          "value": 25
+        },
+        {
+          "id": 21,
+          "value": 40
+        },
+        {
+          "id": 22,
+          "value": 35
+        },
+        {
+          "id": 23,
+          "value": 30
+        },
+        {
+          "id": 24,
+          "value": 50
+        },
+        {
+          "id": 25,
+          "value": 55
+        },
+        {
+          "id": 26,
+          "value": 45
+        },
+        {
+          "id": 27,
+          "value": 30
+        },
+        {
+          "id": 28,
+          "value": 70
+        },
+        {
+          "id": 29,
+          "value": 30
+        },
+        {
+          "id": 30,
+          "value": 25
+        },
+        {
+          "id": 31,
+          "value": 100
+        },
+        {
+          "id": 32,
+          "value": 25
+        },
+        {
+          "id": 33,
+          "value": 65
+        },
+        {
+          "id": 34,
+          "value": 25
+        },
+        {
+          "id": 35,
+          "value": 30
+        },
+        {
+          "id": 36,
+          "value": 60
+        },
+        {
+          "id": 37,
+          "value": 40
+        },
+        {
+          "id": 38,
+          "value": 55
+        },
+        {
+          "id": 39,
+          "value": 50
+        },
+        {
+          "id": 40,
+          "value": 35
+        },
+        {
+          "id": 41,
+          "value": 15
+        },
+        {
+          "id": 42,
+          "value": 80
+        },
+        {
+          "id": 43,
+          "value": 25
+        },
+        {
+          "id": 44,
+          "value": 20
+        },
+        {
+          "id": 45,
+          "value": 45
+        },
+        {
+          "id": 46,
+          "value": 50
+        },
+        {
+          "id": 47,
+          "value": 60
+        },
+        {
+          "id": 48,
+          "value": 10
+        },
+        {
+          "id": 49,
+          "value": 25
+        },
+        {
+          "id": 50,
+          "value": 20
+        },
+        {
+          "id": 51,
+          "value": 35
+        },
+        {
+          "id": 52,
+          "value": 25
+        },
+        {
+          "id": 53,
+          "value": 30
+        },
+        {
+          "id": 54,
+          "value": 20
+        },
+        {
+          "id": 55,
+          "value": 40
+        },
+        {
+          "id": 56,
+          "value": 30
+        },
+        {
+          "id": 57,
+          "value": 45
+        },
+        {
+          "id": 58,
+          "value": 35
+        },
+        {
+          "id": 59,
+          "value": 25
+        },
+        {
+          "id": 60,
+          "value": 25
+        },
+        {
+          "id": 61,
+          "value": 20
+        },
+        {
+          "id": 62,
+          "value": 55
+        },
+        {
+          "id": 63,
+          "value": 60
+        },
+        {
+          "id": 64,
+          "value": 25
+        },
+        {
+          "id": 65,
+          "value": 85
+        },
+        {
+          "id": 66,
+          "value": 70
+        },
+        {
+          "id": 67,
+          "value": 45
+        }
+      ],
       "id": 8
     },
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 10
+        },
+        {
+          "id": 2,
+          "value": 65
+        },
+        {
+          "id": 3,
+          "value": 45
+        },
+        {
+          "id": 4,
+          "value": 30
+        },
+        {
+          "id": 5,
+          "value": 35
+        },
+        {
+          "id": 6,
+          "value": 15
+        },
+        {
+          "id": 7,
+          "value": 90
+        },
+        {
+          "id": 8,
+          "value": 40
+        },
+        {
+          "id": 9,
+          "value": 45
+        },
+        {
+          "id": 10,
+          "value": 25
+        },
+        {
+          "id": 11,
+          "value": 35
+        },
+        {
+          "id": 12,
+          "value": 30
+        },
+        {
+          "id": 13,
+          "value": 25
+        },
+        {
+          "id": 14,
+          "value": 85
+        },
+        {
+          "id": 15,
+          "value": 65
+        },
+        {
+          "id": 16,
+          "value": 45
+        },
+        {
+          "id": 17,
+          "value": 60
+        },
+        {
+          "id": 18,
+          "value": 100
+        },
+        {
+          "id": 19,
+          "value": 40
+        },
+        {
+          "id": 20,
+          "value": 30
+        },
+        {
+          "id": 21,
+          "value": 35
+        },
+        {
+          "id": 22,
+          "value": 30
+        },
+        {
+          "id": 23,
+          "value": 30
+        },
+        {
+          "id": 24,
+          "value": 55
+        },
+        {
+          "id": 25,
+          "value": 60
+        },
+        {
+          "id": 26,
+          "value": 50
+        },
+        {
+          "id": 27,
+          "value": 30
+        },
+        {
+          "id": 28,
+          "value": 80
+        },
+        {
+          "id": 29,
+          "value": 35
+        },
+        {
+          "id": 30,
+          "value": 25
+        },
+        {
+          "id": 31,
+          "value": 95
+        },
+        {
+          "id": 32,
+          "value": 25
+        },
+        {
+          "id": 33,
+          "value": 70
+        },
+        {
+          "id": 34,
+          "value": 25
+        },
+        {
+          "id": 35,
+          "value": 35
+        },
+        {
+          "id": 36,
+          "value": 75
+        },
+        {
+          "id": 37,
+          "value": 45
+        },
+        {
+          "id": 38,
+          "value": 55
+        },
+        {
+          "id": 39,
+          "value": 50
+        },
+        {
+          "id": 40,
+          "value": 40
+        },
+        {
+          "id": 41,
+          "value": 20
+        },
+        {
+          "id": 42,
+          "value": 85
+        },
+        {
+          "id": 43,
+          "value": 30
+        },
+        {
+          "id": 44,
+          "value": 20
+        },
+        {
+          "id": 45,
+          "value": 50
+        },
+        {
+          "id": 46,
+          "value": 55
+        },
+        {
+          "id": 47,
+          "value": 65
+        },
+        {
+          "id": 48,
+          "value": 10
+        },
+        {
+          "id": 49,
+          "value": 25
+        },
+        {
+          "id": 50,
+          "value": 20
+        },
+        {
+          "id": 51,
+          "value": 35
+        },
+        {
+          "id": 52,
+          "value": 25
+        },
+        {
+          "id": 53,
+          "value": 25
+        },
+        {
+          "id": 54,
+          "value": 25
+        },
+        {
+          "id": 55,
+          "value": 40
+        },
+        {
+          "id": 56,
+          "value": 30
+        },
+        {
+          "id": 57,
+          "value": 50
+        },
+        {
+          "id": 58,
+          "value": 40
+        },
+        {
+          "id": 59,
+          "value": 25
+        },
+        {
+          "id": 60,
+          "value": 25
+        },
+        {
+          "id": 61,
+          "value": 20
+        },
+        {
+          "id": 62,
+          "value": 55
+        },
+        {
+          "id": 63,
+          "value": 65
+        },
+        {
+          "id": 64,
+          "value": 25
+        },
+        {
+          "id": 65,
+          "value": 90
+        },
+        {
+          "id": 66,
+          "value": 80
+        },
+        {
+          "id": 67,
+          "value": 50
+        }
+      ],
       "id": 9
     },
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 5
+        },
+        {
+          "id": 2,
+          "value": 70
+        },
+        {
+          "id": 3,
+          "value": 35
+        },
+        {
+          "id": 4,
+          "value": 25
+        },
+        {
+          "id": 5,
+          "value": 20
+        },
+        {
+          "id": 6,
+          "value": 40
+        },
+        {
+          "id": 7,
+          "value": 65
+        },
+        {
+          "id": 8,
+          "value": 40
+        },
+        {
+          "id": 9,
+          "value": 45
+        },
+        {
+          "id": 10,
+          "value": 25
+        },
+        {
+          "id": 11,
+          "value": 30
+        },
+        {
+          "id": 12,
+          "value": 25
+        },
+        {
+          "id": 13,
+          "value": 20
+        },
+        {
+          "id": 14,
+          "value": 85
+        },
+        {
+          "id": 15,
+          "value": 80
+        },
+        {
+          "id": 16,
+          "value": 70
+        },
+        {
+          "id": 17,
+          "value": 65
+        },
+        {
+          "id": 18,
+          "value": 55
+        },
+        {
+          "id": 19,
+          "value": 35
+        },
+        {
+          "id": 20,
+          "value": 20
+        },
+        {
+          "id": 21,
+          "value": 55
+        },
+        {
+          "id": 22,
+          "value": 60
+        },
+        {
+          "id": 23,
+          "value": 65
+        },
+        {
+          "id": 24,
+          "value": 70
+        },
+        {
+          "id": 25,
+          "value": 60
+        },
+        {
+          "id": 26,
+          "value": 30
+        },
+        {
+          "id": 27,
+          "value": 25
+        },
+        {
+          "id": 28,
+          "value": 100
+        },
+        {
+          "id": 29,
+          "value": 55
+        },
+        {
+          "id": 30,
+          "value": 25
+        },
+        {
+          "id": 31,
+          "value": 75
+        },
+        {
+          "id": 32,
+          "value": 60
+        },
+        {
+          "id": 33,
+          "value": 95
+        },
+        {
+          "id": 34,
+          "value": 25
+        },
+        {
+          "id": 35,
+          "value": 45
+        },
+        {
+          "id": 36,
+          "value": 50
+        },
+        {
+          "id": 37,
+          "value": 45
+        },
+        {
+          "id": 38,
+          "value": 45
+        },
+        {
+          "id": 39,
+          "value": 80
+        },
+        {
+          "id": 40,
+          "value": 35
+        },
+        {
+          "id": 41,
+          "value": 25
+        },
+        {
+          "id": 42,
+          "value": 45
+        },
+        {
+          "id": 43,
+          "value": 25
+        },
+        {
+          "id": 44,
+          "value": 25
+        },
+        {
+          "id": 45,
+          "value": 50
+        },
+        {
+          "id": 46,
+          "value": 30
+        },
+        {
+          "id": 47,
+          "value": 65
+        },
+        {
+          "id": 48,
+          "value": 20
+        },
+        {
+          "id": 49,
+          "value": 45
+        },
+        {
+          "id": 50,
+          "value": 55
+        },
+        {
+          "id": 51,
+          "value": 50
+        },
+        {
+          "id": 52,
+          "value": 35
+        },
+        {
+          "id": 53,
+          "value": 60
+        },
+        {
+          "id": 54,
+          "value": 20
+        },
+        {
+          "id": 55,
+          "value": 30
+        },
+        {
+          "id": 56,
+          "value": 65
+        },
+        {
+          "id": 57,
+          "value": 90
+        },
+        {
+          "id": 58,
+          "value": 45
+        },
+        {
+          "id": 59,
+          "value": 25
+        },
+        {
+          "id": 60,
+          "value": 25
+        },
+        {
+          "id": 61,
+          "value": 25
+        },
+        {
+          "id": 62,
+          "value": 85
+        },
+        {
+          "id": 63,
+          "value": 70
+        },
+        {
+          "id": 64,
+          "value": 80
+        },
+        {
+          "id": 65,
+          "value": 95
+        },
+        {
+          "id": 66,
+          "value": 85
+        },
+        {
+          "id": 67,
+          "value": 35
+        }
+      ],
       "id": 10
     },
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 0
+        },
+        {
+          "id": 2,
+          "value": 55
+        },
+        {
+          "id": 3,
+          "value": 20
+        },
+        {
+          "id": 4,
+          "value": 40
+        },
+        {
+          "id": 5,
+          "value": 25
+        },
+        {
+          "id": 6,
+          "value": 85
+        },
+        {
+          "id": 7,
+          "value": 35
+        },
+        {
+          "id": 8,
+          "value": 60
+        },
+        {
+          "id": 9,
+          "value": 70
+        },
+        {
+          "id": 10,
+          "value": 80
+        },
+        {
+          "id": 11,
+          "value": 55
+        },
+        {
+          "id": 12,
+          "value": 20
+        },
+        {
+          "id": 13,
+          "value": 5
+        },
+        {
+          "id": 14,
+          "value": 85
+        },
+        {
+          "id": 15,
+          "value": 90
+        },
+        {
+          "id": 16,
+          "value": 95
+        },
+        {
+          "id": 17,
+          "value": 50
+        },
+        {
+          "id": 18,
+          "value": 20
+        },
+        {
+          "id": 19,
+          "value": 40
+        },
+        {
+          "id": 20,
+          "value": 10
+        },
+        {
+          "id": 21,
+          "value": 100
+        },
+        {
+          "id": 22,
+          "value": 95
+        },
+        {
+          "id": 23,
+          "value": 75
+        },
+        {
+          "id": 24,
+          "value": 45
+        },
+        {
+          "id": 25,
+          "value": 70
+        },
+        {
+          "id": 26,
+          "value": 30
+        },
+        {
+          "id": 27,
+          "value": 10
+        },
+        {
+          "id": 28,
+          "value": 70
+        },
+        {
+          "id": 29,
+          "value": 65
+        },
+        {
+          "id": 30,
+          "value": 10
+        },
+        {
+          "id": 31,
+          "value": 35
+        },
+        {
+          "id": 32,
+          "value": 20
+        },
+        {
+          "id": 33,
+          "value": 85
+        },
+        {
+          "id": 34,
+          "value": 25
+        },
+        {
+          "id": 35,
+          "value": 60
+        },
+        {
+          "id": 36,
+          "value": 25
+        },
+        {
+          "id": 37,
+          "value": 45
+        },
+        {
+          "id": 38,
+          "value": 35
+        },
+        {
+          "id": 39,
+          "value": 30
+        },
+        {
+          "id": 40,
+          "value": 55
+        },
+        {
+          "id": 41,
+          "value": 40
+        },
+        {
+          "id": 42,
+          "value": 20
+        },
+        {
+          "id": 43,
+          "value": 25
+        },
+        {
+          "id": 44,
+          "value": 10
+        },
+        {
+          "id": 45,
+          "value": 70
+        },
+        {
+          "id": 46,
+          "value": 45
+        },
+        {
+          "id": 47,
+          "value": 25
+        },
+        {
+          "id": 48,
+          "value": 5
+        },
+        {
+          "id": 49,
+          "value": 90
+        },
+        {
+          "id": 50,
+          "value": 10
+        },
+        {
+          "id": 51,
+          "value": 35
+        },
+        {
+          "id": 52,
+          "value": 15
+        },
+        {
+          "id": 53,
+          "value": 75
+        },
+        {
+          "id": 54,
+          "value": 30
+        },
+        {
+          "id": 55,
+          "value": 40
+        },
+        {
+          "id": 56,
+          "value": 50
+        },
+        {
+          "id": 57,
+          "value": 45
+        },
+        {
+          "id": 58,
+          "value": 55
+        },
+        {
+          "id": 59,
+          "value": 45
+        },
+        {
+          "id": 60,
+          "value": 45
+        },
+        {
+          "id": 61,
+          "value": 60
+        },
+        {
+          "id": 62,
+          "value": 50
+        },
+        {
+          "id": 63,
+          "value": 80
+        },
+        {
+          "id": 64,
+          "value": 85
+        },
+        {
+          "id": 65,
+          "value": 55
+        },
+        {
+          "id": 66,
+          "value": 45
+        },
+        {
+          "id": 67,
+          "value": 25
+        }
+      ],
       "id": 11
     },
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 0
+        },
+        {
+          "id": 2,
+          "value": 50
+        },
+        {
+          "id": 3,
+          "value": 20
+        },
+        {
+          "id": 4,
+          "value": 30
+        },
+        {
+          "id": 5,
+          "value": 15
+        },
+        {
+          "id": 6,
+          "value": 90
+        },
+        {
+          "id": 7,
+          "value": 40
+        },
+        {
+          "id": 8,
+          "value": 55
+        },
+        {
+          "id": 9,
+          "value": 70
+        },
+        {
+          "id": 10,
+          "value": 65
+        },
+        {
+          "id": 11,
+          "value": 40
+        },
+        {
+          "id": 12,
+          "value": 20
+        },
+        {
+          "id": 13,
+          "value": 10
+        },
+        {
+          "id": 14,
+          "value": 85
+        },
+        {
+          "id": 15,
+          "value": 90
+        },
+        {
+          "id": 16,
+          "value": 95
+        },
+        {
+          "id": 17,
+          "value": 45
+        },
+        {
+          "id": 18,
+          "value": 20
+        },
+        {
+          "id": 19,
+          "value": 35
+        },
+        {
+          "id": 20,
+          "value": 10
+        },
+        {
+          "id": 21,
+          "value": 90
+        },
+        {
+          "id": 22,
+          "value": 80
+        },
+        {
+          "id": 23,
+          "value": 100
+        },
+        {
+          "id": 24,
+          "value": 65
+        },
+        {
+          "id": 25,
+          "value": 80
+        },
+        {
+          "id": 26,
+          "value": 25
+        },
+        {
+          "id": 27,
+          "value": 10
+        },
+        {
+          "id": 28,
+          "value": 80
+        },
+        {
+          "id": 29,
+          "value": 95
+        },
+        {
+          "id": 30,
+          "value": 10
+        },
+        {
+          "id": 31,
+          "value": 35
+        },
+        {
+          "id": 32,
+          "value": 60
+        },
+        {
+          "id": 33,
+          "value": 90
+        },
+        {
+          "id": 34,
+          "value": 25
+        },
+        {
+          "id": 35,
+          "value": 55
+        },
+        {
+          "id": 36,
+          "value": 25
+        },
+        {
+          "id": 37,
+          "value": 60
+        },
+        {
+          "id": 38,
+          "value": 25
+        },
+        {
+          "id": 39,
+          "value": 45
+        },
+        {
+          "id": 40,
+          "value": 55
+        },
+        {
+          "id": 41,
+          "value": 40
+        },
+        {
+          "id": 42,
+          "value": 25
+        },
+        {
+          "id": 43,
+          "value": 30
+        },
+        {
+          "id": 44,
+          "value": 25
+        },
+        {
+          "id": 45,
+          "value": 75
+        },
+        {
+          "id": 46,
+          "value": 30
+        },
+        {
+          "id": 47,
+          "value": 45
+        },
+        {
+          "id": 48,
+          "value": 15
+        },
+        {
+          "id": 49,
+          "value": 50
+        },
+        {
+          "id": 50,
+          "value": 20
+        },
+        {
+          "id": 51,
+          "value": 30
+        },
+        {
+          "id": 52,
+          "value": 25
+        },
+        {
+          "id": 53,
+          "value": 55
+        },
+        {
+          "id": 54,
+          "value": 15
+        },
+        {
+          "id": 55,
+          "value": 25
+        },
+        {
+          "id": 56,
+          "value": 40
+        },
+        {
+          "id": 57,
+          "value": 45
+        },
+        {
+          "id": 58,
+          "value": 50
+        },
+        {
+          "id": 59,
+          "value": 40
+        },
+        {
+          "id": 60,
+          "value": 40
+        },
+        {
+          "id": 61,
+          "value": 55
+        },
+        {
+          "id": 62,
+          "value": 60
+        },
+        {
+          "id": 63,
+          "value": 95
+        },
+        {
+          "id": 64,
+          "value": 85
+        },
+        {
+          "id": 65,
+          "value": 70
+        },
+        {
+          "id": 66,
+          "value": 60
+        },
+        {
+          "id": 67,
+          "value": 35
+        }
+      ],
       "id": 12
     },
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 0
+        },
+        {
+          "id": 2,
+          "value": 55
+        },
+        {
+          "id": 3,
+          "value": 20
+        },
+        {
+          "id": 4,
+          "value": 40
+        },
+        {
+          "id": 5,
+          "value": 90
+        },
+        {
+          "id": 6,
+          "value": 85
+        },
+        {
+          "id": 7,
+          "value": 30
+        },
+        {
+          "id": 8,
+          "value": 45
+        },
+        {
+          "id": 9,
+          "value": 60
+        },
+        {
+          "id": 10,
+          "value": 70
+        },
+        {
+          "id": 11,
+          "value": 65
+        },
+        {
+          "id": 12,
+          "value": 25
+        },
+        {
+          "id": 13,
+          "value": 5
+        },
+        {
+          "id": 14,
+          "value": 85
+        },
+        {
+          "id": 15,
+          "value": 75
+        },
+        {
+          "id": 16,
+          "value": 95
+        },
+        {
+          "id": 17,
+          "value": 50
+        },
+        {
+          "id": 18,
+          "value": 25
+        },
+        {
+          "id": 19,
+          "value": 35
+        },
+        {
+          "id": 20,
+          "value": 15
+        },
+        {
+          "id": 21,
+          "value": 90
+        },
+        {
+          "id": 22,
+          "value": 95
+        },
+        {
+          "id": 23,
+          "value": 60
+        },
+        {
+          "id": 24,
+          "value": 40
+        },
+        {
+          "id": 25,
+          "value": 70
+        },
+        {
+          "id": 26,
+          "value": 35
+        },
+        {
+          "id": 27,
+          "value": 15
+        },
+        {
+          "id": 28,
+          "value": 70
+        },
+        {
+          "id": 29,
+          "value": 55
+        },
+        {
+          "id": 30,
+          "value": 10
+        },
+        {
+          "id": 31,
+          "value": 30
+        },
+        {
+          "id": 32,
+          "value": 25
+        },
+        {
+          "id": 33,
+          "value": 75
+        },
+        {
+          "id": 34,
+          "value": 20
+        },
+        {
+          "id": 35,
+          "value": 60
+        },
+        {
+          "id": 36,
+          "value": 25
+        },
+        {
+          "id": 37,
+          "value": 40
+        },
+        {
+          "id": 38,
+          "value": 25
+        },
+        {
+          "id": 39,
+          "value": 30
+        },
+        {
+          "id": 40,
+          "value": 45
+        },
+        {
+          "id": 41,
+          "value": 100
+        },
+        {
+          "id": 42,
+          "value": 25
+        },
+        {
+          "id": 43,
+          "value": 25
+        },
+        {
+          "id": 44,
+          "value": 15
+        },
+        {
+          "id": 45,
+          "value": 55
+        },
+        {
+          "id": 46,
+          "value": 50
+        },
+        {
+          "id": 47,
+          "value": 35
+        },
+        {
+          "id": 48,
+          "value": 5
+        },
+        {
+          "id": 49,
+          "value": 45
+        },
+        {
+          "id": 50,
+          "value": 10
+        },
+        {
+          "id": 51,
+          "value": 25
+        },
+        {
+          "id": 52,
+          "value": 50
+        },
+        {
+          "id": 53,
+          "value": 60
+        },
+        {
+          "id": 54,
+          "value": 85
+        },
+        {
+          "id": 55,
+          "value": 45
+        },
+        {
+          "id": 56,
+          "value": 40
+        },
+        {
+          "id": 57,
+          "value": 50
+        },
+        {
+          "id": 58,
+          "value": 45
+        },
+        {
+          "id": 59,
+          "value": 60
+        },
+        {
+          "id": 60,
+          "value": 55
+        },
+        {
+          "id": 61,
+          "value": 75
+        },
+        {
+          "id": 62,
+          "value": 35
+        },
+        {
+          "id": 63,
+          "value": 80
+        },
+        {
+          "id": 64,
+          "value": 50
+        },
+        {
+          "id": 65,
+          "value": 45
+        },
+        {
+          "id": 66,
+          "value": 50
+        },
+        {
+          "id": 67,
+          "value": 55
+        }
+      ],
       "id": 13
     },
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 0
+        },
+        {
+          "id": 2,
+          "value": 55
+        },
+        {
+          "id": 3,
+          "value": 20
+        },
+        {
+          "id": 4,
+          "value": 45
+        },
+        {
+          "id": 5,
+          "value": 25
+        },
+        {
+          "id": 6,
+          "value": 70
+        },
+        {
+          "id": 7,
+          "value": 25
+        },
+        {
+          "id": 8,
+          "value": 65
+        },
+        {
+          "id": 9,
+          "value": 70
+        },
+        {
+          "id": 10,
+          "value": 75
+        },
+        {
+          "id": 11,
+          "value": 95
+        },
+        {
+          "id": 12,
+          "value": 25
+        },
+        {
+          "id": 13,
+          "value": 5
+        },
+        {
+          "id": 14,
+          "value": 85
+        },
+        {
+          "id": 15,
+          "value": 80
+        },
+        {
+          "id": 16,
+          "value": 100
+        },
+        {
+          "id": 17,
+          "value": 55
+        },
+        {
+          "id": 18,
+          "value": 20
+        },
+        {
+          "id": 19,
+          "value": 40
+        },
+        {
+          "id": 20,
+          "value": 10
+        },
+        {
+          "id": 21,
+          "value": 90
+        },
+        {
+          "id": 22,
+          "value": 95
+        },
+        {
+          "id": 23,
+          "value": 60
+        },
+        {
+          "id": 24,
+          "value": 40
+        },
+        {
+          "id": 25,
+          "value": 80
+        },
+        {
+          "id": 26,
+          "value": 35
+        },
+        {
+          "id": 27,
+          "value": 10
+        },
+        {
+          "id": 28,
+          "value": 65
+        },
+        {
+          "id": 29,
+          "value": 55
+        },
+        {
+          "id": 30,
+          "value": 10
+        },
+        {
+          "id": 31,
+          "value": 30
+        },
+        {
+          "id": 32,
+          "value": 25
+        },
+        {
+          "id": 33,
+          "value": 75
+        },
+        {
+          "id": 34,
+          "value": 25
+        },
+        {
+          "id": 35,
+          "value": 90
+        },
+        {
+          "id": 36,
+          "value": 20
+        },
+        {
+          "id": 37,
+          "value": 45
+        },
+        {
+          "id": 38,
+          "value": 25
+        },
+        {
+          "id": 39,
+          "value": 25
+        },
+        {
+          "id": 40,
+          "value": 55
+        },
+        {
+          "id": 41,
+          "value": 35
+        },
+        {
+          "id": 42,
+          "value": 20
+        },
+        {
+          "id": 43,
+          "value": 60
+        },
+        {
+          "id": 44,
+          "value": 15
+        },
+        {
+          "id": 45,
+          "value": 60
+        },
+        {
+          "id": 46,
+          "value": 45
+        },
+        {
+          "id": 47,
+          "value": 25
+        },
+        {
+          "id": 48,
+          "value": 10
+        },
+        {
+          "id": 49,
+          "value": 85
+        },
+        {
+          "id": 50,
+          "value": 10
+        },
+        {
+          "id": 51,
+          "value": 25
+        },
+        {
+          "id": 52,
+          "value": 20
+        },
+        {
+          "id": 53,
+          "value": 60
+        },
+        {
+          "id": 54,
+          "value": 65
+        },
+        {
+          "id": 55,
+          "value": 50
+        },
+        {
+          "id": 56,
+          "value": 40
+        },
+        {
+          "id": 57,
+          "value": 45
+        },
+        {
+          "id": 58,
+          "value": 55
+        },
+        {
+          "id": 59,
+          "value": 75
+        },
+        {
+          "id": 60,
+          "value": 80
+        },
+        {
+          "id": 61,
+          "value": 70
+        },
+        {
+          "id": 62,
+          "value": 35
+        },
+        {
+          "id": 63,
+          "value": 85
+        },
+        {
+          "id": 64,
+          "value": 45
+        },
+        {
+          "id": 65,
+          "value": 40
+        },
+        {
+          "id": 66,
+          "value": 50
+        },
+        {
+          "id": 67,
+          "value": 40
+        }
+      ],
       "id": 14
     },
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 0
+        },
+        {
+          "id": 2,
+          "value": 100
+        },
+        {
+          "id": 3,
+          "value": 10
+        },
+        {
+          "id": 4,
+          "value": 45
+        },
+        {
+          "id": 5,
+          "value": 10
+        },
+        {
+          "id": 6,
+          "value": 40
+        },
+        {
+          "id": 7,
+          "value": 25
+        },
+        {
+          "id": 8,
+          "value": 55
+        },
+        {
+          "id": 9,
+          "value": 50
+        },
+        {
+          "id": 10,
+          "value": 15
+        },
+        {
+          "id": 11,
+          "value": 20
+        },
+        {
+          "id": 12,
+          "value": 15
+        },
+        {
+          "id": 13,
+          "value": 5
+        },
+        {
+          "id": 14,
+          "value": 90
+        },
+        {
+          "id": 15,
+          "value": 70
+        },
+        {
+          "id": 16,
+          "value": 55
+        },
+        {
+          "id": 17,
+          "value": 95
+        },
+        {
+          "id": 18,
+          "value": 20
+        },
+        {
+          "id": 19,
+          "value": 25
+        },
+        {
+          "id": 20,
+          "value": 10
+        },
+        {
+          "id": 21,
+          "value": 45
+        },
+        {
+          "id": 22,
+          "value": 40
+        },
+        {
+          "id": 23,
+          "value": 35
+        },
+        {
+          "id": 24,
+          "value": 60
+        },
+        {
+          "id": 25,
+          "value": 65
+        },
+        {
+          "id": 26,
+          "value": 75
+        },
+        {
+          "id": 27,
+          "value": 5
+        },
+        {
+          "id": 28,
+          "value": 70
+        },
+        {
+          "id": 29,
+          "value": 35
+        },
+        {
+          "id": 30,
+          "value": 10
+        },
+        {
+          "id": 31,
+          "value": 65
+        },
+        {
+          "id": 32,
+          "value": 25
+        },
+        {
+          "id": 33,
+          "value": 60
+        },
+        {
+          "id": 34,
+          "value": 25
+        },
+        {
+          "id": 35,
+          "value": 40
+        },
+        {
+          "id": 36,
+          "value": 20
+        },
+        {
+          "id": 37,
+          "value": 35
+        },
+        {
+          "id": 38,
+          "value": 20
+        },
+        {
+          "id": 39,
+          "value": 40
+        },
+        {
+          "id": 40,
+          "value": 50
+        },
+        {
+          "id": 41,
+          "value": 15
+        },
+        {
+          "id": 42,
+          "value": 15
+        },
+        {
+          "id": 43,
+          "value": 30
+        },
+        {
+          "id": 44,
+          "value": 10
+        },
+        {
+          "id": 45,
+          "value": 40
+        },
+        {
+          "id": 46,
+          "value": 35
+        },
+        {
+          "id": 47,
+          "value": 65
+        },
+        {
+          "id": 48,
+          "value": 5
+        },
+        {
+          "id": 49,
+          "value": 35
+        },
+        {
+          "id": 50,
+          "value": 5
+        },
+        {
+          "id": 51,
+          "value": 15
+        },
+        {
+          "id": 52,
+          "value": 20
+        },
+        {
+          "id": 53,
+          "value": 25
+        },
+        {
+          "id": 54,
+          "value": 15
+        },
+        {
+          "id": 55,
+          "value": 20
+        },
+        {
+          "id": 56,
+          "value": 40
+        },
+        {
+          "id": 57,
+          "value": 75
+        },
+        {
+          "id": 58,
+          "value": 60
+        },
+        {
+          "id": 59,
+          "value": 25
+        },
+        {
+          "id": 60,
+          "value": 25
+        },
+        {
+          "id": 61,
+          "value": 25
+        },
+        {
+          "id": 62,
+          "value": 70
+        },
+        {
+          "id": 63,
+          "value": 70
+        },
+        {
+          "id": 64,
+          "value": 45
+        },
+        {
+          "id": 65,
+          "value": 55
+        },
+        {
+          "id": 66,
+          "value": 40
+        },
+        {
+          "id": 67,
+          "value": 50
+        }
+      ],
       "id": 15
     },
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 10
+        },
+        {
+          "id": 2,
+          "value": 80
+        },
+        {
+          "id": 3,
+          "value": 40
+        },
+        {
+          "id": 4,
+          "value": 35
+        },
+        {
+          "id": 5,
+          "value": 45
+        },
+        {
+          "id": 6,
+          "value": 25
+        },
+        {
+          "id": 7,
+          "value": 70
+        },
+        {
+          "id": 8,
+          "value": 40
+        },
+        {
+          "id": 9,
+          "value": 50
+        },
+        {
+          "id": 10,
+          "value": 30
+        },
+        {
+          "id": 11,
+          "value": 35
+        },
+        {
+          "id": 12,
+          "value": 40
+        },
+        {
+          "id": 13,
+          "value": 20
+        },
+        {
+          "id": 14,
+          "value": 85
+        },
+        {
+          "id": 15,
+          "value": 65
+        },
+        {
+          "id": 16,
+          "value": 50
+        },
+        {
+          "id": 17,
+          "value": 75
+        },
+        {
+          "id": 18,
+          "value": 95
+        },
+        {
+          "id": 19,
+          "value": 45
+        },
+        {
+          "id": 20,
+          "value": 35
+        },
+        {
+          "id": 21,
+          "value": 45
+        },
+        {
+          "id": 22,
+          "value": 45
+        },
+        {
+          "id": 23,
+          "value": 50
+        },
+        {
+          "id": 24,
+          "value": 80
+        },
+        {
+          "id": 25,
+          "value": 65
+        },
+        {
+          "id": 26,
+          "value": 55
+        },
+        {
+          "id": 27,
+          "value": 35
+        },
+        {
+          "id": 28,
+          "value": 85
+        },
+        {
+          "id": 29,
+          "value": 45
+        },
+        {
+          "id": 30,
+          "value": 55
+        },
+        {
+          "id": 31,
+          "value": 100
+        },
+        {
+          "id": 32,
+          "value": 50
+        },
+        {
+          "id": 33,
+          "value": 70
+        },
+        {
+          "id": 34,
+          "value": 20
+        },
+        {
+          "id": 35,
+          "value": 45
+        },
+        {
+          "id": 36,
+          "value": 50
+        },
+        {
+          "id": 37,
+          "value": 60
+        },
+        {
+          "id": 38,
+          "value": 45
+        },
+        {
+          "id": 39,
+          "value": 65
+        },
+        {
+          "id": 40,
+          "value": 40
+        },
+        {
+          "id": 41,
+          "value": 20
+        },
+        {
+          "id": 42,
+          "value": 75
+        },
+        {
+          "id": 43,
+          "value": 40
+        },
+        {
+          "id": 44,
+          "value": 35
+        },
+        {
+          "id": 45,
+          "value": 45
+        },
+        {
+          "id": 46,
+          "value": 50
+        },
+        {
+          "id": 47,
+          "value": 85
+        },
+        {
+          "id": 48,
+          "value": 40
+        },
+        {
+          "id": 49,
+          "value": 35
+        },
+        {
+          "id": 50,
+          "value": 50
+        },
+        {
+          "id": 51,
+          "value": 45
+        },
+        {
+          "id": 52,
+          "value": 40
+        },
+        {
+          "id": 53,
+          "value": 45
+        },
+        {
+          "id": 54,
+          "value": 35
+        },
+        {
+          "id": 55,
+          "value": 40
+        },
+        {
+          "id": 56,
+          "value": 55
+        },
+        {
+          "id": 57,
+          "value": 70
+        },
+        {
+          "id": 58,
+          "value": 40
+        },
+        {
+          "id": 59,
+          "value": 30
+        },
+        {
+          "id": 60,
+          "value": 30
+        },
+        {
+          "id": 61,
+          "value": 30
+        },
+        {
+          "id": 62,
+          "value": 85
+        },
+        {
+          "id": 63,
+          "value": 75
+        },
+        {
+          "id": 64,
+          "value": 55
+        },
+        {
+          "id": 65,
+          "value": 90
+        },
+        {
+          "id": 66,
+          "value": 70
+        },
+        {
+          "id": 67,
+          "value": 45
+        }
+      ],
       "id": 16
     },
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 0
+        },
+        {
+          "id": 2,
+          "value": 45
+        },
+        {
+          "id": 3,
+          "value": 35
+        },
+        {
+          "id": 4,
+          "value": 70
+        },
+        {
+          "id": 5,
+          "value": 25
+        },
+        {
+          "id": 6,
+          "value": 50
+        },
+        {
+          "id": 7,
+          "value": 40
+        },
+        {
+          "id": 8,
+          "value": 35
+        },
+        {
+          "id": 9,
+          "value": 45
+        },
+        {
+          "id": 10,
+          "value": 30
+        },
+        {
+          "id": 11,
+          "value": 35
+        },
+        {
+          "id": 12,
+          "value": 100
+        },
+        {
+          "id": 13,
+          "value": 40
+        },
+        {
+          "id": 14,
+          "value": 85
+        },
+        {
+          "id": 15,
+          "value": 50
+        },
+        {
+          "id": 16,
+          "value": 55
+        },
+        {
+          "id": 17,
+          "value": 45
+        },
+        {
+          "id": 18,
+          "value": 60
+        },
+        {
+          "id": 19,
+          "value": 40
+        },
+        {
+          "id": 20,
+          "value": 25
+        },
+        {
+          "id": 21,
+          "value": 50
+        },
+        {
+          "id": 22,
+          "value": 55
+        },
+        {
+          "id": 23,
+          "value": 45
+        },
+        {
+          "id": 24,
+          "value": 60
+        },
+        {
+          "id": 25,
+          "value": 65
+        },
+        {
+          "id": 26,
+          "value": 55
+        },
+        {
+          "id": 27,
+          "value": 25
+        },
+        {
+          "id": 28,
+          "value": 65
+        },
+        {
+          "id": 29,
+          "value": 40
+        },
+        {
+          "id": 30,
+          "value": 55
+        },
+        {
+          "id": 31,
+          "value": 70
+        },
+        {
+          "id": 32,
+          "value": 55
+        },
+        {
+          "id": 33,
+          "value": 60
+        },
+        {
+          "id": 34,
+          "value": 40
+        },
+        {
+          "id": 35,
+          "value": 45
+        },
+        {
+          "id": 36,
+          "value": 35
+        },
+        {
+          "id": 37,
+          "value": 60
+        },
+        {
+          "id": 38,
+          "value": 40
+        },
+        {
+          "id": 39,
+          "value": 35
+        },
+        {
+          "id": 40,
+          "value": 35
+        },
+        {
+          "id": 41,
+          "value": 65
+        },
+        {
+          "id": 42,
+          "value": 85
+        },
+        {
+          "id": 43,
+          "value": 30
+        },
+        {
+          "id": 44,
+          "value": 40
+        },
+        {
+          "id": 45,
+          "value": 50
+        },
+        {
+          "id": 46,
+          "value": 70
+        },
+        {
+          "id": 47,
+          "value": 40
+        },
+        {
+          "id": 48,
+          "value": 45
+        },
+        {
+          "id": 49,
+          "value": 30
+        },
+        {
+          "id": 50,
+          "value": 55
+        },
+        {
+          "id": 51,
+          "value": 35
+        },
+        {
+          "id": 52,
+          "value": 50
+        },
+        {
+          "id": 53,
+          "value": 45
+        },
+        {
+          "id": 54,
+          "value": 40
+        },
+        {
+          "id": 55,
+          "value": 35
+        },
+        {
+          "id": 56,
+          "value": 30
+        },
+        {
+          "id": 57,
+          "value": 40
+        },
+        {
+          "id": 58,
+          "value": 35
+        },
+        {
+          "id": 59,
+          "value": 30
+        },
+        {
+          "id": 60,
+          "value": 30
+        },
+        {
+          "id": 61,
+          "value": 45
+        },
+        {
+          "id": 62,
+          "value": 60
+        },
+        {
+          "id": 63,
+          "value": 70
+        },
+        {
+          "id": 64,
+          "value": 40
+        },
+        {
+          "id": 65,
+          "value": 75
+        },
+        {
+          "id": 66,
+          "value": 95
+        },
+        {
+          "id": 67,
+          "value": 65
+        }
+      ],
       "id": 17
     },
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 0
+        },
+        {
+          "id": 2,
+          "value": 55
+        },
+        {
+          "id": 3,
+          "value": 65
+        },
+        {
+          "id": 4,
+          "value": 30
+        },
+        {
+          "id": 5,
+          "value": 20
+        },
+        {
+          "id": 6,
+          "value": 40
+        },
+        {
+          "id": 7,
+          "value": 35
+        },
+        {
+          "id": 8,
+          "value": 40
+        },
+        {
+          "id": 9,
+          "value": 45
+        },
+        {
+          "id": 10,
+          "value": 25
+        },
+        {
+          "id": 11,
+          "value": 30
+        },
+        {
+          "id": 12,
+          "value": 45
+        },
+        {
+          "id": 13,
+          "value": 80
+        },
+        {
+          "id": 14,
+          "value": 85
+        },
+        {
+          "id": 15,
+          "value": 60
+        },
+        {
+          "id": 16,
+          "value": 45
+        },
+        {
+          "id": 17,
+          "value": 50
+        },
+        {
+          "id": 18,
+          "value": 40
+        },
+        {
+          "id": 19,
+          "value": 40
+        },
+        {
+          "id": 20,
+          "value": 35
+        },
+        {
+          "id": 21,
+          "value": 35
+        },
+        {
+          "id": 22,
+          "value": 35
+        },
+        {
+          "id": 23,
+          "value": 45
+        },
+        {
+          "id": 24,
+          "value": 85
+        },
+        {
+          "id": 25,
+          "value": 60
+        },
+        {
+          "id": 26,
+          "value": 25
+        },
+        {
+          "id": 27,
+          "value": 40
+        },
+        {
+          "id": 28,
+          "value": 80
+        },
+        {
+          "id": 29,
+          "value": 50
+        },
+        {
+          "id": 30,
+          "value": 100
+        },
+        {
+          "id": 31,
+          "value": 75
+        },
+        {
+          "id": 32,
+          "value": 65
+        },
+        {
+          "id": 33,
+          "value": 75
+        },
+        {
+          "id": 34,
+          "value": 50
+        },
+        {
+          "id": 35,
+          "value": 70
+        },
+        {
+          "id": 36,
+          "value": 30
+        },
+        {
+          "id": 37,
+          "value": 55
+        },
+        {
+          "id": 38,
+          "value": 35
+        },
+        {
+          "id": 39,
+          "value": 85
+        },
+        {
+          "id": 40,
+          "value": 40
+        },
+        {
+          "id": 41,
+          "value": 25
+        },
+        {
+          "id": 42,
+          "value": 40
+        },
+        {
+          "id": 43,
+          "value": 30
+        },
+        {
+          "id": 44,
+          "value": 85
+        },
+        {
+          "id": 45,
+          "value": 45
+        },
+        {
+          "id": 46,
+          "value": 35
+        },
+        {
+          "id": 47,
+          "value": 80
+        },
+        {
+          "id": 48,
+          "value": 95
+        },
+        {
+          "id": 49,
+          "value": 50
+        },
+        {
+          "id": 50,
+          "value": 95
+        },
+        {
+          "id": 51,
+          "value": 55
+        },
+        {
+          "id": 52,
+          "value": 75
+        },
+        {
+          "id": 53,
+          "value": 45
+        },
+        {
+          "id": 54,
+          "value": 25
+        },
+        {
+          "id": 55,
+          "value": 35
+        },
+        {
+          "id": 56,
+          "value": 70
+        },
+        {
+          "id": 57,
+          "value": 90
+        },
+        {
+          "id": 58,
+          "value": 40
+        },
+        {
+          "id": 59,
+          "value": 25
+        },
+        {
+          "id": 60,
+          "value": 35
+        },
+        {
+          "id": 61,
+          "value": 30
+        },
+        {
+          "id": 62,
+          "value": 95
+        },
+        {
+          "id": 63,
+          "value": 80
+        },
+        {
+          "id": 64,
+          "value": 60
+        },
+        {
+          "id": 65,
+          "value": 70
+        },
+        {
+          "id": 66,
+          "value": 60
+        },
+        {
+          "id": 67,
+          "value": 35
+        }
+      ],
       "id": 18
     },
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 0
+        },
+        {
+          "id": 2,
+          "value": 45
+        },
+        {
+          "id": 3,
+          "value": 60
+        },
+        {
+          "id": 4,
+          "value": 25
+        },
+        {
+          "id": 5,
+          "value": 20
+        },
+        {
+          "id": 6,
+          "value": 35
+        },
+        {
+          "id": 7,
+          "value": 25
+        },
+        {
+          "id": 8,
+          "value": 40
+        },
+        {
+          "id": 9,
+          "value": 55
+        },
+        {
+          "id": 10,
+          "value": 20
+        },
+        {
+          "id": 11,
+          "value": 25
+        },
+        {
+          "id": 12,
+          "value": 50
+        },
+        {
+          "id": 13,
+          "value": 100
+        },
+        {
+          "id": 14,
+          "value": 85
+        },
+        {
+          "id": 15,
+          "value": 45
+        },
+        {
+          "id": 16,
+          "value": 40
+        },
+        {
+          "id": 17,
+          "value": 45
+        },
+        {
+          "id": 18,
+          "value": 30
+        },
+        {
+          "id": 19,
+          "value": 50
+        },
+        {
+          "id": 20,
+          "value": 40
+        },
+        {
+          "id": 21,
+          "value": 35
+        },
+        {
+          "id": 22,
+          "value": 40
+        },
+        {
+          "id": 23,
+          "value": 45
+        },
+        {
+          "id": 24,
+          "value": 85
+        },
+        {
+          "id": 25,
+          "value": 75
+        },
+        {
+          "id": 26,
+          "value": 30
+        },
+        {
+          "id": 27,
+          "value": 25
+        },
+        {
+          "id": 28,
+          "value": 70
+        },
+        {
+          "id": 29,
+          "value": 40
+        },
+        {
+          "id": 30,
+          "value": 100
+        },
+        {
+          "id": 31,
+          "value": 60
+        },
+        {
+          "id": 32,
+          "value": 55
+        },
+        {
+          "id": 33,
+          "value": 60
+        },
+        {
+          "id": 34,
+          "value": 65
+        },
+        {
+          "id": 35,
+          "value": 50
+        },
+        {
+          "id": 36,
+          "value": 20
+        },
+        {
+          "id": 37,
+          "value": 90
+        },
+        {
+          "id": 38,
+          "value": 25
+        },
+        {
+          "id": 39,
+          "value": 50
+        },
+        {
+          "id": 40,
+          "value": 45
+        },
+        {
+          "id": 41,
+          "value": 25
+        },
+        {
+          "id": 42,
+          "value": 30
+        },
+        {
+          "id": 43,
+          "value": 45
+        },
+        {
+          "id": 44,
+          "value": 85
+        },
+        {
+          "id": 45,
+          "value": 45
+        },
+        {
+          "id": 46,
+          "value": 35
+        },
+        {
+          "id": 47,
+          "value": 55
+        },
+        {
+          "id": 48,
+          "value": 95
+        },
+        {
+          "id": 49,
+          "value": 35
+        },
+        {
+          "id": 50,
+          "value": 100
+        },
+        {
+          "id": 51,
+          "value": 40
+        },
+        {
+          "id": 52,
+          "value": 75
+        },
+        {
+          "id": 53,
+          "value": 40
+        },
+        {
+          "id": 54,
+          "value": 20
+        },
+        {
+          "id": 55,
+          "value": 25
+        },
+        {
+          "id": 56,
+          "value": 45
+        },
+        {
+          "id": 57,
+          "value": 60
+        },
+        {
+          "id": 58,
+          "value": 45
+        },
+        {
+          "id": 59,
+          "value": 25
+        },
+        {
+          "id": 60,
+          "value": 25
+        },
+        {
+          "id": 61,
+          "value": 30
+        },
+        {
+          "id": 62,
+          "value": 90
+        },
+        {
+          "id": 63,
+          "value": 85
+        },
+        {
+          "id": 64,
+          "value": 50
+        },
+        {
+          "id": 65,
+          "value": 55
+        },
+        {
+          "id": 66,
+          "value": 60
+        },
+        {
+          "id": 67,
+          "value": 35
+        }
+      ],
       "id": 19
     },
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 0
+        },
+        {
+          "id": 2,
+          "value": 100
+        },
+        {
+          "id": 3,
+          "value": 10
+        },
+        {
+          "id": 4,
+          "value": 40
+        },
+        {
+          "id": 5,
+          "value": 10
+        },
+        {
+          "id": 6,
+          "value": 35
+        },
+        {
+          "id": 7,
+          "value": 25
+        },
+        {
+          "id": 8,
+          "value": 45
+        },
+        {
+          "id": 9,
+          "value": 50
+        },
+        {
+          "id": 10,
+          "value": 20
+        },
+        {
+          "id": 11,
+          "value": 25
+        },
+        {
+          "id": 12,
+          "value": 20
+        },
+        {
+          "id": 13,
+          "value": 5
+        },
+        {
+          "id": 14,
+          "value": 95
+        },
+        {
+          "id": 15,
+          "value": 70
+        },
+        {
+          "id": 16,
+          "value": 55
+        },
+        {
+          "id": 17,
+          "value": 95
+        },
+        {
+          "id": 18,
+          "value": 25
+        },
+        {
+          "id": 19,
+          "value": 30
+        },
+        {
+          "id": 20,
+          "value": 10
+        },
+        {
+          "id": 21,
+          "value": 40
+        },
+        {
+          "id": 22,
+          "value": 40
+        },
+        {
+          "id": 23,
+          "value": 35
+        },
+        {
+          "id": 24,
+          "value": 70
+        },
+        {
+          "id": 25,
+          "value": 65
+        },
+        {
+          "id": 26,
+          "value": 65
+        },
+        {
+          "id": 27,
+          "value": 5
+        },
+        {
+          "id": 28,
+          "value": 75
+        },
+        {
+          "id": 29,
+          "value": 35
+        },
+        {
+          "id": 30,
+          "value": 10
+        },
+        {
+          "id": 31,
+          "value": 60
+        },
+        {
+          "id": 32,
+          "value": 25
+        },
+        {
+          "id": 33,
+          "value": 70
+        },
+        {
+          "id": 34,
+          "value": 55
+        },
+        {
+          "id": 35,
+          "value": 45
+        },
+        {
+          "id": 36,
+          "value": 25
+        },
+        {
+          "id": 37,
+          "value": 35
+        },
+        {
+          "id": 38,
+          "value": 20
+        },
+        {
+          "id": 39,
+          "value": 40
+        },
+        {
+          "id": 40,
+          "value": 50
+        },
+        {
+          "id": 41,
+          "value": 15
+        },
+        {
+          "id": 42,
+          "value": 20
+        },
+        {
+          "id": 43,
+          "value": 25
+        },
+        {
+          "id": 44,
+          "value": 15
+        },
+        {
+          "id": 45,
+          "value": 40
+        },
+        {
+          "id": 46,
+          "value": 30
+        },
+        {
+          "id": 47,
+          "value": 60
+        },
+        {
+          "id": 48,
+          "value": 5
+        },
+        {
+          "id": 49,
+          "value": 30
+        },
+        {
+          "id": 50,
+          "value": 10
+        },
+        {
+          "id": 51,
+          "value": 20
+        },
+        {
+          "id": 52,
+          "value": 25
+        },
+        {
+          "id": 53,
+          "value": 35
+        },
+        {
+          "id": 54,
+          "value": 15
+        },
+        {
+          "id": 55,
+          "value": 25
+        },
+        {
+          "id": 56,
+          "value": 45
+        },
+        {
+          "id": 57,
+          "value": 85
+        },
+        {
+          "id": 58,
+          "value": 55
+        },
+        {
+          "id": 59,
+          "value": 25
+        },
+        {
+          "id": 60,
+          "value": 25
+        },
+        {
+          "id": 61,
+          "value": 25
+        },
+        {
+          "id": 62,
+          "value": 70
+        },
+        {
+          "id": 63,
+          "value": 75
+        },
+        {
+          "id": 64,
+          "value": 45
+        },
+        {
+          "id": 65,
+          "value": 60
+        },
+        {
+          "id": 66,
+          "value": 40
+        },
+        {
+          "id": 67,
+          "value": 40
+        }
+      ],
       "id": 20
     },
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 0
+        },
+        {
+          "id": 2,
+          "value": 80
+        },
+        {
+          "id": 3,
+          "value": 20
+        },
+        {
+          "id": 4,
+          "value": 85
+        },
+        {
+          "id": 5,
+          "value": 25
+        },
+        {
+          "id": 6,
+          "value": 40
+        },
+        {
+          "id": 7,
+          "value": 35
+        },
+        {
+          "id": 8,
+          "value": 45
+        },
+        {
+          "id": 9,
+          "value": 55
+        },
+        {
+          "id": 10,
+          "value": 35
+        },
+        {
+          "id": 11,
+          "value": 40
+        },
+        {
+          "id": 12,
+          "value": 25
+        },
+        {
+          "id": 13,
+          "value": 5
+        },
+        {
+          "id": 14,
+          "value": 95
+        },
+        {
+          "id": 15,
+          "value": 60
+        },
+        {
+          "id": 16,
+          "value": 65
+        },
+        {
+          "id": 17,
+          "value": 80
+        },
+        {
+          "id": 18,
+          "value": 40
+        },
+        {
+          "id": 19,
+          "value": 35
+        },
+        {
+          "id": 20,
+          "value": 15
+        },
+        {
+          "id": 21,
+          "value": 55
+        },
+        {
+          "id": 22,
+          "value": 60
+        },
+        {
+          "id": 23,
+          "value": 45
+        },
+        {
+          "id": 24,
+          "value": 55
+        },
+        {
+          "id": 25,
+          "value": 70
+        },
+        {
+          "id": 26,
+          "value": 100
+        },
+        {
+          "id": 27,
+          "value": 15
+        },
+        {
+          "id": 28,
+          "value": 65
+        },
+        {
+          "id": 29,
+          "value": 40
+        },
+        {
+          "id": 30,
+          "value": 10
+        },
+        {
+          "id": 31,
+          "value": 75
+        },
+        {
+          "id": 32,
+          "value": 25
+        },
+        {
+          "id": 33,
+          "value": 65
+        },
+        {
+          "id": 34,
+          "value": 45
+        },
+        {
+          "id": 35,
+          "value": 45
+        },
+        {
+          "id": 36,
+          "value": 25
+        },
+        {
+          "id": 37,
+          "value": 50
+        },
+        {
+          "id": 38,
+          "value": 25
+        },
+        {
+          "id": 39,
+          "value": 35
+        },
+        {
+          "id": 40,
+          "value": 45
+        },
+        {
+          "id": 41,
+          "value": 30
+        },
+        {
+          "id": 42,
+          "value": 25
+        },
+        {
+          "id": 43,
+          "value": 40
+        },
+        {
+          "id": 44,
+          "value": 15
+        },
+        {
+          "id": 45,
+          "value": 45
+        },
+        {
+          "id": 46,
+          "value": 85
+        },
+        {
+          "id": 47,
+          "value": 45
+        },
+        {
+          "id": 48,
+          "value": 10
+        },
+        {
+          "id": 49,
+          "value": 40
+        },
+        {
+          "id": 50,
+          "value": 10
+        },
+        {
+          "id": 51,
+          "value": 25
+        },
+        {
+          "id": 52,
+          "value": 35
+        },
+        {
+          "id": 53,
+          "value": 40
+        },
+        {
+          "id": 54,
+          "value": 30
+        },
+        {
+          "id": 55,
+          "value": 35
+        },
+        {
+          "id": 56,
+          "value": 45
+        },
+        {
+          "id": 57,
+          "value": 60
+        },
+        {
+          "id": 58,
+          "value": 45
+        },
+        {
+          "id": 59,
+          "value": 40
+        },
+        {
+          "id": 60,
+          "value": 35
+        },
+        {
+          "id": 61,
+          "value": 45
+        },
+        {
+          "id": 62,
+          "value": 55
+        },
+        {
+          "id": 63,
+          "value": 75
+        },
+        {
+          "id": 64,
+          "value": 40
+        },
+        {
+          "id": 65,
+          "value": 55
+        },
+        {
+          "id": 66,
+          "value": 45
+        },
+        {
+          "id": 67,
+          "value": 85
+        }
+      ],
       "id": 21
     },
     {
       "level": 0,
-      "jobs": [],
+      "jobs": [
+        {
+          "id": 1,
+          "value": 0
+        },
+        {
+          "id": 2,
+          "value": 60
+        },
+        {
+          "id": 3,
+          "value": 35
+        },
+        {
+          "id": 4,
+          "value": 40
+        },
+        {
+          "id": 5,
+          "value": 20
+        },
+        {
+          "id": 6,
+          "value": 45
+        },
+        {
+          "id": 7,
+          "value": 100
+        },
+        {
+          "id": 8,
+          "value": 40
+        },
+        {
+          "id": 9,
+          "value": 45
+        },
+        {
+          "id": 10,
+          "value": 20
+        },
+        {
+          "id": 11,
+          "value": 25
+        },
+        {
+          "id": 12,
+          "value": 35
+        },
+        {
+          "id": 13,
+          "value": 10
+        },
+        {
+          "id": 14,
+          "value": 85
+        },
+        {
+          "id": 15,
+          "value": 90
+        },
+        {
+          "id": 16,
+          "value": 55
+        },
+        {
+          "id": 17,
+          "value": 60
+        },
+        {
+          "id": 18,
+          "value": 95
+        },
+        {
+          "id": 19,
+          "value": 35
+        },
+        {
+          "id": 20,
+          "value": 15
+        },
+        {
+          "id": 21,
+          "value": 45
+        },
+        {
+          "id": 22,
+          "value": 45
+        },
+        {
+          "id": 23,
+          "value": 40
+        },
+        {
+          "id": 24,
+          "value": 55
+        },
+        {
+          "id": 25,
+          "value": 70
+        },
+        {
+          "id": 26,
+          "value": 45
+        },
+        {
+          "id": 27,
+          "value": 20
+        },
+        {
+          "id": 28,
+          "value": 80
+        },
+        {
+          "id": 29,
+          "value": 35
+        },
+        {
+          "id": 30,
+          "value": 10
+        },
+        {
+          "id": 31,
+          "value": 85
+        },
+        {
+          "id": 32,
+          "value": 30
+        },
+        {
+          "id": 33,
+          "value": 80
+        },
+        {
+          "id": 34,
+          "value": 20
+        },
+        {
+          "id": 35,
+          "value": 25
+        },
+        {
+          "id": 36,
+          "value": 90
+        },
+        {
+          "id": 37,
+          "value": 40
+        },
+        {
+          "id": 38,
+          "value": 85
+        },
+        {
+          "id": 39,
+          "value": 35
+        },
+        {
+          "id": 40,
+          "value": 40
+        },
+        {
+          "id": 41,
+          "value": 20
+        },
+        {
+          "id": 42,
+          "value": 80
+        },
+        {
+          "id": 43,
+          "value": 25
+        },
+        {
+          "id": 44,
+          "value": 15
+        },
+        {
+          "id": 45,
+          "value": 85
+        },
+        {
+          "id": 46,
+          "value": 45
+        },
+        {
+          "id": 47,
+          "value": 50
+        },
+        {
+          "id": 48,
+          "value": 10
+        },
+        {
+          "id": 49,
+          "value": 30
+        },
+        {
+          "id": 50,
+          "value": 15
+        },
+        {
+          "id": 51,
+          "value": 35
+        },
+        {
+          "id": 52,
+          "value": 25
+        },
+        {
+          "id": 53,
+          "value": 45
+        },
+        {
+          "id": 54,
+          "value": 15
+        },
+        {
+          "id": 55,
+          "value": 30
+        },
+        {
+          "id": 56,
+          "value": 35
+        },
+        {
+          "id": 57,
+          "value": 50
+        },
+        {
+          "id": 58,
+          "value": 40
+        },
+        {
+          "id": 59,
+          "value": 25
+        },
+        {
+          "id": 60,
+          "value": 25
+        },
+        {
+          "id": 61,
+          "value": 25
+        },
+        {
+          "id": 62,
+          "value": 55
+        },
+        {
+          "id": 63,
+          "value": 70
+        },
+        {
+          "id": 64,
+          "value": 45
+        },
+        {
+          "id": 65,
+          "value": 70
+        },
+        {
+          "id": 66,
+          "value": 60
+        },
+        {
+          "id": 67,
+          "value": 30
+        }
+      ],
       "id": 22
     }
   ],
@@ -3041,6 +10069,12 @@
       "damageRandom": 0.1,
       "fixRate": 0,
       "options": [],
+      "avoids": [
+        {
+          "type": 0,
+          "data": []
+        }
+      ],
       "triggers": [],
       "subEvents": [],
       "id": 1
@@ -3142,6 +10176,7 @@
           }
         }
       ],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 2
@@ -3188,6 +10223,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 3
@@ -3239,6 +10275,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 4
@@ -3291,6 +10328,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 5
@@ -3343,6 +10381,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 6
@@ -3394,6 +10433,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 7
@@ -3440,6 +10480,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 8
@@ -3480,6 +10521,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 9
@@ -3526,6 +10568,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 10
@@ -3577,6 +10620,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 11
@@ -3628,6 +10672,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 12
@@ -3674,6 +10719,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 13
@@ -3725,6 +10771,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 14
@@ -3765,6 +10812,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 15
@@ -3811,6 +10859,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 16
@@ -3862,6 +10911,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 17
@@ -3880,7 +10930,7 @@
         "value": 0
       },
       "nation": {
-        "happiness": 0.0,
+        "happiness": 1.0,
         "science": 0.0,
         "finance": [
           {
@@ -3914,6 +10964,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 18
@@ -3965,6 +11016,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 19
@@ -4007,7 +11059,13 @@
             "mode": 0
           }
         ],
-        "resources": [],
+        "resources": [
+          {
+            "id": 1,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
         "events": [],
         "reputation": 0,
         "specials": []
@@ -4021,6 +11079,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 20
@@ -4072,6 +11131,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 21
@@ -4124,6 +11184,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 22
@@ -4170,6 +11231,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 23
@@ -4221,6 +11283,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 24
@@ -4267,6 +11330,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 25
@@ -4313,6 +11377,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 26
@@ -4359,6 +11424,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 27
@@ -4405,6 +11471,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 28
@@ -4451,6 +11518,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 29
@@ -4491,6 +11559,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 30
@@ -4537,6 +11606,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 31
@@ -4583,6 +11653,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 32
@@ -4629,6 +11700,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 33
@@ -4675,6 +11747,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 34
@@ -4731,6 +11804,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 35
@@ -4777,6 +11851,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 36
@@ -4828,6 +11903,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 37
@@ -4879,6 +11955,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 38
@@ -4930,6 +12007,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 39
@@ -4981,6 +12059,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 40
@@ -5027,6 +12106,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [
         {
           "type": 0,
@@ -5048,11 +12128,11 @@
       "durationRandom": 0,
       "subEvent": 0,
       "origin": {
-        "id": 0,
-        "value": 0
+        "id": 1,
+        "value": 4
       },
       "nation": {
-        "happiness": 0.0,
+        "happiness": 1.0,
         "science": 0.0,
         "finance": [],
         "military": {
@@ -5065,7 +12145,7 @@
         "reputation": 0,
         "specials": []
       },
-      "spread": 1,
+      "spread": 2,
       "spreadRate": 0,
       "spreadTime": 0,
       "percepition": 0.0,
@@ -5074,6 +12154,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [
         {
           "type": 1,
@@ -5113,6 +12194,11 @@
             "id": 25,
             "value": 3.0,
             "mode": 0
+          },
+          {
+            "id": 30,
+            "value": 1.0,
+            "mode": 0
           }
         ],
         "resources": [],
@@ -5129,6 +12215,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 43
@@ -5169,6 +12256,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 44
@@ -5220,6 +12308,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 45
@@ -5266,6 +12355,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 46
@@ -5317,6 +12407,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 47
@@ -5368,6 +12459,7 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 48
@@ -5408,9 +12500,529 @@
       "damageRandom": 0.0,
       "fixRate": 0,
       "options": [],
+      "avoids": [],
       "triggers": [],
       "subEvents": [],
       "id": 49
+    },
+    {
+      "group": 5,
+      "plan": 0,
+      "change": 1,
+      "year": 1973,
+      "week": 0,
+      "duration": 48,
+      "durationRandom": 0,
+      "subEvent": 0,
+      "origin": {
+        "id": 0,
+        "value": 0
+      },
+      "nation": {
+        "happiness": -1.0,
+        "science": -1.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 38,
+            "value": -3.0,
+            "mode": 0
+          }
+        ],
+        "resources": [
+          {
+            "id": 8,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
+        "events": [
+          {
+            "id": 5,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
+        "reputation": 0,
+        "specials": []
+      },
+      "spread": 0,
+      "spreadRate": 100,
+      "spreadTime": 0,
+      "percepition": 0.0,
+      "percepitionRandom": 0.0,
+      "damage": 3.0,
+      "damageRandom": 1.0,
+      "fixRate": 20,
+      "options": [],
+      "avoids": [],
+      "triggers": [],
+      "subEvents": [],
+      "id": 50
+    },
+    {
+      "group": 4,
+      "plan": 1,
+      "change": 1,
+      "year": 0,
+      "week": 0,
+      "duration": 10,
+      "durationRandom": 3,
+      "subEvent": 0,
+      "origin": {
+        "id": 0,
+        "value": 0
+      },
+      "nation": {
+        "happiness": -1.0,
+        "science": -1.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 12,
+            "value": 0.5,
+            "mode": 0
+          },
+          {
+            "id": 1,
+            "value": 2.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "spread": 1,
+      "spreadRate": 0,
+      "spreadTime": 0,
+      "percepition": 100.0,
+      "percepitionRandom": 0.0,
+      "damage": 1.0,
+      "damageRandom": 0.5,
+      "fixRate": 50,
+      "options": [],
+      "avoids": [],
+      "triggers": [],
+      "subEvents": [],
+      "id": 51
+    },
+    {
+      "group": 4,
+      "plan": 0,
+      "change": 1,
+      "year": 1977,
+      "week": 0,
+      "duration": 10,
+      "durationRandom": 0,
+      "subEvent": 0,
+      "origin": {
+        "id": 4,
+        "value": 1
+      },
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 1,
+            "value": 3.0,
+            "mode": 0
+          },
+          {
+            "id": 6,
+            "value": 1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "spread": 1,
+      "spreadRate": 0,
+      "spreadTime": 0,
+      "percepition": 0.0,
+      "percepitionRandom": 0.0,
+      "damage": 2.0,
+      "damageRandom": 0.3,
+      "fixRate": 20,
+      "options": [],
+      "avoids": [],
+      "triggers": [],
+      "subEvents": [],
+      "id": 52
+    },
+    {
+      "group": 4,
+      "plan": 1,
+      "change": 1,
+      "year": 0,
+      "week": 0,
+      "duration": 48,
+      "durationRandom": 20,
+      "subEvent": 0,
+      "origin": {
+        "id": 0,
+        "value": 0
+      },
+      "nation": {
+        "happiness": 0.0,
+        "science": -2.0,
+        "finance": [],
+        "military": {
+          "defence": -1,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 33,
+            "value": 3.0,
+            "mode": 0
+          },
+          {
+            "id": 4,
+            "value": 1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "spread": 1,
+      "spreadRate": 0,
+      "spreadTime": 0,
+      "percepition": 0.0,
+      "percepitionRandom": 0.0,
+      "damage": 0.0,
+      "damageRandom": 0.0,
+      "fixRate": 0,
+      "options": [],
+      "avoids": [
+        {
+          "type": 3,
+          "data": [
+            132
+          ]
+        }
+      ],
+      "triggers": [],
+      "subEvents": [],
+      "id": 53
+    },
+    {
+      "group": 5,
+      "plan": 1,
+      "change": 1,
+      "year": 0,
+      "week": 0,
+      "duration": 48,
+      "durationRandom": 10,
+      "subEvent": 0,
+      "origin": {
+        "id": 0,
+        "value": 0
+      },
+      "nation": {
+        "happiness": -1.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 35,
+            "value": 3.0,
+            "mode": 0
+          },
+          {
+            "id": 38,
+            "value": -2.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "spread": 1,
+      "spreadRate": 0,
+      "spreadTime": 0,
+      "percepition": 0.0,
+      "percepitionRandom": 0.0,
+      "damage": 1.0,
+      "damageRandom": 0.3,
+      "fixRate": 0,
+      "options": [],
+      "avoids": [],
+      "triggers": [],
+      "subEvents": [],
+      "id": 54
+    },
+    {
+      "group": 4,
+      "plan": 1,
+      "change": 1,
+      "year": 0,
+      "week": 0,
+      "duration": 24,
+      "durationRandom": 5,
+      "subEvent": 0,
+      "origin": {
+        "id": 0,
+        "value": 0
+      },
+      "nation": {
+        "happiness": -1.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 4,
+            "value": 3.0,
+            "mode": 0
+          },
+          {
+            "id": 29,
+            "value": -2.0,
+            "mode": 0
+          }
+        ],
+        "resources": [
+          {
+            "id": 2,
+            "value": -2.0,
+            "mode": 0
+          }
+        ],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "spread": 1,
+      "spreadRate": 0,
+      "spreadTime": 0,
+      "percepition": 0.0,
+      "percepitionRandom": 0.0,
+      "damage": 0.0,
+      "damageRandom": 0.0,
+      "fixRate": 0,
+      "options": [],
+      "avoids": [],
+      "triggers": [],
+      "subEvents": [],
+      "id": 55
+    },
+    {
+      "group": 4,
+      "plan": 1,
+      "change": 1,
+      "year": 0,
+      "week": 0,
+      "duration": 12,
+      "durationRandom": 5,
+      "subEvent": 0,
+      "origin": {
+        "id": 0,
+        "value": 0
+      },
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 38,
+            "value": -2.0,
+            "mode": 0
+          },
+          {
+            "id": 16,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [
+          {
+            "id": 7,
+            "value": -2.0,
+            "mode": 0
+          },
+          {
+            "id": 10,
+            "value": -1.0,
+            "mode": 0
+          },
+          {
+            "id": 11,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "spread": 1,
+      "spreadRate": 0,
+      "spreadTime": 0,
+      "percepition": 0.0,
+      "percepitionRandom": 0.0,
+      "damage": 0.0,
+      "damageRandom": 0.0,
+      "fixRate": 0,
+      "options": [],
+      "avoids": [],
+      "triggers": [],
+      "subEvents": [],
+      "id": 56
+    },
+    {
+      "group": 5,
+      "plan": 0,
+      "change": 1,
+      "year": 1997,
+      "week": 0,
+      "duration": 96,
+      "durationRandom": 0,
+      "subEvent": 0,
+      "origin": {
+        "id": 2,
+        "value": 126
+      },
+      "nation": {
+        "happiness": -2.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 38,
+            "value": -5.0,
+            "mode": 0
+          },
+          {
+            "id": 15,
+            "value": 3.0,
+            "mode": 0
+          },
+          {
+            "id": 12,
+            "value": 2.0,
+            "mode": 0
+          },
+          {
+            "id": 16,
+            "value": -2.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "spread": 2,
+      "spreadRate": 0,
+      "spreadTime": 0,
+      "percepition": 0.0,
+      "percepitionRandom": 0.0,
+      "damage": 0.0,
+      "damageRandom": 0.0,
+      "fixRate": 0,
+      "options": [],
+      "avoids": [],
+      "triggers": [],
+      "subEvents": [],
+      "id": 57
+    },
+    {
+      "group": 2,
+      "plan": 0,
+      "change": 1,
+      "year": 2011,
+      "week": 0,
+      "duration": 48,
+      "durationRandom": 0,
+      "subEvent": 0,
+      "origin": {
+        "id": 0,
+        "value": 0
+      },
+      "nation": {
+        "happiness": -2.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 7,
+            "value": -3.0,
+            "mode": 0
+          },
+          {
+            "id": 33,
+            "value": 5.0,
+            "mode": 0
+          },
+          {
+            "id": 29,
+            "value": -2.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "spread": 1,
+      "spreadRate": 0,
+      "spreadTime": 0,
+      "percepition": 0.0,
+      "percepitionRandom": 0.0,
+      "damage": 0.0,
+      "damageRandom": 0.0,
+      "fixRate": 0,
+      "options": [],
+      "avoids": [],
+      "triggers": [],
+      "subEvents": [],
+      "id": 58
     }
   ],
   "eventsGroups": [
@@ -6670,6 +14282,14 @@
           "articles": [],
           "commas": [],
           "commasUnavailable": []
+        },
+        {
+          "id": 274,
+          "required": true,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
         }
       ],
       "minArticles": 0,
@@ -6927,6 +14547,14 @@
           "articles": [],
           "commas": [],
           "commasUnavailable": []
+        },
+        {
+          "id": 87,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
         }
       ],
       "minArticles": 0,
@@ -7052,6 +14680,14 @@
         },
         {
           "id": 204,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 265,
           "required": false,
           "limit": 1,
           "articles": [],
@@ -7625,6 +15261,22 @@
         },
         {
           "id": 140,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 269,
+          "required": true,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 270,
           "required": false,
           "limit": 1,
           "articles": [],
@@ -10691,7 +18343,7 @@
     {
       "required": false,
       "order": 1000,
-      "level": 0,
+      "level": 1,
       "type": 1,
       "research": {
         "year": 2000,
@@ -12377,6 +20029,14 @@
           "articles": [],
           "commas": [],
           "commasUnavailable": []
+        },
+        {
+          "id": 271,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
         }
       ],
       "minArticles": 1,
@@ -13230,6 +20890,14 @@
           "articles": [],
           "commas": [],
           "commasUnavailable": []
+        },
+        {
+          "id": 272,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
         }
       ],
       "minArticles": 1,
@@ -13742,6 +21410,120 @@
       "change": 0,
       "proposable": 0,
       "id": 116
+    },
+    {
+      "required": false,
+      "order": 1000,
+      "level": 0,
+      "type": 0,
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "competence": 21,
+      "name": 0,
+      "articles": [
+        {
+          "id": 266,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 267,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        },
+        {
+          "id": 268,
+          "required": false,
+          "limit": 1,
+          "articles": [],
+          "commas": [],
+          "commasUnavailable": []
+        }
+      ],
+      "minArticles": 1,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 119
+    },
+    {
+      "required": false,
+      "order": 1000,
+      "level": 0,
+      "type": 1,
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "competence": 22,
+      "name": 0,
+      "articles": [],
+      "minArticles": 0,
+      "relation": {
+        "cooperation": 0,
+        "science": 0,
+        "knowledge": 0
+      },
+      "federalLevel": 0,
+      "needs": 0,
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 23,
+            "value": 1.0,
+            "mode": 0
+          },
+          {
+            "id": 29,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 120
     }
   ],
   "lawArticles": [
@@ -13823,6 +21605,16 @@
         },
         {
           "id": 135,
+          "articles": [],
+          "commas": []
+        },
+        {
+          "id": 136,
+          "articles": [],
+          "commas": []
+        },
+        {
+          "id": 137,
           "articles": [],
           "commas": []
         }
@@ -15324,7 +23116,7 @@
       },
       "dependencies": [],
       "nation": {
-        "happiness": -8.0,
+        "happiness": -7.0,
         "science": 0.0,
         "finance": [
           {
@@ -24935,6 +32727,381 @@
       "change": 0,
       "proposable": 0,
       "id": 264
+    },
+    {
+      "type": 1,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [
+        {
+          "id": 138,
+          "articles": [],
+          "commas": []
+        },
+        {
+          "id": 139,
+          "articles": [],
+          "commas": []
+        }
+      ],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 265
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 26,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 266
+    },
+    {
+      "type": 1,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [
+        {
+          "id": 140,
+          "articles": [],
+          "commas": []
+        },
+        {
+          "id": 141,
+          "articles": [],
+          "commas": []
+        },
+        {
+          "id": 142,
+          "articles": [],
+          "commas": []
+        },
+        {
+          "id": 143,
+          "articles": [],
+          "commas": []
+        }
+      ],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 267
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -0.5
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": [
+          3
+        ]
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 268
+    },
+    {
+      "type": 1,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [
+        {
+          "id": 144,
+          "articles": [],
+          "commas": []
+        },
+        {
+          "id": 145,
+          "articles": [],
+          "commas": []
+        },
+        {
+          "id": 146,
+          "articles": [],
+          "commas": []
+        }
+      ],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 269
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -0.5
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 29,
+            "value": 1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 270
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -0.5
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 27,
+            "value": -1.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 271
+    },
+    {
+      "type": 0,
+      "modifiers": 0,
+      "defaultValue": 0,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.5,
+        "science": 0.0,
+        "finance": [
+          {
+            "type": 0,
+            "reference": 0,
+            "value": -1.0
+          }
+        ],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 272
+    },
+    {
+      "type": 2,
+      "modifiers": 0,
+      "defaultValue": 7,
+      "commas": [],
+      "subdivisions": 0,
+      "data": [
+        6.0,
+        7.0,
+        8.0
+      ],
+      "research": {
+        "year": 2000,
+        "priority": 0
+      },
+      "dependencies": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 274
     }
   ],
   "lawCommas": [
@@ -28404,6 +36571,249 @@
       "change": 0,
       "proposable": 0,
       "id": 135
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 136
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 137
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 138
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 139
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 140
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 141
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 142
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 143
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 38,
+            "value": -2.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 1,
+      "proposable": 0,
+      "id": 144
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": 0.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 145
+    },
+    {
+      "data": [],
+      "nation": {
+        "happiness": -2.0,
+        "science": 0.0,
+        "finance": [],
+        "military": {
+          "defence": 0,
+          "manPower": 0.0
+        },
+        "parameters": [
+          {
+            "id": 38,
+            "value": 3.0,
+            "mode": 0
+          }
+        ],
+        "resources": [],
+        "events": [],
+        "reputation": 0,
+        "specials": []
+      },
+      "common": 0,
+      "change": 0,
+      "proposable": 0,
+      "id": 146
     }
   ],
   "media": [
@@ -29881,7 +38291,7 @@
       "mode": 2,
       "time": {
         "start": 1861,
-        "end": 3000
+        "end": 0
       },
       "population": 60.3,
       "gdpCapita": 40.5,
@@ -30332,7 +38742,7 @@
       "mode": 2,
       "time": {
         "start": 1975,
-        "end": 3000
+        "end": 0
       },
       "population": 47.4,
       "gdpCapita": 38.14,
@@ -30724,88 +39134,7 @@
       "predecessor": 0,
       "parameters": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "data": 0,
-          "turnout": 75.0,
-          "parties": [
-            {
-              "id": 231,
-              "electors": 0,
-              "percentage": 30.0,
-              "districts": 0
-            },
-            {
-              "id": 232,
-              "electors": 0,
-              "percentage": 6.5,
-              "districts": 0
-            },
-            {
-              "id": 17,
-              "electors": 0,
-              "percentage": 4.0,
-              "districts": 0
-            },
-            {
-              "id": 19,
-              "electors": 0,
-              "percentage": 4.0,
-              "districts": 0
-            },
-            {
-              "id": 18,
-              "electors": 0,
-              "percentage": 4.0,
-              "districts": 0
-            },
-            {
-              "id": 236,
-              "electors": 0,
-              "percentage": 3.5,
-              "districts": 0
-            },
-            {
-              "id": 237,
-              "electors": 0,
-              "percentage": 3.5,
-              "districts": 0
-            },
-            {
-              "id": 238,
-              "electors": 0,
-              "percentage": 2.0,
-              "districts": 0
-            },
-            {
-              "id": 239,
-              "electors": 0,
-              "percentage": 2.0,
-              "districts": 0
-            },
-            {
-              "id": 20,
-              "electors": 0,
-              "percentage": 2.0,
-              "districts": 0
-            },
-            {
-              "id": 241,
-              "electors": 0,
-              "percentage": 32.0,
-              "districts": 0
-            },
-            {
-              "id": 242,
-              "electors": 0,
-              "percentage": 6.5,
-              "districts": 0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "organizations": [],
       "maps": [],
       "partiesRelations": {
@@ -30818,7 +39147,7 @@
       "mode": 2,
       "time": {
         "start": 1900,
-        "end": 3000
+        "end": 0
       },
       "population": 67.15,
       "gdpCapita": 45.45,
