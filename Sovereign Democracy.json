@@ -71054,6 +71054,7 @@
       "group": 9,
       "competence": 6,
       "better": 1,
+      "betterTarget": 0.0,
       "min": 0.0,
       "max": 100.0,
       "median": 80.0,
@@ -71072,6 +71073,7 @@
       "group": 5,
       "competence": 5,
       "better": 2,
+      "betterTarget": 0.0,
       "min": 10.0,
       "max": 100.0,
       "median": 50.0,
@@ -71090,6 +71092,7 @@
       "group": 7,
       "competence": 16,
       "better": 2,
+      "betterTarget": 0.0,
       "min": 0.0,
       "max": 1.0,
       "median": 0.5,
@@ -71108,6 +71111,7 @@
       "group": 8,
       "competence": 0,
       "better": 2,
+      "betterTarget": 2.0,
       "min": -2.0,
       "max": 10.0,
       "median": 2.0,
@@ -71126,6 +71130,7 @@
       "group": 1,
       "competence": 0,
       "better": 2,
+      "betterTarget": 0.0,
       "min": 0.0,
       "max": 0.0,
       "median": 0.0,
@@ -71144,6 +71149,7 @@
       "group": 7,
       "competence": 0,
       "better": 0,
+      "betterTarget": 0.0,
       "min": 0.0,
       "max": 0.0,
       "median": 0.0,
@@ -71162,6 +71168,7 @@
       "group": 8,
       "competence": 0,
       "better": 1,
+      "betterTarget": 0.0,
       "min": 0.0,
       "max": 0.0,
       "median": 0.0,
@@ -71180,6 +71187,7 @@
       "group": 10,
       "competence": 13,
       "better": 1,
+      "betterTarget": 0.0,
       "min": 0.0,
       "max": 100.0,
       "median": 50.0,
@@ -89159,7 +89167,12 @@
           ]
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "id": 19,
+          "value": 2
+        }
+      ],
       "buildings": [],
       "ideologies": [],
       "elections": [
@@ -92305,7 +92318,7 @@
       "resources": [
         {
           "id": 8,
-          "value": 5
+          "value": 4
         }
       ],
       "buildings": [],
@@ -94308,7 +94321,12 @@
           ]
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "id": 18,
+          "value": 2
+        }
+      ],
       "buildings": [],
       "ideologies": [],
       "elections": [
@@ -94984,31 +95002,10 @@
           ]
         }
       ],
-      "resources": [
-        {
-          "id": 4,
-          "value": 2
-        }
-      ],
+      "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 69.9,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 58.5
-            },
-            {
-              "id": 4,
-              "percentage": 39.4
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 101
@@ -97439,7 +97436,12 @@
           ]
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "id": 19,
+          "value": 3
+        }
+      ],
       "buildings": [],
       "ideologies": [],
       "elections": [
@@ -99313,7 +99315,12 @@
           ]
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "id": 16,
+          "value": 5
+        }
+      ],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -99359,7 +99366,12 @@
           ]
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "id": 5,
+          "value": 2
+        }
+      ],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -99698,7 +99710,12 @@
           ]
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "id": 13,
+          "value": 3
+        }
+      ],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -99707,10 +99724,10 @@
       "id": 155
     },
     {
-      "population": 0.0,
+      "population": 1.55,
       "gdpCapita": 0.0,
       "area": 0.0,
-      "code": "",
+      "code": "ZH",
       "identity": 5,
       "mountainous": 0,
       "fertility": 0,
@@ -99742,10 +99759,10 @@
       "id": 156
     },
     {
-      "population": 0.0,
+      "population": 0.348,
       "gdpCapita": 0.0,
       "area": 0.0,
-      "code": "",
+      "code": "VS",
       "identity": 5,
       "mountainous": 0,
       "fertility": 0,
@@ -99777,10 +99794,10 @@
       "id": 157
     },
     {
-      "population": 3.0,
+      "population": 1.04,
       "gdpCapita": 0.0,
       "area": 0.0,
-      "code": "",
+      "code": "BE",
       "identity": 5,
       "mountainous": 0,
       "fertility": 0,
@@ -99814,10 +99831,10 @@
       "id": 158
     },
     {
-      "population": 0.0,
+      "population": 0.416,
       "gdpCapita": 0.0,
       "area": 0.0,
-      "code": "",
+      "code": "LU",
       "identity": 5,
       "mountainous": 0,
       "fertility": 0,
@@ -99849,10 +99866,10 @@
       "id": 159
     },
     {
-      "population": 0.72,
+      "population": 0.036,
       "gdpCapita": 0.0,
       "area": 0.0,
-      "code": "",
+      "code": "UR",
       "identity": 5,
       "mountainous": 0,
       "fertility": 0,
@@ -99890,10 +99907,10 @@
       "id": 160
     },
     {
-      "population": 0.0,
+      "population": 0.162,
       "gdpCapita": 0.0,
       "area": 0.0,
-      "code": "",
+      "code": "SZ",
       "identity": 5,
       "mountainous": 0,
       "fertility": 0,
@@ -99925,10 +99942,10 @@
       "id": 161
     },
     {
-      "population": 0.0,
+      "population": 0.2,
       "gdpCapita": 0.0,
       "area": 0.0,
-      "code": "",
+      "code": "GR",
       "identity": 5,
       "mountainous": 0,
       "fertility": 0,
@@ -99960,10 +99977,10 @@
       "id": 162
     },
     {
-      "population": 0.0,
+      "population": 0.35,
       "gdpCapita": 0.0,
       "area": 0.0,
-      "code": "",
+      "code": "TI",
       "identity": 5,
       "mountainous": 0,
       "fertility": 0,
@@ -100242,11 +100259,11 @@
       "id": 170
     },
     {
-      "population": 0.0,
+      "population": 1.926,
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100277,11 +100294,11 @@
       "id": 171
     },
     {
-      "population": 0.0,
+      "population": 1.572,
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 1,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -100303,7 +100320,12 @@
           ]
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "id": 19,
+          "value": 2
+        }
+      ],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -100312,11 +100334,11 @@
       "id": 172
     },
     {
-      "population": 0.0,
+      "population": 1.249,
       "gdpCapita": 0.0,
       "area": 0.0,
       "code": "",
-      "identity": 0,
+      "identity": 11,
       "mountainous": 0,
       "fertility": 0,
       "climate": 0,
@@ -101675,7 +101697,12 @@
           ]
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "id": 18,
+          "value": 3
+        }
+      ],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -101710,7 +101737,12 @@
           ]
         }
       ],
-      "resources": [],
+      "resources": [
+        {
+          "id": 3,
+          "value": 3
+        }
+      ],
       "buildings": [],
       "ideologies": [],
       "elections": [],
@@ -101932,7 +101964,7 @@
       "population": 11.1,
       "gdpCapita": 47.29,
       "area": 0.0,
-      "code": "",
+      "code": "BW",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
@@ -102003,70 +102035,7 @@
       ],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2017,
-          "type": 0,
-          "turnout": 0.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 39.3
-            },
-            {
-              "id": 8,
-              "percentage": 19.5
-            },
-            {
-              "id": 9,
-              "percentage": 13.4
-            },
-            {
-              "id": 7,
-              "percentage": 12.7
-            },
-            {
-              "id": 10,
-              "percentage": 12.2
-            },
-            {
-              "id": 11,
-              "percentage": 6.4
-            }
-          ]
-        },
-        {
-          "year": 2021,
-          "type": 0,
-          "turnout": 72.5,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 26.0
-            },
-            {
-              "id": 8,
-              "percentage": 20.0
-            },
-            {
-              "id": 9,
-              "percentage": 24.0
-            },
-            {
-              "id": 10,
-              "percentage": 10.0
-            },
-            {
-              "id": 11,
-              "percentage": 3.0
-            },
-            {
-              "id": 7,
-              "percentage": 8.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 219
@@ -102075,7 +102044,7 @@
       "population": 13.1,
       "gdpCapita": 57.01,
       "area": 0.0,
-      "code": "",
+      "code": "BY",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
@@ -102157,70 +102126,7 @@
       ],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2017,
-          "type": 0,
-          "turnout": 0.0,
-          "parties": [
-            {
-              "id": 33,
-              "percentage": 44.2
-            },
-            {
-              "id": 8,
-              "percentage": 18.1
-            },
-            {
-              "id": 9,
-              "percentage": 9.0
-            },
-            {
-              "id": 10,
-              "percentage": 10.5
-            },
-            {
-              "id": 7,
-              "percentage": 6.5
-            },
-            {
-              "id": 11,
-              "percentage": 5.2
-            }
-          ]
-        },
-        {
-          "year": 2021,
-          "type": 0,
-          "turnout": 73.4,
-          "parties": [
-            {
-              "id": 33,
-              "percentage": 33.3
-            },
-            {
-              "id": 8,
-              "percentage": 20.0
-            },
-            {
-              "id": 9,
-              "percentage": 15.0
-            },
-            {
-              "id": 10,
-              "percentage": 10.0
-            },
-            {
-              "id": 11,
-              "percentage": 2.0
-            },
-            {
-              "id": 7,
-              "percentage": 9.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 220
@@ -102229,7 +102135,7 @@
       "population": 0.99,
       "gdpCapita": 36.68,
       "area": 0.0,
-      "code": "",
+      "code": "SL",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
@@ -102260,70 +102166,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2017,
-          "type": 0,
-          "turnout": 0.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 36.2
-            },
-            {
-              "id": 7,
-              "percentage": 4.7
-            },
-            {
-              "id": 8,
-              "percentage": 31.5
-            },
-            {
-              "id": 9,
-              "percentage": 4.5
-            },
-            {
-              "id": 10,
-              "percentage": 9.3
-            },
-            {
-              "id": 11,
-              "percentage": 11.2
-            }
-          ]
-        },
-        {
-          "year": 2021,
-          "type": 0,
-          "turnout": 68.9,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 25.0
-            },
-            {
-              "id": 8,
-              "percentage": 30.0
-            },
-            {
-              "id": 9,
-              "percentage": 17.0
-            },
-            {
-              "id": 10,
-              "percentage": 7.0
-            },
-            {
-              "id": 11,
-              "percentage": 5.0
-            },
-            {
-              "id": 7,
-              "percentage": 7.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 221
@@ -102332,7 +102175,7 @@
       "population": 4.08,
       "gdpCapita": 35.45,
       "area": 0.0,
-      "code": "",
+      "code": "RP",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
@@ -102375,70 +102218,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2017,
-          "type": 0,
-          "turnout": 0.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 39.6
-            },
-            {
-              "id": 8,
-              "percentage": 28.8
-            },
-            {
-              "id": 9,
-              "percentage": 6.0
-            },
-            {
-              "id": 10,
-              "percentage": 9.5
-            },
-            {
-              "id": 11,
-              "percentage": 5.7
-            },
-            {
-              "id": 7,
-              "percentage": 6.9
-            }
-          ]
-        },
-        {
-          "year": 2021,
-          "type": 0,
-          "turnout": 70.3,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 28.0
-            },
-            {
-              "id": 8,
-              "percentage": 30.0
-            },
-            {
-              "id": 9,
-              "percentage": 13.0
-            },
-            {
-              "id": 10,
-              "percentage": 8.0
-            },
-            {
-              "id": 11,
-              "percentage": 6.0
-            },
-            {
-              "id": 7,
-              "percentage": 8.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 222
@@ -102447,7 +102227,7 @@
       "population": 17.9,
       "gdpCapita": 39.67,
       "area": 0.0,
-      "code": "",
+      "code": "NW",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
@@ -102541,70 +102321,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2017,
-          "type": 0,
-          "turnout": 0.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 38.3
-            },
-            {
-              "id": 8,
-              "percentage": 31.3
-            },
-            {
-              "id": 10,
-              "percentage": 8.1
-            },
-            {
-              "id": 11,
-              "percentage": 6.5
-            },
-            {
-              "id": 7,
-              "percentage": 8.0
-            },
-            {
-              "id": 9,
-              "percentage": 6.5
-            }
-          ]
-        },
-        {
-          "year": 2021,
-          "type": 0,
-          "turnout": 71.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 25.0
-            },
-            {
-              "id": 8,
-              "percentage": 27.0
-            },
-            {
-              "id": 9,
-              "percentage": 20.0
-            },
-            {
-              "id": 7,
-              "percentage": 8.0
-            },
-            {
-              "id": 11,
-              "percentage": 4.0
-            },
-            {
-              "id": 10,
-              "percentage": 7.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 223
@@ -102613,7 +102330,7 @@
       "population": 7.99,
       "gdpCapita": 38.42,
       "area": 0.0,
-      "code": "",
+      "code": "NI",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
@@ -102671,70 +102388,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2017,
-          "type": 0,
-          "turnout": 0.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 38.3
-            },
-            {
-              "id": 8,
-              "percentage": 33.6
-            },
-            {
-              "id": 9,
-              "percentage": 7.2
-            },
-            {
-              "id": 7,
-              "percentage": 5.7
-            },
-            {
-              "id": 10,
-              "percentage": 8.0
-            },
-            {
-              "id": 11,
-              "percentage": 5.9
-            }
-          ]
-        },
-        {
-          "year": 2021,
-          "type": 0,
-          "turnout": 67.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 25.0
-            },
-            {
-              "id": 8,
-              "percentage": 27.0
-            },
-            {
-              "id": 9,
-              "percentage": 9.0
-            },
-            {
-              "id": 10,
-              "percentage": 15.0
-            },
-            {
-              "id": 7,
-              "percentage": 8.0
-            },
-            {
-              "id": 11,
-              "percentage": 12.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 224
@@ -102743,7 +102397,7 @@
       "population": 0.68,
       "gdpCapita": 58.06,
       "area": 0.0,
-      "code": "",
+      "code": "HB",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
@@ -102845,7 +102499,7 @@
       "population": 6.28,
       "gdpCapita": 46.92,
       "area": 0.0,
-      "code": "",
+      "code": "HE",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
@@ -102891,73 +102545,15 @@
           ]
         }
       ],
-      "resources": [],
-      "buildings": [],
-      "ideologies": [],
-      "elections": [
+      "resources": [
         {
-          "year": 2017,
-          "type": 0,
-          "turnout": 0.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 35.4
-            },
-            {
-              "id": 8,
-              "percentage": 29.2
-            },
-            {
-              "id": 9,
-              "percentage": 8.1
-            },
-            {
-              "id": 10,
-              "percentage": 11.2
-            },
-            {
-              "id": 11,
-              "percentage": 6.6
-            },
-            {
-              "id": 7,
-              "percentage": 7.1
-            }
-          ]
-        },
-        {
-          "year": 2021,
-          "type": 0,
-          "turnout": 72.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 31.0
-            },
-            {
-              "id": 8,
-              "percentage": 26.0
-            },
-            {
-              "id": 9,
-              "percentage": 17.0
-            },
-            {
-              "id": 7,
-              "percentage": 14.0
-            },
-            {
-              "id": 10,
-              "percentage": 7.0
-            },
-            {
-              "id": 11,
-              "percentage": 5.0
-            }
-          ]
+          "id": 4,
+          "value": 2
         }
       ],
+      "buildings": [],
+      "ideologies": [],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 226
@@ -102966,7 +102562,7 @@
       "population": 2.14,
       "gdpCapita": 35.25,
       "area": 0.0,
-      "code": "",
+      "code": "TH",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
@@ -103001,70 +102597,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2017,
-          "type": 0,
-          "turnout": 0.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 31.6
-            },
-            {
-              "id": 7,
-              "percentage": 5.5
-            },
-            {
-              "id": 8,
-              "percentage": 14.6
-            },
-            {
-              "id": 9,
-              "percentage": 3.6
-            },
-            {
-              "id": 10,
-              "percentage": 22.5
-            },
-            {
-              "id": 11,
-              "percentage": 17.6
-            }
-          ]
-        },
-        {
-          "year": 2021,
-          "type": 0,
-          "turnout": 69.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 22.0
-            },
-            {
-              "id": 8,
-              "percentage": 20.0
-            },
-            {
-              "id": 9,
-              "percentage": 10.0
-            },
-            {
-              "id": 7,
-              "percentage": 8.0
-            },
-            {
-              "id": 10,
-              "percentage": 18.0
-            },
-            {
-              "id": 11,
-              "percentage": 6.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 227
@@ -103073,7 +102606,7 @@
       "population": 4.07,
       "gdpCapita": 37.1,
       "area": 0.0,
-      "code": "",
+      "code": "SN",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
@@ -103120,70 +102653,7 @@
       ],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2017,
-          "type": 0,
-          "turnout": 0.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 30.6
-            },
-            {
-              "id": 7,
-              "percentage": 17.5
-            },
-            {
-              "id": 8,
-              "percentage": 11.7
-            },
-            {
-              "id": 9,
-              "percentage": 4.5
-            },
-            {
-              "id": 10,
-              "percentage": 25.4
-            },
-            {
-              "id": 11,
-              "percentage": 17.5
-            }
-          ]
-        },
-        {
-          "year": 2021,
-          "type": 0,
-          "turnout": 65.2,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 18.0
-            },
-            {
-              "id": 8,
-              "percentage": 18.0
-            },
-            {
-              "id": 10,
-              "percentage": 20.0
-            },
-            {
-              "id": 9,
-              "percentage": 7.0
-            },
-            {
-              "id": 7,
-              "percentage": 8.0
-            },
-            {
-              "id": 11,
-              "percentage": 15.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 228
@@ -103192,7 +102662,7 @@
       "population": 2.21,
       "gdpCapita": 33.97,
       "area": 0.0,
-      "code": "",
+      "code": "ST",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
@@ -103228,70 +102698,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2017,
-          "type": 0,
-          "turnout": 0.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 32.4
-            },
-            {
-              "id": 7,
-              "percentage": 19.2
-            },
-            {
-              "id": 8,
-              "percentage": 17.2
-            },
-            {
-              "id": 9,
-              "percentage": 3.1
-            },
-            {
-              "id": 10,
-              "percentage": 16.9
-            },
-            {
-              "id": 11,
-              "percentage": 19.2
-            }
-          ]
-        },
-        {
-          "year": 2021,
-          "type": 0,
-          "turnout": 66.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 15.0
-            },
-            {
-              "id": 8,
-              "percentage": 20.0
-            },
-            {
-              "id": 9,
-              "percentage": 14.0
-            },
-            {
-              "id": 10,
-              "percentage": 15.0
-            },
-            {
-              "id": 11,
-              "percentage": 18.0
-            },
-            {
-              "id": 7,
-              "percentage": 10.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 229
@@ -103300,7 +102707,7 @@
       "population": 3.67,
       "gdpCapita": 41.96,
       "area": 0.0,
-      "code": "",
+      "code": "BE",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
@@ -103413,7 +102820,7 @@
       "population": 2.52,
       "gdpCapita": 34.85,
       "area": 0.0,
-      "code": "",
+      "code": "BB",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
@@ -103522,7 +102929,7 @@
       "population": 1.85,
       "gdpCapita": 78.9,
       "area": 0.0,
-      "code": "",
+      "code": "HH",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
@@ -103629,7 +103036,7 @@
       "population": 2.89,
       "gdpCapita": 39.77,
       "area": 0.0,
-      "code": "",
+      "code": "SH",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
@@ -103744,7 +103151,7 @@
       "population": 1.61,
       "gdpCapita": 34.14,
       "area": 0.0,
-      "code": "",
+      "code": "MV",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
@@ -103849,7 +103256,7 @@
       "population": 0.39,
       "gdpCapita": 0.0,
       "area": 0.0,
-      "code": "",
+      "code": "V",
       "identity": 2,
       "mountainous": 0,
       "fertility": 0,
