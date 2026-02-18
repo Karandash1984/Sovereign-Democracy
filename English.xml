@@ -29,6 +29,7 @@
     <AI>AI</AI>
     <All>All</All>
     <Alliance>Alliance</Alliance>
+    <Alliances>Alliances</Alliances>
     <Ally>Ally</Ally>
     <Allies>Allies</Allies>
     <Alphabet>Alphabet</Alphabet>
@@ -56,11 +57,14 @@
     <Audience>Audience</Audience>
     <Audio>Audio</Audio>
     <Autofill>Autofill</Autofill>
+    <Autosplit>Autosplit</Autosplit>
     <Available>Available</Available>
     <Average>Average</Average>
+    <Awful>Awful</Awful>
     <Back>Back</Back>
     <Backer>Backer</Backer>
     <Backward>Backward</Backward>
+    <Bad>Bad</Bad>
     <Balance>Balance</Balance>
     <Bank>Bank</Bank>
     <Banks>Banks</Banks>
@@ -68,6 +72,7 @@
     <Battle>Battle</Battle>
     <Battles>Battles</Battles>
     <Benchmark>Benchmark</Benchmark>
+    <Benefit>Benefit</Benefit>
     <Better>Better</Better>
     <Bipolar>Bipolar</Bipolar>
     <Bill>Bill</Bill>
@@ -107,6 +112,7 @@
     <Category>Category</Category>
     <Categories>Categories</Categories>
     <Chat>Chat</Chat>
+    <Center>Center</Center>
     <Choice>Choice</Choice>
     <Children>Children</Children>
     <City>City</City>
@@ -115,17 +121,22 @@
     <Citizens>Citizens</Citizens>
     <Citizenship>Citizenship</Citizenship>
     <CivilWar>Civil War</CivilWar>
+    <Class>Class</Class>
+    <Classification>Classification</Classification>
     <Clock>Clock</Clock>
     <Close>Close</Close>
     <Clothes>Clothes</Clothes>
     <Coalition>Coalition</Coalition>
     <Coalitions>Coalitions</Coalitions>
+    <Cohesion>Cohesion</Cohesion>
     <Color>Color</Color>
     <Comma>Comma</Comma>
     <Commas>Commas</Commas>
     <Committee>Committee</Committee>
     <Committees>Committees</Committees>
     <Commemorate>Commemorate</Commemorate>
+    <Commission>Commission</Commission>
+    <Commissions>Commissions</Commissions>
     <Community>Community</Community>
     <Competence>Competence</Competence>
     <Competences>Competences</Competences>
@@ -146,6 +157,8 @@
     <Constitutional>Constitutional</Constitutional>
     <Constituencies>Constituencies</Constituencies>
     <Content>Content</Content>
+    <Continent>Continent</Continent>
+    <Continents>Continents</Continents>
     <Continue>Continue</Continue>
     <Contributor>Constributor</Contributor>
     <Contribution>Contribution</Contribution>
@@ -157,6 +170,8 @@
     <Corporations>Corporations</Corporations>
     <Corruption>Corruption</Corruption>
     <Cost>Cost</Cost>
+    <Council>Council</Council>
+    <Councils>Councils</Councils>
     <Councilor>Councilor</Councilor>
     <Councilors>Councilors</Councilors>
     <Country>Country</Country>
@@ -193,10 +208,13 @@
     <Decrease>Decrease</Decrease>
     <Defence>Defence</Defence>
     <Default>Default</Default>
+    <Delegate>Delegate</Delegate>
+    <Delegates>Delegates</Delegates>
     <Delete>Delete</Delete>
     <Department>Department</Department>
     <Departments>Departments</Departments>
     <Demand>Demand</Demand>
+    <Demands>Demands</Demands>
     <Density>Density</Density>
     <Deputy>Deputy</Deputy>
     <Deputies>Deputies</Deputies>
@@ -228,9 +246,12 @@
     <Editor>Editor</Editor>
     <Effect>Effect</Effect>
     <Effects>Effects</Effects>
+    <Elected>Elected</Elected>
     <Election>Election</Election>
+    <Elections>Elections</Elections>
     <Electorate>Electorate</Electorate>
     <Electors>Electors</Electors>
+    <Element>Element</Element>
     <Elements>Elements</Elements>
     <Eloquence>Eloquence</Eloquence>
     <Encyclopedia>Encyclopedia</Encyclopedia>
@@ -241,12 +262,14 @@
     <Email>Email</Email>
     <Employees>Employees</Employees>
     <Escalation>Escalation</Escalation>
+    <Established>Established</Established>
     <EstimatedDuration>Estimated duration</EstimatedDuration>
     <Expansion>Expansion</Expansion>
     <Extinguish>Extinguish</Extinguish>
     <Event>Event</Event>
     <Events>Events</Events>
     <Evidence>Evidence</Evidence>
+    <Excellent>Excellent</Excellent>
     <Exit>Exit</Exit>
     <Expected>Expected</Expected>
     <Expenses>Expenses</Expenses>
@@ -257,10 +280,13 @@
     <Factions>Factions</Factions>
     <Failed>Failed</Failed>
     <Failure>Failure</Failure>
+    <FarLeft>Far left</FarLeft>
+    <FarRight>Far right</FarRight>
     <Fast>Fast</Fast>
     <Favourite>Favourite</Favourite>
     <Federal>Federal</Federal>
     <Fee>Fee</Fee>
+    <Female>Female</Female>
     <Feedback>Feedback</Feedback>
     <Filibustering>Filibustering</Filibustering>
     <Filter>Filter</Filter>
@@ -268,6 +294,7 @@
     <Fine>Fine</Fine>
     <Fire>Fire</Fire>
     <Fired>Fired</Fired>
+    <First>First</First>
     <Fix>Fix</Fix>
     <Flags>Flags</Flags>
     <Focus>Focus</Focus>
@@ -276,6 +303,7 @@
     <Forecast>Forecast</Forecast>
     <Form>Form</Form>
     <Formation>Formation</Formation>
+    <Formed>Formed</Formed>
     <Former>Former</Former>
     <FormerLaw>Former law</FormerLaw>
     <FormerLaws>Former laws</FormerLaws>
@@ -295,10 +323,12 @@
     <Gap>Gap</Gap>
     <Gameplay>Gameplay</Gameplay>
     <General>General</General>
+    <Gender>Gender</Gender>
     <GDP>GDP</GDP>
     <GDPCapita>GDP per capita</GDPCapita>
     <Goal>Goal</Goal>
     <Goals>Goals</Goals>
+    <Good>Good</Good>
     <Government>Government</Government>
     <Governor>Governor</Governor>
     <Governors>Governors</Governors>
@@ -322,8 +352,10 @@
     <Host>Host</Host>
     <Hostile>Hostile</Hostile>
     <House>House</House>
+    <Hybrid>Hybrid</Hybrid>
     <Ideology>Ideology</Ideology>
     <Ideologies>Ideologies</Ideologies>
+    <InBetween>In-Between</InBetween>
     <Income>Income</Income>
     <Increase>Increase</Increase>
     <Index>Index</Index>
@@ -331,6 +363,7 @@
     <InProgress>In progress</InProgress>
     <Influence>Influence</Influence>
     <Infrastructure>Infrastructure</Infrastructure>
+    <Intelligence>Intelligence</Intelligence>
     <International>International</International>
     <Interview>Interview</Interview>
     <Interviews>Interviews</Interviews>
@@ -373,6 +406,7 @@
     <LawsRejected>Laws rejected</LawsRejected>
     <Leader>Leader</Leader>
     <Leaning>Leaning</Leaning>
+    <Left>Left</Left>
     <Legislature>Legislature</Legislature>
     <Level>Level</Level>
     <Listeners>Listeners</Listeners>
@@ -388,6 +422,7 @@
     <Majority>Majority</Majority>
     <Maintain>Maintain</Maintain>
     <Man>Man</Man>
+    <Male>Male</Male>
     <ManPower>Manpower</ManPower>
     <Map>Map</Map>
     <Maps>Maps</Maps>
@@ -439,6 +474,7 @@
     <Name>Name</Name>
     <Nation>Nation</Nation>
     <National>National</National>
+    <Nationalization>Nationalization</Nationalization>
     <Nations>Nations</Nations>
     <Natural>Natural</Natural>
     <Negative>Negative</Negative>
@@ -450,6 +486,7 @@
     <Next>Next</Next>
     <NextElection>Next election</NextElection>
     <NextSurvey>Next survey</NextSurvey>
+    <Nickname>Nickname</Nickname>
     <No>No</No>
     <None>None</None>
     <Normal>Normal</Normal>
@@ -472,6 +509,7 @@
     <Ongoing>Ongoing</Ongoing>
     <Open>Open</Open>
     <OpenVote>Open vote</OpenVote>
+    <Operation>Operation</Operation>
     <Operating>Operating</Operating>
     <Opposition>Opposition</Opposition>
     <Option>Option</Option>
@@ -479,8 +517,11 @@
     <Optional>Optional</Optional>
     <Ordinary>Ordinary</Ordinary>
     <Origin>Origin</Origin>
+    <Original>Original</Original>
     <Organization>Organization</Organization>
     <Organizations>Organizations</Organizations>
+    <Other>Other</Other>
+    <Others>Others</Others>
     <OutOfForce>Out of force</OutOfForce>
     <Outreach>Outreach</Outreach>
     <Parameter>Parameter</Parameter>
@@ -531,12 +572,14 @@
     <Prison>Prison</Prison>
     <Privacy>Privacy</Privacy>
     <Private>Private</Private>
+    <Privatization>Privatization</Privatization>
     <Probability>Probability</Probability>
     <Production>Production</Production>
     <Products>Products</Products>
     <Progress>Progress</Progress>
     <Promise>Promise</Promise>
     <Promises>Promises</Promises>
+    <Proportional>Proportional</Proportional>
     <Proposal>Proposal</Proposal>
     <Propose>Propose</Propose>
     <Propositive>Propositive</Propositive>
@@ -572,6 +615,7 @@
     <Relations>Relations</Relations>
     <RelativeMajority>Relative majority</RelativeMajority>
     <Remove>Remove</Remove>
+    <Removed>Removed</Removed>
     <Removing>Removing</Removing>
     <Repeat>Repeat</Repeat>
     <Representative>Representative</Representative>
@@ -588,6 +632,7 @@
     <Resign>Resign</Resign>
     <Resignation>Resignation</Resignation>
     <Resolution>Resolution</Resolution>
+    <Resource>Resource</Resource>
     <Resources>Resources</Resources>
     <Responsible>Responsible</Responsible>
     <Result>Result</Result>
@@ -596,6 +641,7 @@
     <Revenue>Revenue</Revenue>
     <Revolution>Revolution</Revolution>
     <Reward>Reward</Reward>
+    <Right>Right</Right>
     <Round>Round</Round>
     <Rules>Rules</Rules>
     <Runoff>Runoff</Runoff>
@@ -613,6 +659,7 @@
     <Sea>Sea</Sea>
     <Search>Search</Search>
     <Seats>Seats</Seats>
+    <Second>Second</Second>
     <SecretVote>Secret vote</SecretVote>
     <Secretaries>Secretaries</Secretaries>
     <Secretary>Secretary</Secretary>
@@ -620,10 +667,12 @@
     <Select>Select</Select>
     <SelectLanguage>Select language</SelectLanguage>
     <Selection>Selection</Selection>
+    <Sell>Sell</Sell>
     <Senate>Senate</Senate>
     <Senator>Senator</Senator>
     <Senators>Senators</Senators>
     <Send>Send</Send>
+    <Sentiment>Sentiment</Sentiment>
     <Semestral>Semestral</Semestral>
     <Sentence>Sentence</Sentence>
     <Sentences>Sentences</Sentences>
@@ -644,6 +693,7 @@
     <Speaker>Speaker</Speaker>
     <Spectator>Spectator</Spectator>
     <Speed>Speed</Speed>
+    <Split>Split</Split>
     <Stabilize>Stabilize</Stabilize>
     <Stability>Stability</Stability>
     <Standard>Standard</Standard>
@@ -669,6 +719,7 @@
     <SupremeCourt>Supreme court</SupremeCourt>
     <Supress>Suppress</Supress>
     <Surgery>Surgery</Surgery>
+    <Surplus>Surplus</Surplus>
     <Suspend>Suspend</Suspend>
     <Suspended>Suspended</Suspended>
     <System>System</System>
@@ -682,6 +733,7 @@
     <Tension>Tension</Tension>
     <Terms>Mandates</Terms>
     <Territory>Territory</Territory>
+    <Third>Third</Third>
     <Threshold>Threshold</Threshold>
     <Thought>Thought</Thought>
     <Thoughts>Thoughts</Thoughts>
@@ -715,6 +767,7 @@
     <Unfriendly>Unfriendly</Unfriendly>
     <Unhappiness>Unhappiness</Unhappiness>
     <Unipolar>Unipolar</Unipolar>
+    <Union>Union</Union>
     <Unit>Unit</Unit>
     <Units>Units</Units>
     <University>University</University>
@@ -730,6 +783,8 @@
     <Vacant>Vacant</Vacant>
     <Value>Value</Value>
     <Values>Values</Values>
+    <Verify>Verify</Verify>
+    <Verified>Verified</Verified>
     <Version>Version</Version>
     <Veto>Veto</Veto>
     <Vibration>Vibration</Vibration>
@@ -760,6 +815,7 @@
     <WeeklyCost>Weekly cost</WeeklyCost>
     <Weeks>Weeks</Weeks>
     <Winner>Winner</Winner>
+    <WinnerTakeAll>Winner-Take-All</WinnerTakeAll>
     <Withdraw>Withdraw</Withdraw>
     <Woman>Woman</Woman>
     <Women>Women</Women>
@@ -786,7 +842,7 @@
     <Break>You've been playing for over 2 hours!</Break>
     <Break2>Taking a short break can help you recharge and feel more refreshed!</Break2>
     <Welcome>WELCOME TO LAWGIVERS II</Welcome>
-    <Welcome2>Thank you for your support! The game will receive frequent updates throughout 2025. Got a feature request? Join our community on Discord and share your ideas with us!</Welcome2>
+    <Welcome2>Thanks for all your support! Got a feature request? Join our community on Discord and share your ideas with us!</Welcome2>
     <Warning>*Higher quality may drain the battery faster and overheat your device</Warning>
   </Extra>
   <Achievements>
@@ -1100,6 +1156,8 @@
     <string>Ukrainian Hryvnia</string>
     <string>Romanian Leu</string>
     <string>Spanish Peso</string>
+    <string>Belgian Franc</string>
+    <string>Dutch guilder</string>
   </Currencies>
   <Events>
     <Item>
@@ -1225,7 +1283,7 @@
     </Item>
     <Item>
       <text>
-        <string>Flood Disasters</string>
+        <string>Flood Disaster</string>
         <string>Intense and unexpected flooding has overwhelmed cities and rural areas, damaging properties and businesses, disrupting transportation and commerce, and requiring substantial emergency response and rehabilitation funds.</string>
       </text>
     </Item>
@@ -1401,6 +1459,90 @@
       <text>
         <string>Default</string>
         <string>Your country experienced a systemic economic collapse and failed to meet its debt obligations, triggering severe financial instability, currency devaluation, and loss of investor confidence.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Oil crisis</string>
+        <string>A sudden embargo by major oil-exporting nations has sharply reduced global petroleum supplies, triggering soaring energy prices and widespread economic disruption.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>General blackout</string>
+        <string>The lights cut out without warning, plunging the surroundings into darkness.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>NYC Blackout</string>
+        <string>A widespread power outage sweeps across New York City, leaving neighborhoods suddenly without electricity.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Nuclear incident</string>
+        <string>A sudden failure in the reactor’s primary containment has released a limited burst of radioactive steam, leading emergency teams to enforce an immediate evacuation zone while engineers work to stabilize the facility.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Real estate bubble</string>
+        <string>A rapid surge in property prices, driven by speculation and easy credit, is creating concerns that the real estate market may be entering an unsustainable bubble.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Water contamination</string>
+        <string>An active water contamination incident has been detected, impacting supply reliability and triggering environmental monitoring.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Factory explosion</string>
+        <string>An ongoing explosion at an industrial facility has been reported, resulting in immediate shutdown procedures and safety assessments.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Asian financial crisis</string>
+        <string>A regional financial crisis is emerging across several Asian markets, causing currency instability and prompting urgent economic interventions.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Great East Japan Earthquake</string>
+        <string>A major offshore earthquake is currently striking the region, causing widespread tremors and activating emergency response protocols.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Space mission succeed</string>
+        <string>The spacecraft has just reached its target, systems are stable, cheers erupt in mission control as the crew confirms the mission is a complete success.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Space mission failure</string>
+        <string>The spacecraft is losing control right now, alarms are sounding, communication is fading, and mission control watches as the mission collapses in real time.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Shutdown</string>
+        <string>A federal shutdown grips the country as government funding collapses, forcing agencies to close, services to halt, and uncertainty to spread across the nation.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Wage Stagnation</string>
+        <string>Wage stagnation is unfolding right now as prices climb month after month while paychecks stay largely the same, quietly squeezing workers’ purchasing power in real time.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Cyberattack</string>
+        <string>Malicious actors breach digital systems, silently stealing data, disrupting services, or taking control of infrastructure before victims even realize they’ve been hit.</string>
       </text>
     </Item>
   </Events>
@@ -2637,6 +2779,48 @@
         <string>A global pact to stop the spread of nuclear weapons and promote peaceful nuclear cooperation.</string>
       </text>
     </Item>
+    <Item>
+      <text>
+        <string>Electoral process</string>
+        <string>Set of legal, administrative, and political procedures that organize how elections are conducted — from voter registration to the proclamation of results.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Euthanasia law</string>
+        <string>Regulates the conditions under which a person’s life may be intentionally ended to relieve suffering, balancing individual autonomy with ethical and legal safeguards.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Budget law</string>
+        <string>Legislation that authorizes the collection and allocation of public funds, outlining how a government plans to raise revenue and spend money within a specific fiscal year.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Commemorative days act</string>
+        <string>Establishes, regulates, and officially recognizes national commemorative and awareness days to honor social groups, causes, and values without granting public holiday status.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Domestic violence protection</string>
+        <string>Provides legal safeguards to prevent abuse and protect victims within domestic or family relationships.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Youth protection law</string>
+        <string>Safeguards minors from harm and ensures their well-being and rights.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Reparation law</string>
+        <string>A statute by which a state acknowledges historical systemic harm to countries and peoples, and establishes legally binding measures to repair it and prevent repetition.</string>
+      </text>
+    </Item>
   </Laws>
   <LawArticles>
     <string />
@@ -2782,7 +2966,7 @@
     <string>Employment protection</string>
     <string>Sustainable batteries production</string>
     <string>Energy efficiency labels</string>
-    <string>Interest rates</string>
+    <string>Interest rate</string>
     <string>Rental contribution</string>
     <string>Economic support</string>
     <string>Hunting license</string>
@@ -2904,14 +3088,43 @@
     <string>Allow private police</string>
     <string>National statistics agency</string>
     <string>Renewable energy subsidies</string>
+    <string>Allow vetoes of laws</string>
+    <string>Compulsory voting</string>
+    <string>Campaign duration</string>
+    <string>Simplify the voter registration process</string>
+    <string>Legal working hours</string>
+    <string>Mandatory health check</string>
+    <string>Mandatory dash-cams</string>
+    <string>Biking lanes</string>
+    <string>Highway tolls</string>
+    <string>Departments number</string>
+    <string>Digital Identity</string>
+    <string>Mom's day</string>
+    <string>Father's day</string>
+    <string>Mental health day</string>
+    <string>Poverty awareness day</string>
+    <string>Nuclear fallout preparedness</string>
+    <string>Cyptocurrency regulation</string>
+    <string>Adoption facilitation</string>
+    <string>Free Victims support</string>
+    <string>Preventive measures</string>
+    <string>Spending limit</string>
+    <string>Approval system</string>
+    <string>Shutdown if approval is not granted</string>
+    <string>Right to strike</string>
+    <string>Prohibit overtime work</string>
+    <string>Social media ban</string>
+    <string>Foster care</string>
+    <string>Blood donation promotion</string>
+    <string>Mandatory screening</string>
   </LawArticles>
   <LawCommas>
     <string />
     <string>3 years</string>
     <string>1 year</string>
     <string>Majoritarian</string>
-    <string>Proportional (Nation)</string>
-    <string>Proportional (Region)</string>
+    <string>Proportional Largest Remainder (National)</string>
+    <string>Proportional Largest Remainder (Regional)</string>
     <string>2 years</string>
     <string>Presidential republic</string>
     <string>Semi-presidential republic</string>
@@ -3042,6 +3255,23 @@
     <string>In-ground burial</string>
     <string>Cremation</string>
     <string>Instant RunOff</string>
+    <string>Proportional D'Hondt (Regional)</string>
+    <string>Proportional Sainte-Laguë (National)</string>
+    <string>One-Time</string>
+    <string>Only of laws passed without a supermajority</string>
+    <string>Short</string>
+    <string>Average</string>
+    <string>Long</string>
+    <string>Very long</string>
+    <string>40 Hours</string>
+    <string>48 Hours</string>
+    <string>56 Hours</string>
+    <string>Needs approval of the legislative body</string>
+    <string>Approval can be granted by the government alone</string>
+    <string>50%</string>
+    <string>70%</string>
+    <string>No limits</string>
+    <string>Single-party republic</string>
   </LawCommas>
   <Media>
     <string />
@@ -3973,6 +4203,61 @@
         <string>Northern Ireland</string>
       </text>
     </Item>
+    <Item>
+      <text>
+        <string>Cyprus</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Andorra</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Liechtenstein</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Malta</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Fiji</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Monaco</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Bahamas</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Mauritius</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>San Marino</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Cape Verde</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Cayman Islands</string>
+      </text>
+    </Item>
   </Nations>
   <ParametersGroups>
     <string />
@@ -4007,7 +4292,7 @@
     </Item>
     <Item>
       <text>
-        <string>Drug addiction</string>
+        <string>Drug dependency</string>
         <string>The percentage of a population diagnosed with substance use disorders, indicating the prevalence of drug addiction</string>
       </text>
     </Item>
@@ -4025,7 +4310,7 @@
     </Item>
     <Item>
       <text>
-        <string>Murders</string>
+        <string>Homicides</string>
         <string>Intentional killings of one individual by another, typically characterized by premeditation and malice aforethought.</string>
       </text>
     </Item>
@@ -4061,7 +4346,7 @@
     </Item>
     <Item>
       <text>
-        <string>Depression rate</string>
+        <string>Depression prevalence</string>
         <string>A serious mental health disorder marked by persistent sadness, lack of interest, and difficulty functioning in daily life.</string>
       </text>
     </Item>
@@ -4115,7 +4400,7 @@
     </Item>
     <Item>
       <text>
-        <string>Obesity rate</string>
+        <string>Obesity prevalence</string>
         <string>Percentage of a population classified as obese, serving as a key indicator of public health.</string>
       </text>
     </Item>
@@ -4127,7 +4412,7 @@
     </Item>
     <Item>
       <text>
-        <string>Individual Freedom</string>
+        <string>Personal Freedom</string>
         <string>The social freedom that every citizen has to express and develop themselves.</string>
       </text>
     </Item>
@@ -4151,7 +4436,7 @@
     </Item>
     <Item>
       <text>
-        <string>Car accidents</string>
+        <string>Road accidents</string>
         <string>The amount of traffic accidents happening on national roads.</string>
       </text>
     </Item>
@@ -4193,7 +4478,7 @@
     </Item>
     <Item>
       <text>
-        <string>Gini index</string>
+        <string>Gini coefficient</string>
         <string>Measures income and wealth inequality within population.</string>
       </text>
     </Item>
@@ -4223,7 +4508,7 @@
     </Item>
     <Item>
       <text>
-        <string>Road condition</string>
+        <string>Road quality</string>
         <string>Rating that quantifies the overall condition and quality of a road surface, typically based on factors like surface distress, ride quality, and structural integrity.</string>
       </text>
     </Item>
@@ -4361,6 +4646,12 @@
       <text>
         <string>Attempt to corrupt a judge</string>
         <string>The party was caught putting pressure on judges.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Election interference</string>
+        <string>The ruling party was found to have engaged in election manipulation.</string>
       </text>
     </Item>
   </Scandals>
@@ -4521,13 +4812,13 @@
     <string>Australian Capital Territory</string>
     <string>New South Wales</string>
     <string>Queensland</string>
-    <string>Western Switzerland</string>
+    <string>Zurich</string>
     <string>Valais</string>
     <string>Bern</string>
-    <string>Northwest Switzerland</string>
-    <string>Central Switzerland</string>
-    <string>Northeast Switzerland</string>
-    <string>Graubunden</string>
+    <string>Lucerne</string>
+    <string>Uri</string>
+    <string>Schwyz</string>
+    <string>Grisons</string>
     <string>Ticino</string>
     <string>Cork/Kerry</string>
     <string>Shannon</string>
@@ -4536,8 +4827,8 @@
     <string>Midlands East</string>
     <string>Dublin</string>
     <string>Southeast Ireland</string>
-    <string>Flanders</string>
-    <string>Wallonia</string>
+    <string>Antwerp</string>
+    <string>East Flanders</string>
     <string>Brussels</string>
     <string>Luxembourg</string>
     <string>Baja California</string>
@@ -5023,6 +5314,70 @@
     <string>Santiago del Estero</string>
     <string>Tierra del Fuego</string>
     <string>Tucumán</string>
+    <string>Obwalden</string>
+    <string>Nidwalden</string>
+    <string>Glarus</string>
+    <string>Zug</string>
+    <string>Fribourg</string>
+    <string>Solothurn</string>
+    <string>Basle-City</string>
+    <string>Basle-Country</string>
+    <string>Schaffhausen</string>
+    <string>Appenzell Ausserrhoden</string>
+    <string>Appenzell Innerrhoden</string>
+    <string>St. Gallen</string>
+    <string>Aargau</string>
+    <string>Thurgau</string>
+    <string>Vaud</string>
+    <string>Neuchâtel</string>
+    <string>Geneva</string>
+    <string>Jura</string>
+    <string>Flemish Brabant</string>
+    <string>Limburg</string>
+    <string>West Flanders</string>
+    <string>Hainaut</string>
+    <string>Liège</string>
+    <string>Luxembourg</string>
+    <string>Namur</string>
+    <string>Walloon Brabant</string>
+    <string>Aceh</string>
+    <string>North Sumatra</string>
+    <string>West Sumatra</string>
+    <string>Riau</string>
+    <string>Riau Islands</string>
+    <string>Jambi</string>
+    <string>South Sumatra</string>
+    <string>Bangka Belitung Islands</string>
+    <string>Bengkulu</string>
+    <string>Lampung</string>
+    <string>Banten</string>
+    <string>Jakarta</string>
+    <string>West Java</string>
+    <string>Central Java</string>
+    <string>East Java</string>
+    <string>Yogyakarta</string>
+    <string>Bali</string>
+    <string>West Nusa Tenggara</string>
+    <string>East Nusa Tenggara</string>
+    <string>West Kalimantan</string>
+    <string>Central Kalimantan</string>
+    <string>South Kalimantan</string>
+    <string>East Kalimantan</string>
+    <string>North Kalimantan</string>
+    <string>North Sulawesi</string>
+    <string>Gorontalo</string>
+    <string>Central Sulawesi</string>
+    <string>West Sulawesi</string>
+    <string>South Sulawesi</string>
+    <string>Southeast Sulawesi</string>
+    <string>Maluku</string>
+    <string>North Maluku</string>
+    <string>West Papua</string>
+    <string>Southwest Papua</string>
+    <string>Central Papua</string>
+    <string>Highland Papua</string>
+    <string>South Papua</string>
+    <string>Papua</string>
   </Regions>
   <Religions>
     <string />
@@ -5051,6 +5406,9 @@
     <string>Wood</string>
     <string>Soap</string>
     <string>Lithium</string>
+    <string>Bananas</string>
+    <string>Patents</string>
+    <string>Medicine</string>
   </Resources>
   <Rules>
     <Item>
@@ -5066,7 +5424,7 @@
     </Item>
     <Item>
       <text>
-        <string>Candidates</string>
+        <string>Primaries</string>
         <string />
       </text>
     </Item>
@@ -5088,7 +5446,7 @@
     <string>Annual Fee</string>
     <string>Age</string>
     <string>Payday</string>
-    <string>Primaries</string>
+    <string>Delegates</string>
   </RuleArticles>
   <RuleCommas>
     <string />
@@ -5138,6 +5496,7 @@
     <string>Our lives are shaped by decisions made by just one party and system.</string>
     <string>I think my country should reduce its debt.</string>
     <string>I think political promises are rarely kept.</string>
+    <string>I believe women are underrepresented in institutions.</string>
   </Thoughts>
   <Traits>
     <string />
@@ -5329,6 +5688,18 @@
       </text>
     </Item>
   </Tutorials>
+  <Unions>
+    <Item>
+      <text>
+        <string />
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>European Union</string>
+      </text>
+    </Item>
+  </Unions>
   <Universities>
     <string />
   </Universities>
@@ -5407,6 +5778,35 @@
     <string>November</string>
     <string>December</string>
   </Months>
+  <Continents>
+    <string>Africa</string>
+    <string>Antartica</string>
+    <string>Asia</string>
+    <string>Europe</string>
+    <string>North America</string>
+    <string>Oceania</string>
+    <string>South America</string>
+  </Continents>
+  <Classifications>
+    <string>Agriculture and food</string>
+    <string>Automotive and transportation</string>
+    <string>Comunication service</string>
+    <string>Construction and engineering</string>
+    <string>Education</string>
+    <string>Energy</string>
+    <string>Entertainment and media</string>
+    <string>Financials</string>
+    <string>Healthcare</string>
+    <string>Hospitality and tourism</string>
+    <string>Industrials</string>
+    <string>Information technology</string>
+    <string>Manufacturing</string>
+    <string>Materials</string>
+    <string>Professional services</string>
+    <string>Real estate</string>
+    <string>Retail</string>
+    <string>Utilities</string>
+  </Classifications>
   <Text>
     <string />
     <string>Warning: you are using a not official or broken version of the game.</string>
@@ -5486,7 +5886,7 @@
     <string>Minor party</string>
     <string>Political movement</string>
     <string>Regional party</string>
-    <string>Distribute government responsibilities and competences among parties.</string>
+    <string>Propose a coalition to other parties. Distribute government responsibilities and competences.</string>
     <string>Random name</string>
     <string>Random appearance</string>
     <string>Random body</string>
@@ -5618,14 +6018,14 @@
     <string>Organize disappearance</string>
     <string>Send person to a field mission to enhance some attributes.</string>
     <string>Scandals are suppressed</string>
-    <string>The global political trend is experiencing a significant shift towards this new belief</string>
+    <string>The global political trend is experiencing a significant shift towards this belief</string>
     <string>Take out a loan to increase your funds</string>
     <string>Political trend</string>
     <string>No lawmaker in committee</string>
     <string>No lawmakers</string>
     <string>Highest happiness</string>
     <string>Lowest happiness</string>
-    <string>Send the government to visit another country</string>
+    <string>Send the government to visit another country.</string>
     <string>No more attempts left</string>
     <string>Setup a debate before elections</string>
     <string>Parties may organize a fundraise</string>
@@ -5667,7 +6067,7 @@
     <string>Manipulate to favour your party</string>
     <string>Special action to perform with the head of state.</string>
     <string>Only right after election</string>
-    <string>Intelligence operation</string>
+    <string>Organize a covert intelligence operation.</string>
     <string>Select the amount of voters on past election</string>
     <string>Select the age of the person</string>
     <string>Select another person</string>
@@ -5711,7 +6111,7 @@
     <string>Monarch resolution</string>
     <string>Budget law</string>
     <string>Disable local elections</string>
-    <string>Plan a event to stabilize or destabilize nation</string>
+    <string>Plan a event to stabilize or destabilize nation.</string>
     <string>Law not suspended anymore</string>
     <string>An important organization will give an award to the region with the best results.</string>
     <string>This institution received an award from a respected organization</string>
@@ -5736,5 +6136,31 @@
     <string>Planning too far ahead</string>
     <string>Annual bonus</string>
     <string>Provide a monetary bonus to a politician to increase loyalty and motivation.</string>
+    <string>Select another party</string>
+    <string>Change the controlled party and continue the game.</string>
+    <string>A new parameter has been added</string>
+    <string>The global political trend is experiencing a mild shift towards this belief</string>
+    <string>The global political trend is experiencing a dramatic shift towards this belief</string>
+    <string>No person to pardon</string>
+    <string>No available resources</string>
+    <string>No trade agreements</string>
+    <string>Remove trade agreement</string>
+    <string>No laws</string>
+    <string>Propose a new trade agreement between nations.</string>
+    <string>Not enough black</string>
+    <string>Building time</string>
+    <string>Budget approval</string>
+    <string>The budget needs to be approved by the legislative body.</string>
+    <string>Impeachment succeeded</string>
+    <string>Impeachment attempt failed</string>
+    <string>The proposed budget has been approved</string>
+    <string>The proposed budget has been rejected</string>
+    <string>Small-scale election interference</string>
+    <string>Minor election manipulation in support of your party.</string>
+    <string>Support independence movement</string>
+    <string>Destabilize a specific region in a foreign country.</string>
+    <string>The nation ceased to exist</string>
+    <string>Acquire a region</string>
+    <string>Acquire new land to expand your nation’s sphere of influence.</string>
   </Text>
 </Data>
