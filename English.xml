@@ -8,6 +8,7 @@
     <Abstain>Abstain</Abstain>
     <Accept>Accept</Accept>
     <Accepted>Accepted</Accepted>
+    <Achievement>Achievement</Achievement>
     <Achievements>Achievements</Achievements>
     <Acronym>Acronym</Acronym>
     <Action>Action</Action>
@@ -123,6 +124,8 @@
     <CivilWar>Civil War</CivilWar>
     <Class>Class</Class>
     <Classification>Classification</Classification>
+    <Climate>Climate</Climate>
+    <Climates>Climates</Climates>
     <Clock>Clock</Clock>
     <Close>Close</Close>
     <Clothes>Clothes</Clothes>
@@ -137,6 +140,7 @@
     <Commemorate>Commemorate</Commemorate>
     <Commission>Commission</Commission>
     <Commissions>Commissions</Commissions>
+    <Common>Common</Common>
     <Community>Community</Community>
     <Competence>Competence</Competence>
     <Competences>Competences</Competences>
@@ -150,7 +154,7 @@
     <Conditions>Conditions</Conditions>
     <Confidence>Confidence</Confidence>
     <Confirm>Confirm</Confirm>
-    <Confirmative>Confirmative</Confirmative>
+    <Confirmatory>Confirmatory</Confirmatory>
     <Congress>Congress</Congress>
     <Considerable>Considerable</Considerable>
     <Constitution>Constitution</Constitution>
@@ -238,6 +242,7 @@
     <Donation>Donation</Donation>
     <Donations>Donations</Donations>
     <Down>Down</Down>
+    <Downgrade>Downgrade</Downgrade>
     <Draft>Draft</Draft>
     <Duplicate>Duplicate</Duplicate>
     <Duration>Duration</Duration>
@@ -260,6 +265,7 @@
     <Energy>Energy</Energy>
     <EnterText>Enter text ...</EnterText>
     <Email>Email</Email>
+    <Embargo>Embargo</Embargo>
     <Employees>Employees</Employees>
     <Escalation>Escalation</Escalation>
     <Established>Established</Established>
@@ -271,6 +277,7 @@
     <Evidence>Evidence</Evidence>
     <Excellent>Excellent</Excellent>
     <Exit>Exit</Exit>
+    <Except>Except</Except>
     <Expected>Expected</Expected>
     <Expenses>Expenses</Expenses>
     <Experience>Experience</Experience>
@@ -318,6 +325,7 @@
     <Frontrunner>Frontrunner</Frontrunner>
     <Frontrunners>Frontrunners</Frontrunners>
     <Full>Full</Full>
+    <FullEdition>Full edition</FullEdition>
     <Fullscreen>Fullscreen</Fullscreen>
     <Fundraise>Fundraise</Fundraise>
     <Gap>Gap</Gap>
@@ -330,6 +338,7 @@
     <Goals>Goals</Goals>
     <Good>Good</Good>
     <Government>Government</Government>
+    <Governments>Governments</Governments>
     <Governor>Governor</Governor>
     <Governors>Governors</Governors>
     <GreatPower>Great power</GreatPower>
@@ -387,6 +396,7 @@
     <JoinDate>Join date</JoinDate>
     <Judge>Judge</Judge>
     <Judges>Judges</Judges>
+    <Jurisdiction>Jurisdiction</Jurisdiction>
     <Keep>Keep</Keep>
     <Keyboard>Keyboard</Keyboard>
     <King>King</King>
@@ -579,10 +589,11 @@
     <Progress>Progress</Progress>
     <Promise>Promise</Promise>
     <Promises>Promises</Promises>
+    <Promoter>Promoter</Promoter>
     <Proportional>Proportional</Proportional>
     <Proposal>Proposal</Proposal>
     <Propose>Propose</Propose>
-    <Propositive>Propositive</Propositive>
+    <Propositional>Propositional</Propositional>
     <Protest>Protest</Protest>
     <Province>Province</Province>
     <Provinces>Provinces</Provinces>
@@ -593,6 +604,7 @@
     <Queen>Queen</Queen>
     <Question>Question</Question>
     <Quit>Quit</Quit>
+    <Quorum>Quorum</Quorum>
     <Radio>Radio</Radio>
     <Random>Random</Random>
     <Rank>Rank</Rank>
@@ -632,6 +644,7 @@
     <Resign>Resign</Resign>
     <Resignation>Resignation</Resignation>
     <Resolution>Resolution</Resolution>
+    <Resolutions>Resolutions</Resolutions>
     <Resource>Resource</Resource>
     <Resources>Resources</Resources>
     <Responsible>Responsible</Responsible>
@@ -641,6 +654,7 @@
     <Revenue>Revenue</Revenue>
     <Revolution>Revolution</Revolution>
     <Reward>Reward</Reward>
+    <Rewards>Rewards</Rewards>
     <Right>Right</Right>
     <Round>Round</Round>
     <Rules>Rules</Rules>
@@ -733,6 +747,9 @@
     <Tension>Tension</Tension>
     <Terms>Mandates</Terms>
     <Territory>Territory</Territory>
+    <Test>Test</Test>
+    <Testing>Testing</Testing>
+    <Thanks>Thanks</Thanks>
     <Third>Third</Third>
     <Threshold>Threshold</Threshold>
     <Thought>Thought</Thought>
@@ -755,6 +772,7 @@
     <Transparent>Transparent</Transparent>
     <Treaty>Treaty</Treaty>
     <Treaties>Treaties</Treaties>
+    <Tripolar>Tripolar</Tripolar>
     <Troop>Troop</Troop>
     <Troops>Troops</Troops>
     <Turn>Turn</Turn>
@@ -838,7 +856,7 @@
     <Rate>Rate this game</Rate>
     <Review>If you are having a good time with our political simulation game, please consider to leave a review on the store. Doing so, could potentially raise the popularity of such games and help us to work on more updates, new mechanics, countries and content. Thank you for your time!!</Review>
     <Thanks>Thanks to all friends out there for supporting development and making this political simulation game possible !!</Thanks>
-    <Unlock>Get the full edition to support development and upcoming updates. </Unlock>
+    <Unlock>Get the full edition to unlock everything and support future updates. </Unlock>
     <Break>You've been playing for over 2 hours!</Break>
     <Break2>Taking a short break can help you recharge and feel more refreshed!</Break2>
     <Welcome>WELCOME TO LAWGIVERS II</Welcome>
@@ -854,7 +872,7 @@
     <Item>
       <text>
         <string>Sadist</string>
-        <string>Lower happiness to -10</string>
+        <string>Lower happiness to -20</string>
       </text>
     </Item>
     <Item>
@@ -879,6 +897,36 @@
       <text>
         <string>Populist</string>
         <string>Fail to complete 3 missions</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>National prestige</string>
+        <string>Win a game with your nation</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Party influence</string>
+        <string>Win a game with your party</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Personal gains</string>
+        <string>Win a game with your politician</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Conqueror</string>
+        <string>Annex a territory for the first time</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Coup d’état</string>
+        <string>Organize a successful coup</string>
       </text>
     </Item>
   </Achievements>
@@ -1020,6 +1068,162 @@
     <string>Tirana</string>
     <string>Mumbai</string>
     <string>Shenzhen</string>
+    <string>Amsterdam</string>
+    <string>Brussels</string>
+    <string>Anchorage</string>
+    <string>Vladivostok</string>
+    <string>Astana</string>
+    <string>Amman</string>
+    <string>Baghdad</string>
+    <string>Damascus</string>
+    <string>Yerevan</string>
+    <string>Baku</string>
+    <string>Algiers</string>
+    <string>Tunis</string>
+    <string>Sarajevo</string>
+    <string>Tallinn</string>
+    <string>Riga</string>
+    <string>Vilnius</string>
+    <string>Tripoli</string>
+    <string>Beirut</string>
+    <string>Havana</string>
+    <string>Reykjavík</string>
+    <string>Ulaanbaatar</string>
+    <string>Nicosia</string>
+    <string>Muscat</string>
+    <string>Kathmandu</string>
+    <string>Ashgabat</string>
+    <string>Tashkent</string>
+    <string>Guatemala City</string>
+    <string>Sana’a</string>
+    <string>Montevideo</string>
+    <string>Chișinău</string>
+    <string>Kazan</string>
+    <string>Skopje</string>
+    <string>Podgorica</string>
+    <string>Antalya</string>
+    <string>Yekaterinburg</string>
+    <string>Dušanbe</string>
+    <string>Kabul</string>
+    <string>Biškek</string>
+    <string>Vientiane</string>
+    <string>Taipei</string>
+    <string>Chengdu</string>
+    <string>Wuhan</string>
+    <string>Phnom Penh</string>
+    <string>Naypyidaw</string>
+    <string>Xi'an</string>
+    <string>Colombo</string>
+    <string>Dhaka</string>
+    <string>Islamabad</string>
+    <string>Doha</string>
+    <string>Fukuoka</string>
+    <string>Nagoya</string>
+    <string>Manila</string>
+    <string>Frankfurt</string>
+    <string>Gdańsk</string>
+    <string>Palermo</string>
+    <string>Valencia</string>
+    <string>Nantes</string>
+    <string>Bangaluru</string>
+    <string>Hyderabad</string>
+    <string>Kinshasa</string>
+    <string>Johannesburg</string>
+    <string>Luanda</string>
+    <string>Nairobi</string>
+    <string>Indianapolis</string>
+    <string>Oklahoma City</string>
+    <string>Denver</string>
+    <string>Charlotte</string>
+    <string>San José</string>
+    <string>Fortaleza</string>
+    <string>San Salvador</string>
+    <string>Lahore</string>
+    <string>Mecca</string>
+    <string>Khartum</string>
+    <string>Dakar</string>
+    <string>Accra</string>
+    <string>Antanarivo</string>
+    <string>Windhoek</string>
+    <string>La Paz</string>
+    <string>Guadalajara</string>
+    <string>Monterrey</string>
+    <string>Mérida</string>
+    <string>Tijuana</string>
+    <string>Las Vegas</string>
+    <string>Winnipeg</string>
+    <string>Gothenburg</string>
+    <string>Samara</string>
+    <string>Saratov</string>
+    <string>Voronezh</string>
+    <string>Kansas City</string>
+    <string>Yaroslavl</string>
+    <string>Novosibirsk</string>
+    <string>Almaty</string>
+    <string>Kunming</string>
+    <string>Pyongyang</string>
+    <string>Surabaya</string>
+    <string>Glasgow</string>
+    <string>Adana</string>
+    <string>Dar es Salaam</string>
+    <string>Panama City</string>
+    <string>Jaipur</string>
+    <string>Kharkiv</string>
+    <string>Lviv</string>
+    <string>Torino</string>
+    <string>Thessaloniki</string>
+    <string>Kolkata</string>
+    <string>Managua</string>
+    <string>Tegucigalpa</string>
+    <string>Kingston</string>
+    <string>Santo Domingo</string>
+    <string>Rotterdam</string>
+    <string>Daegu</string>
+    <string>Addis Ababa</string>
+    <string>Abidjan</string>
+    <string>Alexandria</string>
+    <string>Casablanca</string>
+    <string>Yangon</string>
+    <string>Stuttgart</string>
+    <string>Salzburg</string>
+    <string>Omsk</string>
+    <string>Rostov</string>
+    <string>Odesa</string>
+    <string>Venice</string>
+    <string>Porto</string>
+    <string>Columbus</string>
+    <string>Memphis</string>
+    <string>Minneapolis</string>
+    <string>Albuquerque</string>
+    <string>Bursa</string>
+    <string>N'Djamena</string>
+    <string>Niamey</string>
+    <string>Douala</string>
+    <string>Bergen</string>
+    <string>Chiang Mai</string>
+    <string>Guangzhou</string>
+    <string>Hangzhou</string>
+    <string>Nanjing</string>
+    <string>Leipzig</string>
+    <string>Belfast</string>
+    <string>Cork</string>
+    <string>Zaragoza</string>
+    <string>Murcia</string>
+    <string>Hiroshima</string>
+    <string>Atlanta</string>
+    <string>Strasbourg</string>
+    <string>Fes</string>
+    <string>Zurich</string>
+    <string>Bordeaux</string>
+    <string>Sevastopol</string>
+    <string>Batumi</string>
+    <string>New Orleans</string>
+    <string>Portland</string>
+    <string>St. Louis</string>
+    <string>Tromsø</string>
+    <string>York</string>
+    <string>Liverpool</string>
+    <string>Jacksonville</string>
   </Cities>
   <Companies>
     <string />
@@ -1543,6 +1747,30 @@
       <text>
         <string>Cyberattack</string>
         <string>Malicious actors breach digital systems, silently stealing data, disrupting services, or taking control of infrastructure before victims even realize they’ve been hit.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Food supply crisis</string>
+        <string>Food distribution networks are strained as poor harvests, disrupted trade routes, and rising costs reduce availability of staple goods, leading to shortages and increasing public concern.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Baby boom</string>
+        <string>Birth rates are rising significantly across the population, leading to a sustained increase in newborns and long-term demographic growth.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Brain drain</string>
+        <string>A growing number of highly skilled professionals are leaving the region for opportunities elsewhere, reducing the local talent pool and slowing innovation.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Heatwave</string>
+        <string>Temperatures are remaining significantly above seasonal averages for an extended period, placing strain on infrastructure, agriculture, and public health systems.</string>
       </text>
     </Item>
   </Events>
@@ -2821,6 +3049,18 @@
         <string>A statute by which a state acknowledges historical systemic harm to countries and peoples, and establishes legally binding measures to repair it and prevent repetition.</string>
       </text>
     </Item>
+    <Item>
+      <text>
+        <string>Aviation regulation</string>
+        <string>Framework that governs the safety, operation, certification, and oversight of aircraft, airspace, pilots, airports, and airlines to ensure secure and efficient civil aviation activities.</string>
+      </text>
+    </Item>
+    <Item>
+      <text>
+        <string>Helicopter money</string>
+        <string>A monetary policy where a central bank creates new money and distributes it directly to the public to stimulate spending and boost the economy.</string>
+      </text>
+    </Item>
   </Laws>
   <LawArticles>
     <string />
@@ -3117,14 +3357,21 @@
     <string>Foster care</string>
     <string>Blood donation promotion</string>
     <string>Mandatory screening</string>
+    <string>No-fly zones</string>
+    <string>Safety inspections</string>
+    <string>Extensive passenger screening</string>
+    <string>Propositional</string>
+    <string>Abrogative</string>
+    <string>Required signatures to start a referendum</string>
+    <string>Confidence vote majority</string>
   </LawArticles>
   <LawCommas>
     <string />
     <string>3 years</string>
-    <string>1 year</string>
+    <string>Collective government</string>
     <string>Majoritarian</string>
     <string>Proportional Largest Remainder (National)</string>
-    <string>Proportional Largest Remainder (Regional)</string>
+    <string>Proportional Largest Remainder</string>
     <string>2 years</string>
     <string>Presidential republic</string>
     <string>Semi-presidential republic</string>
@@ -3156,13 +3403,13 @@
     <string>3 - 6 years</string>
     <string>5 - 30 years</string>
     <string>10 years to lifetime</string>
-    <string>Requires an absolute majority confidence vote</string>
+    <string>Confidence vote required to take office</string>
     <string>1 term</string>
     <string>2 terms</string>
     <string>3 terms</string>
     <string>Directorial republic</string>
-    <string>Men</string>
-    <string>Women</string>
+    <string>Proportional Hagenbach-Bischoff</string>
+    <string>Councilor</string>
     <string>Secretary</string>
     <string>Minister</string>
     <string>1 Month</string>
@@ -3240,7 +3487,7 @@
     <string>Moderate</string>
     <string>High</string>
     <string>Majoritarian with runoff</string>
-    <string>Requires a relative majority confidence vote</string>
+    <string>No initial confidence vote</string>
     <string>Grant pardon</string>
     <string>Half majoritarian, half proportional</string>
     <string>Elective</string>
@@ -3255,8 +3502,8 @@
     <string>In-ground burial</string>
     <string>Cremation</string>
     <string>Instant RunOff</string>
-    <string>Proportional D'Hondt (Regional)</string>
-    <string>Proportional Sainte-Laguë (National)</string>
+    <string>Proportional D'Hondt</string>
+    <string>Proportional Sainte-Laguë</string>
     <string>One-Time</string>
     <string>Only of laws passed without a supermajority</string>
     <string>Short</string>
@@ -3272,6 +3519,12 @@
     <string>70%</string>
     <string>No limits</string>
     <string>Single-party republic</string>
+    <string>Annual rotation among government councilors</string>
+    <string>1% of citizens</string>
+    <string>2% of citizens</string>
+    <string>3% of citizens</string>
+    <string>Absolute</string>
+    <string>Relative</string>
   </LawCommas>
   <Media>
     <string />
@@ -3415,7 +3668,7 @@
     </Item>
     <Item>
       <text>
-        <string>Luxemburg</string>
+        <string>Luxembourg</string>
       </text>
     </Item>
     <Item>
@@ -3775,7 +4028,7 @@
     </Item>
     <Item>
       <text>
-        <string>Swaziland</string>
+        <string>Eswatini</string>
       </text>
     </Item>
     <Item>
@@ -3985,7 +4238,7 @@
     </Item>
     <Item>
       <text>
-        <string>Buthan</string>
+        <string>Bhutan</string>
       </text>
     </Item>
     <Item>
@@ -4914,31 +5167,31 @@
     <string>Western Macedonia</string>
     <string>Peloponnese</string>
     <string>South Aegean</string>
-    <string>Skane</string>
-    <string>Blekinge</string>
-    <string>Halland</string>
-    <string>Vastergotland</string>
+    <string>Stockholm</string>
+    <string>Uppsala</string>
+    <string>Södermanland</string>
+    <string>Östergötland</string>
+    <string>Jönköping</string>
+    <string>Kronoberg</string>
+    <string>Kalmar</string>
     <string>Gotland</string>
-    <string>Oland</string>
-    <string>Bohuslan</string>
-    <string>Dalsland</string>
-    <string>Narke</string>
-    <string>Sodermanland</string>
-    <string>Varmland</string>
-    <string>Vastmanland</string>
-    <string>Uppland</string>
+    <string>Blekinge</string>
+    <string>Skåne</string>
+    <string>Halland</string>
+    <string>Västra Götaland</string>
+    <string>Värmland</string>
+    <string>Örebro</string>
+    <string>Västmanland</string>
     <string>Dalarna</string>
-    <string>Gastrikland</string>
-    <string>Halsingland</string>
-    <string>Harjedalen</string>
-    <string>Medelpad</string>
-    <string>Jamtland</string>
-    <string>Angermanland</string>
-    <string>Lappland</string>
+    <string>Gävleborg</string>
+    <string>Västernorrland</string>
+    <string>Jämtland</string>
+    <string>Västerbotten</string>
     <string>Norrbotten</string>
-    <string>Vasterbotten</string>
-    <string>Smaland</string>
-    <string>Ostergotland</string>
+    <string />
+    <string />
+    <string />
+    <string />
     <string>Acre</string>
     <string>Amazonas</string>
     <string>Roraima</string>
@@ -5378,6 +5631,30 @@
     <string>Highland Papua</string>
     <string>South Papua</string>
     <string>Papua</string>
+    <string>Abai</string>
+    <string>Akmola</string>
+    <string>Aktobe</string>
+    <string>Almaty</string>
+    <string>Atyrau</string>
+    <string>East Kazakhstan</string>
+    <string>Jambyl</string>
+    <string>Jetisu</string>
+    <string>Karaganda</string>
+    <string>Kostanay</string>
+    <string>Kyzylorda</string>
+    <string>Mangystau</string>
+    <string>North Kazakhstan</string>
+    <string>Pavlodar</string>
+    <string>Turkistan</string>
+    <string>Ulytau</string>
+    <string>West Kazakhstan</string>
+    <string>Azad Jammu and Kashmir</string>
+    <string>Balochistan</string>
+    <string>Gilgit-Baltistan</string>
+    <string>Islamabad Capital Territory</string>
+    <string>Khyber Pakhtunkhwa</string>
+    <string>Punjab</string>
+    <string>Sindh</string>
   </Regions>
   <Religions>
     <string />
@@ -5703,12 +5980,19 @@
   <Universities>
     <string />
   </Universities>
+  <Unlocks>
+    <string />
+    <string>New law "Helicopter money"</string>
+    <string>Random game mode</string>
+  </Unlocks>
   <Features>
-    <string>Unlock all playable countries</string>
-    <string>Unlock all parties and customizations</string>
-    <string>Unlock all gameplay elements</string>
-    <string>Remove ads</string>
-    <string>Help to fund next updates and content</string>
+    <string>Play all countries</string>
+    <string>Access all custom game rules</string>
+    <string>Fully customize parties and politicians</string>
+    <string>Multiplayer and Career Mode</string>
+    <string>Unlock all gameplay features</string>
+    <string>Remove ads for a smoother experience</string>
+    <string>Support future updates and new content</string>
   </Features>
   <DLC>
     <string>Special backers edition that adds new laws and more world creation options</string>
@@ -6162,5 +6446,22 @@
     <string>The nation ceased to exist</string>
     <string>Acquire a region</string>
     <string>Acquire new land to expand your nation’s sphere of influence.</string>
+    <string>Add embargo</string>
+    <string>Remove embargo</string>
+    <string>International resolution</string>
+    <string>Appoint a new world council representative</string>
+    <string>Propose a resolution to the world council.</string>
+    <string>World council not active</string>
+    <string>A new president has been appointed from within the government</string>
+    <string>Party not present</string>
+    <string>The international community is expressing concern about the radicalism of this party</string>
+    <string>International funding</string>
+    <string>Create a new party</string>
+    <string>Break away from this party to found a new one</string>
+    <string>Maximum parties</string>
+    <string>Disable world council</string>
+    <string>World council</string>
+    <string>Due to internal conflicts and ongoing issues, some politicians split off to form a new party</string>
+    <string>Not available</string>
   </Text>
 </Data>
