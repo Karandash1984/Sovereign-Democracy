@@ -90090,31 +90090,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 72.0,
-          "parties": [
-            {
-              "id": 21,
-              "percentage": 27.0
-            },
-            {
-              "id": 24,
-              "percentage": 23.0
-            },
-            {
-              "id": 23,
-              "percentage": 21.0
-            },
-            {
-              "id": 22,
-              "percentage": 10.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 59
@@ -90217,31 +90193,7 @@
       ],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 72.0,
-          "parties": [
-            {
-              "id": 21,
-              "percentage": 28.0
-            },
-            {
-              "id": 24,
-              "percentage": 23.0
-            },
-            {
-              "id": 23,
-              "percentage": 21.0
-            },
-            {
-              "id": 22,
-              "percentage": 10.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 60
@@ -90297,31 +90249,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 72.0,
-          "parties": [
-            {
-              "id": 21,
-              "percentage": 27.0
-            },
-            {
-              "id": 24,
-              "percentage": 23.0
-            },
-            {
-              "id": 23,
-              "percentage": 21.0
-            },
-            {
-              "id": 22,
-              "percentage": 10.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 61
@@ -90381,31 +90309,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 70.0,
-          "parties": [
-            {
-              "id": 21,
-              "percentage": 27.0
-            },
-            {
-              "id": 24,
-              "percentage": 23.0
-            },
-            {
-              "id": 23,
-              "percentage": 21.0
-            },
-            {
-              "id": 22,
-              "percentage": 10.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 62
@@ -90473,31 +90377,7 @@
       ],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 73.0,
-          "parties": [
-            {
-              "id": 21,
-              "percentage": 27.0
-            },
-            {
-              "id": 24,
-              "percentage": 23.0
-            },
-            {
-              "id": 23,
-              "percentage": 21.0
-            },
-            {
-              "id": 22,
-              "percentage": 10.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 63
@@ -90553,31 +90433,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 71.0,
-          "parties": [
-            {
-              "id": 21,
-              "percentage": 27.0
-            },
-            {
-              "id": 24,
-              "percentage": 18.0
-            },
-            {
-              "id": 23,
-              "percentage": 25.0
-            },
-            {
-              "id": 22,
-              "percentage": 10.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 64
@@ -90697,31 +90553,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 65.0,
-          "parties": [
-            {
-              "id": 21,
-              "percentage": 28.0
-            },
-            {
-              "id": 24,
-              "percentage": 15.0
-            },
-            {
-              "id": 23,
-              "percentage": 20.0
-            },
-            {
-              "id": 22,
-              "percentage": 20.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 65
@@ -90801,31 +90633,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 70.0,
-          "parties": [
-            {
-              "id": 21,
-              "percentage": 27.0
-            },
-            {
-              "id": 24,
-              "percentage": 23.0
-            },
-            {
-              "id": 23,
-              "percentage": 21.0
-            },
-            {
-              "id": 22,
-              "percentage": 10.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 66
@@ -90912,31 +90720,7 @@
       ],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 70.0,
-          "parties": [
-            {
-              "id": 21,
-              "percentage": 27.0
-            },
-            {
-              "id": 24,
-              "percentage": 21.0
-            },
-            {
-              "id": 23,
-              "percentage": 23.0
-            },
-            {
-              "id": 22,
-              "percentage": 12.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 67
@@ -90997,31 +90781,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 70.0,
-          "parties": [
-            {
-              "id": 21,
-              "percentage": 27.0
-            },
-            {
-              "id": 24,
-              "percentage": 23.0
-            },
-            {
-              "id": 23,
-              "percentage": 21.0
-            },
-            {
-              "id": 22,
-              "percentage": 10.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 68
@@ -91573,23 +91333,7 @@
       ],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 68.5,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 34.3
-            },
-            {
-              "id": 4,
-              "percentage": 63.5
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 78
@@ -91660,23 +91404,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 65.4,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 47.7
-            },
-            {
-              "id": 4,
-              "percentage": 50.1
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 79
@@ -91747,23 +91475,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 65.9,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 49.1
-            },
-            {
-              "id": 4,
-              "percentage": 49.4
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 80
@@ -91855,23 +91567,7 @@
       ],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 61.3,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 43.5
-            },
-            {
-              "id": 4,
-              "percentage": 54.3
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 81
@@ -92193,23 +91889,7 @@
           "value": 40
         }
       ],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 60.4,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 52.1
-            },
-            {
-              "id": 4,
-              "percentage": 46.5
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 82
@@ -92332,23 +92012,7 @@
       ],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 64.6,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 58.5
-            },
-            {
-              "id": 4,
-              "percentage": 39.9
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 83
@@ -92484,23 +92148,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 60.2,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 57.6
-            },
-            {
-              "id": 4,
-              "percentage": 41.1
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 84
@@ -92713,23 +92361,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 67.7,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 49.3
-            },
-            {
-              "id": 4,
-              "percentage": 49.5
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 85
@@ -92850,23 +92482,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 63.1,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 62.2
-            },
-            {
-              "id": 4,
-              "percentage": 36.7
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 86
@@ -92989,23 +92605,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 71.7,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 51.2
-            },
-            {
-              "id": 4,
-              "percentage": 47.9
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 87
@@ -93090,23 +92690,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 69.2,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 58.2
-            },
-            {
-              "id": 4,
-              "percentage": 37.7
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 88
@@ -93229,23 +92813,7 @@
       ],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 76.4,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 41.9
-            },
-            {
-              "id": 4,
-              "percentage": 55.4
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 89
@@ -93376,23 +92944,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 55.0,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 65.4
-            },
-            {
-              "id": 4,
-              "percentage": 32.3
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 90
@@ -93521,23 +93073,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 56.1,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 62.4
-            },
-            {
-              "id": 4,
-              "percentage": 34.8
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 91
@@ -93686,23 +93222,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 59.8,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 60.7
-            },
-            {
-              "id": 4,
-              "percentage": 37.5
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 92
@@ -93856,23 +93376,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 71.5,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 50.1
-            },
-            {
-              "id": 4,
-              "percentage": 48.7
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 93
@@ -93972,23 +93476,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 64.5,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 55.1
-            },
-            {
-              "id": 4,
-              "percentage": 43.4
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 94
@@ -94078,23 +93566,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 75.5,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 40.7
-            },
-            {
-              "id": 4,
-              "percentage": 56.9
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 95
@@ -94194,23 +93666,7 @@
       ],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 75.7,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 39.0
-            },
-            {
-              "id": 4,
-              "percentage": 58.4
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 96
@@ -94308,23 +93764,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 67.7,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 63.9
-            },
-            {
-              "id": 4,
-              "percentage": 33.1
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 97
@@ -94439,23 +93879,7 @@
       ],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 73.1,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 56.9
-            },
-            {
-              "id": 4,
-              "percentage": 40.6
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 98
@@ -94532,23 +93956,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 64.6,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 70.4
-            },
-            {
-              "id": 4,
-              "percentage": 26.7
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 99
@@ -94707,23 +94115,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 65.9,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 56.2
-            },
-            {
-              "id": 4,
-              "percentage": 41.6
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 100
@@ -94995,23 +94387,7 @@
       ],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 66.0,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 61.8
-            },
-            {
-              "id": 4,
-              "percentage": 35.6
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 102
@@ -95118,23 +94494,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 64.5,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 65.5
-            },
-            {
-              "id": 4,
-              "percentage": 31.9
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 103
@@ -95275,23 +94635,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 80.0,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 45.4
-            },
-            {
-              "id": 4,
-              "percentage": 52.6
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 104
@@ -95444,23 +94788,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 73.2,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 53.2
-            },
-            {
-              "id": 4,
-              "percentage": 45.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 105
@@ -95628,23 +94956,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 66.3,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 56.8
-            },
-            {
-              "id": 4,
-              "percentage": 41.4
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 106
@@ -95770,23 +95082,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 75.8,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 48.9
-            },
-            {
-              "id": 4,
-              "percentage": 49.6
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 107
@@ -95942,23 +95238,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 67.0,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 40.6
-            },
-            {
-              "id": 4,
-              "percentage": 57.5
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 108
@@ -96102,23 +95382,7 @@
       ],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 73.9,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 47.8
-            },
-            {
-              "id": 4,
-              "percentage": 50.6
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 109
@@ -96264,23 +95528,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 0,
-          "turnout": 61.4,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 57.1
-            },
-            {
-              "id": 4,
-              "percentage": 41.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 110
@@ -96454,23 +95702,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 64.9,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 62.1
-            },
-            {
-              "id": 4,
-              "percentage": 36.2
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 111
@@ -96619,23 +95851,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 73.0,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 44.2
-            },
-            {
-              "id": 4,
-              "percentage": 54.4
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 112
@@ -96744,23 +95960,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 57.6,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 68.6
-            },
-            {
-              "id": 4,
-              "percentage": 29.7
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 113
@@ -96902,23 +96102,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 67.4,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 53.3
-            },
-            {
-              "id": 4,
-              "percentage": 45.3
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 114
@@ -96996,23 +96180,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 70.7,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 32.4
-            },
-            {
-              "id": 4,
-              "percentage": 65.8
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 115
@@ -97140,23 +96308,7 @@
       ],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 71.0,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 48.8
-            },
-            {
-              "id": 4,
-              "percentage": 50.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 116
@@ -97213,23 +96365,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 70.7,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 39.8
-            },
-            {
-              "id": 4,
-              "percentage": 58.8
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 117
@@ -97309,23 +96445,7 @@
       ],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 75.3,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 41.4
-            },
-            {
-              "id": 4,
-              "percentage": 57.3
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 118
@@ -97443,23 +96563,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 63.4,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 37.8
-            },
-            {
-              "id": 4,
-              "percentage": 60.9
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 119
@@ -97521,23 +96625,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 71.5,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 39.2
-            },
-            {
-              "id": 4,
-              "percentage": 59.3
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 120
@@ -97596,23 +96684,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 65.7,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 38.8
-            },
-            {
-              "id": 4,
-              "percentage": 59.7
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 121
@@ -97680,23 +96752,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 74.2,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 30.8
-            },
-            {
-              "id": 4,
-              "percentage": 66.4
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 122
@@ -97766,23 +96822,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 72.1,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 32.3
-            },
-            {
-              "id": 4,
-              "percentage": 65.9
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 123
@@ -97846,23 +96886,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 75.5,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 45.5
-            },
-            {
-              "id": 4,
-              "percentage": 52.9
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 124
@@ -97937,23 +96961,7 @@
       ],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 76.3,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 44.0
-            },
-            {
-              "id": 4,
-              "percentage": 53.1
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 125
@@ -98034,23 +97042,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 68.8,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 53.1
-            },
-            {
-              "id": 4,
-              "percentage": 43.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 126
@@ -98109,23 +97101,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2020,
-          "type": 3,
-          "turnout": 57.5,
-          "parties": [
-            {
-              "id": 3,
-              "percentage": 34.3
-            },
-            {
-              "id": 4,
-              "percentage": 63.7
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 127
@@ -101905,70 +100881,7 @@
       ],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2017,
-          "type": 0,
-          "turnout": 0.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 39.3
-            },
-            {
-              "id": 8,
-              "percentage": 19.5
-            },
-            {
-              "id": 9,
-              "percentage": 13.4
-            },
-            {
-              "id": 7,
-              "percentage": 12.7
-            },
-            {
-              "id": 10,
-              "percentage": 12.2
-            },
-            {
-              "id": 11,
-              "percentage": 6.4
-            }
-          ]
-        },
-        {
-          "year": 2021,
-          "type": 0,
-          "turnout": 72.5,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 26.0
-            },
-            {
-              "id": 8,
-              "percentage": 20.0
-            },
-            {
-              "id": 9,
-              "percentage": 24.0
-            },
-            {
-              "id": 10,
-              "percentage": 10.0
-            },
-            {
-              "id": 11,
-              "percentage": 3.0
-            },
-            {
-              "id": 7,
-              "percentage": 8.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 219
@@ -102360,70 +101273,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2017,
-          "type": 0,
-          "turnout": 0.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 24.6
-            },
-            {
-              "id": 8,
-              "percentage": 31.8
-            },
-            {
-              "id": 9,
-              "percentage": 10.1
-            },
-            {
-              "id": 10,
-              "percentage": 9.3
-            },
-            {
-              "id": 7,
-              "percentage": 9.2
-            },
-            {
-              "id": 11,
-              "percentage": 11.9
-            }
-          ]
-        },
-        {
-          "year": 2021,
-          "type": 0,
-          "turnout": 65.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 23.0
-            },
-            {
-              "id": 8,
-              "percentage": 27.0
-            },
-            {
-              "id": 9,
-              "percentage": 20.0
-            },
-            {
-              "id": 10,
-              "percentage": 7.0
-            },
-            {
-              "id": 7,
-              "percentage": 11.0
-            },
-            {
-              "id": 11,
-              "percentage": 4.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 225
@@ -102681,70 +101531,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2017,
-          "type": 0,
-          "turnout": 0.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 24.7
-            },
-            {
-              "id": 8,
-              "percentage": 21.0
-            },
-            {
-              "id": 11,
-              "percentage": 20.2
-            },
-            {
-              "id": 9,
-              "percentage": 12.4
-            },
-            {
-              "id": 10,
-              "percentage": 11.4
-            },
-            {
-              "id": 7,
-              "percentage": 5.6
-            }
-          ]
-        },
-        {
-          "year": 2021,
-          "type": 0,
-          "turnout": 63.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 13.0
-            },
-            {
-              "id": 8,
-              "percentage": 25.0
-            },
-            {
-              "id": 9,
-              "percentage": 23.0
-            },
-            {
-              "id": 7,
-              "percentage": 7.0
-            },
-            {
-              "id": 10,
-              "percentage": 5.0
-            },
-            {
-              "id": 11,
-              "percentage": 15.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 230
@@ -102790,70 +101577,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2017,
-          "type": 0,
-          "turnout": 0.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 29.0
-            },
-            {
-              "id": 8,
-              "percentage": 20.5
-            },
-            {
-              "id": 9,
-              "percentage": 4.5
-            },
-            {
-              "id": 7,
-              "percentage": 5.1
-            },
-            {
-              "id": 10,
-              "percentage": 19.4
-            },
-            {
-              "id": 11,
-              "percentage": 17.2
-            }
-          ]
-        },
-        {
-          "year": 2021,
-          "type": 0,
-          "turnout": 68.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 20.0
-            },
-            {
-              "id": 8,
-              "percentage": 22.0
-            },
-            {
-              "id": 9,
-              "percentage": 12.0
-            },
-            {
-              "id": 7,
-              "percentage": 8.0
-            },
-            {
-              "id": 10,
-              "percentage": 10.0
-            },
-            {
-              "id": 11,
-              "percentage": 6.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 231
@@ -102897,70 +101621,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2017,
-          "type": 0,
-          "turnout": 0.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 28.5
-            },
-            {
-              "id": 8,
-              "percentage": 32.0
-            },
-            {
-              "id": 9,
-              "percentage": 11.7
-            },
-            {
-              "id": 7,
-              "percentage": 7.1
-            },
-            {
-              "id": 10,
-              "percentage": 7.3
-            },
-            {
-              "id": 11,
-              "percentage": 10.8
-            }
-          ]
-        },
-        {
-          "year": 2021,
-          "type": 0,
-          "turnout": 69.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 20.0
-            },
-            {
-              "id": 8,
-              "percentage": 30.0
-            },
-            {
-              "id": 9,
-              "percentage": 15.0
-            },
-            {
-              "id": 10,
-              "percentage": 7.0
-            },
-            {
-              "id": 7,
-              "percentage": 6.0
-            },
-            {
-              "id": 11,
-              "percentage": 3.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": false,
       "id": 232
@@ -103012,70 +101673,7 @@
       ],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2017,
-          "type": 0,
-          "turnout": 0.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 39.8
-            },
-            {
-              "id": 7,
-              "percentage": 7.7
-            },
-            {
-              "id": 8,
-              "percentage": 28.8
-            },
-            {
-              "id": 9,
-              "percentage": 9.5
-            },
-            {
-              "id": 10,
-              "percentage": 7.5
-            },
-            {
-              "id": 11,
-              "percentage": 5.3
-            }
-          ]
-        },
-        {
-          "year": 2021,
-          "type": 0,
-          "turnout": 71.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 26.0
-            },
-            {
-              "id": 8,
-              "percentage": 30.0
-            },
-            {
-              "id": 9,
-              "percentage": 12.0
-            },
-            {
-              "id": 10,
-              "percentage": 8.0
-            },
-            {
-              "id": 7,
-              "percentage": 11.0
-            },
-            {
-              "id": 11,
-              "percentage": 3.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 233
@@ -103117,70 +101715,7 @@
       "resources": [],
       "buildings": [],
       "ideologies": [],
-      "elections": [
-        {
-          "year": 2017,
-          "type": 0,
-          "turnout": 0.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 34.2
-            },
-            {
-              "id": 8,
-              "percentage": 17.4
-            },
-            {
-              "id": 9,
-              "percentage": 3.6
-            },
-            {
-              "id": 10,
-              "percentage": 18.2
-            },
-            {
-              "id": 7,
-              "percentage": 4.7
-            },
-            {
-              "id": 11,
-              "percentage": 18.5
-            }
-          ]
-        },
-        {
-          "year": 2021,
-          "type": 0,
-          "turnout": 70.0,
-          "parties": [
-            {
-              "id": 6,
-              "percentage": 23.0
-            },
-            {
-              "id": 8,
-              "percentage": 24.0
-            },
-            {
-              "id": 9,
-              "percentage": 14.0
-            },
-            {
-              "id": 10,
-              "percentage": 9.0
-            },
-            {
-              "id": 7,
-              "percentage": 10.0
-            },
-            {
-              "id": 11,
-              "percentage": 10.0
-            }
-          ]
-        }
-      ],
+      "elections": [],
       "events": [],
       "sea": true,
       "id": 234
